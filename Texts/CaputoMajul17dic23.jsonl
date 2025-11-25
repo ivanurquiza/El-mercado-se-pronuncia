@@ -1,0 +1,949 @@
+{"start": 3.54, "end": 5.54, "text": "Ministro, gracias por atendernos.", "avg_logprob": -0.19676576658736827, "no_speech_prob": 0.3110330402851105}
+{"start": 5.54, "end": 7.54, "text": "Al contrario, gracias por la invitación Luis.", "avg_logprob": -0.19676576658736827, "no_speech_prob": 0.3110330402851105}
+{"start": 7.54, "end": 9.54, "text": "¿Aún un domingo que se supone que uno descansa?", "avg_logprob": -0.19676576658736827, "no_speech_prob": 0.3110330402851105}
+{"start": 9.54, "end": 11.54, "text": "Trabajando todos los días.", "avg_logprob": -0.19676576658736827, "no_speech_prob": 0.3110330402851105}
+{"start": 11.54, "end": 15.54, "text": "Un segundo antes Luis, manifestando la solidaridad", "avg_logprob": -0.19676576658736827, "no_speech_prob": 0.3110330402851105}
+{"start": 15.54, "end": 20.54, "text": "con todos los problemas y la gente que ha fallecido en Vallablanca", "avg_logprob": -0.19676576658736827, "no_speech_prob": 0.3110330402851105}
+{"start": 20.54, "end": 25.54, "text": "y todos los que han tenido problemas acá también en el AMBA.", "avg_logprob": -0.19676576658736827, "no_speech_prob": 0.3110330402851105}
+{"start": 25.54, "end": 32.54, "text": "El presidente ha viajado con una comitiva, así que la manifestación de solidaridad a todos los familiares.", "avg_logprob": -0.19676576658736827, "no_speech_prob": 0.3110330402851105}
+{"start": 32.54, "end": 34.54, "text": "Y nosotros nos sumamos a nosotros también.", "avg_logprob": -0.17447629384696484, "no_speech_prob": 0.02025499753654003}
+{"start": 34.54, "end": 38.54, "text": "¿Cómo han recibido los mercados y la gente, el paquete de medidas de ajuste", "avg_logprob": -0.17447629384696484, "no_speech_prob": 0.02025499753654003}
+{"start": 38.54, "end": 42.54, "text": "y impositivo, con otros elementos?", "avg_logprob": -0.17447629384696484, "no_speech_prob": 0.02025499753654003}
+{"start": 42.54, "end": 49.54, "text": "Bueno, digamos, hay una parte que es importante entender", "avg_logprob": -0.17447629384696484, "no_speech_prob": 0.02025499753654003}
+{"start": 49.54, "end": 57.54, "text": "que siempre menciono que es la delarencia y las consecuencias que va a tener en el corto plazo.", "avg_logprob": -0.17447629384696484, "no_speech_prob": 0.02025499753654003}
+{"start": 57.54, "end": 62.54, "text": "Como hemos dicho, el presidente muchas veces y yo alguna,", "avg_logprob": -0.11731191773280919, "no_speech_prob": 0.02928522229194641}
+{"start": 62.54, "end": 66.54, "text": "que es una situación de catástrofe.", "avg_logprob": -0.11731191773280919, "no_speech_prob": 0.02928522229194641}
+{"start": 66.54, "end": 69.54, "text": "La peor herencia, 15 puntos de déficit consolidado,", "avg_logprob": -0.11731191773280919, "no_speech_prob": 0.02928522229194641}
+{"start": 69.54, "end": 74.54, "text": "una inflación no solo la que se ha recibido, sino la que se va a ver ahora,", "avg_logprob": -0.11731191773280919, "no_speech_prob": 0.02928522229194641}
+{"start": 74.54, "end": 80.54, "text": "la que se va a destapar producto de la política monetaria de los últimos años,", "avg_logprob": -0.11731191773280919, "no_speech_prob": 0.02928522229194641}
+{"start": 80.54, "end": 86.54, "text": "estos 20 puntos de déficit que se han financiado con emisión.", "avg_logprob": -0.11731191773280919, "no_speech_prob": 0.02928522229194641}
+{"start": 86.54, "end": 90.54, "text": "El control de precios que se está destapando ahora mismo,", "avg_logprob": -0.13615783160695663, "no_speech_prob": 0.020036868751049042}
+{"start": 90.54, "end": 94.54, "text": "si han ido de vuelta al supermercado las últimas semanas.", "avg_logprob": -0.13615783160695663, "no_speech_prob": 0.020036868751049042}
+{"start": 94.54, "end": 100.54, "text": "Este fogonazo es producto del control de precios, la presión total.", "avg_logprob": -0.13615783160695663, "no_speech_prob": 0.020036868751049042}
+{"start": 100.54, "end": 105.54, "text": "Y eso lo quiero dejar bien claro porque en realidad lo que nosotros estamos haciendo justamente", "avg_logprob": -0.13615783160695663, "no_speech_prob": 0.020036868751049042}
+{"start": 105.54, "end": 110.54, "text": "es lo único que se podía hacer para controlar eso, para que eso no se exacerbe.", "avg_logprob": -0.13615783160695663, "no_speech_prob": 0.020036868751049042}
+{"start": 110.54, "end": 112.54, "text": "Y ya estábamos en esos números.", "avg_logprob": -0.13615783160695663, "no_speech_prob": 0.020036868751049042}
+{"start": 112.54, "end": 118.54, "text": "Cuando uno dice que el presidente exagera cuando habla de los 15.000 o de miles,", "avg_logprob": -0.15442186788977863, "no_speech_prob": 0.04037516564130783}
+{"start": 118.54, "end": 123.54, "text": "la inflación las últimas dos semanas está en niveles que anualizados,", "avg_logprob": -0.15442186788977863, "no_speech_prob": 0.04037516564130783}
+{"start": 123.54, "end": 125.54, "text": "nos llevarían arriba del 3.000%.", "avg_logprob": -0.15442186788977863, "no_speech_prob": 0.04037516564130783}
+{"start": 125.54, "end": 128.54, "text": "Es decir, que ya estábamos encaminados a eso.", "avg_logprob": -0.15442186788977863, "no_speech_prob": 0.04037516564130783}
+{"start": 128.54, "end": 134.54, "text": "Y las medidas fueron muy bien recibidas.", "avg_logprob": -0.15442186788977863, "no_speech_prob": 0.04037516564130783}
+{"start": 134.54, "end": 140.54, "text": "Y ahí dejéme hacer un comentario a esto, porque he leído ahí en algún lado de no.", "avg_logprob": -0.15442186788977863, "no_speech_prob": 0.04037516564130783}
+{"start": 140.54, "end": 144.54, "text": "Bueno, pero es un programa de estabilización.", "avg_logprob": -0.1340157097404443, "no_speech_prob": 0.07529540359973907}
+{"start": 144.54, "end": 150.54, "text": "Cuando vos tomas medidas que no tienen un fundamento económico atrás,", "avg_logprob": -0.1340157097404443, "no_speech_prob": 0.07529540359973907}
+{"start": 150.54, "end": 156.54, "text": "pasan, por ejemplo, lo que pasó en agosto del 2023.", "avg_logprob": -0.1340157097404443, "no_speech_prob": 0.07529540359973907}
+{"start": 156.54, "end": 158.54, "text": "Con la devaluación, con la última devaluación de masa.", "avg_logprob": -0.1340157097404443, "no_speech_prob": 0.07529540359973907}
+{"start": 158.54, "end": 161.54, "text": "Exactamente, con la última devaluación de masa.", "avg_logprob": -0.1340157097404443, "no_speech_prob": 0.07529540359973907}
+{"start": 161.54, "end": 169.54, "text": "En ese momento se devaluó el dólar de 281 a 350, un 21,8%.", "avg_logprob": -0.1340157097404443, "no_speech_prob": 0.07529540359973907}
+{"start": 169.54, "end": 172.54, "text": "¿Cuál fue la reacción del dólar a eso?", "avg_logprob": -0.08426295833609929, "no_speech_prob": 0.020818118005990982}
+{"start": 172.54, "end": 175.54, "text": "No había ninguna otra medida atrás.", "avg_logprob": -0.08426295833609929, "no_speech_prob": 0.020818118005990982}
+{"start": 175.54, "end": 180.54, "text": "Fue simplemente una devaluación sin ningún paquete económico creíble atrás.", "avg_logprob": -0.08426295833609929, "no_speech_prob": 0.020818118005990982}
+{"start": 180.54, "end": 185.54, "text": "En tres días el tipo de cambio libre subió 23%.", "avg_logprob": -0.08426295833609929, "no_speech_prob": 0.020818118005990982}
+{"start": 185.54, "end": 189.54, "text": "Es decir, subió de 600 a 740.", "avg_logprob": -0.08426295833609929, "no_speech_prob": 0.020818118005990982}
+{"start": 189.54, "end": 193.54, "text": "La brecha se mantuvo igual y todos sabemos lo que pasó después.", "avg_logprob": -0.08426295833609929, "no_speech_prob": 0.020818118005990982}
+{"start": 193.54, "end": 198.54, "text": "Siguiendo esa lógica, el ajuste del tipo de cambio", "avg_logprob": -0.08426295833609929, "no_speech_prob": 0.020818118005990982}
+{"start": 198.54, "end": 201.54, "text": "que nosotros hemos hecho de 360 a 800,", "avg_logprob": -0.23205697774887085, "no_speech_prob": 0.021763768047094345}
+{"start": 201.54, "end": 205.54, "text": "si no tuviera la credibilidad que efectivamente tuvo,", "avg_logprob": -0.23205697774887085, "no_speech_prob": 0.021763768047094345}
+{"start": 205.54, "end": 207.54, "text": "¿qué hubiera pasado con el tipo de cambio libre?", "avg_logprob": -0.23205697774887085, "no_speech_prob": 0.021763768047094345}
+{"start": 207.54, "end": 209.54, "text": "Que estaba en 1100 y se podría abrir.", "avg_logprob": -0.23205697774887085, "no_speech_prob": 0.021763768047094345}
+{"start": 209.54, "end": 212.54, "text": "¿Y la brecha de OECD?", "avg_logprob": -0.23205697774887085, "no_speech_prob": 0.021763768047094345}
+{"start": 212.54, "end": 216.54, "text": "La brecha OECD, la misma o más.", "avg_logprob": -0.23205697774887085, "no_speech_prob": 0.021763768047094345}
+{"start": 216.54, "end": 222.54, "text": "Lejos de pasar eso, el tipo de cambio cayó de 1100 a 980.", "avg_logprob": -0.23205697774887085, "no_speech_prob": 0.021763768047094345}
+{"start": 222.54, "end": 227.54, "text": "Y hoy estamos en la brecha más baja del 20%,", "avg_logprob": -0.09267173829403791, "no_speech_prob": 0.011140106245875359}
+{"start": 227.54, "end": 232.54, "text": "igual a cuando Alberto Fernández asumió en diciembre del 2019.", "avg_logprob": -0.09267173829403791, "no_speech_prob": 0.011140106245875359}
+{"start": 232.54, "end": 234.54, "text": "Es decir, asumió con esa brecha,", "avg_logprob": -0.09267173829403791, "no_speech_prob": 0.011140106245875359}
+{"start": 234.54, "end": 239.54, "text": "esa brecha del 20 subió casi al 200 y en una semana volvimos al 20.", "avg_logprob": -0.09267173829403791, "no_speech_prob": 0.011140106245875359}
+{"start": 239.54, "end": 244.54, "text": "De vuelta, si no hay medidas consistentes atrás, eso no puede pasar.", "avg_logprob": -0.09267173829403791, "no_speech_prob": 0.011140106245875359}
+{"start": 244.54, "end": 250.54, "text": "¿Cuánto tiempo pensás que la gente puede tolerar este fogonazo inflacionario?", "avg_logprob": -0.09267173829403791, "no_speech_prob": 0.011140106245875359}
+{"start": 250.54, "end": 256.54, "text": "Y va a ser duro, porque como te digo, no es solo la inercia inflacionaria,", "avg_logprob": -0.13262557553815413, "no_speech_prob": 0.007801706902682781}
+{"start": 256.54, "end": 259.54, "text": "sino toda la inflación que estaba metida abajo del alfombra.", "avg_logprob": -0.13262557553815413, "no_speech_prob": 0.007801706902682781}
+{"start": 259.54, "end": 263.54, "text": "Este control de precios que, como sabemos, no funciona nunca.", "avg_logprob": -0.13262557553815413, "no_speech_prob": 0.007801706902682781}
+{"start": 263.54, "end": 266.54, "text": "El rezago de la política monetaria.", "avg_logprob": -0.13262557553815413, "no_speech_prob": 0.007801706902682781}
+{"start": 266.54, "end": 270.54, "text": "Van a ser meses de inflación dura, o sea, difícil.", "avg_logprob": -0.13262557553815413, "no_speech_prob": 0.007801706902682781}
+{"start": 270.54, "end": 275.54, "text": "Pero yo quiero llevar tranquilidad a la gente,", "avg_logprob": -0.13262557553815413, "no_speech_prob": 0.007801706902682781}
+{"start": 275.54, "end": 278.54, "text": "porque todas las medidas que estamos tomando,", "avg_logprob": -0.13262557553815413, "no_speech_prob": 0.007801706902682781}
+{"start": 278.54, "end": 281.54, "text": "van a ser para revertir ese proceso.", "avg_logprob": -0.12692563692408224, "no_speech_prob": 0.012232041917741299}
+{"start": 281.54, "end": 283.54, "text": "¿Qué quiere decir eso?", "avg_logprob": -0.12692563692408224, "no_speech_prob": 0.012232041917741299}
+{"start": 283.54, "end": 287.54, "text": "Que la inflación va a tender a cedar y que las cosas se van a encaminar.", "avg_logprob": -0.12692563692408224, "no_speech_prob": 0.012232041917741299}
+{"start": 287.54, "end": 292.54, "text": "Es la primera vez que, digamos, que de alguna manera va a tener sentido el esfuerzo que están haciendo.", "avg_logprob": -0.12692563692408224, "no_speech_prob": 0.012232041917741299}
+{"start": 292.54, "end": 295.54, "text": "Yo creo que la gente siente que ha hecho esfuerzo durante décadas", "avg_logprob": -0.12692563692408224, "no_speech_prob": 0.012232041917741299}
+{"start": 295.54, "end": 299.54, "text": "y todo el tiempo caemos en estas crisis recurrentes.", "avg_logprob": -0.12692563692408224, "no_speech_prob": 0.012232041917741299}
+{"start": 299.54, "end": 303.54, "text": "Eso, como ya expliqué en mis cursos, es porque jamás resolvemos el problema.", "avg_logprob": -0.12692563692408224, "no_speech_prob": 0.012232041917741299}
+{"start": 303.54, "end": 308.54, "text": "Siempre queremos atacar las consecuencias y echarle la culpa a las consecuencias", "avg_logprob": -0.08180529522895813, "no_speech_prob": 0.08525833487510681}
+{"start": 308.54, "end": 311.54, "text": "porque a la política le conviene seguir gastando.", "avg_logprob": -0.08180529522895813, "no_speech_prob": 0.08525833487510681}
+{"start": 311.54, "end": 316.54, "text": "Entonces echémosle la culpa a los empresarios, a los especuladores, a los que nos prestan plata.", "avg_logprob": -0.08180529522895813, "no_speech_prob": 0.08525833487510681}
+{"start": 316.54, "end": 319.54, "text": "Así nosotros podemos seguir gastando.", "avg_logprob": -0.08180529522895813, "no_speech_prob": 0.08525833487510681}
+{"start": 319.54, "end": 321.54, "text": "Al mismo tiempo, hablando con el presidente,", "avg_logprob": -0.08180529522895813, "no_speech_prob": 0.08525833487510681}
+{"start": 321.54, "end": 328.54, "text": "me contaba que en los cálculos que habían hecho el ajuste se había distribuido", "avg_logprob": -0.08180529522895813, "no_speech_prob": 0.08525833487510681}
+{"start": 328.54, "end": 332.54, "text": "un 60% en el Estado y un 40% en el sector privado.", "avg_logprob": -0.08180529522895813, "no_speech_prob": 0.08525833487510681}
+{"start": 332.54, "end": 334.54, "text": "¿Me lo puedes explicar?", "avg_logprob": -0.19194051656830177, "no_speech_prob": 0.0023551012855023146}
+{"start": 334.54, "end": 338.54, "text": "Es verdad, totalmente. Tiene razón el presidente.", "avg_logprob": -0.19194051656830177, "no_speech_prob": 0.0023551012855023146}
+{"start": 338.54, "end": 344.54, "text": "El 60% del ajuste se concentró en reducción del gasto público,", "avg_logprob": -0.19194051656830177, "no_speech_prob": 0.0023551012855023146}
+{"start": 344.54, "end": 351.54, "text": "que fue desde la reducción de ministerios, secretarías, autos,", "avg_logprob": -0.19194051656830177, "no_speech_prob": 0.0023551012855023146}
+{"start": 351.54, "end": 355.54, "text": "transferencias discrecionales a las provincias,", "avg_logprob": -0.19194051656830177, "no_speech_prob": 0.0023551012855023146}
+{"start": 355.54, "end": 361.54, "text": "los aviones y PFS, gastos administrativos.", "avg_logprob": -0.19194051656830177, "no_speech_prob": 0.0023551012855023146}
+{"start": 361.54, "end": 364.54, "text": "Eso constituye el 60%.", "avg_logprob": -0.1555576786994934, "no_speech_prob": 0.015369197353720665}
+{"start": 364.54, "end": 369.54, "text": "Como yo siempre digo, yo casi que diría que es más porque yo considero que los subsidios no son tales,", "avg_logprob": -0.1555576786994934, "no_speech_prob": 0.015369197353720665}
+{"start": 369.54, "end": 373.54, "text": "son también uso de los recursos públicos para ser políticas.", "avg_logprob": -0.1555576786994934, "no_speech_prob": 0.015369197353720665}
+{"start": 373.54, "end": 375.54, "text": "¿Los subsidios, el agua, la luz y el gas?", "avg_logprob": -0.1555576786994934, "no_speech_prob": 0.015369197353720665}
+{"start": 375.54, "end": 382.54, "text": "El agua, la luz, el gas son cosas que se usan para reducir políticamente", "avg_logprob": -0.1555576786994934, "no_speech_prob": 0.015369197353720665}
+{"start": 382.54, "end": 386.54, "text": "pero que de vuelta te lo dan por un lado y te lo cobran por el otro", "avg_logprob": -0.1555576786994934, "no_speech_prob": 0.015369197353720665}
+{"start": 386.54, "end": 389.54, "text": "y incluso se lo cobran a los que menos tienen,", "avg_logprob": -0.1555576786994934, "no_speech_prob": 0.015369197353720665}
+{"start": 389.54, "end": 395.54, "text": "porque como yo siempre hay mucha gente que nos beneficiamos de ese subsidio que no lo necesitamos.", "avg_logprob": -0.08402231189867725, "no_speech_prob": 0.04014734923839569}
+{"start": 395.54, "end": 398.54, "text": "Entonces en realidad es un perjuicio para el que menos tiene.", "avg_logprob": -0.08402231189867725, "no_speech_prob": 0.04014734923839569}
+{"start": 398.54, "end": 406.54, "text": "Entonces todo eso hemos venido a corregir y como digo el ancla es fiscal", "avg_logprob": -0.08402231189867725, "no_speech_prob": 0.04014734923839569}
+{"start": 406.54, "end": 411.54, "text": "pero también tiene su componente monetario y cambiario.", "avg_logprob": -0.08402231189867725, "no_speech_prob": 0.04014734923839569}
+{"start": 411.54, "end": 417.54, "text": "Es decir, no es solamente lo fiscal que es condición necesaria.", "avg_logprob": -0.08402231189867725, "no_speech_prob": 0.04014734923839569}
+{"start": 418.54, "end": 426.54, "text": "Entonces si querés te comento un poco qué es lo que me refiero cuando digo lo monetario y el cambiario.", "avg_logprob": -0.2201462368541789, "no_speech_prob": 0.005369465332478285}
+{"start": 426.54, "end": 431.54, "text": "Está este famoso tema de las lélix que mucha gente no...", "avg_logprob": -0.2201462368541789, "no_speech_prob": 0.005369465332478285}
+{"start": 431.54, "end": 433.54, "text": "¿Cómo desarmar las lélix?", "avg_logprob": -0.2201462368541789, "no_speech_prob": 0.005369465332478285}
+{"start": 433.54, "end": 436.54, "text": "El presidente en su momento dijo que es uno de los...", "avg_logprob": -0.2201462368541789, "no_speech_prob": 0.005369465332478285}
+{"start": 436.54, "end": 441.54, "text": "Bueno, el punto de arranque para en el futuro levantar el cepo", "avg_logprob": -0.2201462368541789, "no_speech_prob": 0.005369465332478285}
+{"start": 441.54, "end": 444.54, "text": "y en el futuro reactivar la economía, etcétera.", "avg_logprob": -0.2201462368541789, "no_speech_prob": 0.005369465332478285}
+{"start": 444.54, "end": 446.54, "text": "Y ahora son el presidente.", "avg_logprob": -0.14175260127192796, "no_speech_prob": 0.35778066515922546}
+{"start": 446.54, "end": 451.54, "text": "O sea, el problema de base es fiscal pero el financiamiento de 20 puntos", "avg_logprob": -0.14175260127192796, "no_speech_prob": 0.35778066515922546}
+{"start": 451.54, "end": 458.54, "text": "que es un montón de producto con emisión generó a su vez un problema monetario", "avg_logprob": -0.14175260127192796, "no_speech_prob": 0.35778066515922546}
+{"start": 458.54, "end": 460.54, "text": "que es que hay un sobrante de pesos enormes.", "avg_logprob": -0.14175260127192796, "no_speech_prob": 0.35778066515922546}
+{"start": 460.54, "end": 465.54, "text": "Es decir, todos esos pesos que se emitieron la ciudadanía no los demanda.", "avg_logprob": -0.14175260127192796, "no_speech_prob": 0.35778066515922546}
+{"start": 465.54, "end": 467.54, "text": "Entonces sobran.", "avg_logprob": -0.14175260127192796, "no_speech_prob": 0.35778066515922546}
+{"start": 467.54, "end": 468.54, "text": "¿Cómo sobran?", "avg_logprob": -0.14175260127192796, "no_speech_prob": 0.35778066515922546}
+{"start": 468.54, "end": 470.54, "text": "El Banco Central los tiene que retirar.", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 470.54, "end": 472.54, "text": "¿Cómo los retira?", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 472.54, "end": 474.54, "text": "Emite estas famosas lélix.", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 474.54, "end": 477.54, "text": "Emite lélix, retira pesos.", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 477.54, "end": 479.54, "text": "¿Cómo se desarman las lélix?", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 479.54, "end": 483.54, "text": "Bueno, esas lélix se desarman.", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 483.54, "end": 487.54, "text": "Se pueden desarmar de manera gradual y de shock.", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 487.54, "end": 489.54, "text": "Y no son exclusives.", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 489.54, "end": 492.54, "text": "Nosotros estamos usando ambas herramientas.", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 492.54, "end": 494.54, "text": "¿Una herramienta de shock y una herramienta gradual?", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 494.54, "end": 495.54, "text": "Exactamente.", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 495.54, "end": 497.54, "text": "¿Cuál es la de shock y cuál es la gradual?", "avg_logprob": -0.1223062492317433, "no_speech_prob": 0.2954607605934143}
+{"start": 497.54, "end": 503.54, "text": "Bueno, gradual, por un lado, vamos a tratar de aumentar la demanda de dinero.", "avg_logprob": -0.1289941820005576, "no_speech_prob": 0.0070203454233706}
+{"start": 503.54, "end": 504.54, "text": "¿Cómo lo haces eso?", "avg_logprob": -0.1289941820005576, "no_speech_prob": 0.0070203454233706}
+{"start": 504.54, "end": 506.54, "text": "Generando más confianza, con un plan creíble.", "avg_logprob": -0.1289941820005576, "no_speech_prob": 0.0070203454233706}
+{"start": 506.54, "end": 510.54, "text": "Hoy la demanda de pesos de la gente está en un nivel muy bajo.", "avg_logprob": -0.1289941820005576, "no_speech_prob": 0.0070203454233706}
+{"start": 510.54, "end": 516.54, "text": "Si volviera a un nivel normal, podría subir tres o cuatro puntos de producto", "avg_logprob": -0.1289941820005576, "no_speech_prob": 0.0070203454233706}
+{"start": 516.54, "end": 521.54, "text": "lo que reduciría el problema de las lélix un poco más de un 30%.", "avg_logprob": -0.1289941820005576, "no_speech_prob": 0.0070203454233706}
+{"start": 521.54, "end": 522.54, "text": "Es mucho.", "avg_logprob": -0.1289941820005576, "no_speech_prob": 0.0070203454233706}
+{"start": 522.54, "end": 524.54, "text": "¿Eso sería la manera gradual?", "avg_logprob": -0.1289941820005576, "no_speech_prob": 0.0070203454233706}
+{"start": 524.54, "end": 528.54, "text": "Sí, otra manera gradual es la que también ya estamos implementando,", "avg_logprob": -0.10119609439044917, "no_speech_prob": 0.014124076813459396}
+{"start": 528.54, "end": 534.54, "text": "que es vía reducción de la tasa de interés que el banco central paga por esas lélix.", "avg_logprob": -0.10119609439044917, "no_speech_prob": 0.014124076813459396}
+{"start": 534.54, "end": 538.54, "text": "Como paga una tasa de interés más baja que la inflación,", "avg_logprob": -0.10119609439044917, "no_speech_prob": 0.014124076813459396}
+{"start": 538.54, "end": 542.54, "text": "ese stock de lélix en términos reales se reduce también.", "avg_logprob": -0.10119609439044917, "no_speech_prob": 0.014124076813459396}
+{"start": 542.54, "end": 546.54, "text": "Y hay otras más de shock.", "avg_logprob": -0.10119609439044917, "no_speech_prob": 0.014124076813459396}
+{"start": 546.54, "end": 553.54, "text": "Una, que es, si querés, nuestra ancla principal en lo monetario,", "avg_logprob": -0.10119609439044917, "no_speech_prob": 0.014124076813459396}
+{"start": 553.54, "end": 558.54, "text": "que es que no va a haber más financiamiento del banco central al tesoro.", "avg_logprob": -0.10118785056662052, "no_speech_prob": 0.0083900922909379}
+{"start": 558.54, "end": 561.54, "text": "Un tercio del financiamiento que estábamos viendo,", "avg_logprob": -0.10118785056662052, "no_speech_prob": 0.0083900922909379}
+{"start": 561.54, "end": 564.54, "text": "un tercio de la emisión que estábamos viendo, perdón,", "avg_logprob": -0.10118785056662052, "no_speech_prob": 0.0083900922909379}
+{"start": 564.54, "end": 567.54, "text": "era el financiamiento del banco central al tesoro.", "avg_logprob": -0.10118785056662052, "no_speech_prob": 0.0083900922909379}
+{"start": 567.54, "end": 572.54, "text": "Al ir a déficit cero ya no hay que emitir más pesos para financiar.", "avg_logprob": -0.10118785056662052, "no_speech_prob": 0.0083900922909379}
+{"start": 572.54, "end": 574.54, "text": "¿El banco central no va a financiar más el tesoro?", "avg_logprob": -0.10118785056662052, "no_speech_prob": 0.0083900922909379}
+{"start": 574.54, "end": 577.54, "text": "No, es como si desapareciera en esos términos del banco central.", "avg_logprob": -0.10118785056662052, "no_speech_prob": 0.0083900922909379}
+{"start": 577.54, "end": 578.54, "text": "Exactamente.", "avg_logprob": -0.10118785056662052, "no_speech_prob": 0.0083900922909379}
+{"start": 578.54, "end": 582.54, "text": "Le estamos dando la independencia que tanto se pide.", "avg_logprob": -0.10118785056662052, "no_speech_prob": 0.0083900922909379}
+{"start": 582.54, "end": 587.54, "text": "Entonces, se va a un tercio de la emisión que se venía generando.", "avg_logprob": -0.09642813635884591, "no_speech_prob": 0.009697291068732738}
+{"start": 587.54, "end": 592.54, "text": "Y hay una opción más, que es la que se va a estar anunciando la semana que viene,", "avg_logprob": -0.09642813635884591, "no_speech_prob": 0.009697291068732738}
+{"start": 592.54, "end": 597.54, "text": "que tiene que ver con lo monetario, lo comercial y lo cambiario.", "avg_logprob": -0.09642813635884591, "no_speech_prob": 0.009697291068732738}
+{"start": 597.54, "end": 605.54, "text": "Que es, digamos, este problema comercial que está viendo por el lado de los importadores.", "avg_logprob": -0.09642813635884591, "no_speech_prob": 0.009697291068732738}
+{"start": 605.54, "end": 610.54, "text": "Sí, hay una deuda con los importadores de 55.000 millones de dólares.", "avg_logprob": -0.09642813635884591, "no_speech_prob": 0.009697291068732738}
+{"start": 610.54, "end": 616.54, "text": "De esos 55.000 millones de dólares, 25.000 es parte del flujo que siempre se tiene", "avg_logprob": -0.11694410791800867, "no_speech_prob": 0.004760849289596081}
+{"start": 616.54, "end": 618.54, "text": "por el intercambio comercial.", "avg_logprob": -0.11694410791800867, "no_speech_prob": 0.004760849289596081}
+{"start": 618.54, "end": 622.54, "text": "Pero hay una deuda que se salió de madre, que es de 30.000 millones de dólares.", "avg_logprob": -0.11694410791800867, "no_speech_prob": 0.004760849289596081}
+{"start": 622.54, "end": 624.54, "text": "¿Qué pasa con esa deuda?", "avg_logprob": -0.11694410791800867, "no_speech_prob": 0.004760849289596081}
+{"start": 624.54, "end": 629.54, "text": "Córrecto. ¿Cómo funciona, digamos, para que la gente entienda?", "avg_logprob": -0.11694410791800867, "no_speech_prob": 0.004760849289596081}
+{"start": 629.54, "end": 634.54, "text": "Los importadores, digamos, piden autorización para importar,", "avg_logprob": -0.11694410791800867, "no_speech_prob": 0.004760849289596081}
+{"start": 634.54, "end": 639.54, "text": "han pedido durante todo este tiempo el gobierno anterior se las concedió,", "avg_logprob": -0.11694410791800867, "no_speech_prob": 0.004760849289596081}
+{"start": 639.54, "end": 644.54, "text": "importaron, la mercadería llegó, está en Argentina,", "avg_logprob": -0.10620829383883856, "no_speech_prob": 0.004194389097392559}
+{"start": 644.54, "end": 648.54, "text": "el importador tiene que ir con los pesos y comprarle los dólares al banco central", "avg_logprob": -0.10620829383883856, "no_speech_prob": 0.004194389097392559}
+{"start": 648.54, "end": 651.54, "text": "para poder pagarle al proveedor.", "avg_logprob": -0.10620829383883856, "no_speech_prob": 0.004194389097392559}
+{"start": 651.54, "end": 655.54, "text": "Cuando los importadores iban con los pesos a pagarle al banco central los dólares,", "avg_logprob": -0.10620829383883856, "no_speech_prob": 0.004194389097392559}
+{"start": 655.54, "end": 658.54, "text": "el banco central les dijo, no los tengo.", "avg_logprob": -0.10620829383883856, "no_speech_prob": 0.004194389097392559}
+{"start": 658.54, "end": 663.54, "text": "Entonces se fue generando un problema que en qué le afecta a la gente eso.", "avg_logprob": -0.10620829383883856, "no_speech_prob": 0.004194389097392559}
+{"start": 663.54, "end": 667.54, "text": "En más inflación y eventualmente desabastecimiento,", "avg_logprob": -0.10620829383883856, "no_speech_prob": 0.004194389097392559}
+{"start": 667.54, "end": 671.54, "text": "porque llega a un punto que los proveedores le dicen a los importadores,", "avg_logprob": -0.1868660460118534, "no_speech_prob": 0.015350403264164925}
+{"start": 671.54, "end": 673.54, "text": "no, si no me das los dólares no te vendo más.", "avg_logprob": -0.1868660460118534, "no_speech_prob": 0.015350403264164925}
+{"start": 673.54, "end": 677.54, "text": "Perdón que te interrumpo. Mucha de las faltas de equipamiento médico...", "avg_logprob": -0.1868660460118534, "no_speech_prob": 0.015350403264164925}
+{"start": 677.54, "end": 679.54, "text": "Claro, exactamente.", "avg_logprob": -0.1868660460118534, "no_speech_prob": 0.015350403264164925}
+{"start": 679.54, "end": 683.54, "text": "...que el equipamiento tenido hasta una pieza de un ascensor importado,", "avg_logprob": -0.1868660460118534, "no_speech_prob": 0.015350403264164925}
+{"start": 683.54, "end": 685.54, "text": "poné el alemán.", "avg_logprob": -0.1868660460118534, "no_speech_prob": 0.015350403264164925}
+{"start": 685.54, "end": 689.54, "text": "Exactamente. Y una sola pieza te traba toda tu...", "avg_logprob": -0.1868660460118534, "no_speech_prob": 0.015350403264164925}
+{"start": 689.54, "end": 690.54, "text": "Entiendo.", "avg_logprob": -0.1868660460118534, "no_speech_prob": 0.015350403264164925}
+{"start": 690.54, "end": 693.54, "text": "Entonces pasa desde la industria automotriz a la que se te ocurra.", "avg_logprob": -0.1868660460118534, "no_speech_prob": 0.015350403264164925}
+{"start": 693.54, "end": 696.54, "text": "Entonces eso está trabado, hay que destrabarlo.", "avg_logprob": -0.1868660460118534, "no_speech_prob": 0.015350403264164925}
+{"start": 696.54, "end": 698.54, "text": "¿Cómo lo podemos destrabar?", "avg_logprob": -0.17596247422434116, "no_speech_prob": 0.003419604618102312}
+{"start": 698.54, "end": 701.54, "text": "Porque los dólares el banco central no los tiene.", "avg_logprob": -0.17596247422434116, "no_speech_prob": 0.003419604618102312}
+{"start": 701.54, "end": 704.54, "text": "Entonces lo que le decimos a los importadores es,", "avg_logprob": -0.17596247422434116, "no_speech_prob": 0.003419604618102312}
+{"start": 704.54, "end": 706.54, "text": "te los vamos a dar en el futuro.", "avg_logprob": -0.17596247422434116, "no_speech_prob": 0.003419604618102312}
+{"start": 706.54, "end": 711.54, "text": "Te vamos a dar un bono en dólares que te va a dar estos dólares en el futuro.", "avg_logprob": -0.17596247422434116, "no_speech_prob": 0.003419604618102312}
+{"start": 711.54, "end": 715.54, "text": "Cuando el banco central los tenga, porque el banco central en el futuro", "avg_logprob": -0.17596247422434116, "no_speech_prob": 0.003419604618102312}
+{"start": 715.54, "end": 718.54, "text": "los va a tener porque va a haber superávit comercial los próximos años,", "avg_logprob": -0.17596247422434116, "no_speech_prob": 0.003419604618102312}
+{"start": 718.54, "end": 721.54, "text": "el banco central se va a hacer de los dólares.", "avg_logprob": -0.17596247422434116, "no_speech_prob": 0.003419604618102312}
+{"start": 721.54, "end": 723.54, "text": "De hecho el presidente creo que vos también dijiste que estén en el,", "avg_logprob": -0.17596247422434116, "no_speech_prob": 0.003419604618102312}
+{"start": 723.54, "end": 728.54, "text": "se espera un superávit comercial de entre 16.000 y 20.000 millones de dólares.", "avg_logprob": -0.07692140546756063, "no_speech_prob": 0.033951885998249054}
+{"start": 728.54, "end": 729.54, "text": "Exactamente.", "avg_logprob": -0.07692140546756063, "no_speech_prob": 0.033951885998249054}
+{"start": 729.54, "end": 732.54, "text": "Entonces el banco central se va a hacer de esos dólares.", "avg_logprob": -0.07692140546756063, "no_speech_prob": 0.033951885998249054}
+{"start": 732.54, "end": 734.54, "text": "Le dan entonces estos bonos.", "avg_logprob": -0.07692140546756063, "no_speech_prob": 0.033951885998249054}
+{"start": 734.54, "end": 738.54, "text": "Y esto destraba el problema de las importaciones.", "avg_logprob": -0.07692140546756063, "no_speech_prob": 0.033951885998249054}
+{"start": 738.54, "end": 741.54, "text": "Es un bono más atractivo que cualquier bono que ande por ahí.", "avg_logprob": -0.07692140546756063, "no_speech_prob": 0.033951885998249054}
+{"start": 741.54, "end": 746.54, "text": "Va a ser un bono más atractivo para que cotice a un precio bien alto.", "avg_logprob": -0.07692140546756063, "no_speech_prob": 0.033951885998249054}
+{"start": 746.54, "end": 750.54, "text": "Y ahora te voy a explicar cuál es el sentido de eso.", "avg_logprob": -0.07692140546756063, "no_speech_prob": 0.033951885998249054}
+{"start": 750.54, "end": 754.54, "text": "Primero punto, entonces se resuelve esta parte comercial que es muy importante", "avg_logprob": -0.11959954017871305, "no_speech_prob": 0.038838211447000504}
+{"start": 754.54, "end": 758.54, "text": "para que haya desabastecimiento y no haya más inflación.", "avg_logprob": -0.11959954017871305, "no_speech_prob": 0.038838211447000504}
+{"start": 758.54, "end": 761.54, "text": "Esto contribuye a eso.", "avg_logprob": -0.11959954017871305, "no_speech_prob": 0.038838211447000504}
+{"start": 761.54, "end": 765.54, "text": "Como segundo punto, por cada bono que el banco central vende,", "avg_logprob": -0.11959954017871305, "no_speech_prob": 0.038838211447000504}
+{"start": 765.54, "end": 768.54, "text": "los importadores se lo compran con pesos.", "avg_logprob": -0.11959954017871305, "no_speech_prob": 0.038838211447000504}
+{"start": 768.54, "end": 771.54, "text": "Entonces ¿qué hace el banco central con esos pesos?", "avg_logprob": -0.11959954017871305, "no_speech_prob": 0.038838211447000504}
+{"start": 771.54, "end": 774.54, "text": "Los elimina, los quema.", "avg_logprob": -0.11959954017871305, "no_speech_prob": 0.038838211447000504}
+{"start": 774.54, "end": 778.54, "text": "Entonces ese es el cuarto componente de shock en lo monetario.", "avg_logprob": -0.11959954017871305, "no_speech_prob": 0.038838211447000504}
+{"start": 778.54, "end": 781.54, "text": "Empieza diminuir el sobrante monetario.", "avg_logprob": -0.14530215545424394, "no_speech_prob": 0.004482751712203026}
+{"start": 781.54, "end": 782.54, "text": "Exactamente.", "avg_logprob": -0.14530215545424394, "no_speech_prob": 0.004482751712203026}
+{"start": 782.54, "end": 786.54, "text": "Empieza a caer ya no en términos reales, en términos nominales.", "avg_logprob": -0.14530215545424394, "no_speech_prob": 0.004482751712203026}
+{"start": 786.54, "end": 791.54, "text": "Por cada bono que el banco central vende, elimina 800 pesos.", "avg_logprob": -0.14530215545424394, "no_speech_prob": 0.004482751712203026}
+{"start": 791.54, "end": 794.54, "text": "A ver, entiendo yo que cuando termina el proceso, no sé en cuánto tiempo,", "avg_logprob": -0.14530215545424394, "no_speech_prob": 0.004482751712203026}
+{"start": 794.54, "end": 801.54, "text": "va a haber el equivalente a 28.000, 30.000 millones de dólares menos", "avg_logprob": -0.14530215545424394, "no_speech_prob": 0.004482751712203026}
+{"start": 801.54, "end": 803.54, "text": "en pesos en la base monetaria.", "avg_logprob": -0.14530215545424394, "no_speech_prob": 0.004482751712203026}
+{"start": 803.54, "end": 807.54, "text": "Depende de cuántos bonos le compren, los importadores supongamos", "avg_logprob": -0.10400277737062424, "no_speech_prob": 0.03340417146682739}
+{"start": 807.54, "end": 810.54, "text": "que le compran 10.000 millones de dólares.", "avg_logprob": -0.10400277737062424, "no_speech_prob": 0.03340417146682739}
+{"start": 810.54, "end": 812.54, "text": "¿Y eso por qué va a ser virtuoso? ¿Por qué va a bajar la inflación?", "avg_logprob": -0.10400277737062424, "no_speech_prob": 0.03340417146682739}
+{"start": 812.54, "end": 818.54, "text": "Bueno, porque justamente va a eliminar fuertemente el sobrante de pesos", "avg_logprob": -0.10400277737062424, "no_speech_prob": 0.03340417146682739}
+{"start": 818.54, "end": 823.54, "text": "y eso va a ser que la expectativa inflacionaria caiga fuertemente.", "avg_logprob": -0.10400277737062424, "no_speech_prob": 0.03340417146682739}
+{"start": 823.54, "end": 826.54, "text": "La inflación es un fenómeno monetario.", "avg_logprob": -0.10400277737062424, "no_speech_prob": 0.03340417146682739}
+{"start": 826.54, "end": 831.54, "text": "Entonces hoy sobran muchos pesos y se expresa de esa manera.", "avg_logprob": -0.10400277737062424, "no_speech_prob": 0.03340417146682739}
+{"start": 831.54, "end": 835.54, "text": "La medida que vos retiras, reducís todo ese sobrante monetario,", "avg_logprob": -0.08426232139269511, "no_speech_prob": 0.015607274137437344}
+{"start": 835.54, "end": 838.54, "text": "la expectativa inflacionaria evidentemente cae.", "avg_logprob": -0.08426232139269511, "no_speech_prob": 0.015607274137437344}
+{"start": 838.54, "end": 842.54, "text": "Entonces en lo monetario están estas cuatro cosas.", "avg_logprob": -0.08426232139269511, "no_speech_prob": 0.015607274137437344}
+{"start": 842.54, "end": 846.54, "text": "El aumento de la demanda de dinero, la baja de la tasa de interés", "avg_logprob": -0.08426232139269511, "no_speech_prob": 0.015607274137437344}
+{"start": 846.54, "end": 852.54, "text": "por parte del banco central, la emisión cero para financiar al tesoro", "avg_logprob": -0.08426232139269511, "no_speech_prob": 0.015607274137437344}
+{"start": 852.54, "end": 856.54, "text": "y los pesos que se van a eliminar producto de este bono", "avg_logprob": -0.08426232139269511, "no_speech_prob": 0.015607274137437344}
+{"start": 856.54, "end": 859.54, "text": "que el banco central le va a colocar a los importadores.", "avg_logprob": -0.08426232139269511, "no_speech_prob": 0.015607274137437344}
+{"start": 859.54, "end": 864.54, "text": "Y más tiene el beneficio que hace las veces de estabilizador", "avg_logprob": -0.10837475415319205, "no_speech_prob": 0.0700003132224083}
+{"start": 864.54, "end": 866.54, "text": "de el tipo de cambio libre.", "avg_logprob": -0.10837475415319205, "no_speech_prob": 0.0700003132224083}
+{"start": 866.54, "end": 870.54, "text": "¿Por qué? Porque este bono se va a vender,", "avg_logprob": -0.10837475415319205, "no_speech_prob": 0.0700003132224083}
+{"start": 870.54, "end": 873.54, "text": "es un bono en dólares que se va a vender al tipo de cambio oficial.", "avg_logprob": -0.10837475415319205, "no_speech_prob": 0.0700003132224083}
+{"start": 873.54, "end": 878.54, "text": "O sea, a 800 más el aumento por el 2% de crawling.", "avg_logprob": -0.10837475415319205, "no_speech_prob": 0.0700003132224083}
+{"start": 878.54, "end": 883.04, "text": "¿Cómo es un bono que va a tener características especiales", "avg_logprob": -0.10837475415319205, "no_speech_prob": 0.0700003132224083}
+{"start": 883.04, "end": 885.04, "text": "y va a cotizar a un precio alto?", "avg_logprob": -0.10837475415319205, "no_speech_prob": 0.0700003132224083}
+{"start": 885.04, "end": 888.04, "text": "¿Qué quiere decir que los importadores se van a estar haciendo", "avg_logprob": -0.10837475415319205, "no_speech_prob": 0.0700003132224083}
+{"start": 888.04, "end": 892.04, "text": "de dólares a un valor cercano a 800?", "avg_logprob": -0.10682637010301863, "no_speech_prob": 0.0962398499250412}
+{"start": 892.04, "end": 894.04, "text": "Entonces, ¿qué va a pasar?", "avg_logprob": -0.10682637010301863, "no_speech_prob": 0.0962398499250412}
+{"start": 894.04, "end": 896.04, "text": "Si el dólar libre empieza a subir,", "avg_logprob": -0.10682637010301863, "no_speech_prob": 0.0962398499250412}
+{"start": 896.04, "end": 899.04, "text": "los importadores van a estar vendiendo este bono,", "avg_logprob": -0.10682637010301863, "no_speech_prob": 0.0962398499250412}
+{"start": 899.04, "end": 902.04, "text": "haciéndose de los dólares a 800", "avg_logprob": -0.10682637010301863, "no_speech_prob": 0.0962398499250412}
+{"start": 902.04, "end": 906.04, "text": "y vendiendo el dólar libre a un precio más alto", "avg_logprob": -0.10682637010301863, "no_speech_prob": 0.0962398499250412}
+{"start": 906.04, "end": 908.04, "text": "permitiendo que no suba.", "avg_logprob": -0.10682637010301863, "no_speech_prob": 0.0962398499250412}
+{"start": 908.04, "end": 912.04, "text": "Entonces, eso también es una ancla muy, muy importante", "avg_logprob": -0.10682637010301863, "no_speech_prob": 0.0962398499250412}
+{"start": 912.04, "end": 914.04, "text": "porque como vos sabés,", "avg_logprob": -0.10682637010301863, "no_speech_prob": 0.0962398499250412}
+{"start": 914.04, "end": 917.04, "text": "en los precios influyen las expectativas futuras", "avg_logprob": -0.11979101609814075, "no_speech_prob": 0.02344173938035965}
+{"start": 917.04, "end": 919.04, "text": "del tipo de cambio.", "avg_logprob": -0.11979101609814075, "no_speech_prob": 0.02344173938035965}
+{"start": 919.04, "end": 922.04, "text": "Entonces, pasamos de un esquema anterior", "avg_logprob": -0.11979101609814075, "no_speech_prob": 0.02344173938035965}
+{"start": 922.04, "end": 924.04, "text": "donde no había ningún ancla,", "avg_logprob": -0.11979101609814075, "no_speech_prob": 0.02344173938035965}
+{"start": 924.04, "end": 928.04, "text": "no había ancla fiscal porque el gasto estaba desorbitado,", "avg_logprob": -0.11979101609814075, "no_speech_prob": 0.02344173938035965}
+{"start": 928.04, "end": 933.04, "text": "no había ancla monetaria porque la emisión estaba descontrolada,", "avg_logprob": -0.11979101609814075, "no_speech_prob": 0.02344173938035965}
+{"start": 933.04, "end": 936.04, "text": "no había ancla cambiaria y el tipo de cambio estaba descontrolado.", "avg_logprob": -0.11979101609814075, "no_speech_prob": 0.02344173938035965}
+{"start": 936.04, "end": 938.04, "text": "Hoy tenemos un ancla fiscal fuerte,", "avg_logprob": -0.11979101609814075, "no_speech_prob": 0.02344173938035965}
+{"start": 938.04, "end": 940.04, "text": "tenemos un ancla monetaria fuerte", "avg_logprob": -0.11979101609814075, "no_speech_prob": 0.02344173938035965}
+{"start": 940.04, "end": 943.04, "text": "que es el NOMA financiamiento del Banco Central", "avg_logprob": -0.11979101609814075, "no_speech_prob": 0.02344173938035965}
+{"start": 943.04, "end": 946.04, "text": "al Tesoro, pero las otras tres anclas que te comenté,", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 946.04, "end": 949.04, "text": "que le comenté ya recién,", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 949.04, "end": 951.04, "text": "y un ancla también cambiaria ahora", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 951.04, "end": 955.04, "text": "que la produce este nuevo bono que va a ser de estabilizador.", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 955.04, "end": 957.04, "text": "Entiendo.", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 957.04, "end": 961.7, "text": "Vos estás en contra del impuesto a las enancias,", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 961.7, "end": 963.7, "text": "ideológicamente.", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 963.7, "end": 965.7, "text": "Estás en contra de subir las retenciones.", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 965.7, "end": 967.7, "text": "El presidente también, yo lo escuché.", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 967.7, "end": 969.7, "text": "En un momento dijo,", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 969.7, "end": 972.7, "text": "me corto el brazo y tengo que subir un impuesto.", "avg_logprob": -0.14311878887334264, "no_speech_prob": 0.0017670316155999899}
+{"start": 972.7, "end": 975.7, "text": "¿Por qué lo hicieron?", "avg_logprob": -0.11812960073627808, "no_speech_prob": 0.004832104314118624}
+{"start": 975.7, "end": 979.7, "text": "Bueno, porque la prioridad es ir a déficit cero.", "avg_logprob": -0.11812960073627808, "no_speech_prob": 0.004832104314118624}
+{"start": 979.7, "end": 980.7, "text": "¿Sí?", "avg_logprob": -0.11812960073627808, "no_speech_prob": 0.004832104314118624}
+{"start": 980.7, "end": 983.7, "text": "Y Argentina tiene poca credibilidad", "avg_logprob": -0.11812960073627808, "no_speech_prob": 0.004832104314118624}
+{"start": 983.7, "end": 985.7, "text": "como los funcionarios públicos", "avg_logprob": -0.11812960073627808, "no_speech_prob": 0.004832104314118624}
+{"start": 985.7, "end": 988.7, "text": "después de tantos años de pisotear contratos,", "avg_logprob": -0.11812960073627808, "no_speech_prob": 0.004832104314118624}
+{"start": 988.7, "end": 991.7, "text": "de pisotear estadísticas, todo.", "avg_logprob": -0.11812960073627808, "no_speech_prob": 0.004832104314118624}
+{"start": 991.7, "end": 995.7, "text": "El funcionario público tiene poca credibilidad.", "avg_logprob": -0.11812960073627808, "no_speech_prob": 0.004832104314118624}
+{"start": 995.7, "end": 997.7, "text": "Entonces, nosotros necesitábamos", "avg_logprob": -0.11812960073627808, "no_speech_prob": 0.004832104314118624}
+{"start": 997.7, "end": 1000.7, "text": "ganar esa credibilidad que hoy no hay.", "avg_logprob": -0.11812960073627808, "no_speech_prob": 0.004832104314118624}
+{"start": 1000.7, "end": 1002.7, "text": "Entonces, ¿qué tenemos que hacer?", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1002.7, "end": 1004.7, "text": "Mostrar que el ajuste,", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1004.7, "end": 1008.7, "text": "que digamos, el llegar a déficit cero es creíble.", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1008.7, "end": 1009.7, "text": "¿Sí?", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1009.7, "end": 1011.7, "text": "Y eso es lo que hemos hecho.", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1011.7, "end": 1015.7, "text": "El presidente, el encargo que me hizo fue,", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1015.7, "end": 1016.7, "text": "no se negocia el déficit.", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1016.7, "end": 1018.7, "text": "Vamos a déficit cero", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1018.7, "end": 1021.7, "text": "y hay que tener en cuenta los más necesitados.", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1021.7, "end": 1024.7, "text": "Entonces, tenés razón, sí,", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1024.7, "end": 1029.7, "text": "en ese contexto a ninguno nos gusta subir algún impuesto.", "avg_logprob": -0.1334037986539659, "no_speech_prob": 0.014359061606228352}
+{"start": 1029.7, "end": 1032.7, "text": "Pero dentro de lo que se estaba haciendo", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1032.7, "end": 1036.7, "text": "en este paquete de medidas tenía su lógica.", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1036.7, "end": 1039.7, "text": "Si vos le subís el tipo de cambio a un exportador", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1039.7, "end": 1042.7, "text": "de 350 a 800,", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1042.7, "end": 1045.7, "text": "en una situación de tremenda vulnerabilidad,", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1045.7, "end": 1047.7, "text": "como está el país hoy, si te digo, Luis,", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1047.7, "end": 1050.7, "text": "me devolvés 15 de eso que te dice...", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1050.7, "end": 1051.7, "text": "Es más lógico.", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1051.7, "end": 1052.7, "text": "...a la que la gente...", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1052.7, "end": 1054.7, "text": "¿Y por eso empezaron la liquididad ahora?", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1054.7, "end": 1056.7, "text": "Y por eso están empezando a liquidar, claro.", "avg_logprob": -0.15591824896463002, "no_speech_prob": 0.013060868717730045}
+{"start": 1056.7, "end": 1060.7, "text": "Entonces, el Banco Central está recomponiendo resarvas.", "avg_logprob": -0.14586181283510966, "no_speech_prob": 0.006843124516308308}
+{"start": 1060.7, "end": 1063.7, "text": "Ya bajó la tasa de interés, como dije,", "avg_logprob": -0.14586181283510966, "no_speech_prob": 0.006843124516308308}
+{"start": 1063.7, "end": 1066.7, "text": "el tipo de cambio libre lejos de subir Callo.", "avg_logprob": -0.14586181283510966, "no_speech_prob": 0.006843124516308308}
+{"start": 1066.7, "end": 1070.7, "text": "Y hoy estamos volvimos a la brecha de diciembre del 2019.", "avg_logprob": -0.14586181283510966, "no_speech_prob": 0.006843124516308308}
+{"start": 1070.7, "end": 1072.7, "text": "Es decir, en una semana se corregieron cuatro años", "avg_logprob": -0.14586181283510966, "no_speech_prob": 0.006843124516308308}
+{"start": 1072.7, "end": 1074.7, "text": "de desmanezco cambiario.", "avg_logprob": -0.14586181283510966, "no_speech_prob": 0.006843124516308308}
+{"start": 1074.7, "end": 1079.7, "text": "Vamos a la cuestión de bolsillo de las personas.", "avg_logprob": -0.14586181283510966, "no_speech_prob": 0.006843124516308308}
+{"start": 1079.7, "end": 1084.7, "text": "Con la fórmula que van a cambiar,", "avg_logprob": -0.14586181283510966, "no_speech_prob": 0.006843124516308308}
+{"start": 1084.7, "end": 1087.7, "text": "la fórmula que tenían el gobierno anterior", "avg_logprob": -0.14972509088970365, "no_speech_prob": 0.017010213807225227}
+{"start": 1087.7, "end": 1090.7, "text": "de cálculo de aumento de averes,", "avg_logprob": -0.14972509088970365, "no_speech_prob": 0.017010213807225227}
+{"start": 1090.7, "end": 1095.7, "text": "¿va a aumentar el poder adquisitivo de los jubilados", "avg_logprob": -0.14972509088970365, "no_speech_prob": 0.017010213807225227}
+{"start": 1095.7, "end": 1100.7, "text": "en un punto 6% anual,", "avg_logprob": -0.14972509088970365, "no_speech_prob": 0.017010213807225227}
+{"start": 1100.7, "end": 1102.7, "text": "comparada a si se la dejaba", "avg_logprob": -0.14972509088970365, "no_speech_prob": 0.017010213807225227}
+{"start": 1102.7, "end": 1105.7, "text": "tal como la había hecho este gobierno o el gobierno anterior?", "avg_logprob": -0.14972509088970365, "no_speech_prob": 0.017010213807225227}
+{"start": 1105.7, "end": 1108.7, "text": "Claro, la fórmula anterior,", "avg_logprob": -0.14972509088970365, "no_speech_prob": 0.017010213807225227}
+{"start": 1108.7, "end": 1111.7, "text": "estimando lo que hubieran perdido los jubilados", "avg_logprob": -0.14972509088970365, "no_speech_prob": 0.017010213807225227}
+{"start": 1111.7, "end": 1114.7, "text": "en los próximos cuatro meses producto de esa fórmula,", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1114.7, "end": 1115.7, "text": "Cuatro meses.", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1115.7, "end": 1121.7, "text": "Sí, aproximadamente, hubiera significado para el FISCO", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1121.7, "end": 1125.7, "text": "un ahorro de dos puntos de déficit.", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1125.7, "end": 1127.7, "text": "O sea, pagándoles menos a los jubilados.", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1127.7, "end": 1129.7, "text": "Habían cobrado ellos muchísimo menos,", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1129.7, "end": 1131.7, "text": "aproximadamente un 40% menos.", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1131.7, "end": 1132.7, "text": "Prometido.", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1132.7, "end": 1135.7, "text": "Sí, sobre un nivel que ya está bajo,", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1135.7, "end": 1137.7, "text": "es decir, sobre un nivel de los jubilados", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1137.7, "end": 1140.7, "text": "que ya está bajo, si seguíamos con esa fórmula,", "avg_logprob": -0.20478816702961922, "no_speech_prob": 0.1660662293434143}
+{"start": 1140.7, "end": 1142.7, "text": "los jubilados hubieran perdido poder adquisitivo", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1142.7, "end": 1146.7, "text": "más o menos en los próximos meses, en un 40%.", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1146.7, "end": 1148.7, "text": "Esa fórmula es muy mala, Luis.", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1148.7, "end": 1150.7, "text": "Hay que eliminarla, porque como digo,", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1150.7, "end": 1153.7, "text": "cuando la inflación sube, los jubilados pierden y pierden,", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1153.7, "end": 1154.7, "text": "que es lo que ha pasado,", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1154.7, "end": 1157.7, "text": "hasta ahora ha obtenido inflación creciente.", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1157.7, "end": 1160.7, "text": "Cuando la inflación baja por esa misma fórmula,", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1160.7, "end": 1163.7, "text": "también se hace muy difícil controlar el déficit.", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1163.7, "end": 1165.7, "text": "Entonces pierde toda la gente.", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1165.7, "end": 1168.7, "text": "Por eso se está compensando siempre con bonos y demás.", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1168.7, "end": 1169.7, "text": "La realidad es que la fórmula es mala.", "avg_logprob": -0.10647335078522384, "no_speech_prob": 0.02355365827679634}
+{"start": 1169.7, "end": 1172.7, "text": "Entonces, saquemosla así, la fórmula es mala y pensemos otra.", "avg_logprob": -0.1058100283246588, "no_speech_prob": 0.007016915827989578}
+{"start": 1172.7, "end": 1176.7, "text": "Lo que hicimos por ahora, justamente para no especular,", "avg_logprob": -0.1058100283246588, "no_speech_prob": 0.007016915827989578}
+{"start": 1176.7, "end": 1180.7, "text": "fue sacarla ahora, en el momento en que ellos más se iban a perjudicar.", "avg_logprob": -0.1058100283246588, "no_speech_prob": 0.007016915827989578}
+{"start": 1180.7, "end": 1182.7, "text": "A partir de abril o de mayo,", "avg_logprob": -0.1058100283246588, "no_speech_prob": 0.007016915827989578}
+{"start": 1182.7, "end": 1184.7, "text": "o cuando sea que uno espere que la inflación", "avg_logprob": -0.1058100283246588, "no_speech_prob": 0.007016915827989578}
+{"start": 1184.7, "end": 1186.7, "text": "eventualmente pueda empezar a bajar.", "avg_logprob": -0.1058100283246588, "no_speech_prob": 0.007016915827989578}
+{"start": 1186.7, "end": 1189.7, "text": "O sea, el gobierno no está especulando, está protegiéndolos.", "avg_logprob": -0.1058100283246588, "no_speech_prob": 0.007016915827989578}
+{"start": 1189.7, "end": 1191.7, "text": "Entonces, la sacamos ahora", "avg_logprob": -0.1058100283246588, "no_speech_prob": 0.007016915827989578}
+{"start": 1191.7, "end": 1194.7, "text": "y se pensará alguna buena alternativa", "avg_logprob": -0.1058100283246588, "no_speech_prob": 0.007016915827989578}
+{"start": 1194.7, "end": 1197.7, "text": "para que yo no haya que lidiar más con estos problemas.", "avg_logprob": -0.1058100283246588, "no_speech_prob": 0.007016915827989578}
+{"start": 1197.7, "end": 1204.7, "text": "Asignación universal por hijo se aumenta el 100%.", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1204.7, "end": 1207.7, "text": "El tarjeta alimentar un 50%.", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1207.7, "end": 1210.7, "text": "¿Y con los planes potenciar, qué se hace?", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1210.7, "end": 1213.7, "text": "Los planes potenciar se congelan a hoy.", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1213.7, "end": 1215.7, "text": "O sea, no los estamos eliminando,", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1215.7, "end": 1216.7, "text": "ni mucho menos.", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1216.7, "end": 1218.7, "text": "Lo que estamos diciendo a las provincias es,", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1218.7, "end": 1220.7, "text": "no tenemos plata, es la realidad.", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1220.7, "end": 1222.7, "text": "Mucho menos tiene plata nación.", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1222.7, "end": 1224.7, "text": "Déjame acá que te haga un paréntesis,", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1224.7, "end": 1226.7, "text": "que es importante.", "avg_logprob": -0.15493274211883545, "no_speech_prob": 0.013843649066984653}
+{"start": 1226.7, "end": 1231.7, "text": "Argentina gasta más o menos 39 puntos de producto.", "avg_logprob": -0.09832406871848637, "no_speech_prob": 0.004750374238938093}
+{"start": 1231.7, "end": 1234.7, "text": "Pero nación de eso, lo que controlamos nosotros,", "avg_logprob": -0.09832406871848637, "no_speech_prob": 0.004750374238938093}
+{"start": 1234.7, "end": 1236.7, "text": "son 19.", "avg_logprob": -0.09832406871848637, "no_speech_prob": 0.004750374238938093}
+{"start": 1236.7, "end": 1240.7, "text": "Los otros 20 son provincias y municipios.", "avg_logprob": -0.09832406871848637, "no_speech_prob": 0.004750374238938093}
+{"start": 1240.7, "end": 1243.7, "text": "Provincias y municipios en su conjunto", "avg_logprob": -0.09832406871848637, "no_speech_prob": 0.004750374238938093}
+{"start": 1243.7, "end": 1245.7, "text": "están en equilibrio fiscal.", "avg_logprob": -0.09832406871848637, "no_speech_prob": 0.004750374238938093}
+{"start": 1245.7, "end": 1248.7, "text": "Gastan lo mismo que lo que recaudan.", "avg_logprob": -0.09832406871848637, "no_speech_prob": 0.004750374238938093}
+{"start": 1248.7, "end": 1250.7, "text": "Es decir, se les da mucha plata.", "avg_logprob": -0.09832406871848637, "no_speech_prob": 0.004750374238938093}
+{"start": 1250.7, "end": 1253.7, "text": "De nuevo, provincia y municipios en su conjunto.", "avg_logprob": -0.09832406871848637, "no_speech_prob": 0.004750374238938093}
+{"start": 1253.7, "end": 1254.7, "text": "Exactamente.", "avg_logprob": -0.09832406871848637, "no_speech_prob": 0.004750374238938093}
+{"start": 1254.7, "end": 1257.7, "text": "Solamente distribuyendo correctamente la coparticipación.", "avg_logprob": -0.23512046281681503, "no_speech_prob": 0.005884311627596617}
+{"start": 1257.7, "end": 1259.7, "text": "Malas transferencias, malas transferencias,", "avg_logprob": -0.23512046281681503, "no_speech_prob": 0.005884311627596617}
+{"start": 1259.7, "end": 1264.7, "text": "más todos los partidas especiales y demás, están en equilibrio.", "avg_logprob": -0.23512046281681503, "no_speech_prob": 0.005884311627596617}
+{"start": 1264.7, "end": 1266.7, "text": "¿Alguna provincia será deficitaria?", "avg_logprob": -0.23512046281681503, "no_speech_prob": 0.005884311627596617}
+{"start": 1266.7, "end": 1267.7, "text": "Exactamente.", "avg_logprob": -0.23512046281681503, "no_speech_prob": 0.005884311627596617}
+{"start": 1267.7, "end": 1268.7, "text": "Entiendo.", "avg_logprob": -0.23512046281681503, "no_speech_prob": 0.005884311627596617}
+{"start": 1268.7, "end": 1269.7, "text": "¿Por qué me aclaras eso?", "avg_logprob": -0.23512046281681503, "no_speech_prob": 0.005884311627596617}
+{"start": 1269.7, "end": 1274.7, "text": "No, porque te quiero decir que el déficit de los 5.5", "avg_logprob": -0.23512046281681503, "no_speech_prob": 0.005884311627596617}
+{"start": 1274.7, "end": 1278.7, "text": "se concentra en los 19 puntos que maneja nación,", "avg_logprob": -0.23512046281681503, "no_speech_prob": 0.005884311627596617}
+{"start": 1278.7, "end": 1281.7, "text": "de los cuales 11.1.5 son jubilaciones,", "avg_logprob": -0.23512046281681503, "no_speech_prob": 0.005884311627596617}
+{"start": 1281.7, "end": 1285.7, "text": "pensiones, asistencia, que nosotros no queremos cortar.", "avg_logprob": -0.16984082592858207, "no_speech_prob": 0.024880068376660347}
+{"start": 1285.7, "end": 1289.7, "text": "Entonces, si le restas a los 19, los 11.5, te quedan 7.5.", "avg_logprob": -0.16984082592858207, "no_speech_prob": 0.024880068376660347}
+{"start": 1289.7, "end": 1293.7, "text": "Si yo tengo que cortar 5.5 de los 7.5 no dan las cuentas.", "avg_logprob": -0.16984082592858207, "no_speech_prob": 0.024880068376660347}
+{"start": 1293.7, "end": 1297.7, "text": "O sea, no podemos pagar seguridad, salud, nada.", "avg_logprob": -0.16984082592858207, "no_speech_prob": 0.024880068376660347}
+{"start": 1297.7, "end": 1299.7, "text": "No podemos hacer prácticamente nada.", "avg_logprob": -0.16984082592858207, "no_speech_prob": 0.024880068376660347}
+{"start": 1299.7, "end": 1300.7, "text": "¿Qué me quiero decir?", "avg_logprob": -0.16984082592858207, "no_speech_prob": 0.024880068376660347}
+{"start": 1300.7, "end": 1305.7, "text": "Para descongelar los planes sociales,", "avg_logprob": -0.16984082592858207, "no_speech_prob": 0.024880068376660347}
+{"start": 1305.7, "end": 1309.7, "text": "quizás la persona que recibió un plan social", "avg_logprob": -0.16984082592858207, "no_speech_prob": 0.024880068376660347}
+{"start": 1309.7, "end": 1312.7, "text": "o la provincia de San Luis para ser una provincia,", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1312.7, "end": 1315.7, "text": "o Catamarca o la provincia de Buenos Aires,", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1315.7, "end": 1319.7, "text": "si quiere que esa persona haga ne más,", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1319.7, "end": 1323.7, "text": "tendrá que aumentarlo por encima de lo que le das voz,", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1323.7, "end": 1324.7, "text": "cobración.", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1324.7, "end": 1326.7, "text": "Se entiende lo que quiero decir.", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1326.7, "end": 1327.7, "text": "Totalmente.", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1327.7, "end": 1328.7, "text": "Y lo explicaste bien.", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1328.7, "end": 1330.7, "text": "O sea, de vuelta, no estamos,", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1330.7, "end": 1332.7, "text": "yo la estoy administrando riqueza,", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1332.7, "end": 1334.7, "text": "estoy administrando escasez.", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1334.7, "end": 1338.7, "text": "Entonces, me encantaría que seguir aportando a eso.", "avg_logprob": -0.18676527505530452, "no_speech_prob": 0.01874634250998497}
+{"start": 1338.7, "end": 1341.7, "text": "Si la gente que está en la provincia,", "avg_logprob": -0.399901591647755, "no_speech_prob": 0.039732787758111954}
+{"start": 1341.7, "end": 1344.7, "text": "si la gente que está en la provincia,", "avg_logprob": -0.399901591647755, "no_speech_prob": 0.039732787758111954}
+{"start": 1344.7, "end": 1347.7, "text": "si la gente que está en la provincia,", "avg_logprob": -0.399901591647755, "no_speech_prob": 0.039732787758111954}
+{"start": 1347.7, "end": 1350.7, "text": "si la gente que está en la provincia,", "avg_logprob": -0.399901591647755, "no_speech_prob": 0.039732787758111954}
+{"start": 1350.7, "end": 1353.7, "text": "si la gente que está en la provincia,", "avg_logprob": -0.399901591647755, "no_speech_prob": 0.039732787758111954}
+{"start": 1353.7, "end": 1356.7, "text": "si la gente que está en la provincia,", "avg_logprob": -0.399901591647755, "no_speech_prob": 0.039732787758111954}
+{"start": 1356.7, "end": 1359.7, "text": "si la gente que está en la provincia,", "avg_logprob": -0.399901591647755, "no_speech_prob": 0.039732787758111954}
+{"start": 1359.7, "end": 1362.7, "text": "si la gente que está en la provincia,", "avg_logprob": -0.399901591647755, "no_speech_prob": 0.039732787758111954}
+{"start": 1362.7, "end": 1365.7, "text": "si la gente que está en la provincia,", "avg_logprob": -0.399901591647755, "no_speech_prob": 0.039732787758111954}
+{"start": 1365.7, "end": 1367.7, "text": "bueno, es mucho más difícil.", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1367.7, "end": 1369.7, "text": "Ministro, hablando de la provincia,", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1369.7, "end": 1371.7, "text": "el martes se van a reunir con los gobernadores.", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1371.7, "end": 1374.7, "text": "Yo entiendo que lo que quiere hacer entender el gobierno,", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1374.7, "end": 1376.7, "text": "la nación, boja, viernes, leía de los gobernadores,", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1376.7, "end": 1378.7, "text": "no sé si vas a estar en esa reunión,", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1378.7, "end": 1382.7, "text": "es que si se elimina el impuesto de las ganancias,", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1382.7, "end": 1384.7, "text": "el costo político por eliminarlo,", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1384.7, "end": 1387.7, "text": "lo tienen que pagar parejo también,", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1387.7, "end": 1389.7, "text": "que no sea solamente una exición", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1389.7, "end": 1391.7, "text": "del Poder Ejecutivo Nacional,", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1391.7, "end": 1394.7, "text": "porque es un recurso que va a ir a las provincias.", "avg_logprob": -0.13128569109153143, "no_speech_prob": 0.023817328736186028}
+{"start": 1394.7, "end": 1396.7, "text": "¿Ese sería el mensaje político?", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1396.7, "end": 1399.7, "text": "Mi mensaje, en este sentido, es más...", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1399.7, "end": 1400.7, "text": "Simple todavía.", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1400.7, "end": 1403.7, "text": "Sí, más simple o más profundo que eso.", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1403.7, "end": 1406.7, "text": "Hay muchos gobernadores que ya han entendido,", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1406.7, "end": 1408.7, "text": "que estamos frente a un esquema nuevo,", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1408.7, "end": 1411.7, "text": "que la gente entendió el cuento de que, digamos,", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1411.7, "end": 1414.7, "text": "que el problema no es el dólar,", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1414.7, "end": 1416.7, "text": "ni la inflación, ni la deuda,", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1416.7, "end": 1418.7, "text": "sino que es el déficit fiscal.", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1418.7, "end": 1420.7, "text": "Ya no le meten más el perro este.", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1420.7, "end": 1422.7, "text": "La sociedad entendió eso.", "avg_logprob": -0.09902036632748618, "no_speech_prob": 0.001892618602141738}
+{"start": 1422.7, "end": 1424.7, "text": "Y hoy está exigiendo eso.", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1424.7, "end": 1427.7, "text": "Entonces, hay algunos políticos que ya, digamos,", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1427.7, "end": 1429.7, "text": "gobernadores que lo han entendido,", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1429.7, "end": 1431.7, "text": "y hay otros por ahí que siguen más con la mentalidad", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1431.7, "end": 1433.7, "text": "de la política de todos estos últimos años,", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1433.7, "end": 1435.7, "text": "deben ir a pedir más plata.", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1435.7, "end": 1437.7, "text": "Más plata no hay.", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1437.7, "end": 1440.7, "text": "O sea que la solución es que se vuelva", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1440.7, "end": 1442.7, "text": "a instalar el impuesto de las ganancias.", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1442.7, "end": 1446.7, "text": "O que fientice, o que hagan más eficiente su gasto.", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1446.7, "end": 1449.7, "text": "O sea, digamos, si quieren mantener eso,", "avg_logprob": -0.11025781266010591, "no_speech_prob": 0.003990751691162586}
+{"start": 1449.7, "end": 1452.7, "text": "un problema deberán ajustar otras partidas", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1452.7, "end": 1455.7, "text": "de vuelta a hacer más eficiente su gasto", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1455.7, "end": 1457.7, "text": "de manera tal de compensar eso.", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1457.7, "end": 1459.7, "text": "No es obligatorio dar vuelta a esto.", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1459.7, "end": 1461.7, "text": "Lo que no se puede es hacer magia.", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1461.7, "end": 1463.7, "text": "¿Paritarias libres?", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1463.7, "end": 1467.7, "text": "Bueno, digamos, es la idea, ¿sí?", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1467.7, "end": 1471.34, "text": "Claro.", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1471.34, "end": 1473.34, "text": "Sí.", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1473.34, "end": 1475.34, "text": "Se va camino a eso.", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1475.34, "end": 1477.34, "text": "Ahora se están cerrando,", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1477.34, "end": 1480.34, "text": "se cerraron las paritarias bancarias.", "avg_logprob": -0.1421658176991899, "no_speech_prob": 0.050149403512477875}
+{"start": 1480.34, "end": 1482.34, "text": "¿Qué se puede hacer?", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1482.34, "end": 1484.34, "text": "¿Pero qué se puede hacer?", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1484.34, "end": 1486.34, "text": "¿Pero qué se puede hacer?", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1486.34, "end": 1488.34, "text": "¿Pero qué se puede hacer?", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1488.34, "end": 1490.34, "text": "Bueno, es una idea,", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1490.34, "end": 1492.34, "text": "es una idea que se puede hacer.", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1492.34, "end": 1494.34, "text": "¿Pero qué se puede hacer?", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1494.34, "end": 1496.34, "text": "Bueno, es una idea que se puede hacer.", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1496.34, "end": 1498.34, "text": "¿Pero qué se puede hacer?", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1498.34, "end": 1500.34, "text": "Bueno, es una idea que se puede hacer.", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1500.34, "end": 1502.34, "text": "¿Pero qué se puede hacer?", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1502.34, "end": 1504.34, "text": "Bueno, es una idea que se puede hacer.", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1504.34, "end": 1506.34, "text": "¿Pero qué se puede hacer?", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1506.34, "end": 1508.34, "text": "Bueno, es una idea que se puede hacer.", "avg_logprob": -0.556916061737766, "no_speech_prob": 0.04030416160821915}
+{"start": 1508.34, "end": 1510.34, "text": "Bueno, no es ni 3.800.", "avg_logprob": -0.15114290465135127, "no_speech_prob": 0.10698513686656952}
+{"start": 1510.34, "end": 1514.34, "text": "380.000 regulaciones a nivel nacional.", "avg_logprob": -0.15114290465135127, "no_speech_prob": 0.10698513686656952}
+{"start": 1514.34, "end": 1517.34, "text": "¿Cuánta pérdida de fuerza productiva representa eso?", "avg_logprob": -0.15114290465135127, "no_speech_prob": 0.10698513686656952}
+{"start": 1517.34, "end": 1519.34, "text": "¿Lo calcularon?", "avg_logprob": -0.15114290465135127, "no_speech_prob": 0.10698513686656952}
+{"start": 1519.34, "end": 1521.34, "text": "No, no tengo el cálculo,", "avg_logprob": -0.15114290465135127, "no_speech_prob": 0.10698513686656952}
+{"start": 1521.34, "end": 1524.34, "text": "pero, digamos, lo sufre cada argentino todos los días,", "avg_logprob": -0.15114290465135127, "no_speech_prob": 0.10698513686656952}
+{"start": 1524.34, "end": 1527.34, "text": "cada vez que quiera hacer un trámite de algo.", "avg_logprob": -0.15114290465135127, "no_speech_prob": 0.10698513686656952}
+{"start": 1527.34, "end": 1529.34, "text": "Ya no es solo el costo en términos de plata,", "avg_logprob": -0.15114290465135127, "no_speech_prob": 0.10698513686656952}
+{"start": 1529.34, "end": 1532.34, "text": "es el costo en términos también de tiempo", "avg_logprob": -0.15114290465135127, "no_speech_prob": 0.10698513686656952}
+{"start": 1532.34, "end": 1535.34, "text": "y todas esas cosas, digamos,", "avg_logprob": -0.15114290465135127, "no_speech_prob": 0.10698513686656952}
+{"start": 1535.34, "end": 1537.34, "text": "que a eso apunta el decreto,", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1537.34, "end": 1539.34, "text": "a eso apunta la ley también,", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1539.34, "end": 1541.34, "text": "a simplificarle la vida a la gente.", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1541.34, "end": 1543.34, "text": "Eso es libertad también, ¿no?", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1543.34, "end": 1548.34, "text": "O sea, es empezar a sacar todas esas trabas", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1548.34, "end": 1551.34, "text": "que joroba el día a día de la gente", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1551.34, "end": 1554.34, "text": "y que la gente está mucho cansadísima de esas cosas.", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1554.34, "end": 1555.34, "text": "O sea, que no hay que...", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1555.34, "end": 1557.34, "text": "Además hay mucho corrupción ahí,", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1557.34, "end": 1561.34, "text": "porque cada administración es un peaje.", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1561.34, "end": 1563.34, "text": "¿Son qué oscos?", "avg_logprob": -0.19197250186927675, "no_speech_prob": 0.030444055795669556}
+{"start": 1563.34, "end": 1565.34, "text": "¿Eso va a ser el decreto a través de una ley?", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1565.34, "end": 1568.34, "text": "El paquete de regulaciones.", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1568.34, "end": 1570.34, "text": "¿Hasta donde se está decidiendo ahora?", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1570.34, "end": 1573.34, "text": "Hay un decreto que incluye este trabajo", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1573.34, "end": 1575.34, "text": "que estaba haciendo Federico.", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1575.34, "end": 1576.34, "text": "Federico.", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1576.34, "end": 1579.34, "text": "Dice el presidente que es el trabajo que hizo Federico,", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1579.34, "end": 1580.34, "text": "que es monumental,", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1580.34, "end": 1585.34, "text": "es un tercio comparado con toda la propuesta de desregulación.", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1585.34, "end": 1587.34, "text": "Sí, sí, es un trabajo bárbaro", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1587.34, "end": 1589.34, "text": "que le ha llevado mucho tiempo,", "avg_logprob": -0.1529852761887014, "no_speech_prob": 0.0010144945699721575}
+{"start": 1589.34, "end": 1591.34, "text": "pero también se ha llevado mucho tiempo.", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1591.34, "end": 1593.34, "text": "Y, por supuesto,", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1593.34, "end": 1595.34, "text": "la ley se ha llevado mucho tiempo.", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1595.34, "end": 1597.34, "text": "Y, por supuesto,", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1597.34, "end": 1599.34, "text": "la ley se ha llevado mucho tiempo.", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1599.34, "end": 1600.34, "text": "Y, por supuesto,", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1600.34, "end": 1602.34, "text": "la ley se ha llevado mucho tiempo.", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1602.34, "end": 1603.34, "text": "Y, por supuesto,", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1603.34, "end": 1605.34, "text": "la ley se ha llevado mucho tiempo.", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1605.34, "end": 1606.34, "text": "Y, por supuesto,", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1606.34, "end": 1608.34, "text": "la ley se ha llevado mucho tiempo.", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1608.34, "end": 1609.34, "text": "Y, por supuesto,", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1609.34, "end": 1611.34, "text": "la ley se ha llevado mucho tiempo.", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1611.34, "end": 1612.34, "text": "Y, por supuesto,", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1612.34, "end": 1614.34, "text": "la ley se ha llevado mucho tiempo.", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1614.34, "end": 1615.34, "text": "Y, por supuesto,", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1615.34, "end": 1617.34, "text": "la ley se ha llevado mucho tiempo.", "avg_logprob": -0.47105931248634486, "no_speech_prob": 0.044123273342847824}
+{"start": 1617.34, "end": 1619.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1619.34, "end": 1621.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1621.34, "end": 1622.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1622.34, "end": 1624.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1624.34, "end": 1625.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1625.34, "end": 1627.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1627.34, "end": 1628.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1628.34, "end": 1630.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1630.34, "end": 1631.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1631.34, "end": 1633.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1633.34, "end": 1634.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1634.34, "end": 1636.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1636.34, "end": 1637.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1637.34, "end": 1639.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1639.34, "end": 1640.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1640.34, "end": 1642.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1642.34, "end": 1643.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1643.34, "end": 1645.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1645.34, "end": 1646.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.12445150488647967, "no_speech_prob": 0.40174558758735657}
+{"start": 1646.34, "end": 1648.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1648.34, "end": 1649.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1649.34, "end": 1651.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1651.34, "end": 1652.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1652.34, "end": 1654.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1654.34, "end": 1655.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1655.34, "end": 1657.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1657.34, "end": 1658.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1658.34, "end": 1660.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1660.34, "end": 1661.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1661.34, "end": 1663.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1663.34, "end": 1664.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1664.34, "end": 1666.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1666.34, "end": 1667.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1667.34, "end": 1669.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1669.34, "end": 1670.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1670.34, "end": 1672.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1672.34, "end": 1673.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1673.34, "end": 1675.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0421797083893224, "no_speech_prob": 0.15713836252689362}
+{"start": 1675.34, "end": 1676.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1676.34, "end": 1678.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1678.34, "end": 1679.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1679.34, "end": 1681.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1681.34, "end": 1682.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1682.34, "end": 1684.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1684.34, "end": 1685.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1685.34, "end": 1687.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1687.34, "end": 1688.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1688.34, "end": 1690.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1690.34, "end": 1691.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1691.34, "end": 1693.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1693.34, "end": 1694.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1694.34, "end": 1696.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1696.34, "end": 1697.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1697.34, "end": 1699.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1699.34, "end": 1700.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1700.34, "end": 1702.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1702.34, "end": 1703.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04768468604232725, "no_speech_prob": 0.2768431007862091}
+{"start": 1703.34, "end": 1705.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1705.34, "end": 1706.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1706.34, "end": 1708.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1708.34, "end": 1709.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1709.34, "end": 1711.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1711.34, "end": 1712.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1712.34, "end": 1714.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1714.34, "end": 1715.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1715.34, "end": 1717.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1717.34, "end": 1718.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1718.34, "end": 1720.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1720.34, "end": 1721.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1721.34, "end": 1723.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1723.34, "end": 1724.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1724.34, "end": 1726.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1726.34, "end": 1727.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1727.34, "end": 1729.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1729.34, "end": 1730.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1730.34, "end": 1732.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.03731638591979509, "no_speech_prob": 0.5818952918052673}
+{"start": 1732.34, "end": 1733.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1733.34, "end": 1735.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1735.34, "end": 1736.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1736.34, "end": 1738.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1738.34, "end": 1739.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1739.34, "end": 1741.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1741.34, "end": 1742.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1742.34, "end": 1744.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1744.34, "end": 1745.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1745.34, "end": 1747.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1747.34, "end": 1748.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1748.34, "end": 1750.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1750.34, "end": 1751.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1751.34, "end": 1753.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1753.34, "end": 1754.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1754.34, "end": 1756.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1756.34, "end": 1757.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1757.34, "end": 1759.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1759.34, "end": 1760.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1760.34, "end": 1761.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04087157628964633, "no_speech_prob": 0.21442465484142303}
+{"start": 1761.34, "end": 1762.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1762.34, "end": 1764.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1764.34, "end": 1765.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1765.34, "end": 1767.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1767.34, "end": 1768.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1768.34, "end": 1770.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1770.34, "end": 1771.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1771.34, "end": 1773.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1773.34, "end": 1774.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1774.34, "end": 1776.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1776.34, "end": 1777.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1777.34, "end": 1779.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1779.34, "end": 1780.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1780.34, "end": 1782.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1782.34, "end": 1783.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1783.34, "end": 1785.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1785.34, "end": 1786.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1786.34, "end": 1788.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1788.34, "end": 1789.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.05169729295685805, "no_speech_prob": 0.10498672723770142}
+{"start": 1789.34, "end": 1791.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1791.34, "end": 1792.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1792.34, "end": 1794.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1794.34, "end": 1795.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1795.34, "end": 1797.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1797.34, "end": 1798.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1798.34, "end": 1800.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1800.34, "end": 1801.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1801.34, "end": 1803.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1803.34, "end": 1804.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1804.34, "end": 1806.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1806.34, "end": 1807.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1807.34, "end": 1809.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1809.34, "end": 1810.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1810.34, "end": 1812.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1812.34, "end": 1813.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1813.34, "end": 1815.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1815.34, "end": 1816.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1816.34, "end": 1818.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04933202195831615, "no_speech_prob": 0.11598441749811172}
+{"start": 1818.34, "end": 1819.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1819.34, "end": 1821.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1821.34, "end": 1822.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1822.34, "end": 1824.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1824.34, "end": 1825.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1825.34, "end": 1827.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1827.34, "end": 1828.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1828.34, "end": 1830.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1830.34, "end": 1831.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1831.34, "end": 1833.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1833.34, "end": 1834.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1834.34, "end": 1836.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1836.34, "end": 1837.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1837.34, "end": 1839.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1839.34, "end": 1840.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1840.34, "end": 1842.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1842.34, "end": 1843.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1843.34, "end": 1845.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1845.34, "end": 1846.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1846.34, "end": 1847.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.055333788390271366, "no_speech_prob": 0.213741734623909}
+{"start": 1847.34, "end": 1848.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1848.34, "end": 1850.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1850.34, "end": 1851.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1851.34, "end": 1853.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1853.34, "end": 1854.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1854.34, "end": 1856.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1856.34, "end": 1857.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1857.34, "end": 1859.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1859.34, "end": 1860.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1860.34, "end": 1862.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1862.34, "end": 1863.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1863.34, "end": 1865.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1865.34, "end": 1866.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1866.34, "end": 1868.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1868.34, "end": 1869.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1869.34, "end": 1871.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1871.34, "end": 1872.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1872.34, "end": 1874.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1874.34, "end": 1875.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.049298994284308416, "no_speech_prob": 0.1785038262605667}
+{"start": 1875.34, "end": 1877.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1877.34, "end": 1878.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1878.34, "end": 1880.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1880.34, "end": 1881.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1881.34, "end": 1883.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1883.34, "end": 1884.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1884.34, "end": 1886.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1886.34, "end": 1887.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1887.34, "end": 1889.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1889.34, "end": 1890.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1890.34, "end": 1892.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1892.34, "end": 1893.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1893.34, "end": 1895.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1895.34, "end": 1896.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1896.34, "end": 1898.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1898.34, "end": 1899.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1899.34, "end": 1901.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1901.34, "end": 1902.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1902.34, "end": 1904.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04165324014004158, "no_speech_prob": 0.4918041527271271}
+{"start": 1904.34, "end": 1905.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1905.34, "end": 1907.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1907.34, "end": 1908.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1908.34, "end": 1910.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1910.34, "end": 1911.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1911.34, "end": 1913.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1913.34, "end": 1914.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1914.34, "end": 1916.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1916.34, "end": 1917.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1917.34, "end": 1919.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1919.34, "end": 1920.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1920.34, "end": 1922.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1922.34, "end": 1923.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1923.34, "end": 1925.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1925.34, "end": 1926.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1926.34, "end": 1928.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1928.34, "end": 1929.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1929.34, "end": 1931.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1931.34, "end": 1932.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.044115351214593285, "no_speech_prob": 0.14206162095069885}
+{"start": 1932.34, "end": 1934.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1934.34, "end": 1935.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1935.34, "end": 1937.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1937.34, "end": 1938.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1938.34, "end": 1940.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1940.34, "end": 1941.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1941.34, "end": 1943.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1943.34, "end": 1944.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1944.34, "end": 1946.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1946.34, "end": 1947.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1947.34, "end": 1949.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1949.34, "end": 1950.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1950.34, "end": 1952.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1952.34, "end": 1953.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1953.34, "end": 1955.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1955.34, "end": 1956.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1956.34, "end": 1958.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1958.34, "end": 1959.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1959.34, "end": 1961.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04883293398534474, "no_speech_prob": 0.07939546555280685}
+{"start": 1961.34, "end": 1962.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1962.34, "end": 1964.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1964.34, "end": 1965.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1965.34, "end": 1967.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1967.34, "end": 1968.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1968.34, "end": 1970.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1970.34, "end": 1971.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1971.34, "end": 1973.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1973.34, "end": 1974.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1974.34, "end": 1976.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1976.34, "end": 1977.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1977.34, "end": 1979.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1979.34, "end": 1980.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1980.34, "end": 1982.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1982.34, "end": 1983.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1983.34, "end": 1985.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1985.34, "end": 1986.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1986.34, "end": 1988.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1988.34, "end": 1989.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1989.34, "end": 1990.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04557691601803526, "no_speech_prob": 0.19104419648647308}
+{"start": 1990.34, "end": 1991.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 1991.34, "end": 1993.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 1993.34, "end": 1994.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 1994.34, "end": 1996.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 1996.34, "end": 1997.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 1997.34, "end": 1999.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 1999.34, "end": 2000.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2000.34, "end": 2002.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2002.34, "end": 2003.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2003.34, "end": 2005.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2005.34, "end": 2006.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2006.34, "end": 2008.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2008.34, "end": 2009.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2009.34, "end": 2011.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2011.34, "end": 2012.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2012.34, "end": 2014.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2014.34, "end": 2015.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2015.34, "end": 2017.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2017.34, "end": 2018.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04887029281637287, "no_speech_prob": 0.306029736995697}
+{"start": 2018.34, "end": 2020.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2020.34, "end": 2021.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2021.34, "end": 2023.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2023.34, "end": 2024.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2024.34, "end": 2026.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2026.34, "end": 2027.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2027.34, "end": 2029.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2029.34, "end": 2030.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2030.34, "end": 2032.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2032.34, "end": 2033.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2033.34, "end": 2035.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2035.34, "end": 2036.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2036.34, "end": 2038.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2038.34, "end": 2039.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2039.34, "end": 2041.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2041.34, "end": 2042.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2042.34, "end": 2044.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2044.34, "end": 2045.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2045.34, "end": 2047.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04622848801638769, "no_speech_prob": 0.3517114222049713}
+{"start": 2047.34, "end": 2048.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2048.34, "end": 2050.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2050.34, "end": 2051.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2051.34, "end": 2053.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2053.34, "end": 2054.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2054.34, "end": 2056.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2056.34, "end": 2057.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2057.34, "end": 2059.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2059.34, "end": 2060.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2060.34, "end": 2062.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2062.34, "end": 2063.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2063.34, "end": 2065.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2065.34, "end": 2066.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2066.34, "end": 2068.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2068.34, "end": 2069.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2069.34, "end": 2071.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2071.34, "end": 2072.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2072.34, "end": 2074.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2074.34, "end": 2075.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2075.34, "end": 2076.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04868431771562124, "no_speech_prob": 0.10208523273468018}
+{"start": 2076.34, "end": 2077.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2077.34, "end": 2079.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2079.34, "end": 2080.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2080.34, "end": 2082.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2082.34, "end": 2083.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2083.34, "end": 2085.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2085.34, "end": 2086.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2086.34, "end": 2088.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2088.34, "end": 2089.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2089.34, "end": 2091.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2091.34, "end": 2092.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2092.34, "end": 2094.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2094.34, "end": 2095.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2095.34, "end": 2097.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2097.34, "end": 2098.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2098.34, "end": 2100.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2100.34, "end": 2101.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2101.34, "end": 2103.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2103.34, "end": 2104.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04751694054234752, "no_speech_prob": 0.11256804317235947}
+{"start": 2104.34, "end": 2106.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2106.34, "end": 2107.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2107.34, "end": 2109.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2109.34, "end": 2110.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2110.34, "end": 2112.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2112.34, "end": 2113.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2113.34, "end": 2115.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2115.34, "end": 2116.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2116.34, "end": 2118.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2118.34, "end": 2119.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2119.34, "end": 2121.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2121.34, "end": 2122.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2122.34, "end": 2124.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2124.34, "end": 2125.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2125.34, "end": 2127.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2127.34, "end": 2128.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2128.34, "end": 2130.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2130.34, "end": 2131.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2131.34, "end": 2133.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04168000537902117, "no_speech_prob": 0.5264215469360352}
+{"start": 2133.34, "end": 2134.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2134.34, "end": 2136.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2136.34, "end": 2137.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2137.34, "end": 2139.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2139.34, "end": 2140.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2140.34, "end": 2142.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2142.34, "end": 2143.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2143.34, "end": 2145.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2145.34, "end": 2146.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2146.34, "end": 2148.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2148.34, "end": 2149.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2149.34, "end": 2151.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2151.34, "end": 2152.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2152.34, "end": 2154.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2154.34, "end": 2155.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2155.34, "end": 2157.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2157.34, "end": 2158.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2158.34, "end": 2160.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2160.34, "end": 2161.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.04459808585722802, "no_speech_prob": 0.1376461535692215}
+{"start": 2161.34, "end": 2163.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2163.34, "end": 2164.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2164.34, "end": 2166.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2166.34, "end": 2167.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2167.34, "end": 2169.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2169.34, "end": 2170.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2170.34, "end": 2172.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2172.34, "end": 2173.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2173.34, "end": 2175.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2175.34, "end": 2176.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2176.34, "end": 2178.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2178.34, "end": 2179.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2179.34, "end": 2181.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2181.34, "end": 2182.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2182.34, "end": 2184.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2184.34, "end": 2185.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2185.34, "end": 2187.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2187.34, "end": 2188.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2188.34, "end": 2190.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.046346949393172625, "no_speech_prob": 0.13896901905536652}
+{"start": 2190.34, "end": 2191.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2191.34, "end": 2193.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2193.34, "end": 2194.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2194.34, "end": 2196.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2196.34, "end": 2197.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2197.34, "end": 2199.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2199.34, "end": 2200.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2200.34, "end": 2202.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2202.34, "end": 2203.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2203.34, "end": 2205.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2205.34, "end": 2206.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2206.34, "end": 2208.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2208.34, "end": 2209.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2209.34, "end": 2211.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2211.34, "end": 2212.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2212.34, "end": 2214.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2214.34, "end": 2215.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2215.34, "end": 2217.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2217.34, "end": 2218.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0462699171093946, "no_speech_prob": 0.5373201370239258}
+{"start": 2218.34, "end": 2220.34, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2220.34, "end": 2221.34, "text": "¿Y, por supuesto,", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2221.34, "end": 2226.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2226.22, "end": 2227.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2227.22, "end": 2229.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2229.22, "end": 2230.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2230.22, "end": 2232.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2232.22, "end": 2233.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2233.22, "end": 2235.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2235.22, "end": 2236.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2236.22, "end": 2238.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2238.22, "end": 2239.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2239.22, "end": 2241.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2241.22, "end": 2242.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2242.22, "end": 2244.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2244.22, "end": 2245.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2245.22, "end": 2247.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2247.22, "end": 2248.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2248.22, "end": 2250.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.0441682796884814, "no_speech_prob": 0.1540503054857254}
+{"start": 2250.22, "end": 2251.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2251.22, "end": 2253.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2253.22, "end": 2254.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2254.22, "end": 2256.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2256.22, "end": 2257.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2257.22, "end": 2259.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2259.22, "end": 2260.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2260.22, "end": 2262.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2262.22, "end": 2263.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2263.22, "end": 2265.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2265.22, "end": 2266.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2266.22, "end": 2268.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2268.22, "end": 2269.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2269.22, "end": 2271.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2271.22, "end": 2272.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2272.22, "end": 2274.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2274.22, "end": 2275.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2275.22, "end": 2277.22, "text": "la ley se ha llevado mucho tiempo?", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}
+{"start": 2277.22, "end": 2278.22, "text": "¿Y, por supuesto,", "avg_logprob": -0.05361973292590505, "no_speech_prob": 0.48749133944511414}

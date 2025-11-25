@@ -1,0 +1,532 @@
+{"start": 0.0, "end": 1.12, "speaker": null, "role": "UNK", "text": "¿Cómo va, ministro?"}
+{"start": 1.16, "end": 3.44, "speaker": "SPK0", "role": "MINISTRO", "text": "Muy bien, gracias por la invitación."}
+{"start": 3.48, "end": 5.64, "speaker": "SPK0", "role": "MINISTRO", "text": "Hola a todos y a la audiencia."}
+{"start": 5.68, "end": 6.76, "speaker": "SPK0", "role": "MINISTRO", "text": "Bienvenido, bienvenido."}
+{"start": 6.8, "end": 8.92, "speaker": "SPK0", "role": "MINISTRO", "text": "Muchas gracias por estar hoy acá."}
+{"start": 8.96, "end": 14.12, "speaker": "SPK1", "role": "OTRO", "text": "Bueno, a ver, tenemos muchísimo para hablar en el día de hoy."}
+{"start": 14.16, "end": 15.8, "speaker": "SPK0", "role": "MINISTRO", "text": "Termina un buen año."}
+{"start": 15.84, "end": 20.12, "speaker": "SPK0", "role": "MINISTRO", "text": "Termina mejor de lo que pensaban."}
+{"start": 20.16, "end": 22.16, "speaker": "SPK0", "role": "MINISTRO", "text": "Termina un gran año, sin duda."}
+{"start": 22.2, "end": 28.76, "speaker": "SPK0", "role": "MINISTRO", "text": "Si pensás sobre todo de dónde veníamos,"}
+{"start": 28.84, "end": 34.2, "speaker": "SPK0", "role": "MINISTRO", "text": "inflación en noviembre del año pasado, minorista, de 12,8,"}
+{"start": 34.24, "end": 38.88, "speaker": "SPK0", "role": "MINISTRO", "text": "bajando ahora al 2,4,"}
+{"start": 38.92, "end": 46.12, "speaker": "SPK0", "role": "MINISTRO", "text": "la mayorista del 11,1 al 1,4 hoy, ¿no?"}
+{"start": 46.16, "end": 49.32, "speaker": "SPK1", "role": "OTRO", "text": "Que más, digamos, salarios,"}
+{"start": 49.36, "end": 52.72, "speaker": "SPK0", "role": "MINISTRO", "text": "ya superando los niveles de noviembre del 2023,"}
+{"start": 52.76, "end": 55.2, "speaker": "SPK0", "role": "MINISTRO", "text": "están 1% arriba,"}
+{"start": 55.28, "end": 60.08, "speaker": "SPK0", "role": "MINISTRO", "text": "jubilaciones que le ganaron fuertemente a la inflación,"}
+{"start": 60.12, "end": 64.72, "speaker": "SPK0", "role": "MINISTRO", "text": "pensaba que la inflación de noviembre del 23 a noviembre del 24"}
+{"start": 64.76, "end": 70.32, "speaker": "SPK1", "role": "OTRO", "text": "fue del 166% y las jubilaciones subieron 189,"}
+{"start": 70.36, "end": 74.8, "speaker": "SPK1", "role": "OTRO", "text": "eso es, que le ganaron en términos reales un 8,7%."}
+{"start": 74.84, "end": 80.48, "speaker": "SPK0", "role": "MINISTRO", "text": "La brecha que era del 200% está prácticamente en cero,"}
+{"start": 80.52, "end": 84.56, "speaker": "SPK0", "role": "MINISTRO", "text": "tenemos superávit fiscal, superávit comercial,"}
+{"start": 84.6, "end": 88.68, "speaker": "SPK0", "role": "MINISTRO", "text": "superávit energético, el riesgo país bajó de más de 2.000 puntos"}
+{"start": 88.72, "end": 95.52, "speaker": "SPK0", "role": "MINISTRO", "text": "a 670, la economía recuperó,"}
+{"start": 95.56, "end": 99.52, "speaker": "SPK1", "role": "OTRO", "text": "acérdate que muchos decían que la baja de la inflación"}
+{"start": 99.56, "end": 102.56, "speaker": "SPK1", "role": "OTRO", "text": "iba a ser a costa de una recesión brutal y larguísima,"}
+{"start": 102.6, "end": 106.4, "speaker": "SPK1", "role": "OTRO", "text": "fue la recesión más corta en un plan de estabilización,"}
+{"start": 106.44, "end": 110.2, "speaker": "SPK1", "role": "OTRO", "text": "duró dos trimestres y la recuperación más que en vez"}
+{"start": 110.24, "end": 112.84, "speaker": "SPK1", "role": "OTRO", "text": "fue en un cohete para arriba,"}
+{"start": 112.96, "end": 115.36, "speaker": "SPK1", "role": "OTRO", "text": "porque ha anualizado el tercer trimestre,"}
+{"start": 115.4, "end": 119.0, "speaker": "SPK0", "role": "MINISTRO", "text": "la economía creció 16,5, esto es inédito,"}
+{"start": 119.04, "end": 126.56, "speaker": "SPK0", "role": "MINISTRO", "text": "así que sí, la verdad que todo ha sido un gran año."}
+{"start": 126.6, "end": 129.4, "speaker": "SPK1", "role": "OTRO", "text": "Ahora, esos números son inegables,"}
+{"start": 129.44, "end": 132.6, "speaker": "SPK0", "role": "MINISTRO", "text": "los vemos, de hecho el número de inflación mayorista"}
+{"start": 132.64, "end": 134.2, "speaker": "SPK0", "role": "MINISTRO", "text": "llegó hace un ratito, nada más,"}
+{"start": 134.24, "end": 138.56, "speaker": "SPK0", "role": "MINISTRO", "text": "1.4, un 0.9 en construcción,"}
+{"start": 138.6, "end": 140.68, "speaker": "SPK1", "role": "OTRO", "text": "0.9 en construcción y demás,"}
+{"start": 140.84, "end": 144.72, "speaker": "SPK1", "role": "OTRO", "text": "más allá de esto es cierto que también esta reactivación"}
+{"start": 144.76, "end": 148.32, "speaker": "SPK1", "role": "OTRO", "text": "se sienten ciertos sectores y otros no,"}
+{"start": 148.36, "end": 150.52, "speaker": "SPK1", "role": "OTRO", "text": "digo, sigue siendo despareja, ¿no?"}
+{"start": 150.56, "end": 153.84, "speaker": "SPK1", "role": "OTRO", "text": "Bueno, ahora era despareja más al principio,"}
+{"start": 153.88, "end": 156.2, "speaker": "SPK0", "role": "MINISTRO", "text": "más ahí por junio, julio,"}
+{"start": 156.24, "end": 160.92, "speaker": "SPK1", "role": "OTRO", "text": "hoy es mucho más equilibrada con todos los sectores que hablas,"}
+{"start": 160.96, "end": 163.48, "speaker": "SPK1", "role": "OTRO", "text": "nosotros hablamos con todos, yo me reúno con todos,"}
+{"start": 163.52, "end": 168.6, "speaker": "SPK1", "role": "OTRO", "text": "hoy incluso estuve en Aéa y hoy es muy generalizado,"}
+{"start": 168.68, "end": 173.24, "speaker": "SPK0", "role": "MINISTRO", "text": "te diría que en la gran mayoría de los sectores,"}
+{"start": 173.28, "end": 176.4, "speaker": "SPK0", "role": "MINISTRO", "text": "un poquitito menos por ahí se sienten alguno en particular,"}
+{"start": 176.44, "end": 178.56, "speaker": "SPK0", "role": "MINISTRO", "text": "por ejemplo, como en la construcción,"}
+{"start": 178.6, "end": 183.68, "speaker": "SPK0", "role": "MINISTRO", "text": "porque la verdad que la construcción está un poco más cara"}
+{"start": 183.72, "end": 186.44, "speaker": "SPK1", "role": "OTRO", "text": "y además compite contra lo ya construido"}
+{"start": 186.48, "end": 188.84, "speaker": "SPK1", "role": "OTRO", "text": "que está en un precio mucho más bajo,"}
+{"start": 188.88, "end": 191.52, "speaker": "SPK1", "role": "OTRO", "text": "entonces le cuesta más arrancar,"}
+{"start": 191.56, "end": 196.2, "speaker": "SPK1", "role": "OTRO", "text": "pero en términos generales es como Dios, digamos,"}
+{"start": 196.28, "end": 198.32, "speaker": "SPK1", "role": "OTRO", "text": "muy generalizado la suba."}
+{"start": 198.36, "end": 202.28, "speaker": "SPK1", "role": "OTRO", "text": "Vamos con un tema, perdón, Michael, de coyuntura local,"}
+{"start": 202.32, "end": 203.96, "speaker": "SPK1", "role": "OTRO", "text": "digo que sucedió en el día de hoy,"}
+{"start": 204.0, "end": 206.24, "speaker": "SPK1", "role": "OTRO", "text": "que tiene que ver con la suba del dólar blu,"}
+{"start": 206.28, "end": 207.48, "speaker": "SPK1", "role": "OTRO", "text": "¿hay alguna explicación?"}
+{"start": 207.52, "end": 211.76, "speaker": "SPK1", "role": "OTRO", "text": "Veníamos con una calma absoluta"}
+{"start": 211.8, "end": 213.96, "speaker": "SPK1", "role": "OTRO", "text": "en términos de cotización de tipo de cambio"}
+{"start": 214.0, "end": 217.8, "speaker": "SPK1", "role": "OTRO", "text": "y ahora vemos una suba de, no sé, 30 pesos."}
+{"start": 217.84, "end": 219.56, "speaker": "SPK1", "role": "OTRO", "text": "Sí, es nada eso, si lo pensás,"}
+{"start": 219.6, "end": 222.8, "speaker": "SPK1", "role": "OTRO", "text": "que venimos de niveles de 1.500,"}
+{"start": 222.84, "end": 226.0, "speaker": "SPK1", "role": "OTRO", "text": "veníamos de una baja del 30%,"}
+{"start": 226.04, "end": 231.16, "speaker": "SPK0", "role": "MINISTRO", "text": "digamos, que tenga una recuperación del 3%"}
+{"start": 231.2, "end": 235.08, "speaker": "SPK1", "role": "OTRO", "text": "o lo que haya tenido, no, no es relevante."}
+{"start": 235.12, "end": 237.28, "speaker": "SPK1", "role": "OTRO", "text": "Sobre todo se va a pensar en un contexto"}
+{"start": 237.32, "end": 242.36, "speaker": "SPK1", "role": "OTRO", "text": "en el que claramente vos ves que no es un tema de aversión al riesgo,"}
+{"start": 242.4, "end": 245.76, "speaker": "SPK1", "role": "OTRO", "text": "porque al mismo tiempo que se dio esta suba del dólar,"}
+{"start": 245.8, "end": 249.88, "speaker": "SPK0", "role": "MINISTRO", "text": "siguió bajando el riesgo país, o sea, a los mínimos,"}
+{"start": 249.92, "end": 252.44, "speaker": "SPK0", "role": "MINISTRO", "text": "la bolsa directamente voló"}
+{"start": 252.48, "end": 259.48, "speaker": "SPK1", "role": "OTRO", "text": "y las acciones subieron estos dos días más de 15%,"}
+{"start": 259.52, "end": 262.48, "speaker": "SPK1", "role": "OTRO", "text": "y el banco central sigue comprando dólares,"}
+{"start": 262.52, "end": 265.2, "speaker": "SPK0", "role": "MINISTRO", "text": "hoy compro otros 150 millones, entonces,"}
+{"start": 265.24, "end": 268.36, "speaker": "SPK1", "role": "OTRO", "text": "digamos, es muy puntual en el dólar que puede estar relacionado"}
+{"start": 268.4, "end": 269.76, "speaker": "SPK1", "role": "OTRO", "text": "con que la gente pueda estar comprando"}
+{"start": 269.8, "end": 272.52, "speaker": "SPK0", "role": "MINISTRO", "text": "porque se va a ir de vacaciones afuera o algo así,"}
+{"start": 272.56, "end": 273.4, "speaker": "SPK0", "role": "MINISTRO", "text": "es algo muy puntual."}
+{"start": 273.44, "end": 274.6, "speaker": "SPK0", "role": "MINISTRO", "text": "Más bien por un tema estacional, entonces."}
+{"start": 274.64, "end": 275.72, "speaker": "SPK0", "role": "MINISTRO", "text": "Sí, absoluto."}
+{"start": 275.76, "end": 276.64, "speaker": "SPK0", "role": "MINISTRO", "text": "Sí, Michael."}
+{"start": 276.68, "end": 279.8, "speaker": "SPK1", "role": "OTRO", "text": "Y hoy estuvo con Aya, ¿qué dicen los productores,"}
+{"start": 279.84, "end": 281.64, "speaker": "SPK0", "role": "MINISTRO", "text": "los empresarios locales,"}
+{"start": 281.68, "end": 284.56, "speaker": "SPK0", "role": "MINISTRO", "text": "por ejemplo, frente a la nueva flexibilidad respecto"}
+{"start": 284.6, "end": 288.68, "speaker": "SPK0", "role": "MINISTRO", "text": "de las importaciones, ¿se preocupan, les interesa"}
+{"start": 288.72, "end": 291.36, "speaker": "SPK0", "role": "MINISTRO", "text": "cómo se ubican frente a este tipo de cuestiones?"}
+{"start": 291.4, "end": 296.68, "speaker": "SPK0", "role": "MINISTRO", "text": "Bueno, eso, obviamente, lo que les preocupa es que se, digamos,"}
+{"start": 297.96, "end": 302.6, "speaker": "SPK1", "role": "OTRO", "text": "como dijo uno de ellos, que se nivele,"}
+{"start": 302.64, "end": 305.0, "speaker": "SPK1", "role": "OTRO", "text": "digamos, que no se desnivele la lancha,"}
+{"start": 305.04, "end": 308.0, "speaker": "SPK1", "role": "OTRO", "text": "y eso es lo que nosotros estamos haciendo,"}
+{"start": 308.08, "end": 311.6, "speaker": "SPK1", "role": "OTRO", "text": "y nosotros, si te fijan nosotros, bajamos aranceles de importación,"}
+{"start": 311.64, "end": 313.68, "speaker": "SPK1", "role": "OTRO", "text": "esencialmente de bienes de capital."}
+{"start": 313.72, "end": 314.72, "speaker": "SPK0", "role": "MINISTRO", "text": "Sí."}
+{"start": 314.76, "end": 318.44, "speaker": "SPK1", "role": "OTRO", "text": "El 50% de los bienes de capital tienen arancel cero,"}
+{"start": 318.48, "end": 322.36, "speaker": "SPK0", "role": "MINISTRO", "text": "y estamos considerando bajar el otro 50 también a cero."}
+{"start": 322.4, "end": 325.68, "speaker": "SPK1", "role": "OTRO", "text": "Entonces, nosotros, por supuesto,"}
+{"start": 325.72, "end": 330.56, "speaker": "SPK1", "role": "OTRO", "text": "no estamos haciendo, no estamos desnivelando la lancha,"}
+{"start": 330.6, "end": 332.48, "speaker": "SPK1", "role": "OTRO", "text": "y no lo vamos a hacer."}
+{"start": 332.52, "end": 337.36, "speaker": "SPK0", "role": "MINISTRO", "text": "Por supuesto, vinimos acá a plantear otro modelo,"}
+{"start": 337.44, "end": 341.48, "speaker": "SPK0", "role": "MINISTRO", "text": "que es un modelo donde los empresarios tienen que empezar,"}
+{"start": 341.52, "end": 344.48, "speaker": "SPK1", "role": "OTRO", "text": "digamos, a invertir más y a competir más."}
+{"start": 344.52, "end": 346.04, "speaker": "SPK1", "role": "OTRO", "text": "Pero nosotros, de nuestro lado,"}
+{"start": 346.08, "end": 350.16, "speaker": "SPK0", "role": "MINISTRO", "text": "tenemos que brindar las condiciones para que ellos puedan hacerlo,"}
+{"start": 350.2, "end": 351.48, "speaker": "SPK0", "role": "MINISTRO", "text": "es totalmente lógico."}
+{"start": 351.52, "end": 353.24, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces, nosotros tenemos que, esencialmente,"}
+{"start": 353.28, "end": 357.6, "speaker": "SPK0", "role": "MINISTRO", "text": "seguir sacando regulaciones y bajando impuestos."}
+{"start": 357.64, "end": 359.6, "speaker": "SPK1", "role": "OTRO", "text": "Y eso, obviamente, es lo que vamos a hacer."}
+{"start": 359.64, "end": 363.44, "speaker": "SPK1", "role": "OTRO", "text": "Las importaciones que nosotros estamos abriendo,"}
+{"start": 363.48, "end": 366.4, "speaker": "SPK0", "role": "MINISTRO", "text": "fíjate, no son indiscriminadas, son puntuales,"}
+{"start": 366.44, "end": 371.96, "speaker": "SPK0", "role": "MINISTRO", "text": "hemos aumentado la franquicia por curridad de 50 a 400 dólares,"}
+{"start": 372.0, "end": 376.44, "speaker": "SPK1", "role": "OTRO", "text": "pero digamos, no hay ninguna apertura indiscriminada,"}
+{"start": 376.48, "end": 378.08, "speaker": "SPK1", "role": "OTRO", "text": "así que afecte a la industria."}
+{"start": 378.12, "end": 380.8, "speaker": "SPK1", "role": "OTRO", "text": "Claro, es cierto que hay muchos empresarios que lo que dicen es,"}
+{"start": 380.84, "end": 382.96, "speaker": "SPK1", "role": "OTRO", "text": "bueno, en este caso, el orden de los factores,"}
+{"start": 383.0, "end": 385.04, "speaker": "SPK1", "role": "OTRO", "text": "si alteré el producto, sería bueno primero,"}
+{"start": 385.08, "end": 388.84, "speaker": "SPK1", "role": "OTRO", "text": "nivelar la cancha y después abrir las importaciones."}
+{"start": 388.88, "end": 392.24, "speaker": "SPK1", "role": "OTRO", "text": "Hablaba recién del tema impuestos, sí."}
+{"start": 392.28, "end": 393.28, "speaker": "SPK1", "role": "OTRO", "text": "Sí."}
+{"start": 393.32, "end": 395.44, "speaker": "SPK0", "role": "MINISTRO", "text": "No, pero te decía, en realidad no es nivelar la cancha,"}
+{"start": 395.56, "end": 397.64, "speaker": "SPK0", "role": "MINISTRO", "text": "sino no desnivelarla porque hoy..."}
+{"start": 397.68, "end": 398.68, "speaker": "SPK0", "role": "MINISTRO", "text": "Ah, está bien."}
+{"start": 398.72, "end": 401.32, "speaker": "SPK0", "role": "MINISTRO", "text": "...porque no es el caso."}
+{"start": 401.36, "end": 403.52, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces, por ahí su preocupación es que nosotros"}
+{"start": 403.56, "end": 406.72, "speaker": "SPK1", "role": "OTRO", "text": "abramos masivamente las importaciones"}
+{"start": 406.76, "end": 408.6, "speaker": "SPK1", "role": "OTRO", "text": "sin que bajemos impuestos y eso."}
+{"start": 408.64, "end": 411.16, "speaker": "SPK1", "role": "OTRO", "text": "No, todo eso no va a pasar."}
+{"start": 411.2, "end": 413.68, "speaker": "SPK0", "role": "MINISTRO", "text": "Nosotros venimos, como digo, a bajar impuestos,"}
+{"start": 413.72, "end": 416.0, "speaker": "SPK0", "role": "MINISTRO", "text": "pero también, como dije, a plantear otro modelo."}
+{"start": 416.04, "end": 419.4, "speaker": "SPK0", "role": "MINISTRO", "text": "Fíjate que en todo este último tiempo,"}
+{"start": 419.44, "end": 423.28, "speaker": "SPK0", "role": "MINISTRO", "text": "el negocio financiero de las empresas"}
+{"start": 423.36, "end": 426.08, "speaker": "SPK0", "role": "MINISTRO", "text": "ha sido más importante que el de las empresas mismas,"}
+{"start": 426.12, "end": 427.36, "speaker": "SPK0", "role": "MINISTRO", "text": "en cualquier industria,"}
+{"start": 427.4, "end": 431.88, "speaker": "SPK0", "role": "MINISTRO", "text": "ya sea que fabriques ventanas acero,"}
+{"start": 431.92, "end": 434.0, "speaker": "SPK0", "role": "MINISTRO", "text": "neumáticos, lo que vos quieras,"}
+{"start": 434.04, "end": 438.16, "speaker": "SPK1", "role": "OTRO", "text": "terminó siendo más importante el manejo financiero de la compañía..."}
+{"start": 438.2, "end": 439.2, "speaker": "SPK0", "role": "MINISTRO", "text": "El productivo."}
+{"start": 439.24, "end": 441.4, "speaker": "SPK0", "role": "MINISTRO", "text": "...que el productivo, que el negocio mismo."}
+{"start": 441.44, "end": 443.64, "speaker": "SPK1", "role": "OTRO", "text": "Eso hay que terminarlo."}
+{"start": 443.68, "end": 447.24, "speaker": "SPK1", "role": "OTRO", "text": "Entonces, para eso hay que bajar la inflación,"}
+{"start": 447.28, "end": 448.76, "speaker": "SPK1", "role": "OTRO", "text": "para eso tienen que bajar las tasas,"}
+{"start": 448.8, "end": 450.12, "speaker": "SPK1", "role": "OTRO", "text": "tiene que volver el crédito,"}
+{"start": 450.16, "end": 452.04, "speaker": "SPK1", "role": "OTRO", "text": "o sea, todo lo que ya está pasando"}
+{"start": 452.04, "end": 455.32, "speaker": "SPK0", "role": "MINISTRO", "text": "y tenemos que bajar cada vez más impuestos"}
+{"start": 455.36, "end": 458.72, "speaker": "SPK0", "role": "MINISTRO", "text": "y sacar más regulaciones para reducir el costo argentino."}
+{"start": 458.76, "end": 460.6, "speaker": "SPK0", "role": "MINISTRO", "text": "¿Están trabajando en una reforma tributaria?"}
+{"start": 460.64, "end": 463.68, "speaker": "SPK0", "role": "MINISTRO", "text": "Porque hace muy pocos días el presidente Javier Milé"}
+{"start": 463.72, "end": 467.36, "speaker": "SPK0", "role": "MINISTRO", "text": "habló de una baja del 90% de los impuestos."}
+{"start": 467.4, "end": 470.72, "speaker": "SPK0", "role": "MINISTRO", "text": "Sí, sí, sí, estamos trabajando en una reforma tributaria,"}
+{"start": 470.76, "end": 472.52, "speaker": "SPK0", "role": "MINISTRO", "text": "es como dijo el presidente."}
+{"start": 472.56, "end": 475.68, "speaker": "SPK1", "role": "OTRO", "text": "No la recaudación, sino la cantidad de impuestos."}
+{"start": 475.72, "end": 478.72, "speaker": "SPK1", "role": "OTRO", "text": "Argentina tiene un montón de impuestos..."}
+{"start": 478.8, "end": 481.36, "speaker": "SPK1", "role": "OTRO", "text": "Bueno, las últimas décadas, lo que ha habido,"}
+{"start": 481.4, "end": 485.12, "speaker": "SPK1", "role": "OTRO", "text": "es una sobreregulación y una sobreimposición tremenda,"}
+{"start": 485.16, "end": 487.88, "speaker": "SPK1", "role": "OTRO", "text": "y nosotros queremos simplificar todo eso."}
+{"start": 487.92, "end": 491.12, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces queremos reducir, digamos..."}
+{"start": 491.16, "end": 493.32, "speaker": "SPK1", "role": "OTRO", "text": "Estamos apuntando una reforma tributaria,"}
+{"start": 493.36, "end": 495.96, "speaker": "SPK1", "role": "OTRO", "text": "donde no haya mucho más que seis impuestos."}
+{"start": 496.0, "end": 499.16, "speaker": "SPK1", "role": "OTRO", "text": "A nivel nacional, digamos..."}
+{"start": 499.2, "end": 503.6, "speaker": "SPK1", "role": "OTRO", "text": "La idea es que haya no más de seis impuestos"}
+{"start": 503.64, "end": 507.68, "speaker": "SPK0", "role": "MINISTRO", "text": "y que haya competencia entre las diferentes provincias,"}
+{"start": 507.76, "end": 512.28, "speaker": "SPK1", "role": "OTRO", "text": "para que se genere también una baja adicional"}
+{"start": 512.32, "end": 513.76, "speaker": "SPK1", "role": "OTRO", "text": "a raíz de la competencia,"}
+{"start": 513.8, "end": 516.56, "speaker": "SPK1", "role": "OTRO", "text": "y que cada empresa pueda decidir en dónde se instala,"}
+{"start": 516.6, "end": 518.08, "speaker": "SPK0", "role": "MINISTRO", "text": "de acuerdo a dónde es más conveniente."}
+{"start": 518.12, "end": 519.92, "speaker": "SPK1", "role": "OTRO", "text": "¿Hoy los impuestos que más recaudan que son?"}
+{"start": 519.96, "end": 520.76, "speaker": "SPK1", "role": "OTRO", "text": "¿El IVA?"}
+{"start": 520.8, "end": 521.44, "speaker": "SPK1", "role": "OTRO", "text": "Ganancias."}
+{"start": 521.48, "end": 522.52, "speaker": "SPK1", "role": "OTRO", "text": "IVA, ganancias."}
+{"start": 522.56, "end": 523.8, "speaker": "SPK1", "role": "OTRO", "text": "Sí."}
+{"start": 523.84, "end": 525.56, "speaker": "SPK1", "role": "OTRO", "text": "¿El impuesto país también o no?"}
+{"start": 525.6, "end": 528.0, "speaker": "SPK0", "role": "MINISTRO", "text": "El impuesto país era un punto y medio de producto,"}
+{"start": 528.04, "end": 532.52, "speaker": "SPK1", "role": "OTRO", "text": "pero ese ya lo eliminamos y además no se coparticipaba."}
+{"start": 532.56, "end": 533.68, "speaker": "SPK1", "role": "OTRO", "text": "Claro."}
+{"start": 533.72, "end": 537.48, "speaker": "SPK1", "role": "OTRO", "text": "Con lo cual, nosotros bajamos ya dos impuestos sumamente"}
+{"start": 537.56, "end": 540.84, "speaker": "SPK0", "role": "MINISTRO", "text": "importantes y los dos muy nocivos."}
+{"start": 540.88, "end": 544.6, "speaker": "SPK0", "role": "MINISTRO", "text": "Uno, el inflacionario, que es el más nocivo de todos,"}
+{"start": 544.64, "end": 547.64, "speaker": "SPK0", "role": "MINISTRO", "text": "y otro, el impuesto país, que también era malísimo."}
+{"start": 547.68, "end": 552.52, "speaker": "SPK1", "role": "OTRO", "text": "Y ese, ya te digo, el año que viene a nivel de nación,"}
+{"start": 552.56, "end": 556.56, "speaker": "SPK1", "role": "OTRO", "text": "digamos, estamos haciendo un esfuerzo de un punto y medio de producto,"}
+{"start": 556.6, "end": 557.72, "speaker": "SPK1", "role": "OTRO", "text": "que es un montón."}
+{"start": 557.76, "end": 559.92, "speaker": "SPK1", "role": "OTRO", "text": "Hablando de impuestos, hay los impuestos nacionales,"}
+{"start": 559.96, "end": 561.76, "speaker": "SPK1", "role": "OTRO", "text": "por supuesto, lo pueden manejar ustedes,"}
+{"start": 561.8, "end": 564.24, "speaker": "SPK0", "role": "MINISTRO", "text": "los impuestos provinciales y municipales no,"}
+{"start": 565.0, "end": 568.48, "speaker": "SPK0", "role": "MINISTRO", "text": "y hay un gran ejemplo en cuanto a impuestos municipales"}
+{"start": 568.52, "end": 570.68, "speaker": "SPK1", "role": "OTRO", "text": "o tasas municipales, que es lo que sucede hoy"}
+{"start": 570.72, "end": 572.76, "speaker": "SPK1", "role": "OTRO", "text": "en los municipios de la provincia de Buenos Aires,"}
+{"start": 572.8, "end": 576.04, "speaker": "SPK1", "role": "OTRO", "text": "en donde los supermercados, la novedad esta semana,"}
+{"start": 576.08, "end": 578.96, "speaker": "SPK1", "role": "OTRO", "text": "fueron a la justicia, específicamente en la NUS,"}
+{"start": 579.0, "end": 582.24, "speaker": "SPK1", "role": "OTRO", "text": "por la casa de Seguridad y Higiene,"}
+{"start": 582.28, "end": 585.84, "speaker": "SPK1", "role": "OTRO", "text": "pero absolutamente, les diría, casi extorsiva,"}
+{"start": 585.88, "end": 587.52, "speaker": "SPK0", "role": "MINISTRO", "text": "que subió tres puntos."}
+{"start": 587.56, "end": 589.56, "speaker": "SPK1", "role": "OTRO", "text": "El primer aviso que hicieron los supermercados fue,"}
+{"start": 589.6, "end": 590.88, "speaker": "SPK1", "role": "OTRO", "text": "vamos a tener que subir los precios,"}
+{"start": 590.92, "end": 592.52, "speaker": "SPK1", "role": "OTRO", "text": "y ahora directamente fueron a la justicia."}
+{"start": 592.56, "end": 594.52, "speaker": "SPK1", "role": "OTRO", "text": "¿Ustedes pueden hacer algo con respecto a eso?"}
+{"start": 594.56, "end": 597.84, "speaker": "SPK1", "role": "OTRO", "text": "Es excelente lo que están haciendo los privados,"}
+{"start": 597.88, "end": 600.8, "speaker": "SPK1", "role": "OTRO", "text": "porque es lo que hay que hacer, primero hay que denunciarlos,"}
+{"start": 600.84, "end": 605.84, "speaker": "SPK1", "role": "OTRO", "text": "exponerlos, porque dijiste bien, es una estafa,"}
+{"start": 605.88, "end": 608.0, "speaker": "SPK1", "role": "OTRO", "text": "porque vos pensás que las tasas municipales"}
+{"start": 608.04, "end": 609.76, "speaker": "SPK0", "role": "MINISTRO", "text": "tienen que tener para que la gente entienda"}
+{"start": 609.8, "end": 612.8, "speaker": "SPK0", "role": "MINISTRO", "text": "una contraprestación acorde."}
+{"start": 612.84, "end": 617.36, "speaker": "SPK0", "role": "MINISTRO", "text": "La tasa de Higiene no tiene ninguna relación"}
+{"start": 617.4, "end": 623.16, "speaker": "SPK0", "role": "MINISTRO", "text": "con la cantidad de bebidas, quesos o carne"}
+{"start": 623.2, "end": 624.6, "speaker": "SPK0", "role": "MINISTRO", "text": "que vendas en el supermercado,"}
+{"start": 624.64, "end": 629.44, "speaker": "SPK0", "role": "MINISTRO", "text": "están en realidad taxando una especie de ingreso bruto,"}
+{"start": 629.48, "end": 630.76, "speaker": "SPK0", "role": "MINISTRO", "text": "no es una tasa."}
+{"start": 630.8, "end": 634.96, "speaker": "SPK1", "role": "OTRO", "text": "Entonces, eso es literalmente un estafa,"}
+{"start": 635.0, "end": 638.88, "speaker": "SPK0", "role": "MINISTRO", "text": "porque como digo, tu trabajo de Higiene es el mismo,"}
+{"start": 638.92, "end": 641.96, "speaker": "SPK0", "role": "MINISTRO", "text": "independientemente de la cantidad de ventas que haya."}
+{"start": 642.0, "end": 645.44, "speaker": "SPK0", "role": "MINISTRO", "text": "Nosotros, por nuestro lado, también estamos yendo a la justicia,"}
+{"start": 645.52, "end": 648.32, "speaker": "SPK0", "role": "MINISTRO", "text": "estamos yendo a defensa del consumidor,"}
+{"start": 648.36, "end": 652.28, "speaker": "SPK0", "role": "MINISTRO", "text": "pero tiene que haber mucha conciencia también del lado empresario,"}
+{"start": 652.32, "end": 655.2, "speaker": "SPK0", "role": "MINISTRO", "text": "porque la única forma de hacer los regulares es"}
+{"start": 655.24, "end": 657.6, "speaker": "SPK0", "role": "MINISTRO", "text": "llevándolos a la justicia, exponiéndolos"}
+{"start": 657.64, "end": 659.72, "speaker": "SPK0", "role": "MINISTRO", "text": "y viendo que lo que hacen tienen consecuencias."}
+{"start": 659.76, "end": 662.08, "speaker": "SPK0", "role": "MINISTRO", "text": "Nosotros, cuando pasó esto en La Pampa,"}
+{"start": 662.12, "end": 664.88, "speaker": "SPK0", "role": "MINISTRO", "text": "cerramos las sucursales en La Pampa,"}
+{"start": 664.92, "end": 670.56, "speaker": "SPK1", "role": "OTRO", "text": "bueno, y hubo que regular para La Pampa."}
+{"start": 670.6, "end": 672.32, "speaker": "SPK1", "role": "OTRO", "text": "Entonces hay que seguir haciendo estas cosas,"}
+{"start": 672.36, "end": 674.24, "speaker": "SPK0", "role": "MINISTRO", "text": "porque si no, además es un pésimo ejemplo"}
+{"start": 674.28, "end": 676.24, "speaker": "SPK0", "role": "MINISTRO", "text": "para el que está haciendo lo opuesto,"}
+{"start": 676.28, "end": 679.56, "speaker": "SPK0", "role": "MINISTRO", "text": "para el intendente que está actuando bien, dice más,"}
+{"start": 679.6, "end": 683.76, "speaker": "SPK0", "role": "MINISTRO", "text": "yo soy el salame que no cobra tasas y todos lo demás cobran,"}
+{"start": 683.8, "end": 687.08, "speaker": "SPK0", "role": "MINISTRO", "text": "y no les pasa nada."}
+{"start": 687.12, "end": 689.88, "speaker": "SPK0", "role": "MINISTRO", "text": "Claro, bueno, también las inversiones van o no,"}
+{"start": 689.92, "end": 693.32, "speaker": "SPK0", "role": "MINISTRO", "text": "después se elegirán ir o no a un municipio o ir o no a una provincia."}
+{"start": 693.36, "end": 695.2, "speaker": "SPK0", "role": "MINISTRO", "text": "Bueno, esa es la idea,"}
+{"start": 695.24, "end": 697.76, "speaker": "SPK0", "role": "MINISTRO", "text": "la idea es precisamente esa,"}
+{"start": 697.8, "end": 700.16, "speaker": "SPK0", "role": "MINISTRO", "text": "en el nuevo esquema tributario"}
+{"start": 700.2, "end": 703.92, "speaker": "SPK1", "role": "OTRO", "text": "que haya esta especie de competencia para que haya premios y castigos."}
+{"start": 704.08, "end": 705.92, "speaker": "SPK0", "role": "MINISTRO", "text": "En términos de inversiones,"}
+{"start": 705.96, "end": 711.92, "speaker": "SPK0", "role": "MINISTRO", "text": "ya están entrando inversiones en Rigi o Rigi."}
+{"start": 711.96, "end": 717.36, "speaker": "SPK0", "role": "MINISTRO", "text": "Sí, sí, sí, se entraron aproximadamente 7 pedidos,"}
+{"start": 717.4, "end": 720.92, "speaker": "SPK0", "role": "MINISTRO", "text": "más o menos por un total de 11 billones 900."}
+{"start": 720.96, "end": 726.2, "speaker": "SPK1", "role": "OTRO", "text": "Sí, sí, y ya de hecho, esta semana,"}
+{"start": 726.24, "end": 729.0, "speaker": "SPK1", "role": "OTRO", "text": "probablemente vamos a estar aprobando el primero."}
+{"start": 729.04, "end": 730.24, "speaker": "SPK1", "role": "OTRO", "text": "Ah, el..."}
+{"start": 730.28, "end": 732.52, "speaker": "SPK1", "role": "OTRO", "text": "Se puede saber en qué área que..."}
+{"start": 732.56, "end": 734.44, "speaker": "SPK0", "role": "MINISTRO", "text": "Eh, se, digamos..."}
+{"start": 734.48, "end": 736.68, "speaker": "SPK1", "role": "OTRO", "text": "La respuesta es no, no se puede porque hasta aquí..."}
+{"start": 736.72, "end": 737.92, "speaker": "SPK0", "role": "MINISTRO", "text": "Buena pregunta, Michael."}
+{"start": 737.96, "end": 739.52, "speaker": "SPK0", "role": "MINISTRO", "text": "Porque prefiero..."}
+{"start": 739.56, "end": 744.24, "speaker": "SPK0", "role": "MINISTRO", "text": "Corre, corresponde que lo anunciemos una vez que esté aprobado,"}
+{"start": 744.28, "end": 747.6, "speaker": "SPK0", "role": "MINISTRO", "text": "pero sí, te llamó todo, indica que esta semana ya vamos a estar"}
+{"start": 747.64, "end": 750.96, "speaker": "SPK0", "role": "MINISTRO", "text": "aprobando por lo menos de la economía."}
+{"start": 751.0, "end": 754.48, "speaker": "SPK1", "role": "OTRO", "text": "Bueno, flor de título, o sea,"}
+{"start": 754.52, "end": 759.12, "speaker": "SPK1", "role": "OTRO", "text": "se aprobaría la primera inversión del Rigi o Rigi,"}
+{"start": 759.16, "end": 762.08, "speaker": "SPK1", "role": "OTRO", "text": "acá debatimos siempre si es Rigi o Rigi,"}
+{"start": 762.12, "end": 765.32, "speaker": "SPK0", "role": "MINISTRO", "text": "esta semana, eh, todo un título."}
+{"start": 765.36, "end": 767.76, "speaker": "SPK0", "role": "MINISTRO", "text": "La Argentina está cara."}
+{"start": 767.8, "end": 771.32, "speaker": "SPK1", "role": "OTRO", "text": "Todos decimos, no solamente lo decimos, sino que lo sentimos."}
+{"start": 771.36, "end": 775.04, "speaker": "SPK1", "role": "OTRO", "text": "Es cierto que muchos argentinos se van a comprar a Chile"}
+{"start": 775.08, "end": 778.08, "speaker": "SPK1", "role": "OTRO", "text": "o se van de vacaciones a Brasil o se van de vacaciones en su web"}
+{"start": 778.12, "end": 781.24, "speaker": "SPK0", "role": "MINISTRO", "text": "porque la resulta más caro que más barato digo que Argentina."}
+{"start": 781.28, "end": 783.96, "speaker": "SPK0", "role": "MINISTRO", "text": "¿Por qué Argentina está tan cara? ¿El dólar está trazado?"}
+{"start": 784.0, "end": 788.08, "speaker": "SPK0", "role": "MINISTRO", "text": "Bueno, me encanta la pregunta, porque viene bien a aclararlo."}
+{"start": 788.12, "end": 790.36, "speaker": "SPK0", "role": "MINISTRO", "text": "No, el dólar no está trazado."}
+{"start": 790.4, "end": 795.04, "speaker": "SPK0", "role": "MINISTRO", "text": "Y primero me gustaría como explicar algo"}
+{"start": 795.08, "end": 798.76, "speaker": "SPK0", "role": "MINISTRO", "text": "que puede ser obvio, pero que vale la pena."}
+{"start": 798.8, "end": 803.72, "speaker": "SPK0", "role": "MINISTRO", "text": "Digamos, hay mucha gente que quiere que el país esté barato en dólares."}
+{"start": 803.76, "end": 804.76, "speaker": "SPK1", "role": "OTRO", "text": "Sí."}
+{"start": 804.8, "end": 809.8, "speaker": "SPK1", "role": "OTRO", "text": "Y que piensan así, genuinamente, incluso con economistas,"}
+{"start": 809.84, "end": 812.2, "speaker": "SPK1", "role": "OTRO", "text": "que un país esté barato en dólares"}
+{"start": 812.24, "end": 815.08, "speaker": "SPK1", "role": "OTRO", "text": "no es otra cosa que el reflejo de que le va mal."}
+{"start": 816.04, "end": 818.72, "speaker": "SPK0", "role": "MINISTRO", "text": "Cuando vos te va bien, tu moneda se fortalece."}
+{"start": 818.76, "end": 821.6, "speaker": "SPK0", "role": "MINISTRO", "text": "Cuando te va mal, el país se pone barato en dólares."}
+{"start": 821.64, "end": 825.8, "speaker": "SPK0", "role": "MINISTRO", "text": "Cuando estuvo más barato, cuando soñemos nosotros, digamos,"}
+{"start": 825.84, "end": 828.36, "speaker": "SPK0", "role": "MINISTRO", "text": "en la previa a la asunción nuestra,"}
+{"start": 828.4, "end": 829.84, "speaker": "SPK0", "role": "MINISTRO", "text": "decir con Alberto Fernández y..."}
+{"start": 829.88, "end": 830.76, "speaker": "SPK0", "role": "MINISTRO", "text": "¿Certiomasa, sí?"}
+{"start": 830.8, "end": 835.32, "speaker": "SPK0", "role": "MINISTRO", "text": "Claro, queríamos ese país o estamos mejor hoy."}
+{"start": 835.36, "end": 838.24, "speaker": "SPK1", "role": "OTRO", "text": "Entonces, es natural que si haces las cosas bien,"}
+{"start": 838.28, "end": 839.84, "speaker": "SPK0", "role": "MINISTRO", "text": "tu moneda se fortalece."}
+{"start": 839.88, "end": 842.88, "speaker": "SPK0", "role": "MINISTRO", "text": "Cuando la gente pide un dólar barato, no se da cuenta,"}
+{"start": 842.92, "end": 845.68, "speaker": "SPK0", "role": "MINISTRO", "text": "no la gente, sino me refiero a los entendidos,"}
+{"start": 845.72, "end": 848.96, "speaker": "SPK0", "role": "MINISTRO", "text": "a los economistas, a los empresarios y eso,"}
+{"start": 849.0, "end": 851.6, "speaker": "SPK1", "role": "OTRO", "text": "cuando piden eso, no se da cuenta que están pidiendo un país"}
+{"start": 851.64, "end": 852.56, "speaker": "SPK0", "role": "MINISTRO", "text": "al que le vaya mal."}
+{"start": 852.6, "end": 854.4, "speaker": "SPK0", "role": "MINISTRO", "text": "No queremos un país al que le vaya mal."}
+{"start": 854.44, "end": 857.72, "speaker": "SPK0", "role": "MINISTRO", "text": "Queremos un país competitivo donde la gente tenga acceso"}
+{"start": 857.76, "end": 861.6, "speaker": "SPK1", "role": "OTRO", "text": "a bienes y servicios a un precio razonable"}
+{"start": 861.64, "end": 864.88, "speaker": "SPK0", "role": "MINISTRO", "text": "y tenga un buen salario también en dólares."}
+{"start": 864.92, "end": 871.0, "speaker": "SPK0", "role": "MINISTRO", "text": "Y además, te digo, hay una diferencia entre decir el dólar."}
+{"start": 871.04, "end": 873.32, "speaker": "SPK0", "role": "MINISTRO", "text": "Yo te puedo decir, el dólar está barato"}
+{"start": 873.36, "end": 875.96, "speaker": "SPK0", "role": "MINISTRO", "text": "o los precios están adelantados."}
+{"start": 876.0, "end": 879.88, "speaker": "SPK0", "role": "MINISTRO", "text": "Hoy veía Antonio Laje poner un muy buen ejemplo."}
+{"start": 880.72, "end": 881.96, "speaker": "SPK0", "role": "MINISTRO", "text": "Y hay muchos otros, ¿no?"}
+{"start": 882.0, "end": 885.64, "speaker": "SPK0", "role": "MINISTRO", "text": "Pero ponía el ejemplo de una casa de ropa muy conocida,"}
+{"start": 885.68, "end": 888.08, "speaker": "SPK0", "role": "MINISTRO", "text": "en Argentina, muy conocida,"}
+{"start": 889.12, "end": 894.0, "speaker": "SPK0", "role": "MINISTRO", "text": "que vendía, vende una campera en Chile,"}
+{"start": 894.68, "end": 897.52, "speaker": "SPK0", "role": "MINISTRO", "text": "o sea, exportándola a 250 dólares."}
+{"start": 898.36, "end": 900.04, "speaker": "SPK0", "role": "MINISTRO", "text": "¿En cuanto la vende en Argentina?"}
+{"start": 900.08, "end": 900.6, "speaker": "SPK0", "role": "MINISTRO", "text": "¿Cuánto?"}
+{"start": 900.64, "end": 902.6, "speaker": "SPK0", "role": "MINISTRO", "text": "Ya misma, exacta. 500."}
+{"start": 903.4, "end": 907.28, "speaker": "SPK1", "role": "OTRO", "text": "Entonces, vos me decís, la campera es cara, sí."}
+{"start": 907.32, "end": 910.44, "speaker": "SPK1", "role": "OTRO", "text": "Ahora yo te digo, es cara porque el dólar está barato"}
+{"start": 910.48, "end": 912.44, "speaker": "SPK0", "role": "MINISTRO", "text": "o porque quiere ganar un 100 por ciento,"}
+{"start": 912.48, "end": 915.04, "speaker": "SPK0", "role": "MINISTRO", "text": "más de lo que gana compitiendo en Chile."}
+{"start": 915.08, "end": 916.72, "speaker": "SPK0", "role": "MINISTRO", "text": "Claro, en Chile tiene que competir."}
+{"start": 917.24, "end": 919.4, "speaker": "SPK1", "role": "OTRO", "text": "Entonces la vende a 250."}
+{"start": 919.44, "end": 923.6, "speaker": "SPK0", "role": "MINISTRO", "text": "Acá, casa en el zoológico, entonces la vende a 500."}
+{"start": 923.64, "end": 925.52, "speaker": "SPK0", "role": "MINISTRO", "text": "Ahí estamos hablando específicamente de ropa,"}
+{"start": 925.56, "end": 927.52, "speaker": "SPK0", "role": "MINISTRO", "text": "que es cierto que Argentina aparte ese,"}
+{"start": 927.56, "end": 931.6, "speaker": "SPK1", "role": "OTRO", "text": "pero hipercaro, no hay manera de comparar la ropa en Argentina,"}
+{"start": 931.64, "end": 935.28, "speaker": "SPK1", "role": "OTRO", "text": "es imposible, se ha protegido mucho al textile"}
+{"start": 935.32, "end": 936.68, "speaker": "SPK1", "role": "OTRO", "text": "durante muchos años,"}
+{"start": 936.72, "end": 938.16, "speaker": "SPK0", "role": "MINISTRO", "text": "pero también es cierto que en Argentina"}
+{"start": 938.2, "end": 939.52, "speaker": "SPK0", "role": "MINISTRO", "text": "nos ha marcado tomar un café."}
+{"start": 939.56, "end": 942.88, "speaker": "SPK0", "role": "MINISTRO", "text": "Pero de vuelta, ese ha sido en general el modelo,"}
+{"start": 942.92, "end": 946.0, "speaker": "SPK0", "role": "MINISTRO", "text": "con el cuento de proteger a las diferentes industrias"}
+{"start": 946.04, "end": 950.88, "speaker": "SPK0", "role": "MINISTRO", "text": "y demás, se ha perjudicado a todos los argentinos,"}
+{"start": 950.92, "end": 953.68, "speaker": "SPK1", "role": "OTRO", "text": "porque terminan comprando productos de peor calidad"}
+{"start": 953.72, "end": 955.04, "speaker": "SPK0", "role": "MINISTRO", "text": "o un precio más alto."}
+{"start": 955.12, "end": 956.84, "speaker": "SPK0", "role": "MINISTRO", "text": "Hay muchísimos ejemplos."}
+{"start": 958.08, "end": 961.2, "speaker": "SPK0", "role": "MINISTRO", "text": "Un fabricante de olla muy, muy buenas"}
+{"start": 961.24, "end": 963.76, "speaker": "SPK0", "role": "MINISTRO", "text": "y que las exporta también."}
+{"start": 963.8, "end": 966.12, "speaker": "SPK0", "role": "MINISTRO", "text": "Vende en Estados Unidos a la mitad de precios"}
+{"start": 966.16, "end": 967.52, "speaker": "SPK0", "role": "MINISTRO", "text": "de lo que los vende acá."}
+{"start": 967.56, "end": 970.96, "speaker": "SPK0", "role": "MINISTRO", "text": "El aluminio, un productor más grande,"}
+{"start": 971.0, "end": 973.52, "speaker": "SPK0", "role": "MINISTRO", "text": "que exporta el 75 por ciento,"}
+{"start": 973.56, "end": 977.6, "speaker": "SPK0", "role": "MINISTRO", "text": "vende el aluminio, exporta a la mitad de lo que lo vende acá."}
+{"start": 977.64, "end": 979.64, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces de vuelta, yo te pregunto, en realidad,"}
+{"start": 979.68, "end": 981.44, "speaker": "SPK0", "role": "MINISTRO", "text": "es el precio del dólar o son,"}
+{"start": 981.48, "end": 983.44, "speaker": "SPK0", "role": "MINISTRO", "text": "o hay gente que quiere un margen"}
+{"start": 983.56, "end": 986.96, "speaker": "SPK0", "role": "MINISTRO", "text": "que está acostumbrada a ganar un margen en Argentina,"}
+{"start": 987.0, "end": 989.04, "speaker": "SPK0", "role": "MINISTRO", "text": "que en la Argentina que nosotros queremos,"}
+{"start": 989.08, "end": 991.56, "speaker": "SPK0", "role": "MINISTRO", "text": "esos margenes no van a estar más."}
+{"start": 991.6, "end": 994.16, "speaker": "SPK0", "role": "MINISTRO", "text": "O sea, típicamente eso se justificaba"}
+{"start": 994.2, "end": 996.96, "speaker": "SPK0", "role": "MINISTRO", "text": "porque Argentina era un país muy riesgoso,"}
+{"start": 997.0, "end": 1001.92, "speaker": "SPK1", "role": "OTRO", "text": "entonces necesitás una tasa de retorno más alta."}
+{"start": 1001.96, "end": 1004.24, "speaker": "SPK0", "role": "MINISTRO", "text": "Ahora, en el país al que nosotros apuntamos,"}
+{"start": 1004.28, "end": 1005.64, "speaker": "SPK0", "role": "MINISTRO", "text": "eso no tiene que pasar."}
+{"start": 1005.68, "end": 1009.6, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces, pretender tener un dólar barato"}
+{"start": 1009.64, "end": 1012.12, "speaker": "SPK0", "role": "MINISTRO", "text": "hoy es una muy mala estrategia."}
+{"start": 1012.16, "end": 1014.92, "speaker": "SPK0", "role": "MINISTRO", "text": "Nosotros tenemos que, como digo,"}
+{"start": 1014.96, "end": 1018.08, "speaker": "SPK0", "role": "MINISTRO", "text": "bajar impuestos, bajar regulaciones"}
+{"start": 1018.12, "end": 1021.28, "speaker": "SPK0", "role": "MINISTRO", "text": "y digamos que la gente tenga acceso"}
+{"start": 1021.32, "end": 1024.92, "speaker": "SPK0", "role": "MINISTRO", "text": "a mejores productos a mucho mejores precios,"}
+{"start": 1024.96, "end": 1027.0, "speaker": "SPK0", "role": "MINISTRO", "text": "que haya competencia e inversión."}
+{"start": 1027.04, "end": 1029.84, "speaker": "SPK0", "role": "MINISTRO", "text": "Hay que hacer un switch también como empresario"}
+{"start": 1029.88, "end": 1031.2, "speaker": "SPK0", "role": "MINISTRO", "text": "en que se acabó la época,"}
+{"start": 1031.24, "end": 1032.92, "speaker": "SPK0", "role": "MINISTRO", "text": "yo lo digo simbólicamente,"}
+{"start": 1032.96, "end": 1034.28, "speaker": "SPK0", "role": "MINISTRO", "text": "de casar en el zoológico,"}
+{"start": 1034.32, "end": 1036.48, "speaker": "SPK0", "role": "MINISTRO", "text": "porque la verdad cuando está todo protegido"}
+{"start": 1036.52, "end": 1041.92, "speaker": "SPK0", "role": "MINISTRO", "text": "y te subsidia en la energía"}
+{"start": 1041.92, "end": 1043.32, "speaker": "SPK0", "role": "MINISTRO", "text": "y el combustible y todo claro,"}
+{"start": 1043.36, "end": 1046.4, "speaker": "SPK0", "role": "MINISTRO", "text": "todo parece fácil, pero se paga con inflación,"}
+{"start": 1046.44, "end": 1047.8, "speaker": "SPK0", "role": "MINISTRO", "text": "lo pagan los que menos tienen,"}
+{"start": 1047.84, "end": 1049.24, "speaker": "SPK0", "role": "MINISTRO", "text": "se paga con más pobreza,"}
+{"start": 1049.28, "end": 1052.36, "speaker": "SPK0", "role": "MINISTRO", "text": "es el modelo argentino de todas estas décadas"}
+{"start": 1052.4, "end": 1055.12, "speaker": "SPK0", "role": "MINISTRO", "text": "que fue un fracaso total que nos trajo a esto."}
+{"start": 1055.16, "end": 1057.56, "speaker": "SPK1", "role": "OTRO", "text": "O sea, que lo que hubiera que sé es que son más bien"}
+{"start": 1057.6, "end": 1061.24, "speaker": "SPK1", "role": "OTRO", "text": "margenes excesivos del empresario en general"}
+{"start": 1061.28, "end": 1064.8, "speaker": "SPK1", "role": "OTRO", "text": "y no un tema de carro impositivo en la Argentina."}
+{"start": 1064.84, "end": 1066.32, "speaker": "SPK1", "role": "OTRO", "text": "No, hay las dos cosas."}
+{"start": 1066.36, "end": 1069.68, "speaker": "SPK1", "role": "OTRO", "text": "Hay sectores que están, digamos,"}
+{"start": 1069.72, "end": 1072.12, "speaker": "SPK1", "role": "OTRO", "text": "que porque el mercado se los convalida,"}
+{"start": 1072.16, "end": 1076.04, "speaker": "SPK0", "role": "MINISTRO", "text": "venden a un precio mucho más alto,"}
+{"start": 1076.08, "end": 1077.16, "speaker": "SPK0", "role": "MINISTRO", "text": "pero no le echen la culpa,"}
+{"start": 1077.2, "end": 1079.84, "speaker": "SPK0", "role": "MINISTRO", "text": "entonces yo digo al tipo de cambio."}
+{"start": 1079.88, "end": 1081.32, "speaker": "SPK1", "role": "OTRO", "text": "Y por supuesto que no son todos."}
+{"start": 1081.36, "end": 1084.8, "speaker": "SPK0", "role": "MINISTRO", "text": "Y además, hay una carga impositiva"}
+{"start": 1084.84, "end": 1089.36, "speaker": "SPK0", "role": "MINISTRO", "text": "muy alta producto de todos los déficits pasados."}
+{"start": 1089.4, "end": 1091.2, "speaker": "SPK0", "role": "MINISTRO", "text": "Recuerda que todos los déficits pasados"}
+{"start": 1091.24, "end": 1093.64, "speaker": "SPK0", "role": "MINISTRO", "text": "se financiaron primero con suba de impuestos,"}
+{"start": 1093.68, "end": 1096.8, "speaker": "SPK0", "role": "MINISTRO", "text": "pues con deuda, después con emisión."}
+{"start": 1096.84, "end": 1099.48, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces, todo eso generó una distorsión"}
+{"start": 1099.52, "end": 1101.8, "speaker": "SPK0", "role": "MINISTRO", "text": "enorme. Cuando subías los impuestos,"}
+{"start": 1101.84, "end": 1104.04, "speaker": "SPK0", "role": "MINISTRO", "text": "la gente se iba a la informalidad,"}
+{"start": 1104.08, "end": 1107.44, "speaker": "SPK0", "role": "MINISTRO", "text": "si lo subías mucho hasta se iban del país,"}
+{"start": 1107.48, "end": 1108.76, "speaker": "SPK0", "role": "MINISTRO", "text": "cuando se financiaban con deuda,"}
+{"start": 1108.8, "end": 1110.2, "speaker": "SPK0", "role": "MINISTRO", "text": "generaban crisis de deuda,"}
+{"start": 1110.24, "end": 1112.16, "speaker": "SPK0", "role": "MINISTRO", "text": "cuando se financiaban con emisión,"}
+{"start": 1112.2, "end": 1115.28, "speaker": "SPK0", "role": "MINISTRO", "text": "generaban inflación altísima,"}
+{"start": 1115.32, "end": 1117.44, "speaker": "SPK0", "role": "MINISTRO", "text": "obviamente mucho más pobreza."}
+{"start": 1117.48, "end": 1120.8, "speaker": "SPK0", "role": "MINISTRO", "text": "Y ese es lo que nosotros vinimos a,"}
+{"start": 1120.84, "end": 1123.04, "speaker": "SPK0", "role": "MINISTRO", "text": "digamos, a recomponer."}
+{"start": 1123.08, "end": 1124.96, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces, lo primero es el ancla fiscal,"}
+{"start": 1125.0, "end": 1128.64, "speaker": "SPK0", "role": "MINISTRO", "text": "es decir, no vamos a gastar más de lo que recaudamos."}
+{"start": 1128.68, "end": 1131.48, "speaker": "SPK0", "role": "MINISTRO", "text": "Eso ya te permite que no tengas que tomar de deuda,"}
+{"start": 1131.52, "end": 1133.48, "speaker": "SPK0", "role": "MINISTRO", "text": "que no tengas que imprimir."}
+{"start": 1133.52, "end": 1136.64, "speaker": "SPK0", "role": "MINISTRO", "text": "Y después lo que necesitamos es"}
+{"start": 1136.68, "end": 1139.96, "speaker": "SPK1", "role": "OTRO", "text": "empezar a crecer como país para tener superávit."}
+{"start": 1140.0, "end": 1141.52, "speaker": "SPK0", "role": "MINISTRO", "text": "Una vez que tengamos superávit,"}
+{"start": 1141.56, "end": 1143.84, "speaker": "SPK0", "role": "MINISTRO", "text": "nosotros le vamos a devolver ese superávit"}
+{"start": 1143.88, "end": 1146.52, "speaker": "SPK0", "role": "MINISTRO", "text": "a la gente en términos de baja de impuestos."}
+{"start": 1146.56, "end": 1148.88, "speaker": "SPK0", "role": "MINISTRO", "text": "Eso lo va a permitir ser más competitiva"}
+{"start": 1148.92, "end": 1151.08, "speaker": "SPK0", "role": "MINISTRO", "text": "y una vez que puedan ser más competitivos,"}
+{"start": 1151.12, "end": 1153.08, "speaker": "SPK0", "role": "MINISTRO", "text": "también ahí los haremos competir"}
+{"start": 1153.12, "end": 1155.36, "speaker": "SPK0", "role": "MINISTRO", "text": "para que de vuelta eso se traduzca"}
+{"start": 1155.4, "end": 1158.04, "speaker": "SPK0", "role": "MINISTRO", "text": "en que la gente pueda comprar mejores productos."}
+{"start": 1158.12, "end": 1160.84, "speaker": "SPK0", "role": "MINISTRO", "text": "Ahora, hoy hablaba con mis amigos del campo."}
+{"start": 1160.88, "end": 1164.2, "speaker": "SPK1", "role": "OTRO", "text": "Ustedes saben que yo siempre lo asito al campo."}
+{"start": 1164.24, "end": 1166.16, "speaker": "SPK1", "role": "OTRO", "text": "No, no, no, no."}
+{"start": 1166.2, "end": 1168.72, "speaker": "SPK1", "role": "OTRO", "text": "No se iba a salvar ninguna respuesta del campo."}
+{"start": 1168.76, "end": 1169.92, "speaker": "SPK1", "role": "OTRO", "text": "Jamás, jamás."}
+{"start": 1169.96, "end": 1171.96, "speaker": "SPK1", "role": "OTRO", "text": "Bueno, porque cuando pienso en atraso,"}
+{"start": 1172.0, "end": 1174.68, "speaker": "SPK1", "role": "OTRO", "text": "cambié algo que se dice y mucho en el campo,"}
+{"start": 1174.72, "end": 1176.96, "speaker": "SPK1", "role": "OTRO", "text": "sobre todo para los exportadores que piensan,"}
+{"start": 1177.0, "end": 1181.32, "speaker": "SPK1", "role": "OTRO", "text": "bueno, este tipo de cambio, más las retenciones,"}
+{"start": 1181.36, "end": 1184.56, "speaker": "SPK1", "role": "OTRO", "text": "que bueno, el propio presidente Javier Milé,"}
+{"start": 1184.6, "end": 1186.48, "speaker": "SPK1", "role": "OTRO", "text": "hace muy poquito en Sociedad Rúo Argentina,"}
+{"start": 1186.52, "end": 1188.2, "speaker": "SPK1", "role": "OTRO", "text": "dijo tenemos todas las intenciones,"}
+{"start": 1188.24, "end": 1189.92, "speaker": "SPK1", "role": "OTRO", "text": "pero por ahora no podemos bajar."}
+{"start": 1189.96, "end": 1193.16, "speaker": "SPK0", "role": "MINISTRO", "text": "Y a eso los precios bajo de las comodities"}
+{"start": 1193.2, "end": 1197.2, "speaker": "SPK0", "role": "MINISTRO", "text": "son un combo explosivo hoy para el sector."}
+{"start": 1197.24, "end": 1199.84, "speaker": "SPK0", "role": "MINISTRO", "text": "Bueno, de vuelta, dentro de ese combo,"}
+{"start": 1199.88, "end": 1203.64, "speaker": "SPK0", "role": "MINISTRO", "text": "digamos, el problema no es el tipo de cambio."}
+{"start": 1203.68, "end": 1208.24, "speaker": "SPK0", "role": "MINISTRO", "text": "O sea, te digo, para hacerlo así en términos bien burdos."}
+{"start": 1208.28, "end": 1211.2, "speaker": "SPK1", "role": "OTRO", "text": "Si nosotros mañana bajáramos las retenciones a cero,"}
+{"start": 1211.24, "end": 1212.8, "speaker": "SPK1", "role": "OTRO", "text": "estarían felices en el campo."}
+{"start": 1212.84, "end": 1213.96, "speaker": "SPK1", "role": "OTRO", "text": "Sí, sin lugar a duda."}
+{"start": 1214.0, "end": 1215.68, "speaker": "SPK1", "role": "OTRO", "text": "Entonces, el problema no es el tipo de cambio,"}
+{"start": 1215.72, "end": 1218.36, "speaker": "SPK1", "role": "OTRO", "text": "son las retenciones y tienes razón el campo."}
+{"start": 1218.4, "end": 1222.96, "speaker": "SPK1", "role": "OTRO", "text": "Y nosotros, por supuesto, de vuelta vinimos a eso."}
+{"start": 1223.0, "end": 1227.72, "speaker": "SPK0", "role": "MINISTRO", "text": "Vinimos a bajar el impuesto, vinimos a bajar las retenciones."}
+{"start": 1227.76, "end": 1231.56, "speaker": "SPK0", "role": "MINISTRO", "text": "Dada la situación heredada, no solo del último,"}
+{"start": 1231.6, "end": 1234.12, "speaker": "SPK0", "role": "MINISTRO", "text": "sino dada nuestra trayectoria,"}
+{"start": 1234.16, "end": 1237.24, "speaker": "SPK1", "role": "OTRO", "text": "nuestra trayectoria hace que nuestra herencia,"}
+{"start": 1237.28, "end": 1240.0, "speaker": "SPK1", "role": "OTRO", "text": "no solo fue la más pesada de la historia económicamente,"}
+{"start": 1240.08, "end": 1244.68, "speaker": "SPK0", "role": "MINISTRO", "text": "sino que además nos tocó en un pico de cero recursos."}
+{"start": 1244.72, "end": 1246.92, "speaker": "SPK0", "role": "MINISTRO", "text": "Cero, o sea, pensá que no teníamos plata,"}
+{"start": 1246.96, "end": 1249.52, "speaker": "SPK0", "role": "MINISTRO", "text": "no teníamos reserva, no teníamos financiamiento,"}
+{"start": 1249.56, "end": 1252.12, "speaker": "SPK0", "role": "MINISTRO", "text": "pero sobre todo no teníamos credibilidad."}
+{"start": 1252.16, "end": 1253.48, "speaker": "SPK0", "role": "MINISTRO", "text": "Y la credibilidad, insisto,"}
+{"start": 1253.52, "end": 1257.2, "speaker": "SPK0", "role": "MINISTRO", "text": "es la materia prima a la hora de hacer política económica."}
+{"start": 1257.24, "end": 1260.56, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces, esa combinación hace que vos no tengas"}
+{"start": 1260.6, "end": 1263.08, "speaker": "SPK0", "role": "MINISTRO", "text": "los mismos grados de libertad que un ministro de Economía"}
+{"start": 1263.12, "end": 1266.6, "speaker": "SPK0", "role": "MINISTRO", "text": "o un presidente de Banco Central y un país desarrollado,"}
+{"start": 1266.68, "end": 1269.08, "speaker": "SPK0", "role": "MINISTRO", "text": "que, típicamente, se anuncian algo,"}
+{"start": 1269.12, "end": 1271.64, "speaker": "SPK0", "role": "MINISTRO", "text": "eso ya es suficiente para cambiar expectativas."}
+{"start": 1271.68, "end": 1272.68, "speaker": "SPK0", "role": "MINISTRO", "text": "Nosotros no."}
+{"start": 1272.72, "end": 1275.88, "speaker": "SPK0", "role": "MINISTRO", "text": "Tenemos que, efectivamente, mostrar resultados,"}
+{"start": 1275.92, "end": 1277.48, "speaker": "SPK0", "role": "MINISTRO", "text": "porque si no, no nos creen."}
+{"start": 1277.52, "end": 1279.56, "speaker": "SPK0", "role": "MINISTRO", "text": "Y a veces no nos creen ni aún mostrándolo,"}
+{"start": 1279.6, "end": 1282.16, "speaker": "SPK0", "role": "MINISTRO", "text": "porque, de cuánto tiempo dudaron del déficit fiscal..."}
+{"start": 1282.2, "end": 1283.2, "speaker": "SPK0", "role": "MINISTRO", "text": "Sí, es cierto."}
+{"start": 1283.24, "end": 1285.72, "speaker": "SPK0", "role": "MINISTRO", "text": "...del mejor hecho del superávit ahora."}
+{"start": 1285.76, "end": 1290.28, "speaker": "SPK0", "role": "MINISTRO", "text": "Y, entonces, necesitamos tener una posición fiscal más sólida"}
+{"start": 1290.32, "end": 1292.52, "speaker": "SPK0", "role": "MINISTRO", "text": "para poder empezar a bajar impuestos."}
+{"start": 1292.6, "end": 1296.32, "speaker": "SPK0", "role": "MINISTRO", "text": "Es cosa que yo espero que se dé el año próximo,"}
+{"start": 1296.36, "end": 1299.12, "speaker": "SPK0", "role": "MINISTRO", "text": "porque la realidad es que la economía está recuperando fuertemente"}
+{"start": 1299.16, "end": 1302.04, "speaker": "SPK0", "role": "MINISTRO", "text": "y para que la gente entienda cuando la economía recupera,"}
+{"start": 1302.08, "end": 1303.56, "speaker": "SPK0", "role": "MINISTRO", "text": "aumenta la recaudación."}
+{"start": 1303.6, "end": 1305.56, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces, aumenta la recaudación."}
+{"start": 1305.6, "end": 1308.32, "speaker": "SPK0", "role": "MINISTRO", "text": "Y nosotros no aumentamos el gasto,"}
+{"start": 1308.36, "end": 1310.56, "speaker": "SPK0", "role": "MINISTRO", "text": "entonces empezamos a tener superávit."}
+{"start": 1310.6, "end": 1312.24, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces, ¿qué hacemos con esa plata?"}
+{"start": 1312.28, "end": 1314.12, "speaker": "SPK0", "role": "MINISTRO", "text": "Empezamos a bajar impuestos."}
+{"start": 1314.16, "end": 1317.16, "speaker": "SPK1", "role": "OTRO", "text": "En uno de los impuestos a la cabeza van a ser las retenciones."}
+{"start": 1317.2, "end": 1319.24, "speaker": "SPK1", "role": "OTRO", "text": "Las retenciones, las famosas retenciones."}
+{"start": 1319.28, "end": 1322.0, "speaker": "SPK1", "role": "OTRO", "text": "¿Estamos cerca de un acuerdo con el fondo?"}
+{"start": 1322.08, "end": 1324.04, "speaker": "SPK1", "role": "OTRO", "text": "Estamos muy bien encaminados."}
+{"start": 1324.08, "end": 1325.6, "speaker": "SPK0", "role": "MINISTRO", "text": "Sí, sí, estamos muy bien..."}
+{"start": 1325.64, "end": 1328.88, "speaker": "SPK0", "role": "MINISTRO", "text": "Los tiempos del fondo son lentos,"}
+{"start": 1328.92, "end": 1332.48, "speaker": "SPK0", "role": "MINISTRO", "text": "pero estamos muy bien encaminados, tenemos muy buen diálogo."}
+{"start": 1332.52, "end": 1336.16, "speaker": "SPK0", "role": "MINISTRO", "text": "Y yo estimo que sí, pero al primer cuatrimestre del año que viene,"}
+{"start": 1336.2, "end": 1337.64, "speaker": "SPK0", "role": "MINISTRO", "text": "vamos a haber llegado a un acuerdo."}
+{"start": 1337.68, "end": 1340.92, "speaker": "SPK1", "role": "OTRO", "text": "¿Ellos que observan sobre lo que está sucediendo en la Argentina"}
+{"start": 1340.96, "end": 1343.6, "speaker": "SPK1", "role": "OTRO", "text": "y dicen algo explícitamente, piden conexiones?"}
+{"start": 1343.64, "end": 1346.6, "speaker": "SPK0", "role": "MINISTRO", "text": "No, igual que todo el mundo, se van en loas,"}
+{"start": 1346.64, "end": 1350.52, "speaker": "SPK0", "role": "MINISTRO", "text": "están maravillados en el fondo..."}
+{"start": 1350.6, "end": 1352.24, "speaker": "SPK0", "role": "MINISTRO", "text": "En el mundo en general."}
+{"start": 1352.28, "end": 1357.6, "speaker": "SPK0", "role": "MINISTRO", "text": "Hoy realmente, si vos miras las redes,"}
+{"start": 1357.64, "end": 1360.88, "speaker": "SPK1", "role": "OTRO", "text": "no se habla de otra cosa que del presidente Javier Milay."}
+{"start": 1360.92, "end": 1362.2, "speaker": "SPK0", "role": "MINISTRO", "text": "En el mundo."}
+{"start": 1362.24, "end": 1367.96, "speaker": "SPK0", "role": "MINISTRO", "text": "Siempre se habló de él por sus ideas y por su contundencia"}
+{"start": 1368.0, "end": 1369.8, "speaker": "SPK1", "role": "OTRO", "text": "y por su personalidad."}
+{"start": 1369.84, "end": 1372.56, "speaker": "SPK0", "role": "MINISTRO", "text": "Ahora, además, lo avalan los resultados,"}
+{"start": 1372.6, "end": 1377.2, "speaker": "SPK0", "role": "MINISTRO", "text": "con lo cual es realmente ya un boom."}
+{"start": 1377.24, "end": 1380.64, "speaker": "SPK0", "role": "MINISTRO", "text": "No quiero suenar fantasioso,"}
+{"start": 1380.68, "end": 1382.32, "speaker": "SPK0", "role": "MINISTRO", "text": "pero realmente les pido chequear en las redes."}
+{"start": 1382.36, "end": 1384.88, "speaker": "SPK0", "role": "MINISTRO", "text": "O sea, se habla desde en todas las revistas,"}
+{"start": 1384.92, "end": 1387.88, "speaker": "SPK0", "role": "MINISTRO", "text": "en todos los medios económicos,"}
+{"start": 1387.92, "end": 1389.88, "speaker": "SPK1", "role": "OTRO", "text": "hoy, hasta en el Parlamento..."}
+{"start": 1389.92, "end": 1391.48, "speaker": "SPK1", "role": "OTRO", "text": "A lo bien, en Alemancia."}
+{"start": 1391.52, "end": 1393.6, "speaker": "SPK1", "role": "OTRO", "text": "...lo podían de ejemplo."}
+{"start": 1393.64, "end": 1398.04, "speaker": "SPK0", "role": "MINISTRO", "text": "Entonces, está haciendo realmente una revolución el presidente."}
+{"start": 1398.08, "end": 1402.04, "speaker": "SPK0", "role": "MINISTRO", "text": "O sea, esa batalla cultural que el presidente dio a nivel local,"}
+{"start": 1402.08, "end": 1404.4, "speaker": "SPK0", "role": "MINISTRO", "text": "hoy la está dando a nivel mundial."}
+{"start": 1404.48, "end": 1409.04, "speaker": "SPK0", "role": "MINISTRO", "text": "Y siempre lo digo, y creo que ya es obvio,"}
+{"start": 1409.08, "end": 1411.44, "speaker": "SPK0", "role": "MINISTRO", "text": "y nadie me lo puede, digamos, disputar,"}
+{"start": 1411.48, "end": 1415.76, "speaker": "SPK0", "role": "MINISTRO", "text": "hoy es una de las dos, tres voces más importantes del mundo."}
+{"start": 1415.8, "end": 1418.12, "speaker": "SPK0", "role": "MINISTRO", "text": "Y es el presidente de Argentina,"}
+{"start": 1418.16, "end": 1420.4, "speaker": "SPK0", "role": "MINISTRO", "text": "con lo cual es mío, impresionante lo que estamos diciendo."}
+{"start": 1420.44, "end": 1424.44, "speaker": "SPK0", "role": "MINISTRO", "text": "En serio, ubiquemos en lo que era la imagen de nuestro presidente"}
+{"start": 1424.48, "end": 1427.64, "speaker": "SPK0", "role": "MINISTRO", "text": "hace un año y hoy tener un presidente"}
+{"start": 1427.68, "end": 1430.32, "speaker": "SPK0", "role": "MINISTRO", "text": "que es uno de los dos, tres más importantes del mundo."}
+{"start": 1430.36, "end": 1434.32, "speaker": "SPK0", "role": "MINISTRO", "text": "Bueno, es una verdad que es una cosa increíble."}
+{"start": 1434.64, "end": 1437.72, "speaker": "SPK0", "role": "MINISTRO", "text": "Si tenemos para el primer cuatrimestre ese acuerdo con el fondo,"}
+{"start": 1437.76, "end": 1442.08, "speaker": "SPK0", "role": "MINISTRO", "text": "como usted dice, la salida del cepo está más cerca,"}
+{"start": 1442.12, "end": 1445.56, "speaker": "SPK0", "role": "MINISTRO", "text": "la salida del cepo nos la tenemos que imaginar en capas."}
+{"start": 1446.32, "end": 1447.64, "speaker": "SPK0", "role": "MINISTRO", "text": "Buena pregunta."}
+{"start": 1447.68, "end": 1451.0, "speaker": "SPK0", "role": "MINISTRO", "text": "Para salir del cepo, nosotros de vuelta no nos ponemos..."}
+{"start": 1451.04, "end": 1453.28, "speaker": "SPK0", "role": "MINISTRO", "text": "Es igual que con las retenciones y con todo."}
+{"start": 1453.32, "end": 1455.96, "speaker": "SPK0", "role": "MINISTRO", "text": "No nos ponemos fechas, nos ponemos metas."}
+{"start": 1456.0, "end": 1458.92, "speaker": "SPK0", "role": "MINISTRO", "text": "Fechas es muy arrogante,"}
+{"start": 1458.96, "end": 1461.08, "speaker": "SPK0", "role": "MINISTRO", "text": "sería muy arrogante de nuestro lado."}
+{"start": 1461.12, "end": 1462.4, "speaker": "SPK0", "role": "MINISTRO", "text": "Si tienen que cumplir condiciones."}
+{"start": 1462.44, "end": 1466.4, "speaker": "SPK1", "role": "OTRO", "text": "En el caso del cepo, se tienen que cumplir tres condiciones."}
+{"start": 1466.44, "end": 1470.08, "speaker": "SPK0", "role": "MINISTRO", "text": "Una es que la inflación converja al nivel del..."}
+{"start": 1470.12, "end": 1473.36, "speaker": "SPK1", "role": "OTRO", "text": "del... del crawl, que es la devaluación..."}
+{"start": 1473.4, "end": 1474.56, "speaker": "SPK1", "role": "OTRO", "text": "Por goteo."}
+{"start": 1474.6, "end": 1477.64, "speaker": "SPK0", "role": "MINISTRO", "text": "Por goteo, que se hace del tipo de cambio oficial."}
+{"start": 1477.68, "end": 1482.24, "speaker": "SPK0", "role": "MINISTRO", "text": "La segunda es que terminar de equilibrar el mercado de dinero,"}
+{"start": 1482.28, "end": 1486.68, "speaker": "SPK0", "role": "MINISTRO", "text": "que es, digamos, la demanda y la oferta de pesos,"}
+{"start": 1486.72, "end": 1489.92, "speaker": "SPK1", "role": "OTRO", "text": "esto es sumamente importante."}
+{"start": 1489.96, "end": 1492.96, "speaker": "SPK0", "role": "MINISTRO", "text": "Cuando llegamos el desbalance en el mercado de dinero,"}
+{"start": 1493.0, "end": 1493.92, "speaker": "SPK0", "role": "MINISTRO", "text": "era total."}
+{"start": 1493.96, "end": 1495.44, "speaker": "SPK0", "role": "MINISTRO", "text": "¿Quién quería pesos?"}
+{"start": 1495.48, "end": 1496.64, "speaker": "SPK1", "role": "OTRO", "text": "¿Alguno quería pesos?"}
+{"start": 1496.68, "end": 1497.68, "speaker": "SPK1", "role": "OTRO", "text": "No, no."}
+{"start": 1497.72, "end": 1499.8, "speaker": "SPK1", "role": "OTRO", "text": "La demanda de dinero era cero."}
+{"start": 1499.84, "end": 1501.64, "speaker": "SPK1", "role": "OTRO", "text": "Y la oferta era enorme,"}
+{"start": 1501.68, "end": 1505.44, "speaker": "SPK0", "role": "MINISTRO", "text": "porque había casi cuatro bases monetarias en pasivos remunerados."}
+{"start": 1505.48, "end": 1507.32, "speaker": "SPK0", "role": "MINISTRO", "text": "¿Qué son los pasivos remunerados?"}
+{"start": 1507.36, "end": 1512.84, "speaker": "SPK0", "role": "MINISTRO", "text": "Son esos pesos que el Banco Central tenía que retirar del mercado,"}
+{"start": 1512.88, "end": 1514.0, "speaker": "SPK1", "role": "OTRO", "text": "porque sobraban..."}
+{"start": 1514.04, "end": 1515.12, "speaker": "SPK1", "role": "OTRO", "text": "El excedente de pesos."}
+{"start": 1515.16, "end": 1516.76, "speaker": "SPK0", "role": "MINISTRO", "text": "El excedente de pesos."}
+{"start": 1516.8, "end": 1520.4, "speaker": "SPK0", "role": "MINISTRO", "text": "Había cuatro bases monetarias más en pasivos remunerados."}
+{"start": 1520.44, "end": 1523.64, "speaker": "SPK0", "role": "MINISTRO", "text": "Bueno, nosotros equilibramos muchísimo ese mercado,"}
+{"start": 1523.68, "end": 1527.28, "speaker": "SPK0", "role": "MINISTRO", "text": "porque uno aumentó fuertemente la demanda de pesos,"}
+{"start": 1527.32, "end": 1530.44, "speaker": "SPK0", "role": "MINISTRO", "text": "producto de la baja de la inflación y la tasa de interés,"}
+{"start": 1530.48, "end": 1535.16, "speaker": "SPK0", "role": "MINISTRO", "text": "y dos, nosotros bajamos fuertemente la oferta monetaria,"}
+{"start": 1535.2, "end": 1537.16, "speaker": "SPK0", "role": "MINISTRO", "text": "sobre todo al principio del programa,"}
+{"start": 1537.2, "end": 1539.08, "speaker": "SPK0", "role": "MINISTRO", "text": "cuando pusimos tasas..."}
+{"start": 1539.12, "end": 1544.28, "speaker": "SPK0", "role": "MINISTRO", "text": "Cuando tuvimos un período de fuertes tasas de interés reales negativas,"}
+{"start": 1544.32, "end": 1545.96, "speaker": "SPK0", "role": "MINISTRO", "text": "que fue toda una novedad,"}
+{"start": 1546.0, "end": 1549.56, "speaker": "SPK0", "role": "MINISTRO", "text": "pero que fue una parte crucial del programa, crucial,"}
+{"start": 1549.6, "end": 1551.72, "speaker": "SPK0", "role": "MINISTRO", "text": "porque si no hubiéramos hecho eso,"}
+{"start": 1551.76, "end": 1554.4, "speaker": "SPK0", "role": "MINISTRO", "text": "y hubiéramos puesto como muchos aconsejaban tener..."}

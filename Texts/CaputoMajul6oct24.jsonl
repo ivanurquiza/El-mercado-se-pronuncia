@@ -1,0 +1,1085 @@
+{"start": 1.62, "end": 3.62, "text": "Ministro, gracias por recibirnos nuevamente.", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 3.62, "end": 4.62, "text": "Un placer, Luis.", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 4.62, "end": 7.62, "text": "Casi diez meses de gestión, casi diez meses de gobierno.", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 7.62, "end": 11.62, "text": "Yo le voy a proponer un abanico de temas", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 11.62, "end": 13.62, "text": "incómodos para la economía hoy", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 13.62, "end": 16.62, "text": "y si usted quiere, lo vamos desgranando en el nuevo uno.", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 16.62, "end": 18.62, "text": "El veto del presidente,", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 18.62, "end": 21.62, "text": "o del presidente, el aumento del presupuesto para las universidades,", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 21.62, "end": 22.62, "text": "sacaba su ceder,", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 22.62, "end": 25.62, "text": "el veto al esquema de movilidad jubilatoria", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 25.62, "end": 28.62, "text": "que fue CHA comaliado,", "avg_logprob": -0.2871256161936753, "no_speech_prob": 0.4729519486427307}
+{"start": 28.62, "end": 30.62, "text": "los altísimos índices pobrezas,", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 30.62, "end": 32.62, "text": "aerolíneas, los aumento de tarifa,", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 32.62, "end": 34.62, "text": "la recesión de muchos sectores de la economía.", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 34.62, "end": 36.62, "text": "Pero primero le quiero hacer una pregunta conceptual.", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 36.62, "end": 40.62, "text": "¿Qué les diría a quienes piensan", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 40.62, "end": 43.62, "text": "que hacen política económica para los mercados", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 43.62, "end": 45.62, "text": "y que Samakro está saliendo bien", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 45.62, "end": 47.62, "text": "sin pensar en los argentinos de la PIE", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 47.62, "end": 49.62, "text": "o que hoy no llegan a fin de mes?", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 49.62, "end": 50.62, "text": "¿Qué les diría?", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 50.62, "end": 54.62, "text": "Diría que es exactamente al revés, nosotros.", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 54.62, "end": 57.62, "text": "No estamos haciendo política para los mercados", "avg_logprob": -0.16387958079576492, "no_speech_prob": 0.011365215294063091}
+{"start": 57.62, "end": 59.62, "text": "y si te fijas, toda nuestra política", "avg_logprob": -0.12192328131717184, "no_speech_prob": 0.006943592336028814}
+{"start": 59.62, "end": 63.62, "text": "va en función de bajar la inflación", "avg_logprob": -0.12192328131717184, "no_speech_prob": 0.006943592336028814}
+{"start": 63.62, "end": 67.62, "text": "que al que más afecta es a los que menos tienen.", "avg_logprob": -0.12192328131717184, "no_speech_prob": 0.006943592336028814}
+{"start": 67.62, "end": 70.62, "text": "Y el presidente y el equipo económico", "avg_logprob": -0.12192328131717184, "no_speech_prob": 0.006943592336028814}
+{"start": 70.62, "end": 72.62, "text": "y la verdad todos los ministros", "avg_logprob": -0.12192328131717184, "no_speech_prob": 0.006943592336028814}
+{"start": 72.62, "end": 75.62, "text": "no nos movemos de esa línea.", "avg_logprob": -0.12192328131717184, "no_speech_prob": 0.006943592336028814}
+{"start": 75.62, "end": 78.62, "text": "Entonces diría que es exactamente al revés.", "avg_logprob": -0.12192328131717184, "no_speech_prob": 0.006943592336028814}
+{"start": 78.62, "end": 81.62, "text": "Pero cómo se hace para que esa baja de inflación", "avg_logprob": -0.12192328131717184, "no_speech_prob": 0.006943592336028814}
+{"start": 81.62, "end": 84.62, "text": "se traslade en consumo, en crecimiento,", "avg_logprob": -0.12192328131717184, "no_speech_prob": 0.006943592336028814}
+{"start": 84.62, "end": 86.62, "text": "en más actividad económica?", "avg_logprob": -0.12192328131717184, "no_speech_prob": 0.006943592336028814}
+{"start": 86.62, "end": 88.62, "text": "¿Qué en algunos sectores no se nota?", "avg_logprob": -0.1643109230891518, "no_speech_prob": 0.014213258400559425}
+{"start": 88.62, "end": 90.62, "text": "Bueno, pasa naturalmente.", "avg_logprob": -0.1643109230891518, "no_speech_prob": 0.014213258400559425}
+{"start": 90.62, "end": 92.62, "text": "Porque en la medida que hay menos inflación", "avg_logprob": -0.1643109230891518, "no_speech_prob": 0.014213258400559425}
+{"start": 92.62, "end": 94.62, "text": "hay más estabilidad.", "avg_logprob": -0.1643109230891518, "no_speech_prob": 0.014213258400559425}
+{"start": 94.62, "end": 98.62, "text": "Eso genera mejores expectativas económicas.", "avg_logprob": -0.1643109230891518, "no_speech_prob": 0.014213258400559425}
+{"start": 98.62, "end": 101.62, "text": "Argentina es un país naturalmente rico", "avg_logprob": -0.1643109230891518, "no_speech_prob": 0.014213258400559425}
+{"start": 101.62, "end": 103.62, "text": "que tiene buenas oportunidades.", "avg_logprob": -0.1643109230891518, "no_speech_prob": 0.014213258400559425}
+{"start": 103.62, "end": 105.62, "text": "Entonces por lo único que lo que más tenés que hacer", "avg_logprob": -0.1643109230891518, "no_speech_prob": 0.014213258400559425}
+{"start": 105.62, "end": 109.62, "text": "es bindar un marco económico, macroeconómico estable", "avg_logprob": -0.1643109230891518, "no_speech_prob": 0.014213258400559425}
+{"start": 109.62, "end": 113.62, "text": "y con eso las inversiones ya empiezan a venir.", "avg_logprob": -0.1643109230891518, "no_speech_prob": 0.014213258400559425}
+{"start": 113.62, "end": 115.62, "text": "Y de hecho ya lo estamos viendo.", "avg_logprob": -0.19306083907068303, "no_speech_prob": 0.046583689749240875}
+{"start": 115.62, "end": 121.62, "text": "Al principio del rebote, en junio-julio,", "avg_logprob": -0.19306083907068303, "no_speech_prob": 0.046583689749240875}
+{"start": 121.62, "end": 124.62, "text": "viste que hablamos y eran sectores puntuales.", "avg_logprob": -0.19306083907068303, "no_speech_prob": 0.046583689749240875}
+{"start": 124.62, "end": 126.62, "text": "Hoy es genializado.", "avg_logprob": -0.19306083907068303, "no_speech_prob": 0.046583689749240875}
+{"start": 126.62, "end": 129.62, "text": "Hoy la recuperación es genial.", "avg_logprob": -0.19306083907068303, "no_speech_prob": 0.046583689749240875}
+{"start": 129.62, "end": 131.62, "text": "¿A qué llama rebote?", "avg_logprob": -0.19306083907068303, "no_speech_prob": 0.046583689749240875}
+{"start": 131.62, "end": 134.62, "text": "¿Rebote no es crecimiento espectacular?", "avg_logprob": -0.19306083907068303, "no_speech_prob": 0.046583689749240875}
+{"start": 134.62, "end": 136.62, "text": "Claro, rebote es, digamos,", "avg_logprob": -0.19306083907068303, "no_speech_prob": 0.046583689749240875}
+{"start": 136.62, "end": 138.62, "text": "después de un ciclo de recesión", "avg_logprob": -0.19306083907068303, "no_speech_prob": 0.046583689749240875}
+{"start": 138.62, "end": 141.62, "text": "que empezó en julio del 2022.", "avg_logprob": -0.19306083907068303, "no_speech_prob": 0.046583689749240875}
+{"start": 141.62, "end": 146.62, "text": "Bueno, eso, digamos, tocó su piso en abril.", "avg_logprob": -0.1567935095778827, "no_speech_prob": 0.005893546622246504}
+{"start": 146.62, "end": 152.62, "text": "A partir de ese momento la economía empezó a pegarla en la vuelta.", "avg_logprob": -0.1567935095778827, "no_speech_prob": 0.005893546622246504}
+{"start": 152.62, "end": 156.62, "text": "¿Con un ritmo?", "avg_logprob": -0.1567935095778827, "no_speech_prob": 0.005893546622246504}
+{"start": 156.62, "end": 159.62, "text": "No, yo diría a buen ritmo.", "avg_logprob": -0.1567935095778827, "no_speech_prob": 0.005893546622246504}
+{"start": 159.62, "end": 162.62, "text": "Viene creciendo ahora a buen ritmo.", "avg_logprob": -0.1567935095778827, "no_speech_prob": 0.005893546622246504}
+{"start": 162.62, "end": 164.62, "text": "Crecimiento nosotros llamamos más", "avg_logprob": -0.1567935095778827, "no_speech_prob": 0.005893546622246504}
+{"start": 164.62, "end": 167.62, "text": "cuando es algo que ya está consolidado, ¿no?", "avg_logprob": -0.1567935095778827, "no_speech_prob": 0.005893546622246504}
+{"start": 167.62, "end": 168.62, "text": "Para eso falta.", "avg_logprob": -0.1567935095778827, "no_speech_prob": 0.005893546622246504}
+{"start": 168.62, "end": 170.62, "text": "Supongase que el Congreso rechaza el veto del presidente.", "avg_logprob": -0.1567935095778827, "no_speech_prob": 0.005893546622246504}
+{"start": 170.62, "end": 172.62, "text": "Hoy los números no los tienen.", "avg_logprob": -0.12348774434732539, "no_speech_prob": 0.005518621765077114}
+{"start": 172.62, "end": 174.62, "text": "Hoy hasta ahora los números no los tienen.", "avg_logprob": -0.12348774434732539, "no_speech_prob": 0.005518621765077114}
+{"start": 174.62, "end": 176.62, "text": "¿Usted va a pagar el aumento que dice la ley", "avg_logprob": -0.12348774434732539, "no_speech_prob": 0.005518621765077114}
+{"start": 176.62, "end": 180.62, "text": "al sector universitario o a las universidades públicas?", "avg_logprob": -0.12348774434732539, "no_speech_prob": 0.005518621765077114}
+{"start": 180.62, "end": 183.62, "text": "Yo tengo que hacer lo que dice la ley,", "avg_logprob": -0.12348774434732539, "no_speech_prob": 0.005518621765077114}
+{"start": 183.62, "end": 188.62, "text": "pero sería bueno que también los diputados y senadores lo hagan,", "avg_logprob": -0.12348774434732539, "no_speech_prob": 0.005518621765077114}
+{"start": 188.62, "end": 192.62, "text": "porque lo que dice la ley de la administración financiera", "avg_logprob": -0.12348774434732539, "no_speech_prob": 0.005518621765077114}
+{"start": 192.62, "end": 197.62, "text": "es que, digamos, el Congreso no puede presentar un gasto", "avg_logprob": -0.12348774434732539, "no_speech_prob": 0.005518621765077114}
+{"start": 197.62, "end": 202.62, "text": "sin una contrapartida de financiamiento que lo justifique.", "avg_logprob": -0.13830235484859038, "no_speech_prob": 0.05355088412761688}
+{"start": 202.62, "end": 205.62, "text": "¿Ese proyecto no lo presenta?", "avg_logprob": -0.13830235484859038, "no_speech_prob": 0.05355088412761688}
+{"start": 205.62, "end": 208.62, "text": "No, o sea, no, no, de hecho, están presentando el gasto.", "avg_logprob": -0.13830235484859038, "no_speech_prob": 0.05355088412761688}
+{"start": 208.62, "end": 212.62, "text": "También lo dice, perdón, el reglamento del Senado mismo.", "avg_logprob": -0.13830235484859038, "no_speech_prob": 0.05355088412761688}
+{"start": 212.62, "end": 216.62, "text": "Es exactamente igual, que la Cámara no puede tratar un aumento de gasto", "avg_logprob": -0.13830235484859038, "no_speech_prob": 0.05355088412761688}
+{"start": 216.62, "end": 220.62, "text": "que no tenga una contrapartida de financiamiento que lo justifique.", "avg_logprob": -0.13830235484859038, "no_speech_prob": 0.05355088412761688}
+{"start": 220.62, "end": 224.62, "text": "Entonces, la realidad es que están presentando", "avg_logprob": -0.13830235484859038, "no_speech_prob": 0.05355088412761688}
+{"start": 224.62, "end": 227.62, "text": "un gasto sin esa contrapartida.", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 227.62, "end": 232.62, "text": "Entonces, nosotros, obviamente, vamos a apelar a eso, porque está mal.", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 232.62, "end": 233.62, "text": "¿Pero apelar cómo?", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 233.62, "end": 234.62, "text": "Bueno, vamos a ver.", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 234.62, "end": 236.62, "text": "¿Por la vida de la justicia? ¿Por la vida administrativa?", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 236.62, "end": 239.62, "text": "Sí, sí, probablemente estamos estudiando eso,", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 239.62, "end": 242.62, "text": "porque realmente no es un tema de monto,", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 242.62, "end": 245.62, "text": "ni de cuál es el tema.", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 245.62, "end": 247.62, "text": "Es hasta conceptual.", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 247.62, "end": 250.62, "text": "Olvíate ya si sos abogado, si sabes, alero,", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 250.62, "end": 252.62, "text": "es hasta de sentido común.", "avg_logprob": -0.20514082629903616, "no_speech_prob": 0.0041975886560976505}
+{"start": 252.62, "end": 255.62, "text": "No importa si es, te", "avg_logprob": -1.807630886411453, "no_speech_prob": 0.006184824742376804}
+{"start": 255.62, "end": 258.62, "text": "No importa, si es 014 de producto, 014 de producto, 018, 018, 020, 020,", "avg_logprob": -1.807630886411453, "no_speech_prob": 0.006184824742376804}
+{"start": 258.62, "end": 261.62, "text": "si el Congrucio puede presentar todo el total tiempo gastos", "avg_logprob": -1.807630886411453, "no_speech_prob": 0.006184824742376804}
+{"start": 261.62, "end": 263.62, "text": "y no contrapartigar, no matter how much money,", "avg_logprob": -1.807630886411453, "no_speech_prob": 0.006184824742376804}
+{"start": 263.62, "end": 265.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -1.807630886411453, "no_speech_prob": 0.006184824742376804}
+{"start": 265.62, "end": 268.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -1.807630886411453, "no_speech_prob": 0.006184824742376804}
+{"start": 268.62, "end": 270.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -1.807630886411453, "no_speech_prob": 0.006184824742376804}
+{"start": 270.62, "end": 272.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -1.807630886411453, "no_speech_prob": 0.006184824742376804}
+{"start": 272.62, "end": 274.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -1.807630886411453, "no_speech_prob": 0.006184824742376804}
+{"start": 275.62, "end": 276.62, "text": "el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 276.62, "end": 277.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 277.62, "end": 278.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 278.62, "end": 279.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 279.62, "end": 280.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 280.62, "end": 281.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 281.62, "end": 282.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 282.62, "end": 283.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 283.62, "end": 284.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 284.62, "end": 285.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 285.62, "end": 286.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 286.62, "end": 287.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 287.62, "end": 288.62, "text": "si el Congrucio puede presentar todo el total cost of product,", "avg_logprob": -0.06430084789547685, "no_speech_prob": 0.06230795383453369}
+{"start": 288.62, "end": 290.62, "text": "¿Qué es esa ley para el sector universitario?", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 290.62, "end": 293.62, "text": "Mientras tanto no aparezca la herramienta de que lo financien.", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 293.62, "end": 295.62, "text": "Siempre dentro del marco de la ley,", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 295.62, "end": 299.62, "text": "o sea, si realmente la ley nos da la razón,", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 299.62, "end": 302.62, "text": "bueno, o en realidad lo que nosotros proparemos,", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 302.62, "end": 304.62, "text": "que es lo que sería lo lógico,", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 304.62, "end": 309.62, "text": "es debatir lo que quieren dentro del marco que corresponde,", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 309.62, "end": 311.62, "text": "que es en el marco de la ley de...", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 311.62, "end": 312.62, "text": "¿De presupuesto?", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 312.62, "end": 313.62, "text": "Claro, entonces se quiere decir,", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 313.62, "end": 315.62, "text": "bueno, quieren discutir esto a las universidades,", "avg_logprob": -0.26601496276321945, "no_speech_prob": 0.9420250654220581}
+{"start": 315.62, "end": 317.62, "text": "que se le da todo, o sea,", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 317.62, "end": 321.62, "text": "a donde se mezcla la política con, digamos, con...", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 321.62, "end": 322.62, "text": "¿Qué significa todo?", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 322.62, "end": 324.62, "text": "Aumentar, el aumento en el financiamiento,", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 324.62, "end": 326.62, "text": "fue por encima de la inflación.", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 326.62, "end": 327.62, "text": "Pero, obvio, entonces les decimos a todos", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 327.62, "end": 328.62, "text": "lo que han pedido y...", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 328.62, "end": 330.62, "text": "No, no de los salarios, ¿no?", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 330.62, "end": 332.62, "text": "Ahora, lo único que nosotros decimos es,", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 332.62, "end": 334.62, "text": "ok, que se quiere discutir,", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 334.62, "end": 336.62, "text": "si los docentes deben cobrar todavía más", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 336.62, "end": 338.62, "text": "que el resto de los empleados públicos,", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 338.62, "end": 342.62, "text": "por estar de todo, debatámoslo en el Congreso", "avg_logprob": -0.2912804511285597, "no_speech_prob": 0.07386097311973572}
+{"start": 342.62, "end": 345.62, "text": "y definamos cómo se financia eso.", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 345.62, "end": 348.62, "text": "Ningún problema, hay una clara pelea entre", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 348.62, "end": 350.62, "text": "la vieja política y la nueva.", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 350.62, "end": 351.62, "text": "Nosotros buscamos transparencia,", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 351.62, "end": 355.62, "text": "la vieja política es la dueña de los trascismo, digamos, ¿no?", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 355.62, "end": 358.62, "text": "Y siempre están buscando, digamos,", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 358.62, "end": 360.62, "text": "estas especies de entes autárquicos,", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 360.62, "end": 362.62, "text": "acuérdate que también pasaba lo mismo", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 362.62, "end": 363.62, "text": "con los fideicomis,", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 363.62, "end": 365.62, "text": "y sus cosas que sean difíciles de auditar", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 365.62, "end": 367.62, "text": "o que no requieran auditoría.", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 367.62, "end": 370.62, "text": "Esa es la otra cosa que nosotros, digamos,", "avg_logprob": -0.16030062296210904, "no_speech_prob": 0.09667165577411652}
+{"start": 370.62, "end": 373.62, "text": "combatimos, manejamos la plata de la gente.", "avg_logprob": -0.19932396364212035, "no_speech_prob": 0.01668480411171913}
+{"start": 373.62, "end": 375.62, "text": "Lo que decimos es, bueno, auditimoslo,", "avg_logprob": -0.19932396364212035, "no_speech_prob": 0.01668480411171913}
+{"start": 375.62, "end": 378.62, "text": "dicen que hay 1.750.000 alumnos,", "avg_logprob": -0.19932396364212035, "no_speech_prob": 0.01668480411171913}
+{"start": 378.62, "end": 381.62, "text": "del 38% no hay registro.", "avg_logprob": -0.19932396364212035, "no_speech_prob": 0.01668480411171913}
+{"start": 381.62, "end": 385.62, "text": "El 40, aparentemente pasó una sola materia.", "avg_logprob": -0.19932396364212035, "no_speech_prob": 0.01668480411171913}
+{"start": 385.62, "end": 388.62, "text": "Tenemos el caso de la Universidad de las Madres de Plaza de Mayo,", "avg_logprob": -0.19932396364212035, "no_speech_prob": 0.01668480411171913}
+{"start": 388.62, "end": 390.62, "text": "desde el 2020 a 2023,", "avg_logprob": -0.19932396364212035, "no_speech_prob": 0.01668480411171913}
+{"start": 390.62, "end": 395.62, "text": "se recibieron el 0,62% de los alumnos, 16.", "avg_logprob": -0.19932396364212035, "no_speech_prob": 0.01668480411171913}
+{"start": 395.62, "end": 398.62, "text": "O sea, se gastó 100 millones por heresado.", "avg_logprob": -0.19932396364212035, "no_speech_prob": 0.01668480411171913}
+{"start": 398.62, "end": 400.62, "text": "Casi salía más barato para...", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 400.62, "end": 401.62, "text": "Sí, más de pesos, sí.", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 401.62, "end": 403.62, "text": "Casi salía más barato que...", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 403.62, "end": 404.62, "text": "Más de los azábaros.", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 404.62, "end": 405.62, "text": "O sea, quiero decir, digamos,", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 405.62, "end": 407.62, "text": "hay cosas que vos decís,", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 407.62, "end": 409.62, "text": "¿cómo no voy a auditar esto?", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 409.62, "end": 412.62, "text": "Entonces, no es algo, digamos,", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 412.62, "end": 415.62, "text": "fuera del sentido común lo que estamos pidiendo,", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 415.62, "end": 416.62, "text": "pero de vuelta,", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 416.62, "end": 417.62, "text": "es que va a ser increíble algo,", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 417.62, "end": 419.62, "text": "porque aplica a todo,", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 419.62, "end": 420.62, "text": "con los fideicomis,", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 420.62, "end": 422.62, "text": "pasa lo mismo.", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 422.62, "end": 424.62, "text": "Era, digamos,", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 424.62, "end": 427.62, "text": "lo que usaba el quisnerismo para...", "avg_logprob": -0.2414935690582178, "no_speech_prob": 0.009261099621653557}
+{"start": 427.62, "end": 429.62, "text": "Un instrumento poco transparente.", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 429.62, "end": 430.62, "text": "Un instrumento para tantas cajas.", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 430.62, "end": 433.62, "text": "Entonces, le asignan partidas de impuestos específicas", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 433.62, "end": 437.62, "text": "que los alimentan y no se los puede auditar.", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 437.62, "end": 438.62, "text": "Entonces, vos tenías, por ejemplo,", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 438.62, "end": 440.62, "text": "el caso más emblemático, el FISU.", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 440.62, "end": 442.62, "text": "¿Qué hacía el FISU?", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 442.62, "end": 443.62, "text": "Viviendas.", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 443.62, "end": 444.62, "text": "Bueno, no hizo.", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 444.62, "end": 446.62, "text": "Y nosotros hicimos investigaciones", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 446.62, "end": 448.62, "text": "en donde se demostró que no hizo viviendas.", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 448.62, "end": 451.62, "text": "Pero, digamos, hay una secretaría de viviendas.", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 451.62, "end": 453.62, "text": "Entonces, si vos querías que grabó y hiciera viviendas,", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 453.62, "end": 456.62, "text": "¿por qué no lo pones de secretario de viviendas?", "avg_logprob": -0.15143640731510363, "no_speech_prob": 0.006767630577087402}
+{"start": 456.62, "end": 458.62, "text": "Y todos sabemos en qué se gastó,", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 458.62, "end": 460.62, "text": "qué hizo y demás.", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 460.62, "end": 461.62, "text": "¿Qué necesidad?", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 461.62, "end": 463.62, "text": "Tenía que hacer un fondo fideuciario.", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 463.62, "end": 465.62, "text": "Se fue lo que maneja la plata discrecionalmente,", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 465.62, "end": 468.62, "text": "y, o casualidad, termina candidato a presidente.", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 468.62, "end": 470.62, "text": "¿Te acuerdas a algún secretario de vivienda", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 470.62, "end": 472.62, "text": "candidato a presidente?", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 472.62, "end": 474.62, "text": "Probablemente no te acuerdes ningún secretario de vivienda.", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 474.62, "end": 475.62, "text": "Entonces, sí.", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 475.62, "end": 476.62, "text": "También candidato a presidente", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 476.62, "end": 477.62, "text": "y con muchos comedores fantamas", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 477.62, "end": 479.62, "text": "que probablemente financiaron esa candidatura.", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 479.62, "end": 480.62, "text": "¿Qué quiere decir?", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 480.62, "end": 482.62, "text": "Es todo parte de vuelta", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 482.62, "end": 484.62, "text": "del mismo juego, de la vieja política,", "avg_logprob": -0.2617171635170897, "no_speech_prob": 0.02291574329137802}
+{"start": 484.62, "end": 486.62, "text": "de la política que queremos hacer nosotros.", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 486.62, "end": 488.62, "text": "El impacto de las tarifas en la canasta familiar", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 488.62, "end": 490.62, "text": "es cada vez más alto,", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 490.62, "end": 491.62, "text": "progresivamente más alto.", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 491.62, "end": 493.62, "text": "En el AMBA estuvimos revisando", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 493.62, "end": 494.62, "text": "al principio de los 6 y pico,", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 494.62, "end": 496.62, "text": "y terminó en el 13 y pico", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 496.62, "end": 498.62, "text": "de una canasta familiar promedio,", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 498.62, "end": 499.62, "text": "una familia promedio.", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 499.62, "end": 500.62, "text": "En los últimos nueve meses,", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 500.62, "end": 502.62, "text": "aumentaron las tarifas promedio", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 502.62, "end": 504.62, "text": "370%, más o menos,", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 504.62, "end": 506.62, "text": "mucho más que la inflación.", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 506.62, "end": 510.62, "text": "¿Pienso ir reduciendo el aumento de tarifas", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 510.62, "end": 512.62, "text": "o van a salir con el mismo río aumento?", "avg_logprob": -0.16907156413456179, "no_speech_prob": 0.15354110300540924}
+{"start": 512.62, "end": 514.62, "text": "No, naturalmente se va reduciendo,", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 514.62, "end": 516.62, "text": "porque justamente lo que pasó al principio", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 516.62, "end": 518.62, "text": "es que veníamos de una base tan baja", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 518.62, "end": 520.62, "text": "que el aumento en términos porcentuales", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 520.62, "end": 522.62, "text": "se hizo más alto.", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 522.62, "end": 524.62, "text": "Pero aclarado que hablábamos ya,", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 524.62, "end": 526.62, "text": "creo que en la primera entrevista", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 526.62, "end": 528.62, "text": "que yo te hablaba de los falsos subsidios,", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 528.62, "end": 531.62, "text": "esto fue una parte de vuelta del cambio.", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 531.62, "end": 533.62, "text": "¿Por qué digo falsos subsidios?", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 533.62, "end": 535.62, "text": "Porque te hacen creer que no te cobran la luz,", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 535.62, "end": 537.62, "text": "pero en realidad te lo están cobrando", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 537.62, "end": 539.62, "text": "mucho más, con una inflación", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 539.62, "end": 541.62, "text": "del 250% en todo lo otro", "avg_logprob": -0.18651178459716, "no_speech_prob": 0.06478981673717499}
+{"start": 541.62, "end": 544.62, "text": "que tenés que terminar pagando.", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 544.62, "end": 547.62, "text": "Y de vuelta, ¿quién sufre más la inflación?", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 547.62, "end": 549.62, "text": "El que menos tiene.", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 549.62, "end": 551.62, "text": "Entonces, este esquema de te hago creer", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 551.62, "end": 554.62, "text": "que soy bueno y te regalo platio", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 554.62, "end": 556.62, "text": "y te doy un subsidio, es falso.", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 556.62, "end": 558.62, "text": "¿Y a la larga se paga?", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 558.62, "end": 560.62, "text": "Y no solo se paga, sino que de vuelta", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 560.62, "end": 563.62, "text": "lo paga el que menos se puede defender.", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 563.62, "end": 565.62, "text": "Eso es el que menos tiene,", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 565.62, "end": 567.62, "text": "porque tiene plata tiene forma de cubrirse siempre y demás.", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 567.62, "end": 569.62, "text": "El que menos tiene no.", "avg_logprob": -0.15641160679201707, "no_speech_prob": 0.009452146477997303}
+{"start": 569.62, "end": 571.62, "text": "¿Por qué se anticipan más cortes en el verano?", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 571.62, "end": 573.62, "text": "Si las tarifas suben y se supone", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 573.62, "end": 575.62, "text": "que la distribuidora, si las productoras se supone,", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 575.62, "end": 577.62, "text": "deberían invertir más", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 577.62, "end": 579.62, "text": "para garantizar que no haya cortes.", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 579.62, "end": 581.62, "text": "Bueno, eso es lo que estamos haciendo.", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 581.62, "end": 583.62, "text": "Lo que se está viendo es acuerdate", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 583.62, "end": 585.62, "text": "que las inversiones no son un día para el otro.", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 585.62, "end": 587.62, "text": "Entonces, es consecuencia", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 587.62, "end": 589.62, "text": "de esa política energética absurda", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 589.62, "end": 591.62, "text": "de vuelta de hacerle creer a la gente", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 591.62, "end": 593.62, "text": "que no se puede hacer la inversión", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 593.62, "end": 595.62, "text": "de la gente que no tiene la idea", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 595.62, "end": 597.62, "text": "de que la gente no tiene la idea", "avg_logprob": -0.42396744589010876, "no_speech_prob": 0.18259431421756744}
+{"start": 597.62, "end": 599.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 599.62, "end": 601.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 601.62, "end": 603.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 603.62, "end": 605.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 605.62, "end": 607.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 607.62, "end": 609.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 609.62, "end": 611.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 611.62, "end": 613.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 613.62, "end": 615.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 615.62, "end": 617.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 617.62, "end": 619.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 619.62, "end": 621.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.12484322294526036, "no_speech_prob": 0.040173813700675964}
+{"start": 621.62, "end": 623.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 623.62, "end": 625.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 625.62, "end": 627.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 627.62, "end": 629.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 629.62, "end": 631.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 631.62, "end": 633.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 633.62, "end": 635.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 635.62, "end": 637.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 637.62, "end": 639.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 639.62, "end": 641.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 641.62, "end": 643.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 643.62, "end": 645.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.046444493425266624, "no_speech_prob": 0.826026976108551}
+{"start": 645.62, "end": 647.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 647.62, "end": 649.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 649.62, "end": 651.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 651.62, "end": 653.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 653.62, "end": 655.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 655.62, "end": 657.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 657.62, "end": 659.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 659.62, "end": 661.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 661.62, "end": 663.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 663.62, "end": 665.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 665.62, "end": 667.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 667.62, "end": 669.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.06059754025107542, "no_speech_prob": 0.7927440404891968}
+{"start": 669.62, "end": 671.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 671.62, "end": 673.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 673.62, "end": 675.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 675.62, "end": 677.62, "text": "de que la gente no tiene la idea de que la gente no tiene la idea", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 677.62, "end": 679.62, "text": "de que la gente no tiene la idea de que la gente no tiene", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 679.62, "end": 681.62, "text": "la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 681.62, "end": 683.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 683.62, "end": 685.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 685.62, "end": 687.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 687.62, "end": 689.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 689.62, "end": 691.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 691.62, "end": 693.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05733329198018318, "no_speech_prob": 0.7824621200561523}
+{"start": 693.62, "end": 695.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 695.62, "end": 697.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 697.62, "end": 699.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 699.62, "end": 701.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 701.62, "end": 703.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 703.62, "end": 705.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 705.62, "end": 707.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 707.62, "end": 709.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 709.62, "end": 711.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 711.62, "end": 713.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 713.62, "end": 715.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 715.62, "end": 717.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04942064027347907, "no_speech_prob": 0.9061635732650757}
+{"start": 717.62, "end": 719.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 719.62, "end": 721.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 721.62, "end": 723.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 723.62, "end": 725.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 725.62, "end": 727.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 727.62, "end": 729.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 729.62, "end": 731.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 731.62, "end": 733.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 733.62, "end": 735.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 735.62, "end": 737.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 737.62, "end": 739.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 739.62, "end": 741.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04500108990701325, "no_speech_prob": 0.9142295122146606}
+{"start": 741.62, "end": 743.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 743.62, "end": 745.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 745.62, "end": 747.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 747.62, "end": 749.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 749.62, "end": 751.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 751.62, "end": 753.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 753.62, "end": 755.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 755.62, "end": 757.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 757.62, "end": 759.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 759.62, "end": 761.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 761.62, "end": 763.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 763.62, "end": 765.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046245279366927294, "no_speech_prob": 0.9072204828262329}
+{"start": 765.62, "end": 767.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 767.62, "end": 769.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 769.62, "end": 771.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 771.62, "end": 773.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 773.62, "end": 775.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 775.62, "end": 777.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 777.62, "end": 779.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 779.62, "end": 781.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 781.62, "end": 783.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 783.62, "end": 785.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 785.62, "end": 787.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 787.62, "end": 789.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04592377471950557, "no_speech_prob": 0.8693134784698486}
+{"start": 789.62, "end": 791.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 791.62, "end": 793.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 793.62, "end": 795.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 795.62, "end": 797.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 797.62, "end": 799.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 799.62, "end": 801.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 801.62, "end": 803.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 803.62, "end": 805.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 805.62, "end": 807.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 807.62, "end": 809.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 809.62, "end": 811.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 811.62, "end": 813.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05306554883050277, "no_speech_prob": 0.6875576376914978}
+{"start": 813.62, "end": 817.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 817.62, "end": 819.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 819.62, "end": 821.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 821.62, "end": 823.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 823.62, "end": 825.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 825.62, "end": 827.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 827.62, "end": 829.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 829.62, "end": 831.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 831.62, "end": 833.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 833.62, "end": 835.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 835.62, "end": 837.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 837.62, "end": 839.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.055390583125732404, "no_speech_prob": 0.9085203409194946}
+{"start": 839.62, "end": 841.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 841.62, "end": 843.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 843.62, "end": 845.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 845.62, "end": 847.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 847.62, "end": 849.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 849.62, "end": 851.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 851.62, "end": 853.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 853.62, "end": 855.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 855.62, "end": 857.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 857.62, "end": 859.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 859.62, "end": 861.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 861.62, "end": 863.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03827349798160818, "no_speech_prob": 0.8349471688270569}
+{"start": 863.62, "end": 865.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 865.62, "end": 867.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 867.62, "end": 869.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 869.62, "end": 871.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 871.62, "end": 873.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 873.62, "end": 875.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 875.62, "end": 877.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 877.62, "end": 879.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 879.62, "end": 881.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 881.62, "end": 883.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 883.62, "end": 885.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 885.62, "end": 887.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04812525379818117, "no_speech_prob": 0.8171179294586182}
+{"start": 887.62, "end": 889.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 889.62, "end": 891.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 891.62, "end": 893.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 893.62, "end": 895.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 895.62, "end": 897.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 897.62, "end": 899.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 899.62, "end": 901.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 901.62, "end": 903.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 903.62, "end": 905.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 905.62, "end": 907.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 907.62, "end": 909.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 909.62, "end": 911.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04295136612493361, "no_speech_prob": 0.863273024559021}
+{"start": 911.62, "end": 913.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 913.62, "end": 915.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 915.62, "end": 917.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 917.62, "end": 919.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 919.62, "end": 921.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 921.62, "end": 923.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 923.62, "end": 925.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 925.62, "end": 927.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 927.62, "end": 929.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 929.62, "end": 931.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 931.62, "end": 933.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 933.62, "end": 935.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.03817301758068025, "no_speech_prob": 0.861838161945343}
+{"start": 935.62, "end": 937.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 937.62, "end": 939.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 939.62, "end": 941.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 941.62, "end": 943.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 943.62, "end": 945.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 945.62, "end": 947.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 947.62, "end": 949.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 949.62, "end": 951.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 951.62, "end": 953.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 953.62, "end": 955.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 955.62, "end": 957.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 957.62, "end": 959.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.043506203812334034, "no_speech_prob": 0.8916950821876526}
+{"start": 959.62, "end": 961.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 961.62, "end": 963.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 963.62, "end": 965.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 965.62, "end": 967.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 967.62, "end": 969.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 969.62, "end": 971.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 971.62, "end": 973.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 973.62, "end": 975.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 975.62, "end": 977.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 977.62, "end": 979.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 979.62, "end": 981.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 981.62, "end": 983.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040324282418986605, "no_speech_prob": 0.8653128147125244}
+{"start": 983.62, "end": 985.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 985.62, "end": 987.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 987.62, "end": 989.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 989.62, "end": 991.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 991.62, "end": 993.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 993.62, "end": 995.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 995.62, "end": 997.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 997.62, "end": 999.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 999.62, "end": 1001.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 1001.62, "end": 1003.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 1003.62, "end": 1005.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 1005.62, "end": 1007.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04536297362748817, "no_speech_prob": 0.74515700340271}
+{"start": 1007.62, "end": 1009.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1009.62, "end": 1011.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1011.62, "end": 1013.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1013.62, "end": 1015.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1015.62, "end": 1017.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1017.62, "end": 1019.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1019.62, "end": 1021.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1021.62, "end": 1023.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1023.62, "end": 1025.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1025.62, "end": 1027.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1027.62, "end": 1029.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1029.62, "end": 1031.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04479283431853949, "no_speech_prob": 0.8338904976844788}
+{"start": 1031.62, "end": 1033.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1033.62, "end": 1035.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1035.62, "end": 1037.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1037.62, "end": 1039.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1039.62, "end": 1041.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1041.62, "end": 1043.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1043.62, "end": 1045.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1045.62, "end": 1047.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1047.62, "end": 1049.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1049.62, "end": 1051.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1051.62, "end": 1053.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1053.62, "end": 1055.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04167433343660671, "no_speech_prob": 0.8707650303840637}
+{"start": 1055.62, "end": 1057.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1057.62, "end": 1059.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1059.62, "end": 1061.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1061.62, "end": 1063.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1063.62, "end": 1065.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1065.62, "end": 1067.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1067.62, "end": 1069.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1069.62, "end": 1071.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1071.62, "end": 1073.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1073.62, "end": 1075.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1075.62, "end": 1077.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1077.62, "end": 1079.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.0444851293157569, "no_speech_prob": 0.8789951801300049}
+{"start": 1079.62, "end": 1081.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1081.62, "end": 1083.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1083.62, "end": 1085.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1085.62, "end": 1087.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1087.62, "end": 1089.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1089.62, "end": 1091.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1091.62, "end": 1093.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1093.62, "end": 1095.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1095.62, "end": 1097.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1097.62, "end": 1099.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1099.62, "end": 1101.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1101.62, "end": 1103.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.046251227937204424, "no_speech_prob": 0.7875881791114807}
+{"start": 1103.62, "end": 1105.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1105.62, "end": 1107.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1107.62, "end": 1109.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1109.62, "end": 1111.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1111.62, "end": 1113.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1113.62, "end": 1115.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1115.62, "end": 1117.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1117.62, "end": 1119.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1119.62, "end": 1121.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1121.62, "end": 1123.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1123.62, "end": 1125.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1125.62, "end": 1127.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.041683230331927675, "no_speech_prob": 0.8456760048866272}
+{"start": 1127.62, "end": 1129.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1129.62, "end": 1131.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1131.62, "end": 1133.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1133.62, "end": 1135.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1135.62, "end": 1137.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1137.62, "end": 1139.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1139.62, "end": 1141.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1141.62, "end": 1143.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1143.62, "end": 1145.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1145.62, "end": 1147.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1147.62, "end": 1149.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1149.62, "end": 1151.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04273506661567987, "no_speech_prob": 0.8929846882820129}
+{"start": 1151.62, "end": 1153.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1153.62, "end": 1155.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1155.62, "end": 1157.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1157.62, "end": 1159.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1159.62, "end": 1161.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1161.62, "end": 1163.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1163.62, "end": 1165.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1165.62, "end": 1167.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1167.62, "end": 1169.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1169.62, "end": 1171.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1171.62, "end": 1173.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1173.62, "end": 1175.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04604192652777171, "no_speech_prob": 0.8667288422584534}
+{"start": 1175.62, "end": 1177.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1177.62, "end": 1179.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1179.62, "end": 1181.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1181.62, "end": 1183.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1183.62, "end": 1185.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1185.62, "end": 1187.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1187.62, "end": 1189.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1189.62, "end": 1191.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1191.62, "end": 1193.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1193.62, "end": 1195.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1195.62, "end": 1197.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1197.62, "end": 1199.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04657564382382038, "no_speech_prob": 0.8251053690910339}
+{"start": 1199.62, "end": 1203.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1203.62, "end": 1205.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1205.62, "end": 1207.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1207.62, "end": 1209.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1209.62, "end": 1211.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1211.62, "end": 1213.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1213.62, "end": 1215.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1215.62, "end": 1217.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1217.62, "end": 1219.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1219.62, "end": 1221.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1221.62, "end": 1223.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1223.62, "end": 1225.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05439318145203483, "no_speech_prob": 0.8973577618598938}
+{"start": 1225.62, "end": 1227.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1227.62, "end": 1229.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1229.62, "end": 1231.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1231.62, "end": 1233.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1233.62, "end": 1235.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1235.62, "end": 1237.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1237.62, "end": 1239.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1239.62, "end": 1241.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1241.62, "end": 1243.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1243.62, "end": 1245.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1245.62, "end": 1247.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1247.62, "end": 1249.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04364350675333776, "no_speech_prob": 0.7518303990364075}
+{"start": 1249.62, "end": 1253.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1253.62, "end": 1255.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1255.62, "end": 1257.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1257.62, "end": 1259.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1259.62, "end": 1261.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1261.62, "end": 1263.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1263.62, "end": 1265.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1265.62, "end": 1267.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1267.62, "end": 1269.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1269.62, "end": 1271.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1271.62, "end": 1273.62, "text": "no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1273.62, "end": 1275.62, "text": "no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1275.62, "end": 1277.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.06006121637130325, "no_speech_prob": 0.7947192788124084}
+{"start": 1277.62, "end": 1279.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1279.62, "end": 1281.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1281.62, "end": 1283.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1283.62, "end": 1285.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1285.62, "end": 1287.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1287.62, "end": 1289.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1289.62, "end": 1291.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1291.62, "end": 1293.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1293.62, "end": 1295.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1295.62, "end": 1297.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1297.62, "end": 1299.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1299.62, "end": 1301.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.04226834119836311, "no_speech_prob": 0.6514825224876404}
+{"start": 1301.62, "end": 1303.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1303.62, "end": 1305.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1305.62, "end": 1307.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1307.62, "end": 1309.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1309.62, "end": 1311.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1311.62, "end": 1313.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1313.62, "end": 1315.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1315.62, "end": 1317.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1317.62, "end": 1319.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1319.62, "end": 1321.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1321.62, "end": 1323.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1323.62, "end": 1325.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.044090903025838825, "no_speech_prob": 0.7034849524497986}
+{"start": 1325.62, "end": 1327.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1327.62, "end": 1329.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1329.62, "end": 1331.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1331.62, "end": 1333.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1333.62, "end": 1335.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1335.62, "end": 1337.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1337.62, "end": 1339.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1339.62, "end": 1341.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1341.62, "end": 1343.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1343.62, "end": 1345.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1345.62, "end": 1347.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1347.62, "end": 1349.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.051015558030305955, "no_speech_prob": 0.7329967617988586}
+{"start": 1349.62, "end": 1351.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1351.62, "end": 1353.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1353.62, "end": 1355.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1355.62, "end": 1357.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1357.62, "end": 1359.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1359.62, "end": 1361.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1361.62, "end": 1363.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1363.62, "end": 1365.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1365.62, "end": 1367.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1367.62, "end": 1369.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1369.62, "end": 1371.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1371.62, "end": 1373.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.05311007410154214, "no_speech_prob": 0.8089736104011536}
+{"start": 1373.62, "end": 1375.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1375.62, "end": 1377.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1377.62, "end": 1379.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1379.62, "end": 1381.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1381.62, "end": 1383.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1383.62, "end": 1385.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1385.62, "end": 1387.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1387.62, "end": 1389.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1389.62, "end": 1391.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1391.62, "end": 1393.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1393.62, "end": 1395.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1395.62, "end": 1397.62, "text": "no tiene la idea de que la gente no tiene la idea de que la gente", "avg_logprob": -0.040936847939886854, "no_speech_prob": 0.7895041704177856}
+{"start": 1397.62, "end": 1399.62, "text": "¿Abajan los aranceles a importación de qué es eso?", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1399.62, "end": 1401.62, "text": "La lata de café, ventiladores, neumáticos,", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1401.62, "end": 1403.62, "text": "bicicleta, moto,", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1403.62, "end": 1405.62, "text": "¿en qué me afecta a mí?", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1405.62, "end": 1407.62, "text": "Bueno, empiezo por lo último.", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1407.62, "end": 1409.62, "text": "La baja de los aranceles", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1409.62, "end": 1411.62, "text": "te afecta en que esos", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1411.62, "end": 1413.62, "text": "productos van a bajar de precio.", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1413.62, "end": 1415.62, "text": "Sí, indefectivamente.", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1415.62, "end": 1417.62, "text": "Indefectivamente.", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1417.62, "end": 1419.62, "text": "Entonces nosotros vinimos a eso, a bajar impuestos,", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1419.62, "end": 1421.62, "text": "a bajar aranceles, a comerciar mal con el mundo.", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1421.62, "end": 1423.62, "text": "Eso es a lo que vinimos.", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1423.62, "end": 1425.62, "text": "Lo de la Pampa,", "avg_logprob": -0.22008005196943223, "no_speech_prob": 0.7906180620193481}
+{"start": 1425.62, "end": 1427.62, "text": "lo de la Nación,", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1427.62, "end": 1429.62, "text": "aplaudo, o sea, está perfecto", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1429.62, "end": 1431.62, "text": "y así tiene que ser.", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1431.62, "end": 1433.62, "text": "Ojalá se sumen más bancos privados", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1433.62, "end": 1435.62, "text": "porque lo que hicieron", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1435.62, "end": 1437.62, "text": "fue poner una tasa extra a...", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1437.62, "end": 1439.62, "text": "Subieron ingresos brutos, como al doble,", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1439.62, "end": 1441.62, "text": "creo que fue del 7 y medio, al 15", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1441.62, "end": 1443.62, "text": "y nosotros como", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1443.62, "end": 1445.62, "text": "ciudadanos todos", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1445.62, "end": 1447.62, "text": "y las empresas también,", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1447.62, "end": 1449.62, "text": "también hay que marcarle la cancha", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1449.62, "end": 1451.62, "text": "a los políticos.", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1451.62, "end": 1453.62, "text": "Pasa hoy a todo nivel,", "avg_logprob": -0.18814515672398335, "no_speech_prob": 0.02979390323162079}
+{"start": 1453.62, "end": 1455.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1455.62, "end": 1457.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1457.62, "end": 1459.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1459.62, "end": 1461.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1461.62, "end": 1463.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1463.62, "end": 1465.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1465.62, "end": 1467.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1467.62, "end": 1469.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1469.62, "end": 1471.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1471.62, "end": 1473.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1473.62, "end": 1475.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1475.62, "end": 1477.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1477.62, "end": 1479.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1479.62, "end": 1481.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.16741029024124146, "no_speech_prob": 0.04705635830760002}
+{"start": 1481.62, "end": 1483.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1483.62, "end": 1485.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1485.62, "end": 1487.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1487.62, "end": 1489.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1489.62, "end": 1491.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1491.62, "end": 1493.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1493.62, "end": 1495.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1495.62, "end": 1497.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1497.62, "end": 1499.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1499.62, "end": 1501.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1501.62, "end": 1503.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1503.62, "end": 1505.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1505.62, "end": 1507.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1507.62, "end": 1509.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.040143164181533984, "no_speech_prob": 0.15191666781902313}
+{"start": 1509.62, "end": 1511.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1511.62, "end": 1513.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1513.62, "end": 1515.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1515.62, "end": 1517.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1517.62, "end": 1519.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1519.62, "end": 1521.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1521.62, "end": 1523.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1523.62, "end": 1525.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1525.62, "end": 1527.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1527.62, "end": 1529.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1529.62, "end": 1531.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1531.62, "end": 1533.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1533.62, "end": 1535.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1535.62, "end": 1537.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03398871851318023, "no_speech_prob": 0.2395678013563156}
+{"start": 1537.62, "end": 1539.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1539.62, "end": 1541.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1541.62, "end": 1543.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1543.62, "end": 1545.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1545.62, "end": 1547.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1547.62, "end": 1549.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1549.62, "end": 1551.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1551.62, "end": 1553.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1553.62, "end": 1555.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1555.62, "end": 1557.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1557.62, "end": 1559.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1559.62, "end": 1561.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1561.62, "end": 1563.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1563.62, "end": 1565.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03353947298053433, "no_speech_prob": 0.44603246450424194}
+{"start": 1565.62, "end": 1567.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1567.62, "end": 1569.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1569.62, "end": 1571.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1571.62, "end": 1573.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1573.62, "end": 1575.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1575.62, "end": 1577.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1577.62, "end": 1579.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1579.62, "end": 1581.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1581.62, "end": 1583.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1583.62, "end": 1585.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1585.62, "end": 1587.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1587.62, "end": 1589.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1589.62, "end": 1591.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1591.62, "end": 1593.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03280615992844105, "no_speech_prob": 0.5982546210289001}
+{"start": 1593.62, "end": 1595.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1595.62, "end": 1597.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1597.62, "end": 1599.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1599.62, "end": 1601.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1601.62, "end": 1603.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1603.62, "end": 1605.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1605.62, "end": 1607.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1607.62, "end": 1609.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1609.62, "end": 1611.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1611.62, "end": 1613.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1613.62, "end": 1615.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1615.62, "end": 1617.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1617.62, "end": 1619.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1619.62, "end": 1621.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.029810187330140788, "no_speech_prob": 0.8071034550666809}
+{"start": 1621.62, "end": 1623.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1623.62, "end": 1625.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1625.62, "end": 1627.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1627.62, "end": 1629.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1629.62, "end": 1631.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1631.62, "end": 1633.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1633.62, "end": 1635.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1635.62, "end": 1637.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1637.62, "end": 1639.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1639.62, "end": 1641.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1641.62, "end": 1643.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1643.62, "end": 1645.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1645.62, "end": 1647.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1647.62, "end": 1649.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04061265977866509, "no_speech_prob": 0.42402809858322144}
+{"start": 1649.62, "end": 1651.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1651.62, "end": 1653.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1653.62, "end": 1655.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1655.62, "end": 1657.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1657.62, "end": 1659.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1659.62, "end": 1661.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1661.62, "end": 1663.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1663.62, "end": 1665.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1665.62, "end": 1667.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1667.62, "end": 1669.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1669.62, "end": 1671.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1671.62, "end": 1673.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1673.62, "end": 1675.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1675.62, "end": 1677.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03518092809792827, "no_speech_prob": 0.1842886358499527}
+{"start": 1677.62, "end": 1679.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1679.62, "end": 1681.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1681.62, "end": 1683.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1683.62, "end": 1685.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1685.62, "end": 1687.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1687.62, "end": 1689.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1689.62, "end": 1691.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1691.62, "end": 1693.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1693.62, "end": 1695.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1695.62, "end": 1697.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1697.62, "end": 1699.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1699.62, "end": 1701.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1701.62, "end": 1703.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1703.62, "end": 1705.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036098043445278616, "no_speech_prob": 0.5205898284912109}
+{"start": 1705.62, "end": 1707.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1707.62, "end": 1709.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1709.62, "end": 1711.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1711.62, "end": 1713.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1713.62, "end": 1715.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1715.62, "end": 1717.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1717.62, "end": 1719.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1719.62, "end": 1721.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1721.62, "end": 1723.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1723.62, "end": 1725.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1725.62, "end": 1727.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1727.62, "end": 1729.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1729.62, "end": 1731.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1731.62, "end": 1733.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03072926361552056, "no_speech_prob": 0.33146658539772034}
+{"start": 1733.62, "end": 1735.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1735.62, "end": 1737.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1737.62, "end": 1739.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1739.62, "end": 1741.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1741.62, "end": 1743.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1743.62, "end": 1745.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1745.62, "end": 1747.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1747.62, "end": 1749.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1749.62, "end": 1751.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1751.62, "end": 1753.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1753.62, "end": 1755.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1755.62, "end": 1757.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1757.62, "end": 1759.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1759.62, "end": 1761.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.038449313688804124, "no_speech_prob": 0.3622490465641022}
+{"start": 1761.62, "end": 1763.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1763.62, "end": 1765.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1765.62, "end": 1767.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1767.62, "end": 1769.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1769.62, "end": 1771.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1771.62, "end": 1773.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1773.62, "end": 1775.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1775.62, "end": 1777.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1777.62, "end": 1779.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1779.62, "end": 1781.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1781.62, "end": 1783.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1783.62, "end": 1785.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1785.62, "end": 1787.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1787.62, "end": 1789.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.036646724645705786, "no_speech_prob": 0.10645543783903122}
+{"start": 1789.62, "end": 1791.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1791.62, "end": 1793.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1793.62, "end": 1795.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1795.62, "end": 1797.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1797.62, "end": 1799.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1799.62, "end": 1801.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1801.62, "end": 1803.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1803.62, "end": 1805.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1805.62, "end": 1807.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1807.62, "end": 1809.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1809.62, "end": 1811.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1811.62, "end": 1813.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1813.62, "end": 1815.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1815.62, "end": 1817.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03774106509107001, "no_speech_prob": 0.14072315394878387}
+{"start": 1817.62, "end": 1819.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1819.62, "end": 1821.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1821.62, "end": 1823.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1823.62, "end": 1825.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1825.62, "end": 1827.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1827.62, "end": 1829.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1829.62, "end": 1831.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1831.62, "end": 1833.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1833.62, "end": 1835.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1835.62, "end": 1837.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1837.62, "end": 1839.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1839.62, "end": 1841.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1841.62, "end": 1843.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1843.62, "end": 1845.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.035787881932714406, "no_speech_prob": 0.22846370935440063}
+{"start": 1845.62, "end": 1847.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1847.62, "end": 1849.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1849.62, "end": 1851.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1851.62, "end": 1853.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1853.62, "end": 1855.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1855.62, "end": 1857.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1857.62, "end": 1859.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1859.62, "end": 1861.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1861.62, "end": 1863.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1863.62, "end": 1865.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1865.62, "end": 1867.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1867.62, "end": 1869.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1869.62, "end": 1871.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1871.62, "end": 1873.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.04819303884664002, "no_speech_prob": 0.511174201965332}
+{"start": 1873.62, "end": 1875.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1875.62, "end": 1877.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1877.62, "end": 1879.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1879.62, "end": 1881.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1881.62, "end": 1883.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1883.62, "end": 1885.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1885.62, "end": 1887.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1887.62, "end": 1889.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1889.62, "end": 1891.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1891.62, "end": 1893.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1893.62, "end": 1895.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1895.62, "end": 1897.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1897.62, "end": 1899.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1899.62, "end": 1901.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03576183608349632, "no_speech_prob": 0.4999595284461975}
+{"start": 1901.62, "end": 1903.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1903.62, "end": 1905.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1905.62, "end": 1907.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1907.62, "end": 1909.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1909.62, "end": 1911.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1911.62, "end": 1913.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1913.62, "end": 1915.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1915.62, "end": 1917.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1917.62, "end": 1919.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1919.62, "end": 1921.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1921.62, "end": 1923.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1923.62, "end": 1925.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1925.62, "end": 1927.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1927.62, "end": 1929.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03975885736153406, "no_speech_prob": 0.18013162910938263}
+{"start": 1929.62, "end": 1931.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1931.62, "end": 1933.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1933.62, "end": 1935.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1935.62, "end": 1937.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1937.62, "end": 1939.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1939.62, "end": 1941.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1941.62, "end": 1943.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1943.62, "end": 1945.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1945.62, "end": 1947.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1947.62, "end": 1949.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1949.62, "end": 1951.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1951.62, "end": 1953.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1953.62, "end": 1955.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1955.62, "end": 1957.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03266923127367216, "no_speech_prob": 0.25003087520599365}
+{"start": 1957.62, "end": 1959.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1959.62, "end": 1961.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1961.62, "end": 1963.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1963.62, "end": 1965.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1965.62, "end": 1967.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1967.62, "end": 1969.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1969.62, "end": 1971.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1971.62, "end": 1973.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1973.62, "end": 1975.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1975.62, "end": 1977.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1977.62, "end": 1979.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1979.62, "end": 1981.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1981.62, "end": 1983.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1983.62, "end": 1985.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03206645484794589, "no_speech_prob": 0.1790476143360138}
+{"start": 1985.62, "end": 1987.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 1987.62, "end": 1989.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 1989.62, "end": 1991.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 1991.62, "end": 1993.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 1993.62, "end": 1995.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 1995.62, "end": 1997.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 1997.62, "end": 1999.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 1999.62, "end": 2001.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 2001.62, "end": 2003.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 2003.62, "end": 2005.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 2005.62, "end": 2007.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 2007.62, "end": 2009.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 2009.62, "end": 2011.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 2011.62, "end": 2013.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.03864101158345447, "no_speech_prob": 0.44455277919769287}
+{"start": 2013.62, "end": 2015.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2015.62, "end": 2017.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2017.62, "end": 2019.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2019.62, "end": 2021.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2021.62, "end": 2023.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2023.62, "end": 2025.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2025.62, "end": 2027.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2027.62, "end": 2029.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2029.62, "end": 2031.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2031.62, "end": 2033.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2033.62, "end": 2035.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2035.62, "end": 2037.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2037.62, "end": 2039.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2039.62, "end": 2041.62, "text": "que hay que marcarle la cancha,", "avg_logprob": -0.031921908347045676, "no_speech_prob": 0.09041538089513779}
+{"start": 2041.62, "end": 2043.62, "text": "pero sí, tuvimos una charla bárbara", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2043.62, "end": 2045.62, "text": "en la que quedamos,", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2045.62, "end": 2047.62, "text": "en que vamos a hacer esas cosas.", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2047.62, "end": 2049.62, "text": "Pero como digo,", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2049.62, "end": 2051.62, "text": "hay más cosas que podemos hacer", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2051.62, "end": 2053.62, "text": "con las provincias,", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2053.62, "end": 2055.62, "text": "porque hay un montón de reclamos cruzados", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2055.62, "end": 2057.62, "text": "que mi sensación es", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2057.62, "end": 2059.62, "text": "que van a estar años,", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2059.62, "end": 2061.62, "text": "y nadie los va a resolver,", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2061.62, "end": 2063.62, "text": "y a veces me pregunto si no sería más", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2063.62, "end": 2065.62, "text": "pragmático hacer una especie", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2065.62, "end": 2067.62, "text": "de, como se dice,", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2067.62, "end": 2069.62, "text": "de clearing, de settlement,", "avg_logprob": -0.17787041775015897, "no_speech_prob": 0.06102347373962402}
+{"start": 2069.62, "end": 2071.62, "text": "de arreglo y decir, bueno,", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2071.62, "end": 2073.62, "text": "a ver qué tenés vos, qué hay yo,", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2073.62, "end": 2075.62, "text": "a ver qué podemos hacer, qué nos conviene", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2075.62, "end": 2077.62, "text": "y terminar con estos temas", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2077.62, "end": 2079.62, "text": "para que se beneficen todos,", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2079.62, "end": 2081.62, "text": "porque los reclamos sectos", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2081.62, "end": 2083.62, "text": "son muy debatibles todos,", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2083.62, "end": 2085.62, "text": "y las provincias tienen argumentos,", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2085.62, "end": 2087.62, "text": "y acá tienen argumentos también,", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2087.62, "end": 2089.62, "text": "y la justicia escucha uno,", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2089.62, "end": 2091.62, "text": "escucha el otro, y tal.", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2091.62, "end": 2093.62, "text": "Entonces, a mí me parece que sería más conveniente", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2093.62, "end": 2095.62, "text": "una cosa así.", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2095.62, "end": 2097.62, "text": "¿Está bien comparar medicamento, por ejemplo, en India,", "avg_logprob": -0.15205807304706703, "no_speech_prob": 0.0107763996347785}
+{"start": 2097.62, "end": 2099.62, "text": "en la provincia de Mendoza,", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2099.62, "end": 2101.62, "text": "conceptualmente usted está de acuerdo?", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2101.62, "end": 2103.62, "text": "Sí, o sea, a lo que no estoy de acuerdo,", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2103.62, "end": 2105.62, "text": "los medicamentos siguen subiendo", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2105.62, "end": 2107.62, "text": "como están subiendo,", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2107.62, "end": 2109.62, "text": "como subieron,", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2109.62, "end": 2111.62, "text": "entonces, nosotros tenemos que", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2111.62, "end": 2113.62, "text": "emplear los recursos que podemos", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2113.62, "end": 2115.62, "text": "de vuelta, para tratar", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2115.62, "end": 2117.62, "text": "de minimizarle estos costos", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2117.62, "end": 2119.62, "text": "a la gente,", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2119.62, "end": 2121.62, "text": "entonces, sí, me parece bien,", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2121.62, "end": 2123.62, "text": "me parece que es lo que tiene que hacer,", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2123.62, "end": 2125.62, "text": "es un poco lo mismo que estamos haciendo", "avg_logprob": -0.21901056554634124, "no_speech_prob": 0.02322216145694256}
+{"start": 2125.62, "end": 2127.62, "text": "en lo mismo que estamos haciendo", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2127.62, "end": 2129.62, "text": "en todos los diferentes rubros,", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2129.62, "end": 2131.62, "text": "todas estas bajas de aranceles", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2131.62, "end": 2133.62, "text": "y demás, apuntan", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2133.62, "end": 2135.62, "text": "a lo mismo. Argentina ha entrado", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2135.62, "end": 2137.62, "text": "en un esquema, en el que", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2137.62, "end": 2139.62, "text": "absurdo, en el que de vuelta", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2139.62, "end": 2141.62, "text": "se generaba un déficit fenomenal", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2141.62, "end": 2143.62, "text": "por todas las razones que ya sabemos,", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2143.62, "end": 2145.62, "text": "y entonces, ¿cómo hacías", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2145.62, "end": 2147.62, "text": "para financiar ese déficit? Bueno, primero,", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2147.62, "end": 2149.62, "text": "se trataba de aumentar impuestos,", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2149.62, "end": 2151.62, "text": "se aumentaron todos los impuestos,", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2151.62, "end": 2153.62, "text": "hasta que la gente se empezó a ir afuera,", "avg_logprob": -0.10166872307758203, "no_speech_prob": 0.008349326439201832}
+{"start": 2153.62, "end": 2155.62, "text": "o del país, o se empezó a ir al canal", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2155.62, "end": 2157.62, "text": "informal, entonces, tenés", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2157.62, "end": 2159.62, "text": "digamos, una cantidad", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2159.62, "end": 2161.62, "text": "de empleados en el sector privado", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2161.62, "end": 2163.62, "text": "que no crece desde el 2011, pero bancando", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2163.62, "end": 2165.62, "text": "un estado cada vez más grande,", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2165.62, "end": 2167.62, "text": "que cobra más impuestos, bueno,", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2167.62, "end": 2169.62, "text": "todo eso hay que ir desarmándolo,", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2169.62, "end": 2171.62, "text": "bajar aranceles, bajar impuestos,", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2171.62, "end": 2173.62, "text": "permitir las importaciones,", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2173.62, "end": 2175.62, "text": "es en beneficio de la gente.", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2175.62, "end": 2177.62, "text": "Hay una parte de los argentinos", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2177.62, "end": 2179.62, "text": "que no lo va a poder comerse nunca,", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2179.62, "end": 2181.62, "text": "si nada, que puta, que yo,", "avg_logprob": -0.15087080022243604, "no_speech_prob": 0.016150107607245445}
+{"start": 2181.62, "end": 2183.62, "text": "que no lo pico por ciento, o lo que sea,", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2183.62, "end": 2185.62, "text": "al tinerismo, y hay otra que dice,", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2185.62, "end": 2187.62, "text": "bueno, yo estoy dispuesto, pero", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2187.62, "end": 2189.62, "text": "¿cuándo llega la...", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2189.62, "end": 2191.62, "text": "¿cuándo hay un poco de agua en este camino", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2191.62, "end": 2193.62, "text": "del desierto? ¿Cuándo?", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2193.62, "end": 2195.62, "text": "Voy a sentir con...", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2195.62, "end": 2197.62, "text": "No, los vamos a convencer a todos,", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2197.62, "end": 2199.62, "text": "no tengo duda, o sea,", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2199.62, "end": 2201.62, "text": "algunos les va a llevar más tiempo,", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2201.62, "end": 2203.62, "text": "eso es lo único que va a cambiar,", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2203.62, "end": 2205.62, "text": "porque este presidente", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2205.62, "end": 2207.62, "text": "va a cambiar la historia", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2207.62, "end": 2209.62, "text": "de la Argentina, no tengo", "avg_logprob": -0.2389702053947581, "no_speech_prob": 0.010873968712985516}
+{"start": 2209.62, "end": 2211.62, "text": "ninguna duda,", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2211.62, "end": 2213.62, "text": "Argentina va a ser un país", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2213.62, "end": 2215.62, "text": "que más va a sobre salir", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2215.62, "end": 2217.62, "text": "en los próximos 30 años,", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2217.62, "end": 2219.62, "text": "entonces el que no nos cree hoy,", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2219.62, "end": 2221.62, "text": "o no nos cree el año que viene,", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2221.62, "end": 2223.62, "text": "no cree el otro año que va a ir...", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2223.62, "end": 2225.62, "text": "¿Qué le está pasando mal hoy?", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2225.62, "end": 2227.62, "text": "No, que le está pasando mal hoy, le digo,", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2227.62, "end": 2229.62, "text": "que tenga más esperanzas que nunca,", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2229.62, "end": 2231.62, "text": "porque lo peor ya pasó,", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2231.62, "end": 2233.62, "text": "y hoy podemos empezar a mostrar resultados.", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2233.62, "end": 2235.62, "text": "En diciembre era un programa económico", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2235.62, "end": 2237.62, "text": "que muchos no entendían,", "avg_logprob": -0.24563802071731455, "no_speech_prob": 0.008734330534934998}
+{"start": 2237.62, "end": 2239.62, "text": "pero la economía empezó a recuperar,", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2239.62, "end": 2241.62, "text": "el dólar está estable,", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2241.62, "end": 2243.62, "text": "estamos sacando regulaciones,", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2243.62, "end": 2245.62, "text": "estamos bajando impuestos,", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2245.62, "end": 2247.62, "text": "estamos bajando aranceles,", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2247.62, "end": 2249.62, "text": "entonces hoy ya se empiezan a ver los frutos,", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2249.62, "end": 2251.62, "text": "entonces, quédate tranquilo,", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2251.62, "end": 2253.62, "text": "que vamos a convencer a todos,", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2253.62, "end": 2255.62, "text": "hasta los más escépticos,", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2255.62, "end": 2257.62, "text": "como digo, la realidad se va a llevar", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2257.62, "end": 2259.62, "text": "puesta al escepticismo.", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}
+{"start": 2259.62, "end": 2261.62, "text": "Gracias, ministro, por la entrevista.", "avg_logprob": -0.14594463307049968, "no_speech_prob": 0.06575610488653183}

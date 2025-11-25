@@ -1,0 +1,678 @@
+{"start": 0.0, "end": 3.0, "text": "Ministro Caputo, bienvenido.", "avg_logprob": -0.34754424709446574, "no_speech_prob": 0.10530734807252884}
+{"start": 3.08, "end": 4.08, "text": "¿Cómo estás, Antonio?", "avg_logprob": -0.34754424709446574, "no_speech_prob": 0.10530734807252884}
+{"start": 4.16, "end": 6.76, "text": "Gracias por la invitación.", "avg_logprob": -0.34754424709446574, "no_speech_prob": 0.10530734807252884}
+{"start": 6.84, "end": 11.0, "text": "Tema central, Fondo Monetario.", "avg_logprob": -0.34754424709446574, "no_speech_prob": 0.10530734807252884}
+{"start": 11.08, "end": 15.52, "text": "Mañana se debate el DNU en diputados.", "avg_logprob": -0.34754424709446574, "no_speech_prob": 0.10530734807252884}
+{"start": 15.6, "end": 18.8, "text": "Imagino que el gobierno cree que tiene el número.", "avg_logprob": -0.34754424709446574, "no_speech_prob": 0.10530734807252884}
+{"start": 18.88, "end": 21.68, "text": "Si se aprueba en una cámara, ya queda vigente.", "avg_logprob": -0.34754424709446574, "no_speech_prob": 0.10530734807252884}
+{"start": 21.76, "end": 26.52, "text": "¿Por qué no está la parte técnica en el DNU?", "avg_logprob": -0.34754424709446574, "no_speech_prob": 0.10530734807252884}
+{"start": 26.68, "end": 32.8, "text": "Porque la parte técnica es algo que negocia el ejecutivo.", "avg_logprob": -0.3160443924208905, "no_speech_prob": 0.033193930983543396}
+{"start": 32.88, "end": 34.28, "text": "Siempre, en realidad,", "avg_logprob": -0.3160443924208905, "no_speech_prob": 0.033193930983543396}
+{"start": 34.36, "end": 39.12, "text": "nunca estos acuerdos pasaron por el Congreso.", "avg_logprob": -0.3160443924208905, "no_speech_prob": 0.033193930983543396}
+{"start": 39.2, "end": 40.28, "text": "Esto es nuevo a partir de...", "avg_logprob": -0.3160443924208905, "no_speech_prob": 0.033193930983543396}
+{"start": 40.36, "end": 41.88, "text": "De humano.", "avg_logprob": -0.3160443924208905, "no_speech_prob": 0.033193930983543396}
+{"start": 41.96, "end": 44.56, "text": "Pero igualmente, aún en ese sentido,", "avg_logprob": -0.3160443924208905, "no_speech_prob": 0.033193930983543396}
+{"start": 44.64, "end": 50.64, "text": "lo que se aprueba es la aprobación del crédito público.", "avg_logprob": -0.3160443924208905, "no_speech_prob": 0.033193930983543396}
+{"start": 50.72, "end": 53.68, "text": "Lo que es los detalles del acuerdo.", "avg_logprob": -0.3160443924208905, "no_speech_prob": 0.033193930983543396}
+{"start": 53.8, "end": 57.48, "text": "Eso es parte de la confincialidad del acuerdo.", "avg_logprob": -0.2633429922041346, "no_speech_prob": 0.015901513397693634}
+{"start": 57.56, "end": 59.08, "text": "¿Y está definido el monto?", "avg_logprob": -0.2633429922041346, "no_speech_prob": 0.015901513397693634}
+{"start": 59.16, "end": 62.48, "text": "No, el monto lo define el directorio del fondo.", "avg_logprob": -0.2633429922041346, "no_speech_prob": 0.015901513397693634}
+{"start": 62.56, "end": 64.12, "text": "¿Cuándo?", "avg_logprob": -0.2633429922041346, "no_speech_prob": 0.015901513397693634}
+{"start": 64.2, "end": 68.8, "text": "Cuando se reúnen, cuando convoquen al directorio.", "avg_logprob": -0.2633429922041346, "no_speech_prob": 0.015901513397693634}
+{"start": 68.88, "end": 72.32, "text": "Y el directorio es el que define el monto.", "avg_logprob": -0.2633429922041346, "no_speech_prob": 0.015901513397693634}
+{"start": 72.4, "end": 74.84, "text": "Nosotros, genuinamente, no lo sabemos.", "avg_logprob": -0.2633429922041346, "no_speech_prob": 0.015901513397693634}
+{"start": 74.92, "end": 77.16, "text": "Por eso tampoco lo decimos.", "avg_logprob": -0.2633429922041346, "no_speech_prob": 0.015901513397693634}
+{"start": 77.24, "end": 79.4, "text": "¿Cuál es la diferencia?", "avg_logprob": -0.2633429922041346, "no_speech_prob": 0.015901513397693634}
+{"start": 79.48, "end": 81.2, "text": "¿Y por qué no va a pasar lo mismo", "avg_logprob": -0.2633429922041346, "no_speech_prob": 0.015901513397693634}
+{"start": 81.24, "end": 84.76, "text": "con el acuerdo que se hizo con el fondo el último", "avg_logprob": -0.25862944010391975, "no_speech_prob": 0.006727195344865322}
+{"start": 84.84, "end": 86.84, "text": "con este acuerdo?", "avg_logprob": -0.25862944010391975, "no_speech_prob": 0.006727195344865322}
+{"start": 86.92, "end": 92.4, "text": "Es buena pregunta, porque es bien grande,", "avg_logprob": -0.25862944010391975, "no_speech_prob": 0.006727195344865322}
+{"start": 92.48, "end": 94.16, "text": "es importante la diferencia.", "avg_logprob": -0.25862944010391975, "no_speech_prob": 0.006727195344865322}
+{"start": 94.24, "end": 98.16, "text": "¿Cómo es para que la gente entienda un acuerdo clásico", "avg_logprob": -0.25862944010391975, "no_speech_prob": 0.006727195344865322}
+{"start": 98.24, "end": 99.24, "text": "con el fondo?", "avg_logprob": -0.25862944010391975, "no_speech_prob": 0.006727195344865322}
+{"start": 99.32, "end": 101.64, "text": "No de Argentina, sino de cualquier país.", "avg_logprob": -0.25862944010391975, "no_speech_prob": 0.006727195344865322}
+{"start": 101.72, "end": 102.68, "text": "Uno va al fondo,", "avg_logprob": -0.25862944010391975, "no_speech_prob": 0.006727195344865322}
+{"start": 102.76, "end": 105.52, "text": "típicamente cuando la situación macroeconómica", "avg_logprob": -0.25862944010391975, "no_speech_prob": 0.006727195344865322}
+{"start": 105.6, "end": 109.68, "text": "está desordenada, no tiene financiamiento,", "avg_logprob": -0.25862944010391975, "no_speech_prob": 0.006727195344865322}
+{"start": 109.76, "end": 113.48, "text": "hay déficit fiscal, hay desorden monetario.", "avg_logprob": -0.24753040748719984, "no_speech_prob": 0.012220809236168861}
+{"start": 113.56, "end": 118.72, "text": "Entonces, el fondo pide ciertas condiciones", "avg_logprob": -0.24753040748719984, "no_speech_prob": 0.012220809236168861}
+{"start": 118.8, "end": 123.4, "text": "que esencialmente son un orden fiscal y un orden monetario.", "avg_logprob": -0.24753040748719984, "no_speech_prob": 0.012220809236168861}
+{"start": 123.48, "end": 125.24, "text": "Tiene un tiempo para eso,", "avg_logprob": -0.24753040748719984, "no_speech_prob": 0.012220809236168861}
+{"start": 125.32, "end": 128.56, "text": "típicamente pueden ser dos, tres, cuatro años,", "avg_logprob": -0.24753040748719984, "no_speech_prob": 0.012220809236168861}
+{"start": 128.64, "end": 133.0, "text": "para que se llegue, por ejemplo, a un equilibrio fiscal primario.", "avg_logprob": -0.24753040748719984, "no_speech_prob": 0.012220809236168861}
+{"start": 133.08, "end": 137.32, "text": "Y contra eso te da plata para que, en el vos en el mientras tanto,", "avg_logprob": -0.24753040748719984, "no_speech_prob": 0.012220809236168861}
+{"start": 137.36, "end": 140.44, "text": "puedas seguir con tus operaciones.", "avg_logprob": -0.22771257462731578, "no_speech_prob": 0.02120056375861168}
+{"start": 140.52, "end": 144.52, "text": "¿Qué es lo diferente y por qué esta vez es diferente?", "avg_logprob": -0.22771257462731578, "no_speech_prob": 0.02120056375861168}
+{"start": 144.6, "end": 146.16, "text": "Es una pregunta importante para la gente,", "avg_logprob": -0.22771257462731578, "no_speech_prob": 0.02120056375861168}
+{"start": 146.24, "end": 149.76, "text": "porque en general las cosas con el fondo salieron mal.", "avg_logprob": -0.22771257462731578, "no_speech_prob": 0.02120056375861168}
+{"start": 149.84, "end": 151.2, "text": "Siempre.", "avg_logprob": -0.22771257462731578, "no_speech_prob": 0.02120056375861168}
+{"start": 151.28, "end": 155.88, "text": "Esta vez es diferente porque todo ese ajuste fiscal y monetario", "avg_logprob": -0.22771257462731578, "no_speech_prob": 0.02120056375861168}
+{"start": 155.96, "end": 157.96, "text": "que pide el fondo, y más,", "avg_logprob": -0.22771257462731578, "no_speech_prob": 0.02120056375861168}
+{"start": 158.04, "end": 160.44, "text": "nosotros ya lo hicimos el año pasado.", "avg_logprob": -0.22771257462731578, "no_speech_prob": 0.02120056375861168}
+{"start": 160.52, "end": 162.84, "text": "Entonces, estamos en un caso atípico,", "avg_logprob": -0.22771257462731578, "no_speech_prob": 0.02120056375861168}
+{"start": 162.92, "end": 164.88, "text": "al fondo no le pasó nunca,", "avg_logprob": -0.22771257462731578, "no_speech_prob": 0.02120056375861168}
+{"start": 164.96, "end": 168.68, "text": "de ir a un programa donde el presidente", "avg_logprob": -0.1606408548804949, "no_speech_prob": 0.003748455084860325}
+{"start": 168.76, "end": 172.52, "text": "y el equipo económico del país es más ortodoxo que ellos.", "avg_logprob": -0.1606408548804949, "no_speech_prob": 0.003748455084860325}
+{"start": 172.6, "end": 178.8, "text": "O sea, nosotros nos pusimos metas más difíciles de alcanzar", "avg_logprob": -0.1606408548804949, "no_speech_prob": 0.003748455084860325}
+{"start": 178.88, "end": 181.12, "text": "que las que típicamente ponen el fondo.", "avg_logprob": -0.1606408548804949, "no_speech_prob": 0.003748455084860325}
+{"start": 181.2, "end": 185.12, "text": "El fondo típicamente te pide ir a equilibrio fiscal primario,", "avg_logprob": -0.1606408548804949, "no_speech_prob": 0.003748455084860325}
+{"start": 185.2, "end": 187.96, "text": "que es antes del pago de los intereses.", "avg_logprob": -0.1606408548804949, "no_speech_prob": 0.003748455084860325}
+{"start": 188.04, "end": 192.36, "text": "Nosotros nos propusimos ir a superávit primario suficiente", "avg_logprob": -0.1606408548804949, "no_speech_prob": 0.003748455084860325}
+{"start": 192.44, "end": 194.68, "text": "para pagar los intereses de la deuda también.", "avg_logprob": -0.2795804206651586, "no_speech_prob": 0.0038014077581465244}
+{"start": 194.76, "end": 197.16, "text": "Esto es equilibrio financiero.", "avg_logprob": -0.2795804206651586, "no_speech_prob": 0.0038014077581465244}
+{"start": 197.24, "end": 200.52, "text": "Entonces, es atípico en este sentido,", "avg_logprob": -0.2795804206651586, "no_speech_prob": 0.0038014077581465244}
+{"start": 200.6, "end": 206.2, "text": "que en realidad la parte del ajuste fue lo que ya se hizo.", "avg_logprob": -0.2795804206651586, "no_speech_prob": 0.0038014077581465244}
+{"start": 206.28, "end": 210.12, "text": "Y ahora viene la parte de la capitalización de la plata,", "avg_logprob": -0.2795804206651586, "no_speech_prob": 0.0038014077581465244}
+{"start": 210.2, "end": 212.2, "text": "que después te puedo aplicar, ¿qué es para qué sirve?", "avg_logprob": -0.2795804206651586, "no_speech_prob": 0.0038014077581465244}
+{"start": 212.28, "end": 214.4, "text": "Porque, por ejemplo, os planteaba que uno va al fondo", "avg_logprob": -0.2795804206651586, "no_speech_prob": 0.0038014077581465244}
+{"start": 214.48, "end": 218.16, "text": "cuando desde lo macro estás desordenado.", "avg_logprob": -0.2795804206651586, "no_speech_prob": 0.0038014077581465244}
+{"start": 218.24, "end": 219.2, "text": "Vos hoy planteás,", "avg_logprob": -0.2795804206651586, "no_speech_prob": 0.0038014077581465244}
+{"start": 219.28, "end": 221.76, "text": "mira, nosotros desde lo macro estamos ordenados.", "avg_logprob": -0.2795804206651586, "no_speech_prob": 0.0038014077581465244}
+{"start": 221.84, "end": 223.28, "text": "Entonces, ¿para qué iríamos al fondo?", "avg_logprob": -0.22445977863512542, "no_speech_prob": 0.0008106303866952658}
+{"start": 223.36, "end": 224.56, "text": "Excelente.", "avg_logprob": -0.22445977863512542, "no_speech_prob": 0.0008106303866952658}
+{"start": 224.64, "end": 226.52, "text": "Porque, como te digo,", "avg_logprob": -0.22445977863512542, "no_speech_prob": 0.0008106303866952658}
+{"start": 226.6, "end": 231.24, "text": "hay un tema también de capitalización del banco central.", "avg_logprob": -0.22445977863512542, "no_speech_prob": 0.0008106303866952658}
+{"start": 231.32, "end": 232.92, "text": "¿Cuál es el objetivo de ir al fondo?", "avg_logprob": -0.22445977863512542, "no_speech_prob": 0.0008106303866952658}
+{"start": 233.0, "end": 235.36, "text": "Para que la gente entienda bien.", "avg_logprob": -0.22445977863512542, "no_speech_prob": 0.0008106303866952658}
+{"start": 235.44, "end": 241.0, "text": "Bueno, el objetivo es tener una moneda sana", "avg_logprob": -0.22445977863512542, "no_speech_prob": 0.0008106303866952658}
+{"start": 241.08, "end": 245.12, "text": "y continuar con el proceso de desinflación.", "avg_logprob": -0.22445977863512542, "no_speech_prob": 0.0008106303866952658}
+{"start": 246.4, "end": 248.04, "text": "Para eso, como digo,", "avg_logprob": -0.22445977863512542, "no_speech_prob": 0.0008106303866952658}
+{"start": 248.12, "end": 252.12, "text": "vos tenés que tener, digamos, un banco central", "avg_logprob": -0.1988091752642677, "no_speech_prob": 0.002140452852472663}
+{"start": 252.2, "end": 256.12, "text": "con un balance, digamos, sólido.", "avg_logprob": -0.1988091752642677, "no_speech_prob": 0.002140452852472663}
+{"start": 256.2, "end": 259.24, "text": "Nosotros, durante este último año,", "avg_logprob": -0.1988091752642677, "no_speech_prob": 0.002140452852472663}
+{"start": 259.32, "end": 262.84, "text": "nos hemos encargado de sañar fuertemente", "avg_logprob": -0.1988091752642677, "no_speech_prob": 0.002140452852472663}
+{"start": 262.92, "end": 265.64, "text": "los pasivos del banco central.", "avg_logprob": -0.1988091752642677, "no_speech_prob": 0.002140452852472663}
+{"start": 265.72, "end": 266.8, "text": "¿Qué quiero decir?", "avg_logprob": -0.1988091752642677, "no_speech_prob": 0.002140452852472663}
+{"start": 266.88, "end": 269.08, "text": "Con los pasivos del banco central.", "avg_logprob": -0.1988091752642677, "no_speech_prob": 0.002140452852472663}
+{"start": 269.16, "end": 272.28, "text": "El banco central, típicamente, en Argentina,", "avg_logprob": -0.1988091752642677, "no_speech_prob": 0.002140452852472663}
+{"start": 272.36, "end": 276.36, "text": "siempre tuvo un desbalance en el mercado de pesos muy grande.", "avg_logprob": -0.1988091752642677, "no_speech_prob": 0.002140452852472663}
+{"start": 276.4, "end": 280.56, "text": "Siempre emitió muchos más pesos de lo que la gente demandaba.", "avg_logprob": -0.1562209003339938, "no_speech_prob": 0.00034612868330441415}
+{"start": 280.64, "end": 282.84, "text": "¿Por qué? Porque había déficit.", "avg_logprob": -0.1562209003339938, "no_speech_prob": 0.00034612868330441415}
+{"start": 282.92, "end": 285.96, "text": "Entonces, todos esos pesos que sobraban,", "avg_logprob": -0.1562209003339938, "no_speech_prob": 0.00034612868330441415}
+{"start": 286.04, "end": 289.92, "text": "típicamente, iban a buscar dólares o a comprar bienes,", "avg_logprob": -0.1562209003339938, "no_speech_prob": 0.00034612868330441415}
+{"start": 290.0, "end": 292.92, "text": "lo que generaba esa inflación y esa suban el dólar,", "avg_logprob": -0.1562209003339938, "no_speech_prob": 0.00034612868330441415}
+{"start": 293.0, "end": 295.52, "text": "que es lo que percibía siempre la gente.", "avg_logprob": -0.1562209003339938, "no_speech_prob": 0.00034612868330441415}
+{"start": 297.08, "end": 300.32, "text": "Nosotros, durante este año, para que te des una idea,", "avg_logprob": -0.1562209003339938, "no_speech_prob": 0.00034612868330441415}
+{"start": 300.4, "end": 305.64, "text": "hemos equilibrado fuertemente ese sobrante monetario", "avg_logprob": -0.1562209003339938, "no_speech_prob": 0.00034612868330441415}
+{"start": 305.68, "end": 307.76, "text": "que heredamos, ese Ovarján monetario", "avg_logprob": -0.30336914847536783, "no_speech_prob": 0.0011221133172512054}
+{"start": 307.84, "end": 310.36, "text": "que le escuchaste decir muchas veces al presidente,", "avg_logprob": -0.30336914847536783, "no_speech_prob": 0.0011221133172512054}
+{"start": 310.44, "end": 312.76, "text": "ese sobrante de pesos.", "avg_logprob": -0.30336914847536783, "no_speech_prob": 0.0011221133172512054}
+{"start": 312.84, "end": 316.32, "text": "Redujimos lo que eran las LEVAX,", "avg_logprob": -0.30336914847536783, "no_speech_prob": 0.0011221133172512054}
+{"start": 316.4, "end": 319.56, "text": "LELEX y eso que es el excedente monetario,", "avg_logprob": -0.30336914847536783, "no_speech_prob": 0.0011221133172512054}
+{"start": 319.64, "end": 321.44, "text": "¿sabes en cuánto?", "avg_logprob": -0.30336914847536783, "no_speech_prob": 0.0011221133172512054}
+{"start": 321.52, "end": 324.36, "text": "En un 76%.", "avg_logprob": -0.30336914847536783, "no_speech_prob": 0.0011221133172512054}
+{"start": 324.44, "end": 327.0, "text": "Y a su vez, la demanda de pesos,", "avg_logprob": -0.30336914847536783, "no_speech_prob": 0.0011221133172512054}
+{"start": 327.08, "end": 330.4, "text": "la demanda de base creció un 18%.", "avg_logprob": -0.30336914847536783, "no_speech_prob": 0.0011221133172512054}
+{"start": 330.48, "end": 334.32, "text": "Entonces, hoy el mercado de pesos está mucho más equilibrado", "avg_logprob": -0.30336914847536783, "no_speech_prob": 0.0011221133172512054}
+{"start": 334.4, "end": 337.76, "text": "y esa es la razón porque no caímos en hiperinflación", "avg_logprob": -0.15634556974821945, "no_speech_prob": 0.0004816980508621782}
+{"start": 337.84, "end": 340.12, "text": "y porque pudimos reducir tan fuertemente", "avg_logprob": -0.15634556974821945, "no_speech_prob": 0.0004816980508621782}
+{"start": 340.2, "end": 342.68, "text": "y tan rápidamente la inflación.", "avg_logprob": -0.15634556974821945, "no_speech_prob": 0.0004816980508621782}
+{"start": 342.76, "end": 346.0, "text": "Porque controlamos fuertemente el mercado de pesos.", "avg_logprob": -0.15634556974821945, "no_speech_prob": 0.0004816980508621782}
+{"start": 346.08, "end": 349.8, "text": "Hoy, para que te des una idea para que la gente entienda,", "avg_logprob": -0.15634556974821945, "no_speech_prob": 0.0004816980508621782}
+{"start": 349.88, "end": 351.32, "text": "no importa los números,", "avg_logprob": -0.15634556974821945, "no_speech_prob": 0.0004816980508621782}
+{"start": 351.4, "end": 354.16, "text": "pero sí lo van a entender en términos de proporción.", "avg_logprob": -0.15634556974821945, "no_speech_prob": 0.0004816980508621782}
+{"start": 354.24, "end": 358.2, "text": "Hoy la cantidad de pesos de pasivos del Banco Central", "avg_logprob": -0.15634556974821945, "no_speech_prob": 0.0004816980508621782}
+{"start": 358.28, "end": 363.72, "text": "apenas alcanza a 6,5 puntos de producto bruto.", "avg_logprob": -0.15634556974821945, "no_speech_prob": 0.0004816980508621782}
+{"start": 363.8, "end": 366.16, "text": "Típicamente eso en Argentina", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 366.24, "end": 369.4, "text": "va entre 14 y 18 puntos de producto.", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 369.48, "end": 372.64, "text": "Es decir, que redujimos en términos reales la cantidad de pesos", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 372.72, "end": 374.4, "text": "a una tercera parte.", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 374.48, "end": 376.16, "text": "Ahora viene la segunda parte.", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 376.24, "end": 378.56, "text": "Está vino por el lado de los pasivos.", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 378.64, "end": 379.84, "text": "Hay mucho menos pesos.", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 379.92, "end": 381.64, "text": "Vamos a ir a Barber o Luis,", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 381.72, "end": 383.64, "text": "que bueno, hay mucho menos pesos.", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 383.72, "end": 384.92, "text": "¿Qué es lo que falta?", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 385.0, "end": 388.84, "text": "Falta que estos pesos estén bien respaldados.", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 388.92, "end": 391.64, "text": "¿Vos crees que los pesos, por más que sean pocos,", "avg_logprob": -0.21797287606579416, "no_speech_prob": 0.0005379721987992525}
+{"start": 391.72, "end": 394.44, "text": "estén respaldados por oro, dólares,", "avg_logprob": -0.20863188913574926, "no_speech_prob": 0.0016041144262999296}
+{"start": 394.52, "end": 397.0, "text": "y no por papelitos de colores,", "avg_logprob": -0.20863188913574926, "no_speech_prob": 0.0016041144262999296}
+{"start": 397.08, "end": 400.8, "text": "que es lo que hay hoy en gran parte del Banco Central?", "avg_logprob": -0.20863188913574926, "no_speech_prob": 0.0016041144262999296}
+{"start": 400.88, "end": 404.08, "text": "Entonces, vos utilizas el dinero del Fondo Monetario", "avg_logprob": -0.20863188913574926, "no_speech_prob": 0.0016041144262999296}
+{"start": 404.16, "end": 407.52, "text": "para las reservas para respaldar los pesos.", "avg_logprob": -0.20863188913574926, "no_speech_prob": 0.0016041144262999296}
+{"start": 407.6, "end": 408.8, "text": "Exactamente.", "avg_logprob": -0.20863188913574926, "no_speech_prob": 0.0016041144262999296}
+{"start": 408.88, "end": 411.68, "text": "Lo que pasó durante la época, quisnerista,", "avg_logprob": -0.20863188913574926, "no_speech_prob": 0.0016041144262999296}
+{"start": 411.76, "end": 415.0, "text": "que fue que el quisnerismo,", "avg_logprob": -0.20863188913574926, "no_speech_prob": 0.0016041144262999296}
+{"start": 415.08, "end": 417.92, "text": "el gobierno, el tesoro nacional,", "avg_logprob": -0.20863188913574926, "no_speech_prob": 0.0016041144262999296}
+{"start": 418.0, "end": 421.84, "text": "le vendía estas letras intransferibles,", "avg_logprob": -0.24799594598087837, "no_speech_prob": 0.0028300529811531305}
+{"start": 421.92, "end": 423.24, "text": "que no se pueden monetizar,", "avg_logprob": -0.24799594598087837, "no_speech_prob": 0.0028300529811531305}
+{"start": 423.32, "end": 427.44, "text": "que no tienen precio de mercado ni nada,", "avg_logprob": -0.24799594598087837, "no_speech_prob": 0.0028300529811531305}
+{"start": 427.52, "end": 430.84, "text": "y contra eso les acaba los dólares, y se los gastaba.", "avg_logprob": -0.24799594598087837, "no_speech_prob": 0.0028300529811531305}
+{"start": 430.92, "end": 433.92, "text": "Entonces, en el balance del central, en el activo,", "avg_logprob": -0.24799594598087837, "no_speech_prob": 0.0028300529811531305}
+{"start": 434.0, "end": 437.24, "text": "los dólares se iban y entraban unos papelitos de colores.", "avg_logprob": -0.24799594598087837, "no_speech_prob": 0.0028300529811531305}
+{"start": 437.32, "end": 439.16, "text": "Ahora estamos haciendo la operación inversa.", "avg_logprob": -0.24799594598087837, "no_speech_prob": 0.0028300529811531305}
+{"start": 439.24, "end": 442.0, "text": "Le estamos diciendo al Fondo, dame los dólares.", "avg_logprob": -0.24799594598087837, "no_speech_prob": 0.0028300529811531305}
+{"start": 442.08, "end": 445.48, "text": "Yo con esos dólares les recompo esos papelitos de colores", "avg_logprob": -0.24799594598087837, "no_speech_prob": 0.0028300529811531305}
+{"start": 445.52, "end": 448.28, "text": "que le vendió el quisnerismo y le vuelvo a poner dólares.", "avg_logprob": -0.2413607617219289, "no_speech_prob": 0.00820443406701088}
+{"start": 448.36, "end": 451.6, "text": "Ahora hay pocos pesos bien respaldados.", "avg_logprob": -0.2413607617219289, "no_speech_prob": 0.00820443406701088}
+{"start": 451.68, "end": 453.88, "text": "Entonces, tenés una moneda sana y una inflación que cae.", "avg_logprob": -0.2413607617219289, "no_speech_prob": 0.00820443406701088}
+{"start": 453.96, "end": 457.08, "text": "¿Y por qué no se te van a ir, como se fueron en su momento", "avg_logprob": -0.2413607617219289, "no_speech_prob": 0.00820443406701088}
+{"start": 457.16, "end": 459.04, "text": "y en el gobierno también de Mauricio Macri,", "avg_logprob": -0.2413607617219289, "no_speech_prob": 0.00820443406701088}
+{"start": 459.12, "end": 462.32, "text": "los dólares, producto de la demanda de la gente o de las empresas?", "avg_logprob": -0.2413607617219289, "no_speech_prob": 0.00820443406701088}
+{"start": 462.4, "end": 466.32, "text": "Bueno, por lo que estoy diciendo.", "avg_logprob": -0.2413607617219289, "no_speech_prob": 0.00820443406701088}
+{"start": 466.4, "end": 470.44, "text": "Porque no hay sobrante de pesos.", "avg_logprob": -0.2413607617219289, "no_speech_prob": 0.00820443406701088}
+{"start": 470.52, "end": 473.4, "text": "El sobrante de pesos hoy es mucho menor.", "avg_logprob": -0.2413607617219289, "no_speech_prob": 0.00820443406701088}
+{"start": 473.48, "end": 477.32, "text": "Equilibramos fuertemente la demanda y la oferta de pesos.", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 477.4, "end": 478.4, "text": "Entonces...", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 478.48, "end": 480.16, "text": "Pues si que no va a haber pesos...", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 480.24, "end": 481.76, "text": "Primera medida hay...", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 481.84, "end": 482.84, "text": "...de mandar dólares.", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 482.92, "end": 485.92, "text": "No solo hay menos sobrante, sino que hay mucho menos pesos.", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 486.0, "end": 489.2, "text": "Hay una tercera parte de los pesos que solía haber.", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 489.28, "end": 491.48, "text": "Y, por otro lado, esos pesos", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 491.56, "end": 493.32, "text": "van a pasar a estar bien respaldados.", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 493.4, "end": 494.92, "text": "Va a haber dólares de sobra.", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 495.0, "end": 497.0, "text": "Está bien, pero hoy tenés pocos pesos", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 497.08, "end": 499.92, "text": "y, sin embargo, tenés demanda de dólares estos últimos días.", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 500.0, "end": 501.6, "text": "Sí, o sea, por supuesto,", "avg_logprob": -0.26845326176599454, "no_speech_prob": 0.009391539730131626}
+{"start": 501.64, "end": 505.72, "text": "porque todavía hay stocks con los que uno tiene que lidiar,", "avg_logprob": -0.2785339951515198, "no_speech_prob": 0.006129359360784292}
+{"start": 505.8, "end": 508.72, "text": "típicamente, dividendos que quedaron atrapados", "avg_logprob": -0.2785339951515198, "no_speech_prob": 0.006129359360784292}
+{"start": 508.8, "end": 510.24, "text": "por el cepo y demás.", "avg_logprob": -0.2785339951515198, "no_speech_prob": 0.006129359360784292}
+{"start": 510.32, "end": 513.6, "text": "No tenés preocupación de que siga la demanda de dólares", "avg_logprob": -0.2785339951515198, "no_speech_prob": 0.006129359360784292}
+{"start": 513.68, "end": 517.24, "text": "y que les van concentrar, se siga deshaciendo de dólares?", "avg_logprob": -0.2785339951515198, "no_speech_prob": 0.006129359360784292}
+{"start": 517.32, "end": 521.96, "text": "No, a ver, está el debate este de si...", "avg_logprob": -0.2785339951515198, "no_speech_prob": 0.006129359360784292}
+{"start": 522.04, "end": 525.56, "text": "...de si Argentina es un país que puede flotar o no.", "avg_logprob": -0.2785339951515198, "no_speech_prob": 0.006129359360784292}
+{"start": 525.64, "end": 528.0, "text": "En definitiva, esta es la pregunta que...", "avg_logprob": -0.2785339951515198, "no_speech_prob": 0.006129359360784292}
+{"start": 528.08, "end": 530.0, "text": "Bueno, esta es la gran duda con el acuerdo con el Fondo.", "avg_logprob": -0.2785339951515198, "no_speech_prob": 0.006129359360784292}
+{"start": 530.08, "end": 531.72, "text": "El Círculo va a hacer el régimen cambiario", "avg_logprob": -0.30666639213639546, "no_speech_prob": 0.0022837254218757153}
+{"start": 531.8, "end": 533.0, "text": "y va a tener la Argentina.", "avg_logprob": -0.30666639213639546, "no_speech_prob": 0.0022837254218757153}
+{"start": 533.08, "end": 536.08, "text": "Bueno, o sea, ahí en realidad es una cosa...", "avg_logprob": -0.30666639213639546, "no_speech_prob": 0.0022837254218757153}
+{"start": 537.84, "end": 539.56, "text": "...más...", "avg_logprob": -0.30666639213639546, "no_speech_prob": 0.0022837254218757153}
+{"start": 539.64, "end": 541.44, "text": "...no iría técnica.", "avg_logprob": -0.30666639213639546, "no_speech_prob": 0.0022837254218757153}
+{"start": 541.52, "end": 546.52, "text": "No hay una definición sobre si un país puede flotar o no.", "avg_logprob": -0.30666639213639546, "no_speech_prob": 0.0022837254218757153}
+{"start": 546.6, "end": 550.04, "text": "Si Argentina no puede flotar, pero Estados Unidos sí.", "avg_logprob": -0.30666639213639546, "no_speech_prob": 0.0022837254218757153}
+{"start": 550.12, "end": 552.76, "text": "O Europa sí, pero nosotros no.", "avg_logprob": -0.30666639213639546, "no_speech_prob": 0.0022837254218757153}
+{"start": 552.84, "end": 556.6, "text": "Uno puede flotar en tanto y en cuanto tenga su economía sana.", "avg_logprob": -0.30666639213639546, "no_speech_prob": 0.0022837254218757153}
+{"start": 556.68, "end": 559.0, "text": "Lo que la gente percibe", "avg_logprob": -0.30666639213639546, "no_speech_prob": 0.0022837254218757153}
+{"start": 559.12, "end": 561.72, "text": "y percibió toda la vida es que Argentina es un país", "avg_logprob": -0.16247360114633602, "no_speech_prob": 0.0005271045374684036}
+{"start": 561.8, "end": 564.12, "text": "que le cuesta flotar para que la gente entienda,", "avg_logprob": -0.16247360114633602, "no_speech_prob": 0.0005271045374684036}
+{"start": 564.2, "end": 566.48, "text": "quiere decir que vos tengas un tipo de cambio libre", "avg_logprob": -0.16247360114633602, "no_speech_prob": 0.0005271045374684036}
+{"start": 566.56, "end": 569.32, "text": "y que se mueva como el mercado quiera.", "avg_logprob": -0.16247360114633602, "no_speech_prob": 0.0005271045374684036}
+{"start": 569.4, "end": 573.0, "text": "Entonces, en Argentina eso típicamente salió mal.", "avg_logprob": -0.16247360114633602, "no_speech_prob": 0.0005271045374684036}
+{"start": 573.08, "end": 575.92, "text": "Pero típicamente salió mal por qué?", "avg_logprob": -0.16247360114633602, "no_speech_prob": 0.0005271045374684036}
+{"start": 576.0, "end": 580.96, "text": "Porque tiene una causa, no viene de, digamos, de la casualidad.", "avg_logprob": -0.16247360114633602, "no_speech_prob": 0.0005271045374684036}
+{"start": 581.04, "end": 582.92, "text": "Viene de la causalidad.", "avg_logprob": -0.16247360114633602, "no_speech_prob": 0.0005271045374684036}
+{"start": 583.0, "end": 585.12, "text": "¿Por qué costó siempre flotar en Argentina?", "avg_logprob": -0.16247360114633602, "no_speech_prob": 0.0005271045374684036}
+{"start": 585.2, "end": 587.16, "text": "Porque Argentina siempre tuvo déficit.", "avg_logprob": -0.16247360114633602, "no_speech_prob": 0.0005271045374684036}
+{"start": 587.24, "end": 590.52, "text": "¿Cómo financió ese déficit? Con emisión.", "avg_logprob": -0.18316173349176684, "no_speech_prob": 0.0016828883672133088}
+{"start": 590.6, "end": 595.16, "text": "Y esa emisión de pesos la gente no la demandaba.", "avg_logprob": -0.18316173349176684, "no_speech_prob": 0.0016828883672133088}
+{"start": 595.24, "end": 597.56, "text": "Entonces había sobrante de pesos.", "avg_logprob": -0.18316173349176684, "no_speech_prob": 0.0016828883672133088}
+{"start": 597.64, "end": 601.92, "text": "Entonces ese sobrante de pesos se volcaba al dólar.", "avg_logprob": -0.18316173349176684, "no_speech_prob": 0.0016828883672133088}
+{"start": 602.0, "end": 605.32, "text": "Pero no es que Argentina es un país que no puede flotar.", "avg_logprob": -0.18316173349176684, "no_speech_prob": 0.0016828883672133088}
+{"start": 605.4, "end": 608.0, "text": "O sea, Argentina es un país que puede flotar como cualquier otro", "avg_logprob": -0.18316173349176684, "no_speech_prob": 0.0016828883672133088}
+{"start": 608.08, "end": 613.0, "text": "en tanto y en cuanto estén dadas las condiciones macroecorómicas", "avg_logprob": -0.18316173349176684, "no_speech_prob": 0.0016828883672133088}
+{"start": 613.08, "end": 615.64, "text": "para hacer lo que son las que siempre hemos repetido", "avg_logprob": -0.18316173349176684, "no_speech_prob": 0.0016828883672133088}
+{"start": 615.68, "end": 618.64, "text": "con el presidente esas tres condiciones", "avg_logprob": -0.24921074298423107, "no_speech_prob": 0.008352113887667656}
+{"start": 618.72, "end": 620.84, "text": "que son las que estamos tratando de...", "avg_logprob": -0.24921074298423107, "no_speech_prob": 0.008352113887667656}
+{"start": 620.92, "end": 625.0, "text": "¿Pasa ir a un régimen de libre flotación", "avg_logprob": -0.24921074298423107, "no_speech_prob": 0.008352113887667656}
+{"start": 625.08, "end": 627.64, "text": "o va a seguir con un régimen de cruel impec?", "avg_logprob": -0.24921074298423107, "no_speech_prob": 0.008352113887667656}
+{"start": 627.72, "end": 628.84, "text": "¿Qué es lo que se negocia?", "avg_logprob": -0.24921074298423107, "no_speech_prob": 0.008352113887667656}
+{"start": 628.92, "end": 632.52, "text": "Bueno, eso es parte del acuerdo y no lo puedo decir.", "avg_logprob": -0.24921074298423107, "no_speech_prob": 0.008352113887667656}
+{"start": 632.6, "end": 636.52, "text": "Lo que sí puedo dejar tranquilo a la gente, muy tranquila,", "avg_logprob": -0.24921074298423107, "no_speech_prob": 0.008352113887667656}
+{"start": 636.6, "end": 641.56, "text": "es que lo que hagamos nosotros no va a afectar a la gente.", "avg_logprob": -0.24921074298423107, "no_speech_prob": 0.008352113887667656}
+{"start": 641.64, "end": 645.6, "text": "Nosotros lo primero que hemos hecho es ponerla macro en orden.", "avg_logprob": -0.24921074298423107, "no_speech_prob": 0.008352113887667656}
+{"start": 645.68, "end": 648.48, "text": "Y ahora estamos recapitalizando el Banco Central", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 648.56, "end": 652.24, "text": "para crear las condiciones para que cuando liberemos", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 652.32, "end": 653.72, "text": "las restricciones cambiarias,", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 653.8, "end": 656.0, "text": "pueden estar seguros que no va a haber ningún problema", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 656.08, "end": 657.84, "text": "para la gente ni va a haber un salto de valatorio,", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 657.92, "end": 659.56, "text": "como dicen algunos que piden el fondo,", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 659.64, "end": 661.4, "text": "el fondo no pide nada de eso.", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 661.48, "end": 665.12, "text": "Entonces lo importante no es si se flota o no,", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 665.2, "end": 667.32, "text": "sino hacerlo en las condiciones correctas.", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 667.4, "end": 670.8, "text": "De nada sirve flotar si vos no tenés las condiciones", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 670.88, "end": 672.6, "text": "apropiadas porque te va a ir mal.", "avg_logprob": -0.20114325763923782, "no_speech_prob": 0.0011254566488787532}
+{"start": 672.72, "end": 676.52, "text": "Entonces, todo lo que hemos hecho durante este año", "avg_logprob": -0.2586066550815228, "no_speech_prob": 0.003174256067723036}
+{"start": 676.6, "end": 680.6, "text": "es hacer los deberes para ir hacia un país normal.", "avg_logprob": -0.2586066550815228, "no_speech_prob": 0.003174256067723036}
+{"start": 680.68, "end": 685.88, "text": "¿Por qué hay sectores que te dicen que el dólar está barato?", "avg_logprob": -0.2586066550815228, "no_speech_prob": 0.003174256067723036}
+{"start": 685.96, "end": 689.8, "text": "Y que sí o sí, con esta paridad no puede seguir.", "avg_logprob": -0.2586066550815228, "no_speech_prob": 0.003174256067723036}
+{"start": 689.88, "end": 692.32, "text": "¿Por qué es a lo que nos hemos acostumbrado, Antonio?", "avg_logprob": -0.2586066550815228, "no_speech_prob": 0.003174256067723036}
+{"start": 692.4, "end": 699.2, "text": "A lo que se ha acostumbrado al empresariado,", "avg_logprob": -0.2586066550815228, "no_speech_prob": 0.003174256067723036}
+{"start": 699.28, "end": 702.64, "text": "yo siempre digo que el daño que ha hecho el quisienerismo", "avg_logprob": -0.23203105489826864, "no_speech_prob": 0.7078238725662231}
+{"start": 702.72, "end": 706.24, "text": "no es solo económico, es también psicológico,", "avg_logprob": -0.23203105489826864, "no_speech_prob": 0.7078238725662231}
+{"start": 706.32, "end": 707.96, "text": "porque no pasa solo con el empresariado.", "avg_logprob": -0.23203105489826864, "no_speech_prob": 0.7078238725662231}
+{"start": 708.04, "end": 711.12, "text": "Fíjate que también han convencido a la clase baja", "avg_logprob": -0.23203105489826864, "no_speech_prob": 0.7078238725662231}
+{"start": 711.2, "end": 714.2, "text": "que solo pueden vivir de subsidios y nada más,", "avg_logprob": -0.23203105489826864, "no_speech_prob": 0.7078238725662231}
+{"start": 714.28, "end": 717.72, "text": "y que en realidad tienen que hacer lo que les dicen ellos.", "avg_logprob": -0.23203105489826864, "no_speech_prob": 0.7078238725662231}
+{"start": 717.8, "end": 721.04, "text": "Por supuesto, después de eso ellos arman un negocio", "avg_logprob": -0.23203105489826864, "no_speech_prob": 0.7078238725662231}
+{"start": 721.12, "end": 722.96, "text": "con los intermediarios de la pobreza y demás,", "avg_logprob": -0.23203105489826864, "no_speech_prob": 0.7078238725662231}
+{"start": 723.04, "end": 724.92, "text": "pero la clase baja, no ustedes solo pueden vivir,", "avg_logprob": -0.23203105489826864, "no_speech_prob": 0.7078238725662231}
+{"start": 725.0, "end": 728.6, "text": "si nosotros, papá Estado, te da un subsidio.", "avg_logprob": -0.23203105489826864, "no_speech_prob": 0.7078238725662231}
+{"start": 728.64, "end": 730.04, "text": "Fíjate, lo más insólito,", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 730.12, "end": 733.92, "text": "a la clase media le hizo creer que veranear en Brasil", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 734.0, "end": 735.84, "text": "es un lujo que no se puede dar.", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 735.92, "end": 739.04, "text": "Estamos mal porque hay gente que veranea en Brasil,", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 739.12, "end": 740.68, "text": "un país vecino.", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 740.76, "end": 743.32, "text": "También tenés una salida de dólares importante,", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 743.4, "end": 744.36, "text": "con lo que está bien.", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 744.44, "end": 747.0, "text": "Contra eso te dicen, ¿veje el dólar está barato?", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 747.08, "end": 752.16, "text": "Claro, pues eso, pero no puede ser que la anormalidad,", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 752.24, "end": 754.0, "text": "sea que un argentino de clase media", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 754.08, "end": 756.32, "text": "pueda viajar o veranear en Brasil,", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 756.4, "end": 758.56, "text": "eso deberá ser la anormalidad.", "avg_logprob": -0.2520355870457072, "no_speech_prob": 0.001346311648376286}
+{"start": 758.64, "end": 760.92, "text": "Y también pasó lo mismo con el empresariado.", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 761.0, "end": 763.36, "text": "El empresariado lo van acostumbrado", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 763.44, "end": 766.92, "text": "a que solo puede ganar plata si el dólar está alto,", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 767.0, "end": 768.64, "text": "si pagan salarios miserables.", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 768.72, "end": 770.72, "text": "Bueno, no es que lo acostumbraron, se acostumbraron.", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 770.8, "end": 772.4, "text": "Si, si. Si nadie lo acostumbra.", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 772.48, "end": 773.96, "text": "Se acostumbra porque es fácil.", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 774.04, "end": 776.92, "text": "Es más fácil trabajar así. Exacto, se acostumbraron a eso,", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 777.0, "end": 780.32, "text": "a tener un dólar alto, a pagar salarios bajos", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 780.4, "end": 782.56, "text": "y a estar protegidos.", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 782.64, "end": 784.6, "text": "Y tener rentas extraordinarias,", "avg_logprob": -0.2647284507751465, "no_speech_prob": 0.0003718346415553242}
+{"start": 784.64, "end": 788.6, "text": "por eso en general a los empresarios les ha ido muy bien.", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 788.68, "end": 791.92, "text": "Y la gente, el asalariado,", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 792.0, "end": 794.48, "text": "es el que se ha vuelto cada vez más pobre.", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 794.56, "end": 796.6, "text": "Entonces, estamos trabajando para la gente,", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 796.68, "end": 798.6, "text": "estamos haciendo el proceso inverso.", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 798.68, "end": 801.52, "text": "El proceso inverso es sanear la economía", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 801.6, "end": 804.32, "text": "para que el dólar tenga un valor normal", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 804.4, "end": 807.52, "text": "para que las empresas, para que podamos bajar impuestos,", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 807.6, "end": 809.6, "text": "reducir el costo argentino", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 809.68, "end": 811.6, "text": "y hacer entrar competencia", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 811.68, "end": 813.36, "text": "para que la gente pueda comprar", "avg_logprob": -0.23880563972015229, "no_speech_prob": 0.019279958680272102}
+{"start": 813.4, "end": 815.28, "text": "mejores productos a mejores precios.", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 815.36, "end": 816.92, "text": "Bueno, sobre el tema ese,", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 817.0, "end": 818.44, "text": "de ayer también salieron,", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 818.52, "end": 821.68, "text": "ayer y antes de ayer, los industriales de la industria textil,", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 821.76, "end": 824.04, "text": "hablan de industricidio.", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 824.12, "end": 827.2, "text": "Y digo, ¿cómo haces para que la apertura de importación", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 827.28, "end": 829.28, "text": "no repita lo que ya pasó en la Argentina,", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 829.36, "end": 831.6, "text": "que es, desaparecen las industrias,", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 831.68, "end": 834.24, "text": "las propias industrias se convierten en importadoras", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 835.32, "end": 836.72, "text": "y lo que se pierde es trabajo?", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 836.8, "end": 838.6, "text": "Sí. ¿Cómo haces para que no pases", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 838.68, "end": 840.6, "text": "en un país que yo creo que es carísimo, la Argentina?", "avg_logprob": -0.31950140425137113, "no_speech_prob": 0.0034138027112931013}
+{"start": 841.0, "end": 843.36, "text": "Carísimo, es en particular,", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 843.44, "end": 845.64, "text": "no digo, es carísimo en la industria automotriz.", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 845.72, "end": 847.48, "text": "Digo... Textil.", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 847.56, "end": 849.24, "text": "Textil. La automotriz también.", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 849.32, "end": 850.96, "text": "La automotriz también, pero bastante menos.", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 851.04, "end": 852.72, "text": "Pero tienen 50% de impuestos.", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 852.8, "end": 854.04, "text": "Sí, y bastante menos,", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 854.12, "end": 857.96, "text": "los autos salen bastante más baratos que en Uruguay.", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 858.76, "end": 860.68, "text": "Muchos ya están más baratos.", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 860.76, "end": 861.96, "text": "Uruguay no fabrica autos.", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 862.04, "end": 863.28, "text": "No, está bien, pero quiero decir,", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 863.36, "end": 865.28, "text": "la indumentaria es más...", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 865.36, "end": 866.4, "text": "La industria es carísimo.", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 866.48, "end": 868.68, "text": "Es carísima, es mucho más claro, ¿no?", "avg_logprob": -0.3446558798792996, "no_speech_prob": 0.0025403928011655807}
+{"start": 868.72, "end": 872.24, "text": "Porque además, es algo también de bastante primera necesidad", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 872.8, "end": 874.96, "text": "y es significativamente más caro.", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 875.04, "end": 876.8, "text": "Es mucho más caro, tres, cuatro veces.", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 876.88, "end": 879.84, "text": "¿Cómo haces para que no te digan", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 879.92, "end": 881.92, "text": "y yo con esto tengo que cerrar una empresa,", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 882.0, "end": 883.04, "text": "me voy a dedicar a importar?", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 883.12, "end": 884.32, "text": "Y esencialmente de dos maneras,", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 884.4, "end": 887.24, "text": "bajando impuestos y haciéndolos competir.", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 887.32, "end": 889.52, "text": "La industria de la indumentaria,", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 889.6, "end": 892.6, "text": "yo conozco, digamos, tengo muchos amigos,", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 893.28, "end": 896.12, "text": "diría dueños, o sea, los conozco bien.", "avg_logprob": -0.3191789963566665, "no_speech_prob": 0.0028794549871236086}
+{"start": 896.12, "end": 899.56, "text": "Es una industria que tiene márgenes altísimos.", "avg_logprob": -0.34341897681111194, "no_speech_prob": 0.0010564009426161647}
+{"start": 899.64, "end": 900.96, "text": "Completos, sí.", "avg_logprob": -0.34341897681111194, "no_speech_prob": 0.0010564009426161647}
+{"start": 901.04, "end": 903.96, "text": "Los industriales te dicen, no somos nosotros, son las marcas.", "avg_logprob": -0.34341897681111194, "no_speech_prob": 0.0010564009426161647}
+{"start": 904.04, "end": 906.8, "text": "Sí, sí, mucho más que cualquier otra industria.", "avg_logprob": -0.34341897681111194, "no_speech_prob": 0.0010564009426161647}
+{"start": 906.88, "end": 910.24, "text": "Entonces, las dos cosas hay que bajar impuestos", "avg_logprob": -0.34341897681111194, "no_speech_prob": 0.0010564009426161647}
+{"start": 910.32, "end": 911.8, "text": "y hay que hacerlo competir.", "avg_logprob": -0.34341897681111194, "no_speech_prob": 0.0010564009426161647}
+{"start": 911.88, "end": 915.88, "text": "Porque en una Argentina desordenada,", "avg_logprob": -0.34341897681111194, "no_speech_prob": 0.0010564009426161647}
+{"start": 915.96, "end": 920.72, "text": "es natural que el empresario pida retornos más altos.", "avg_logprob": -0.34341897681111194, "no_speech_prob": 0.0010564009426161647}
+{"start": 920.8, "end": 924.4, "text": "Lo mismo pasa en cualquier sector, en lo financiero, en cualquier grato.", "avg_logprob": -0.34341897681111194, "no_speech_prob": 0.0010564009426161647}
+{"start": 924.88, "end": 926.72, "text": "Entonces... Es tu rijo país acá.", "avg_logprob": -0.2014960315735901, "no_speech_prob": 0.0009096952271647751}
+{"start": 926.8, "end": 927.88, "text": "Exactamente.", "avg_logprob": -0.2014960315735901, "no_speech_prob": 0.0009096952271647751}
+{"start": 927.96, "end": 932.24, "text": "Ahora, vos no puedes pretender seguir teniendo los mismos márgenes", "avg_logprob": -0.2014960315735901, "no_speech_prob": 0.0009096952271647751}
+{"start": 932.32, "end": 935.24, "text": "que tenías en una Argentina desordenada,", "avg_logprob": -0.2014960315735901, "no_speech_prob": 0.0009096952271647751}
+{"start": 935.32, "end": 937.56, "text": "en una economía ordenada.", "avg_logprob": -0.2014960315735901, "no_speech_prob": 0.0009096952271647751}
+{"start": 937.64, "end": 940.0, "text": "Entonces, ¿qué es lo que creo que va a pasar?", "avg_logprob": -0.2014960315735901, "no_speech_prob": 0.0009096952271647751}
+{"start": 940.08, "end": 942.8, "text": "Que va a ver, de todo, va a ver empresarios que van a decir,", "avg_logprob": -0.2014960315735901, "no_speech_prob": 0.0009096952271647751}
+{"start": 942.88, "end": 947.08, "text": "no, yo si no gano el 150%, prefiero vender.", "avg_logprob": -0.2014960315735901, "no_speech_prob": 0.0009096952271647751}
+{"start": 947.16, "end": 949.0, "text": "Hay otros que, como conozco ahora,", "avg_logprob": -0.2014960315735901, "no_speech_prob": 0.0009096952271647751}
+{"start": 949.08, "end": 952.52, "text": "que están aprovechando para bajar precios y ganar market share,", "avg_logprob": -0.2014960315735901, "no_speech_prob": 0.0009096952271647751}
+{"start": 952.64, "end": 956.84, "text": "hay que empezar a pensar más en cantidades y menos en precios.", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 956.92, "end": 958.2, "text": "Y hay que empezar a invertir,", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 958.28, "end": 959.32, "text": "eficientizar tu empresa,", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 959.4, "end": 962.56, "text": "es cosas que Argentina no hace casi en ninguna industria", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 962.64, "end": 964.76, "text": "por los últimos 20 años,", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 964.84, "end": 968.56, "text": "porque hubo tanta volatilidad, hubo tanto desorden,", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 968.64, "end": 970.32, "text": "que el negocio financiero", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 970.4, "end": 972.4, "text": "pasó a ser más importante que el negocio particular", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 972.48, "end": 973.64, "text": "de cada industria.", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 973.72, "end": 976.2, "text": "Era más importante si manejabas bien los pesos,", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 976.28, "end": 979.68, "text": "que si manejabas bien tu industria en particular.", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 979.76, "end": 981.28, "text": "Entonces, eso hay que cambiarlo.", "avg_logprob": -0.17176175371129462, "no_speech_prob": 0.0007023531361483037}
+{"start": 981.4, "end": 984.2, "text": "Hay que terminar con el negocio financiero.", "avg_logprob": -0.24247088346440912, "no_speech_prob": 0.0008126618922688067}
+{"start": 984.28, "end": 988.68, "text": "Obviamente eso va a requerir que se invierta más,", "avg_logprob": -0.24247088346440912, "no_speech_prob": 0.0008126618922688067}
+{"start": 988.76, "end": 990.96, "text": "si se quiere ganar más.", "avg_logprob": -0.24247088346440912, "no_speech_prob": 0.0008126618922688067}
+{"start": 991.04, "end": 993.28, "text": "Y eso algunos empresarios se estarán dispuestos a hacerlo", "avg_logprob": -0.24247088346440912, "no_speech_prob": 0.0008126618922688067}
+{"start": 993.36, "end": 996.8, "text": "y otros no, algunos venderán, otros ganarán market share", "avg_logprob": -0.24247088346440912, "no_speech_prob": 0.0008126618922688067}
+{"start": 996.88, "end": 999.36, "text": "y pasarán lo que pasa en cualquier industria,", "avg_logprob": -0.24247088346440912, "no_speech_prob": 0.0008126618922688067}
+{"start": 999.44, "end": 1000.28, "text": "en cualquier país.", "avg_logprob": -0.24247088346440912, "no_speech_prob": 0.0008126618922688067}
+{"start": 1000.36, "end": 1004.24, "text": "Ahí recién estaba mostrando que fuera 21 en Estados Unidos.", "avg_logprob": -0.24247088346440912, "no_speech_prob": 0.0008126618922688067}
+{"start": 1004.32, "end": 1008.28, "text": "Bueno, va a pasar lo que pasa en cualquier país.", "avg_logprob": -0.24247088346440912, "no_speech_prob": 0.0008126618922688067}
+{"start": 1009.24, "end": 1012.36, "text": "Lo que pasa es que hoy no tenés margen", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1012.44, "end": 1014.84, "text": "para generar más desocupación en la Argentina.", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1014.92, "end": 1015.92, "text": "Es lo que preocupa.", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1016.0, "end": 1017.96, "text": "No, no, no, es que no se genera desocupación.", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1018.04, "end": 1020.76, "text": "Ese es el mito que siempre han querido hacer.", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1020.84, "end": 1023.72, "text": "En la medida que la economía crece,", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1023.8, "end": 1026.04, "text": "primero, lo que la gente no gasta,", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1026.12, "end": 1028.28, "text": "lo que la gente ahorra por no pagar una remera", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1028.36, "end": 1030.64, "text": "cinco veces más caras, lo gasta en otra cosa.", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1030.72, "end": 1033.08, "text": "Entonces se redistribuyen recursos", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1033.16, "end": 1036.0, "text": "y la gente que no demanda", "avg_logprob": -0.23201195969128272, "no_speech_prob": 0.004294374492019415}
+{"start": 1036.08, "end": 1038.48, "text": "por ahí en la industria de la indumentaria", "avg_logprob": -0.1777300770635958, "no_speech_prob": 0.04108773544430733}
+{"start": 1038.56, "end": 1041.36, "text": "la demandará la industria de tecnología", "avg_logprob": -0.1777300770635958, "no_speech_prob": 0.04108773544430733}
+{"start": 1041.44, "end": 1044.24, "text": "o dentro de la industria de la indumentaria,", "avg_logprob": -0.1777300770635958, "no_speech_prob": 0.04108773544430733}
+{"start": 1044.32, "end": 1050.12, "text": "la gente que queda fuera porque una casa decide vender o cerrar", "avg_logprob": -0.1777300770635958, "no_speech_prob": 0.04108773544430733}
+{"start": 1050.2, "end": 1053.6, "text": "la tomará la de al lado que ganó market share.", "avg_logprob": -0.1777300770635958, "no_speech_prob": 0.04108773544430733}
+{"start": 1053.68, "end": 1056.4, "text": "Entonces, no es que la gente se queda sin trabajo,", "avg_logprob": -0.1777300770635958, "no_speech_prob": 0.04108773544430733}
+{"start": 1056.48, "end": 1059.36, "text": "la gente se queda sin trabajo en el esquema anterior.", "avg_logprob": -0.1777300770635958, "no_speech_prob": 0.04108773544430733}
+{"start": 1059.44, "end": 1060.84, "text": "De hecho, los números lo prueban.", "avg_logprob": -0.1777300770635958, "no_speech_prob": 0.04108773544430733}
+{"start": 1060.92, "end": 1063.52, "text": "Fijate que no se crea trabajo desde el 2011.", "avg_logprob": -0.1777300770635958, "no_speech_prob": 0.04108773544430733}
+{"start": 1063.6, "end": 1065.8, "text": "Entonces no puedo dar una prueba más contundente", "avg_logprob": -0.1777300770635958, "no_speech_prob": 0.04108773544430733}
+{"start": 1065.88, "end": 1069.48, "text": "de que lo que falló es el esquema anterior.", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1069.56, "end": 1070.92, "text": "Nosotros no tenemos que ir a un esquema opuesto", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1071.0, "end": 1074.2, "text": "donde se genere trabajo y donde los salarios mejoren.", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1074.28, "end": 1076.48, "text": "Y ese es donde estamos yendo.", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1076.56, "end": 1079.6, "text": "Sí, ahora, vos te estás mejorando los salarios.", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1079.68, "end": 1081.68, "text": "A nivel dólar, lo pasa que la Argentina en dólar", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1081.76, "end": 1083.32, "text": "es subió mucho.", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1083.4, "end": 1084.76, "text": "Entonces, es una comparación rara.", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1084.84, "end": 1086.88, "text": "Pues sí, si la jubilación mejoraron,", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1086.96, "end": 1089.28, "text": "antes eran 80 dólares, eso son 300, sí.", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1089.36, "end": 1090.52, "text": "Pero lo pasa que con los 300 dólares", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1090.6, "end": 1092.16, "text": "capaz que hace menos que con los 80.", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1092.24, "end": 1095.0, "text": "Bueno, para eso está la medición en términos reales.", "avg_logprob": -0.27559491884277526, "no_speech_prob": 0.0006081237806938589}
+{"start": 1095.84, "end": 1097.44, "text": "En términos reales para que la gente entienda...", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1097.52, "end": 1100.0, "text": "Y en jubilación porque además se está mañana y el premar.", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1100.08, "end": 1101.2, "text": "Sí, sí, no hay problema.", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1101.28, "end": 1103.28, "text": "En términos reales para que la gente entienda", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1103.36, "end": 1105.4, "text": "quiere decir medido contra la inflación,", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1105.48, "end": 1108.08, "text": "o sea, medido en términos de poder de compra.", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1108.16, "end": 1112.76, "text": "Las jubilaciones, con respecto al noviembre 23,", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1112.84, "end": 1114.28, "text": "ni siquiera te digo en diciembre,", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1114.36, "end": 1118.36, "text": "al noviembre 23 han subido 9,2%.", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1118.44, "end": 1120.44, "text": "Entonces quiere decir que el poder de compra,", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1120.52, "end": 1123.4, "text": "en dólares, por supuesto, que se duplicaron o triplicaron.", "avg_logprob": -0.3537597464103448, "no_speech_prob": 0.008464091457426548}
+{"start": 1123.52, "end": 1124.68, "text": "Pero como decís vos, miremos...", "avg_logprob": -0.23488783598360088, "no_speech_prob": 0.00257479608990252}
+{"start": 1124.76, "end": 1126.36, "text": "Pero subió la Argentina no. Exactamente.", "avg_logprob": -0.23488783598360088, "no_speech_prob": 0.00257479608990252}
+{"start": 1126.44, "end": 1129.36, "text": "Por eso, miremoslo en términos de poder de compra.", "avg_logprob": -0.23488783598360088, "no_speech_prob": 0.00257479608990252}
+{"start": 1129.44, "end": 1130.68, "text": "En términos de poder de compra,", "avg_logprob": -0.23488783598360088, "no_speech_prob": 0.00257479608990252}
+{"start": 1130.76, "end": 1134.24, "text": "las jubilaciones subieron en un año 9,2%.", "avg_logprob": -0.23488783598360088, "no_speech_prob": 0.00257479608990252}
+{"start": 1134.32, "end": 1136.52, "text": "Es cierto, habían caído 30 el último año", "avg_logprob": -0.23488783598360088, "no_speech_prob": 0.00257479608990252}
+{"start": 1136.6, "end": 1140.4, "text": "de Alberto Fernández Maza en términos reales, 30.", "avg_logprob": -0.23488783598360088, "no_speech_prob": 0.00257479608990252}
+{"start": 1140.48, "end": 1144.56, "text": "Pero cayeron 30 en un contexto en el que ese gobierno,", "avg_logprob": -0.23488783598360088, "no_speech_prob": 0.00257479608990252}
+{"start": 1144.64, "end": 1147.52, "text": "lo único que hizo fue imprimir plata y gastar plata.", "avg_logprob": -0.23488783598360088, "no_speech_prob": 0.00257479608990252}
+{"start": 1147.6, "end": 1150.6, "text": "Nosotros les hicimos recuperar un tercio de eso", "avg_logprob": -0.23488783598360088, "no_speech_prob": 0.00257479608990252}
+{"start": 1150.64, "end": 1154.44, "text": "en un año en el que hemos puesto las cuentas en orden.", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1154.52, "end": 1156.76, "text": "Y lo mismo pasa con los salarios.", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1156.84, "end": 1159.88, "text": "Lo muestra el SIPA, el salario privado registrado", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1159.96, "end": 1163.16, "text": "creció 5% con respecto al noviembre del 2017.", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1163.24, "end": 1166.48, "text": "El poder de compra hoy, tanto de los jubilados", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1166.56, "end": 1168.68, "text": "como de los asalariados del sector privado,", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1168.76, "end": 1172.48, "text": "es más alto que el noviembre del 2023.", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1172.56, "end": 1175.0, "text": "No es el caso del sector público.", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1175.08, "end": 1176.72, "text": "No, el sector público está perdiendo.", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1176.8, "end": 1177.92, "text": "Obvio. 16%.", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1178.0, "end": 1179.08, "text": "Obvio, el sector público sí.", "avg_logprob": -0.2087827946277375, "no_speech_prob": 0.02486644685268402}
+{"start": 1179.16, "end": 1182.88, "text": "El sector privado, no.", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1182.96, "end": 1185.2, "text": "El sector público nacional, claro, las provincias.", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1185.28, "end": 1187.08, "text": "El sector público nacional, coincido.", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1187.16, "end": 1188.16, "text": "Sí, sí, sí.", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1188.24, "end": 1191.16, "text": "Nosotros tenemos congelado el sueldo desde que asumimos,", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1191.24, "end": 1192.56, "text": "así que te lo puedo decir.", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1192.64, "end": 1195.56, "text": "¿Qué ves en la calle?", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1195.64, "end": 1196.8, "text": "¿Qué... qué...", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1196.88, "end": 1200.56, "text": "La calle veo un apoyo fenomenal.", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1200.64, "end": 1204.88, "text": "Fenomenal, a todos lados a donde voy.", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1204.96, "end": 1207.36, "text": "Al interior, en la calle,", "avg_logprob": -0.3464414492502051, "no_speech_prob": 0.0023090082686394453}
+{"start": 1207.44, "end": 1209.08, "text": "bueno, vengo de expuagro,", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1209.16, "end": 1212.6, "text": "el apoyo de la gente del campo...", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1212.68, "end": 1216.16, "text": "Me llamó la atención, honestamente.", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1216.24, "end": 1219.16, "text": "O sea, yo creo que la gente está...", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1219.24, "end": 1222.44, "text": "votó ese cambio, la gente votó ese cambio.", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1222.52, "end": 1224.52, "text": "Es también esto medio único en Argentina.", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1224.6, "end": 1227.08, "text": "Tuvimos un presidente que dijo lo que iba a hacer,", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1227.16, "end": 1228.68, "text": "que dio un diagnóstico de lo que pasaba,", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1228.76, "end": 1230.72, "text": "dijo lo que iba a hacer.", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1230.8, "end": 1234.24, "text": "Hicimos lo que el presidente dijo que íbamos a hacer", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1234.32, "end": 1236.08, "text": "y los resultados nos acompañaron,", "avg_logprob": -0.21452889524733842, "no_speech_prob": 0.011011673137545586}
+{"start": 1236.08, "end": 1238.24, "text": "porque no perdamos la perspectiva.", "avg_logprob": -0.18713336193659266, "no_speech_prob": 0.009057433344423771}
+{"start": 1238.32, "end": 1241.48, "text": "Ibamos camino a una hiperinflación garantizada.", "avg_logprob": -0.18713336193659266, "no_speech_prob": 0.009057433344423771}
+{"start": 1241.56, "end": 1244.64, "text": "Ahora, una vez que se logra cierta estabilidad,", "avg_logprob": -0.18713336193659266, "no_speech_prob": 0.009057433344423771}
+{"start": 1244.72, "end": 1247.0, "text": "inconscientemente, uno quiere ser Suiza mañana.", "avg_logprob": -0.18713336193659266, "no_speech_prob": 0.009057433344423771}
+{"start": 1247.08, "end": 1251.56, "text": "Bueno, no se arreglan 120 años de desmanejo en uno.", "avg_logprob": -0.18713336193659266, "no_speech_prob": 0.009057433344423771}
+{"start": 1251.64, "end": 1254.12, "text": "Entonces, está claro que hay un montón más para hacer,", "avg_logprob": -0.18713336193659266, "no_speech_prob": 0.009057433344423771}
+{"start": 1254.2, "end": 1257.72, "text": "pero yo veo a la gente recontra entusiasmada", "avg_logprob": -0.18713336193659266, "no_speech_prob": 0.009057433344423771}
+{"start": 1257.8, "end": 1261.8, "text": "y, sobre todo, recuperando la esperanza que se había perdido.", "avg_logprob": -0.18713336193659266, "no_speech_prob": 0.009057433344423771}
+{"start": 1261.96, "end": 1268.4, "text": "Entonces, contra eso, tenés la casta o el sector", "avg_logprob": -0.2531026156098993, "no_speech_prob": 0.03897162154316902}
+{"start": 1268.48, "end": 1271.84, "text": "que siempre vivió de la política", "avg_logprob": -0.2531026156098993, "no_speech_prob": 0.03897162154316902}
+{"start": 1271.92, "end": 1273.8, "text": "y que, obviamente, lo vas a tener en contra,", "avg_logprob": -0.2531026156098993, "no_speech_prob": 0.03897162154316902}
+{"start": 1273.88, "end": 1276.08, "text": "porque es la gente que vivió de la política", "avg_logprob": -0.2531026156098993, "no_speech_prob": 0.03897162154316902}
+{"start": 1276.16, "end": 1279.68, "text": "y que vea la política como un negocio, Antonio.", "avg_logprob": -0.2531026156098993, "no_speech_prob": 0.03897162154316902}
+{"start": 1279.76, "end": 1283.36, "text": "Hay un gran sector de la política que vea la...", "avg_logprob": -0.2531026156098993, "no_speech_prob": 0.03897162154316902}
+{"start": 1283.44, "end": 1286.28, "text": "Mira, hay un... Puedo decir algo...", "avg_logprob": -0.2531026156098993, "no_speech_prob": 0.03897162154316902}
+{"start": 1286.36, "end": 1288.36, "text": "Cierto.", "avg_logprob": -0.2531026156098993, "no_speech_prob": 0.03897162154316902}
+{"start": 1288.44, "end": 1291.36, "text": "Hay un vídeo que yo lo pondría como ejemplo", "avg_logprob": -0.2531026156098993, "no_speech_prob": 0.03897162154316902}
+{"start": 1291.44, "end": 1293.48, "text": "de lo que representa una parte de la política,", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1293.56, "end": 1296.52, "text": "casi que habría que ponerla en las escuelas,", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1296.6, "end": 1298.2, "text": "en las universidades,", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1298.28, "end": 1301.24, "text": "que es el vídeo de este publicista", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1301.32, "end": 1304.16, "text": "a principios del año pasado, de enero.", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1304.24, "end": 1305.8, "text": "Ah, del pochoclo.", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1305.88, "end": 1309.88, "text": "Sí, comiendo pochoclos.", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1309.96, "end": 1311.4, "text": "Esperando que se cae el gobierno de Milenio.", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1311.48, "end": 1312.84, "text": "Exactamente.", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1312.92, "end": 1315.96, "text": "Es muy profundo ese vídeo, si lo pensas.", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1316.04, "end": 1319.12, "text": "Porque estás hablando de una persona", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1319.2, "end": 1320.32, "text": "que era partidaria...", "avg_logprob": -0.2731220339353268, "no_speech_prob": 0.003479764563962817}
+{"start": 1320.36, "end": 1323.72, "text": "Perdón, buscámoslo, si lo recordamos.", "avg_logprob": -0.26546193215683217, "no_speech_prob": 0.00028603567625395954}
+{"start": 1323.8, "end": 1325.48, "text": "Yo lo veo como muy profundo.", "avg_logprob": -0.26546193215683217, "no_speech_prob": 0.00028603567625395954}
+{"start": 1325.56, "end": 1328.08, "text": "Eso es un reflejo de una parte de la política.", "avg_logprob": -0.26546193215683217, "no_speech_prob": 0.00028603567625395954}
+{"start": 1328.16, "end": 1332.12, "text": "Fíjate que este publicista, que además su mujer era parte del...", "avg_logprob": -0.26546193215683217, "no_speech_prob": 0.00028603567625395954}
+{"start": 1332.2, "end": 1333.28, "text": "Con los apaces, la esposa.", "avg_logprob": -0.26546193215683217, "no_speech_prob": 0.00028603567625395954}
+{"start": 1333.36, "end": 1336.48, "text": "Del quisnerismo, ¿no?", "avg_logprob": -0.26546193215683217, "no_speech_prob": 0.00028603567625395954}
+{"start": 1336.56, "end": 1339.44, "text": "Lejos de estar apenado o abregonsado", "avg_logprob": -0.26546193215683217, "no_speech_prob": 0.00028603567625395954}
+{"start": 1339.52, "end": 1341.6, "text": "del desastre que habían dejado,", "avg_logprob": -0.26546193215683217, "no_speech_prob": 0.00028603567625395954}
+{"start": 1341.68, "end": 1344.08, "text": "la peor situación de la historia argentina,", "avg_logprob": -0.26546193215683217, "no_speech_prob": 0.00028603567625395954}
+{"start": 1344.16, "end": 1346.88, "text": "la peor situación de la historia argentina.", "avg_logprob": -0.26546193215683217, "no_speech_prob": 0.00028603567625395954}
+{"start": 1346.96, "end": 1349.4, "text": "El tipo estaba comiendo pochoclos.", "avg_logprob": -0.2537941447759079, "no_speech_prob": 0.018971309065818787}
+{"start": 1350.68, "end": 1353.36, "text": "Festejando, diciendo que al gobierno de Milenio", "avg_logprob": -0.2537941447759079, "no_speech_prob": 0.018971309065818787}
+{"start": 1353.44, "end": 1354.6, "text": "lo llamaban Semana Santa,", "avg_logprob": -0.2537941447759079, "no_speech_prob": 0.018971309065818787}
+{"start": 1354.68, "end": 1359.56, "text": "porque no sabíamos si iba a cagar en marzo o en abril.", "avg_logprob": -0.2537941447759079, "no_speech_prob": 0.018971309065818787}
+{"start": 1359.64, "end": 1362.48, "text": "Entonces, esa persona, implícitamente,", "avg_logprob": -0.2537941447759079, "no_speech_prob": 0.018971309065818787}
+{"start": 1362.56, "end": 1365.52, "text": "estaba festejando que Argentina iba a ir a un nivel de pobreza", "avg_logprob": -0.2537941447759079, "no_speech_prob": 0.018971309065818787}
+{"start": 1365.6, "end": 1367.6, "text": "del 90%.", "avg_logprob": -0.2537941447759079, "no_speech_prob": 0.018971309065818787}
+{"start": 1367.68, "end": 1372.64, "text": "Entonces, explícame cómo alguien puede ser tan cínico de festejar", "avg_logprob": -0.2537941447759079, "no_speech_prob": 0.018971309065818787}
+{"start": 1372.72, "end": 1374.2, "text": "que vos dejaste una situación", "avg_logprob": -0.2537941447759079, "no_speech_prob": 0.018971309065818787}
+{"start": 1374.24, "end": 1378.48, "text": "que va a ser que el país vaya a un 90% de pobreza.", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1378.56, "end": 1381.32, "text": "Entonces, ¿qué estaba festejando este hombre?", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1381.4, "end": 1383.88, "text": "Que ellos iban a volver a manejar el negocio, Antonio.", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1383.96, "end": 1384.52, "text": "Bueno.", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1384.6, "end": 1387.52, "text": "Eso es lo que estaba festejando.", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1387.6, "end": 1390.52, "text": "Parece lo que se está viendo, pero eso es con las marchas.", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1390.6, "end": 1392.0, "text": "Obviamente, eso es lo que estoy diciendo.", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1392.08, "end": 1394.08, "text": "Las marchas, sí, esto está relacionado con eso.", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1394.16, "end": 1395.32, "text": "Son satélites de ese mismo...", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1395.4, "end": 1396.88, "text": "Pero vos notás,", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1396.96, "end": 1399.56, "text": "yo más allá de los sectores políticos específicos,", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1399.64, "end": 1402.28, "text": "pues eso te preguntaba qué sentís en la calle.", "avg_logprob": -0.2818347755577657, "no_speech_prob": 0.009582038037478924}
+{"start": 1402.36, "end": 1405.96, "text": "Porque también acá hay mucha confusión", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1406.04, "end": 1408.76, "text": "entre el mundo que te muestran los medios, las redes", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1408.84, "end": 1411.24, "text": "y lo que se percibe o lo que siente cada uno.", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1411.32, "end": 1415.04, "text": "Más allá de los sectores que están buscando,", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1415.12, "end": 1418.64, "text": "sin duda alguna, para mí, lisa y sonamente,", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1418.72, "end": 1420.08, "text": "voltear un gobierno.", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1420.16, "end": 1421.8, "text": "Hay mucha gente que no la está pasando bien.", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1421.88, "end": 1423.44, "text": "A eso, sin ninguna duda.", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1423.52, "end": 1427.36, "text": "Pero esa parte, vos pensé que también nosotros,", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1427.44, "end": 1428.76, "text": "jamás les mentimos, Antonio,", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1428.84, "end": 1432.2, "text": "nosotros siempre dijimos que salir de esto iba a ser duro.", "avg_logprob": -0.2511355246571328, "no_speech_prob": 0.0031694683711975813}
+{"start": 1432.28, "end": 1435.2, "text": "Que íbamos a hacer lo que no se hizo en 120 años.", "avg_logprob": -0.1955700209837849, "no_speech_prob": 0.0010715234093368053}
+{"start": 1435.28, "end": 1438.44, "text": "Obviamente, que va a ser duro, porque si fuera fácil", "avg_logprob": -0.1955700209837849, "no_speech_prob": 0.0010715234093368053}
+{"start": 1438.52, "end": 1441.96, "text": "salir de una situación como la nuestra,", "avg_logprob": -0.1955700209837849, "no_speech_prob": 0.0010715234093368053}
+{"start": 1442.04, "end": 1446.12, "text": "muchos más políticos en el mundo se tentarían a...", "avg_logprob": -0.1955700209837849, "no_speech_prob": 0.0010715234093368053}
+{"start": 1446.2, "end": 1447.44, "text": "a hacerlo.", "avg_logprob": -0.1955700209837849, "no_speech_prob": 0.0010715234093368053}
+{"start": 1447.52, "end": 1451.36, "text": "Qué mejor para un político que gastar plata a lo loco", "avg_logprob": -0.1955700209837849, "no_speech_prob": 0.0010715234093368053}
+{"start": 1451.44, "end": 1454.08, "text": "y creer que con eso uno es popular", "avg_logprob": -0.1955700209837849, "no_speech_prob": 0.0010715234093368053}
+{"start": 1454.16, "end": 1456.32, "text": "y si eso no hiciera ningún daño,", "avg_logprob": -0.1955700209837849, "no_speech_prob": 0.0010715234093368053}
+{"start": 1456.4, "end": 1459.04, "text": "o si vos pudieras revertir eso en seis meses,", "avg_logprob": -0.1955700209837849, "no_speech_prob": 0.0010715234093368053}
+{"start": 1459.12, "end": 1462.96, "text": "de vuelta lo hubieran explotado muchos más países", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1463.04, "end": 1465.08, "text": "esa forma de hacer política.", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1465.16, "end": 1467.32, "text": "Entonces, ¿por qué no se hace?", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1467.4, "end": 1470.28, "text": "Porque obviamente trae daños y trae consecuencias", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1470.36, "end": 1472.24, "text": "como las que hemos vivido en Argentina,", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1472.32, "end": 1475.12, "text": "los últimos 100 años, en particular los últimos 20.", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1475.2, "end": 1477.24, "text": "Entonces, nosotros hemos sido brutalmente honestos", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1477.32, "end": 1477.8, "text": "con la gente.", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1477.88, "end": 1482.6, "text": "Le hemos dicho, esto va a ser a fuerza de sacrificio,", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1482.68, "end": 1483.8, "text": "pero vamos a salir.", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1483.88, "end": 1487.08, "text": "Entonces, por primera vez, yo creo que la gente percibe eso.", "avg_logprob": -0.18877529513377408, "no_speech_prob": 0.0026288244407624006}
+{"start": 1487.12, "end": 1490.48, "text": "Esta vez el sacrificio parece tener sentido.", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1491.24, "end": 1494.72, "text": "La inflación está bajando, es el peor de los impuestos,", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1494.8, "end": 1498.12, "text": "Antonio, porque que se entiende es el peor de los impuestos.", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1498.2, "end": 1499.4, "text": "Afecta al que menos tiene.", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1499.48, "end": 1502.36, "text": "Los que tenemos más nos podemos cubrir", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1502.44, "end": 1504.24, "text": "contra la inflación que el que menos tiene.", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1504.32, "end": 1506.36, "text": "No se nota todavía, la inflación está claro,", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1506.44, "end": 1510.16, "text": "lo que no se nota todavía es reactivación,", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1510.24, "end": 1513.2, "text": "porque es muy sectorial, esto es vosotros tenés.", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1513.28, "end": 1514.04, "text": "Sí.", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1514.12, "end": 1516.36, "text": "Sector es importantísimo, como la construcción,", "avg_logprob": -0.3789228689756325, "no_speech_prob": 0.010687964968383312}
+{"start": 1516.4, "end": 1518.8, "text": "que yo no entiendo los precios que tiene, por ejemplo.", "avg_logprob": -0.35099701971566977, "no_speech_prob": 0.001190687413327396}
+{"start": 1518.88, "end": 1519.8, "text": "Es ahora...", "avg_logprob": -0.35099701971566977, "no_speech_prob": 0.001190687413327396}
+{"start": 1519.88, "end": 1522.48, "text": "Es impresionante lo cara que es históricamente", "avg_logprob": -0.35099701971566977, "no_speech_prob": 0.001190687413327396}
+{"start": 1522.56, "end": 1523.96, "text": "a la construcción hoy,", "avg_logprob": -0.35099701971566977, "no_speech_prob": 0.001190687413327396}
+{"start": 1524.04, "end": 1526.96, "text": "lo debería ser un sector que que traccione.", "avg_logprob": -0.35099701971566977, "no_speech_prob": 0.001190687413327396}
+{"start": 1527.04, "end": 1529.28, "text": "Sí, sí, sí, eso coincido.", "avg_logprob": -0.35099701971566977, "no_speech_prob": 0.001190687413327396}
+{"start": 1529.36, "end": 1533.04, "text": "Ahora, vamos de vuelta al punto este.", "avg_logprob": -0.35099701971566977, "no_speech_prob": 0.001190687413327396}
+{"start": 1534.28, "end": 1538.72, "text": "Esto lleva tiempo, va a seguir llevando tiempo.", "avg_logprob": -0.35099701971566977, "no_speech_prob": 0.001190687413327396}
+{"start": 1538.8, "end": 1541.24, "text": "Lo importante son dos cosas, lo que decía antes.", "avg_logprob": -0.35099701971566977, "no_speech_prob": 0.001190687413327396}
+{"start": 1541.32, "end": 1544.32, "text": "No por dar la perspectiva de dónde venimos", "avg_logprob": -0.35099701971566977, "no_speech_prob": 0.001190687413327396}
+{"start": 1544.36, "end": 1549.88, "text": "y vamos derecho a chocar contra un muro a 400 km por hora.", "avg_logprob": -0.23614922987194512, "no_speech_prob": 0.0018364647403359413}
+{"start": 1549.96, "end": 1552.48, "text": "Y dos, no vamos a cambiar el rumbo.", "avg_logprob": -0.23614922987194512, "no_speech_prob": 0.0018364647403359413}
+{"start": 1552.56, "end": 1554.52, "text": "Lo que creo que la gente percibe también", "avg_logprob": -0.23614922987194512, "no_speech_prob": 0.0018364647403359413}
+{"start": 1554.6, "end": 1557.4, "text": "es que ahora es que este es el rumbo correcto.", "avg_logprob": -0.23614922987194512, "no_speech_prob": 0.0018364647403359413}
+{"start": 1557.48, "end": 1561.04, "text": "Cuando el presidente lo prometía en campaña,", "avg_logprob": -0.23614922987194512, "no_speech_prob": 0.0018364647403359413}
+{"start": 1561.12, "end": 1562.56, "text": "muchos podían tener dudas.", "avg_logprob": -0.23614922987194512, "no_speech_prob": 0.0018364647403359413}
+{"start": 1562.64, "end": 1566.48, "text": "Cuando yo di mi primer discurso o segundo o tercero,", "avg_logprob": -0.23614922987194512, "no_speech_prob": 0.0018364647403359413}
+{"start": 1566.56, "end": 1567.84, "text": "muchos tenían dudas.", "avg_logprob": -0.23614922987194512, "no_speech_prob": 0.0018364647403359413}
+{"start": 1567.92, "end": 1569.64, "text": "Cuando digo muchos, no solo la gente,", "avg_logprob": -0.23614922987194512, "no_speech_prob": 0.0018364647403359413}
+{"start": 1569.72, "end": 1572.4, "text": "es la gente, el Fondo Monetario,", "avg_logprob": -0.23614922987194512, "no_speech_prob": 0.0018364647403359413}
+{"start": 1572.44, "end": 1575.2, "text": "todo el mundo decía, no, esto es imposible.", "avg_logprob": -0.3433248167037964, "no_speech_prob": 0.00428007822483778}
+{"start": 1575.28, "end": 1577.96, "text": "Vos pensás que nosotros hemos hecho algo,", "avg_logprob": -0.3433248167037964, "no_speech_prob": 0.00428007822483778}
+{"start": 1578.04, "end": 1580.12, "text": "el otro día me voy a contar una infidencia.", "avg_logprob": -0.3433248167037964, "no_speech_prob": 0.00428007822483778}
+{"start": 1580.2, "end": 1583.88, "text": "Estuvimos con José Luis Daza dos horas reunidos", "avg_logprob": -0.3433248167037964, "no_speech_prob": 0.00428007822483778}
+{"start": 1583.96, "end": 1586.12, "text": "con Núria Elrubini.", "avg_logprob": -0.3433248167037964, "no_speech_prob": 0.00428007822483778}
+{"start": 1586.2, "end": 1590.72, "text": "La gente no sabe uno de los economistas más respetados.", "avg_logprob": -0.3433248167037964, "no_speech_prob": 0.00428007822483778}
+{"start": 1590.8, "end": 1594.52, "text": "Se interesó tanto en el programa,", "avg_logprob": -0.3433248167037964, "no_speech_prob": 0.00428007822483778}
+{"start": 1594.6, "end": 1596.52, "text": "que como te digo, en el programa económico", "avg_logprob": -0.3433248167037964, "no_speech_prob": 0.00428007822483778}
+{"start": 1596.6, "end": 1597.96, "text": "que estuvimos más de dos horas", "avg_logprob": -0.3433248167037964, "no_speech_prob": 0.00428007822483778}
+{"start": 1598.04, "end": 1600.68, "text": "explicándole la parte no solo fiscal,", "avg_logprob": -0.3433248167037964, "no_speech_prob": 0.00428007822483778}
+{"start": 1601.16, "end": 1603.4, "text": "que es un poco lo que él creía que más habíamos hecho,", "avg_logprob": -0.17925127463475352, "no_speech_prob": 0.0021563430782407522}
+{"start": 1603.48, "end": 1607.76, "text": "sino toda la parte monetaria, cambiaria y financiera.", "avg_logprob": -0.17925127463475352, "no_speech_prob": 0.0021563430782407522}
+{"start": 1607.84, "end": 1612.04, "text": "Terminó la reunión diciéndome,", "avg_logprob": -0.17925127463475352, "no_speech_prob": 0.0021563430782407522}
+{"start": 1612.12, "end": 1613.28, "text": "tenés que escribir un libro,", "avg_logprob": -0.17925127463475352, "no_speech_prob": 0.0021563430782407522}
+{"start": 1613.36, "end": 1615.6, "text": "porque esto cambia la economía", "avg_logprob": -0.17925127463475352, "no_speech_prob": 0.0021563430782407522}
+{"start": 1615.68, "end": 1617.52, "text": "como nosotros la hemos estudiado.", "avg_logprob": -0.17925127463475352, "no_speech_prob": 0.0021563430782407522}
+{"start": 1617.6, "end": 1620.0, "text": "O sea, ustedes hicieron un ajuste", "avg_logprob": -0.17925127463475352, "no_speech_prob": 0.0021563430782407522}
+{"start": 1620.08, "end": 1622.68, "text": "que terminó siendo expansivo.", "avg_logprob": -0.17925127463475352, "no_speech_prob": 0.0021563430782407522}
+{"start": 1622.76, "end": 1625.96, "text": "La economía creció 5,5% en el año.", "avg_logprob": -0.17925127463475352, "no_speech_prob": 0.0021563430782407522}
+{"start": 1626.04, "end": 1628.64, "text": "Típicamente, cuando vos haces un ajuste", "avg_logprob": -0.17925127463475352, "no_speech_prob": 0.0021563430782407522}
+{"start": 1628.72, "end": 1630.96, "text": "y mucho menor al que nosotros hicimos,", "avg_logprob": -0.1835822763369065, "no_speech_prob": 0.029526278376579285}
+{"start": 1631.04, "end": 1632.68, "text": "la economía entra en recesión.", "avg_logprob": -0.1835822763369065, "no_speech_prob": 0.029526278376579285}
+{"start": 1632.76, "end": 1635.52, "text": "Por eso es que los políticos no les gusta ajustar,", "avg_logprob": -0.1835822763369065, "no_speech_prob": 0.029526278376579285}
+{"start": 1635.6, "end": 1639.68, "text": "porque eso es recesivo y le saca votos.", "avg_logprob": -0.1835822763369065, "no_speech_prob": 0.029526278376579285}
+{"start": 1639.76, "end": 1644.68, "text": "Entonces, lo que se ha hecho es algo realmente único.", "avg_logprob": -0.1835822763369065, "no_speech_prob": 0.029526278376579285}
+{"start": 1644.76, "end": 1647.92, "text": "No es milagroso, porque es el resultado de hacer las cosas bien,", "avg_logprob": -0.1835822763369065, "no_speech_prob": 0.029526278376579285}
+{"start": 1648.0, "end": 1649.48, "text": "pero sí es histórico,", "avg_logprob": -0.1835822763369065, "no_speech_prob": 0.029526278376579285}
+{"start": 1649.56, "end": 1651.48, "text": "porque no se hizo nunca en 123 años.", "avg_logprob": -0.1835822763369065, "no_speech_prob": 0.029526278376579285}
+{"start": 1651.56, "end": 1653.8, "text": "¿Tenés miedo a las marchas", "avg_logprob": -0.1835822763369065, "no_speech_prob": 0.029526278376579285}
+{"start": 1653.88, "end": 1656.92, "text": "y de la reacción de la oposición", "avg_logprob": -0.1835822763369065, "no_speech_prob": 0.029526278376579285}
+{"start": 1656.96, "end": 1659.04, "text": "de los sectores que están en la calle?", "avg_logprob": -0.23134276702215797, "no_speech_prob": 0.0033507305197417736}
+{"start": 1659.12, "end": 1661.28, "text": "No, nada de miedo a mí.", "avg_logprob": -0.23134276702215797, "no_speech_prob": 0.0033507305197417736}
+{"start": 1661.36, "end": 1663.36, "text": "Nada, pero literal,", "avg_logprob": -0.23134276702215797, "no_speech_prob": 0.0033507305197417736}
+{"start": 1663.44, "end": 1668.32, "text": "porque el mecanismo de transmisión en Argentina,", "avg_logprob": -0.23134276702215797, "no_speech_prob": 0.0033507305197417736}
+{"start": 1668.4, "end": 1671.68, "text": "particularmente, de esas cosas,", "avg_logprob": -0.23134276702215797, "no_speech_prob": 0.0033507305197417736}
+{"start": 1671.76, "end": 1674.0, "text": "era había la debilidad económica.", "avg_logprob": -0.23134276702215797, "no_speech_prob": 0.0033507305197417736}
+{"start": 1674.08, "end": 1676.96, "text": "Como Argentina siempre estaba débil económicamente,", "avg_logprob": -0.23134276702215797, "no_speech_prob": 0.0033507305197417736}
+{"start": 1677.04, "end": 1679.52, "text": "cualquiera de estas cosas, de estas marchas,", "avg_logprob": -0.23134276702215797, "no_speech_prob": 0.0033507305197417736}
+{"start": 1679.6, "end": 1681.84, "text": "de estos intentos de desestabilización,", "avg_logprob": -0.23134276702215797, "no_speech_prob": 0.0033507305197417736}
+{"start": 1681.92, "end": 1685.48, "text": "impactaban en la economía inmediatamente.", "avg_logprob": -0.23134276702215797, "no_speech_prob": 0.0033507305197417736}
+{"start": 1685.6, "end": 1687.8, "text": "Lo mismo, si había algún shock externo,", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1687.88, "end": 1689.52, "text": "como a nosotros nos agarraba débiles,", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1689.6, "end": 1690.92, "text": "viste que siempre se decía,", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1691.0, "end": 1694.44, "text": "si hay un estornudo en el mundo, Argentina tiene gripe.", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1694.52, "end": 1696.08, "text": "Eso no es de casualidad,", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1696.16, "end": 1698.64, "text": "eso es porque nosotros siempre estábamos con las defensas bajas,", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1698.72, "end": 1700.4, "text": "siempre estábamos mal.", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1700.48, "end": 1704.52, "text": "Yo no le tengo miedo ahora porque hemos roto ese link", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1704.6, "end": 1706.4, "text": "al estar sólidos económicamente.", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1706.48, "end": 1709.4, "text": "Entonces, empezamos a aparezcarnos a un país normal.", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1709.48, "end": 1710.92, "text": "Hay un montón de países que tienen...", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1711.0, "end": 1712.0, "text": "Tiene que sostenerlo todo.", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1712.08, "end": 1713.68, "text": "Sí, sí, sí, pero nosotros,", "avg_logprob": -0.2403054326217367, "no_speech_prob": 0.004955934826284647}
+{"start": 1713.76, "end": 1717.96, "text": "esa es la parte de que más asegura el presidente.", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1718.04, "end": 1719.08, "text": "Por eso yo digo que esto es único.", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1719.16, "end": 1722.92, "text": "Es la primera vez que Argentina llega a una situación como la actual", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1723.0, "end": 1725.4, "text": "por decisión del presidente, por decisión política.", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1725.48, "end": 1728.28, "text": "La primera es que hay un presidente que prima lo económico", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1728.36, "end": 1729.68, "text": "a lo político.", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1729.76, "end": 1731.12, "text": "Entonces, eso es lo que te asegura,", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1731.2, "end": 1734.24, "text": "que nosotros vamos a seguir con esto.", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1735.48, "end": 1738.52, "text": "Pero perdí el hilo de lo que te estaba diciendo antes.", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1738.6, "end": 1740.28, "text": "No sobre la calle, yo te había preguntado eso,", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1740.36, "end": 1741.4, "text": "le tenías miedo a las marchas.", "avg_logprob": -0.2740489585676055, "no_speech_prob": 0.0045048813335597515}
+{"start": 1741.48, "end": 1743.32, "text": "Claro, no le tengo ningún miedo,", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1743.4, "end": 1746.44, "text": "porque ahora Argentina se parece más a un país normal.", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1746.52, "end": 1747.76, "text": "Por ejemplo, te puedo decir Perú.", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1747.84, "end": 1749.64, "text": "En Perú cambian de presidente,", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1749.72, "end": 1752.08, "text": "no te digo cada cinco minutos, pero cada año.", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1752.16, "end": 1754.76, "text": "No afecta la macro.", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1754.84, "end": 1758.08, "text": "O sea, hay ruidos políticos en muchos otros países.", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1758.16, "end": 1760.88, "text": "Nosotros empezamos a aparecernos a eso.", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1760.96, "end": 1764.2, "text": "Hacen intentos e intentos de desestabilización.", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1764.28, "end": 1768.76, "text": "Y vos fíjate que no tienen un correlato ahora", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1768.84, "end": 1770.92, "text": "como sí tenía en el pasado.", "avg_logprob": -0.1915244708823807, "no_speech_prob": 0.0014157888945192099}
+{"start": 1770.96, "end": 1773.64, "text": "Y la gente empieza a identificarlos cada vez más.", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1773.72, "end": 1775.52, "text": "Yo creo que les juegan contra,", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1775.6, "end": 1779.16, "text": "porque la gente se da cuenta que a esos que están marchando", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1779.24, "end": 1782.28, "text": "no les interesa el país.", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1782.36, "end": 1785.0, "text": "Dar vuelta a un auto, incendiarlo,", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1785.08, "end": 1787.76, "text": "tirarle, pegarle a la policía, romper piedras.", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1787.84, "end": 1790.16, "text": "O sea, hay gente que le quiere que vaya bien al país.", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1790.24, "end": 1792.28, "text": "Tengo una última pregunta.", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1792.36, "end": 1795.66, "text": "Vuelvo al tema dólar.", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1795.74, "end": 1797.38, "text": "No me vas a...", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1797.46, "end": 1801.98, "text": "Me dijiste que está claro que son negociaciones reservadas,", "avg_logprob": -0.24412521808235735, "no_speech_prob": 0.008177796378731728}
+{"start": 1802.02, "end": 1804.7, "text": "que no se sabe el monto todavía del acuerdo.", "avg_logprob": -0.3280578675783343, "no_speech_prob": 0.0015257872873917222}
+{"start": 1805.9, "end": 1809.02, "text": "Pero el regio, porque lo que se notó este último tiempo,", "avg_logprob": -0.3280578675783343, "no_speech_prob": 0.0015257872873917222}
+{"start": 1809.1, "end": 1813.02, "text": "además, que empieza a ver cierta demanda sobre el dólar,", "avg_logprob": -0.3280578675783343, "no_speech_prob": 0.0015257872873917222}
+{"start": 1813.1, "end": 1814.94, "text": "pensando que tal vez con el acuerdo", "avg_logprob": -0.3280578675783343, "no_speech_prob": 0.0015257872873917222}
+{"start": 1815.02, "end": 1817.94, "text": "se cambia el régimen cambiario actual.", "avg_logprob": -0.3280578675783343, "no_speech_prob": 0.0015257872873917222}
+{"start": 1818.02, "end": 1819.46, "text": "¿Va a modificarse?", "avg_logprob": -0.3280578675783343, "no_speech_prob": 0.0015257872873917222}
+{"start": 1819.54, "end": 1821.54, "text": "Bueno, es la idea. Nosotros creemos si vamos...", "avg_logprob": -0.3280578675783343, "no_speech_prob": 0.0015257872873917222}
+{"start": 1821.62, "end": 1823.46, "text": "Pero va a modificarse, vos hoy estás con un crábulin,", "avg_logprob": -0.3280578675783343, "no_speech_prob": 0.0015257872873917222}
+{"start": 1823.54, "end": 1827.1, "text": "va a modificarse en un momento a un esquema de libre cambio.", "avg_logprob": -0.3280578675783343, "no_speech_prob": 0.0015257872873917222}
+{"start": 1827.18, "end": 1829.5, "text": "Bueno, nosotros en tanto y en cuanto cumplamos", "avg_logprob": -0.3280578675783343, "no_speech_prob": 0.0015257872873917222}
+{"start": 1829.54, "end": 1832.9, "text": "con las tres condiciones que nos planteamos,", "avg_logprob": -0.3312487650220677, "no_speech_prob": 0.0666898861527443}
+{"start": 1832.98, "end": 1837.46, "text": "que es que el mercado de dinero se acomode,", "avg_logprob": -0.3312487650220677, "no_speech_prob": 0.0666898861527443}
+{"start": 1837.54, "end": 1840.22, "text": "o sea, que la base monetaria común más o menos", "avg_logprob": -0.3312487650220677, "no_speech_prob": 0.0666898861527443}
+{"start": 1840.3, "end": 1842.58, "text": "mape la base monetaria amplia,", "avg_logprob": -0.3312487650220677, "no_speech_prob": 0.0666898861527443}
+{"start": 1842.66, "end": 1847.18, "text": "que el nivel de inflación converja al nivel de...", "avg_logprob": -0.3312487650220677, "no_speech_prob": 0.0666898861527443}
+{"start": 1847.26, "end": 1849.06, "text": "lo que se llama cruel impact,", "avg_logprob": -0.3312487650220677, "no_speech_prob": 0.0666898861527443}
+{"start": 1849.14, "end": 1851.06, "text": "que es el ajuste diario del dólar", "avg_logprob": -0.3312487650220677, "no_speech_prob": 0.0666898861527443}
+{"start": 1851.14, "end": 1852.86, "text": "más la inflación internacional.", "avg_logprob": -0.3312487650220677, "no_speech_prob": 0.0666898861527443}
+{"start": 1852.94, "end": 1856.02, "text": "Y en la medida que podamos capitalizar el banco central", "avg_logprob": -0.3312487650220677, "no_speech_prob": 0.0666898861527443}
+{"start": 1856.1, "end": 1857.7, "text": "con reservas suficientes,", "avg_logprob": -0.3312487650220677, "no_speech_prob": 0.0666898861527443}
+{"start": 1857.74, "end": 1859.7, "text": "en la medida que esta cantidad de pesos", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}
+{"start": 1859.78, "end": 1861.22, "text": "tenga un respaldo razonable.", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}
+{"start": 1861.3, "end": 1862.7, "text": "Nosotros estamos haciendo todo eso", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}
+{"start": 1862.78, "end": 1866.22, "text": "justamente para liberar las restricciones cambiarias.", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}
+{"start": 1866.3, "end": 1869.62, "text": "Entonces, el objetivo final, claro, que es ese.", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}
+{"start": 1869.7, "end": 1873.06, "text": "¿Cuándo van a estar dadas esas condiciones?", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}
+{"start": 1873.14, "end": 1874.26, "text": "Yo todavía no lo puedo decir,", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}
+{"start": 1874.34, "end": 1876.02, "text": "porque ni siquiera todavía sabemos", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}
+{"start": 1876.1, "end": 1878.14, "text": "cuánta plata nos va a dar el fondo.", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}
+{"start": 1878.22, "end": 1879.98, "text": "Pero ese es el objetivo donde vamos, ¿sí?", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}
+{"start": 1880.06, "end": 1881.06, "text": "Lo digo muchas gracias.", "avg_logprob": -0.3455913839240869, "no_speech_prob": 0.03635481745004654}

@@ -1,0 +1,621 @@
+[0.00-5.08] OTRO: Ministro, muchísimas gracias por recibirnos especialmente un domingo, sabemos que usted trata de descansar,
+[5.08-7.44] MINISTRO: así que lo agradecemos doblemente. Al contrario.
+[7.44-13.92] MINISTRO: Bueno, quiero ir al grano sobre cosas de las que supuestamente está hablando el mercado
+[13.92-20.92] MINISTRO: y le preocupan a la gente aún con no tanta información técnica, pero que le preocupan.
+[20.92-23.80] MINISTRO: ¿Por qué usted y el presidente también creo que lo ha dicho?
+[23.80-29.20] MINISTRO: Dice que no hay suficiente peso para correr al dólar, para que haya una corrida
+[29.28-32.08] MINISTRO: y hacernos subir considerablemente.
+[32.08-35.92] OTRO: Y al mismo tiempo, en las últimas jornadas, creo que diez jornadas,
+[35.92-39.68] MINISTRO: el Banco Central gastó 1.700 millones de dólares.
+[39.68-42.84] MINISTRO: Entiendo que para tratar de contenerlo. ¿Por qué?
+[42.84-44.88] MINISTRO: Aún una diferencia importante ahí.
+[44.88-48.20] MINISTRO: No, no, no gastó 1.700 millones conteniendo al dólar.
+[48.20-55.28] MINISTRO: Eso es lo que se gasta entre la diferencia de lo que se llama el mercado único y libre de cambios.
+[55.36-58.16] MINISTRO: O sea, está obligado al Banco Central.
+[58.16-62.44] MINISTRO: Si hay más exportaciones que importaciones, el Banco Central compra,
+[62.44-66.52] MINISTRO: como compramos 25 mil millones de dólares en los últimos 14 meses.
+[67.80-70.76] OTRO: En los últimos 10 días no es que estamos interveniendo.
+[70.80-74.68] OTRO: Es que hay más, digamos, importaciones que exportaciones.
+[74.68-77.08] OTRO: Esto es, sabíamos perfecto que iba a pasar.
+[77.32-80.96] MINISTRO: Perdón, y hay más importaciones que exportaciones,
+[81.28-85.84] MINISTRO: porque los que importan prefieren hacerlo cuando tengan el panorama más claro
+[85.84-88.16] MINISTRO: y se sepa el acuerdo con el panorama.
+[88.16-90.68] MINISTRO: Y los importadores quieren importar más rápido.
+[90.68-95.24] MINISTRO: Sí, también hubo un reacomodamiento de portafolio de Banco.
+[95.24-97.56] MINISTRO: Las dos cosas, pero es algo que esperábamos.
+[97.56-99.08] MINISTRO: Un reacomodamiento de portafolio de Banco.
+[99.08-102.40] MINISTRO: Sí, también. Pero es algo que esperábamos absolutamente,
+[102.40-105.52] MINISTRO: porque con la ley nueva esta,
+[106.28-110.64] MINISTRO: Guzmán, yo se lo dije al fondo, se lo dije al presidencial.
+[110.64-112.36] MINISTRO: Ya sabíamos todos que iba a pasar.
+[112.36-114.52] OTRO: Oye, perdón, quiero interrumpir, no quiero precisar.
+[114.52-118.92] MINISTRO: La ley Guzmán es la que le impone al gobierno pasar por el Congreso
+[119.16-121.20] OTRO: antes de firmar cualquier acuerdo con el gobierno.
+[121.20-126.12] MINISTRO: Entonces se genera un período de incertidumbre entre que entre, en este caso,
+[126.12-130.16] MINISTRO: el DNU y la aprobación de el fondo,
+[130.16-133.12] MINISTRO: donde nosotros como funcionarios no podemos decir nada.
+[133.76-140.08] MINISTRO: Y entonces la oposición, algunos colegas tuyos y demás aprovechan
+[140.96-145.04] OTRO: para generar incertidumbre en la gente en un tema sensible.
+[145.04-147.20] MINISTRO: Entonces, ¿qué termina pasando en la práctica?
+[147.20-151.80] MINISTRO: Y bueno, ante la duda, por ahí unos importadores aceleran importaciones.
+[152.12-155.72] MINISTRO: Los exportadores retienen y no liquidan.
+[155.72-158.76] OTRO: Y eso provoca que el Banco central te haya que comprar el dólar.
+[158.76-159.44] OTRO: Pero no es un problema.
+[159.44-160.24] MINISTRO: Y que bajen las reservas.
+[160.24-161.64] MINISTRO: Claro, pero no es un problema,
+[161.68-165.60] MINISTRO: porque el importador que adelanta esa importación,
+[166.16-169.44] MINISTRO: mañana no lo va a tener que volver a importar.
+[169.44-172.52] MINISTRO: O sea, y el exportador que retuvo va a tener que liquidar.
+[172.52-174.52] MINISTRO: Entonces, las reservas que estás pariendo ahora,
+[174.52-177.12] MINISTRO: cuando hagamos el acuerdo con el fondo se van a recuperar.
+[177.12-179.24] MINISTRO: Se van a recuperar en los siguientes días.
+[179.24-181.12] MINISTRO: Así que no es una preocupación.
+[182.28-183.28] MINISTRO: Entiendo.
+[184.12-187.88] MINISTRO: ¿Por qué, si ante la nueva emisión,
+[187.92-191.60] MINISTRO: usted sigue diciendo que no hay suficiente peso para correr al dólar,
+[191.60-192.60] MINISTRO: ¿no?
+[192.60-195.60] MINISTRO: Usted y el presidente, el jueves lo entrevisté,
+[195.60-197.60] MINISTRO: no hay suficiente peso para correr al dólar.
+[197.60-199.60] MINISTRO: No, no, es una realidad práctica.
+[199.60-200.60] MINISTRO: ¿De acuerdo?
+[200.60-204.60] MINISTRO: Necesitamos de dólares del fondo para que la economía se ponga mejor.
+[204.60-210.60] MINISTRO: Es así, ¿pues te acordás que en junio, julio del año pasado
+[210.60-212.60] MINISTRO: me entrevistaste cuando el dólar estaba a 1.400?
+[212.60-213.60] MINISTRO: Yo me acuerdo.
+[213.60-215.60] OTRO: Te acuerdas de que todos decían que el dólar se iba a 2.000?
+[215.60-217.60] OTRO: A 2.000, 1.800.
+[217.60-218.60] OTRO: ¿Te acordás lo que te contesté?
+[218.60-219.60] OTRO: No.
+[219.60-220.60] MINISTRO: Ah, bueno.
+[220.60-221.60] MINISTRO: Te dije, no.
+[221.60-225.60] MINISTRO: Mira, este es un esquema monetario y fiscal tan robusto
+[225.60-227.60] MINISTRO: que puede haber volatilidad, te dije.
+[227.60-229.60] MINISTRO: Pero no puede haber simbronazo.
+[229.60-230.60] MINISTRO: Es más, te dije.
+[231.60-236.60] MINISTRO: Lo más probable que suceda es que el dólar de 1.400,
+[236.60-239.60] MINISTRO: el contado con Ricky, converja al oficial.
+[240.60-241.60] MINISTRO: Me mataron.
+[241.60-244.60] MINISTRO: En general, digamos, no soy de dar pronósticos.
+[244.60-245.60] MINISTRO: Pero ¿por qué?
+[245.60-248.60] MINISTRO: Porque eso es la robustez de este esquema.
+[248.60-249.60] MINISTRO: O sea, ¿vuelan a que lidiar?
+[249.60-252.60] MINISTRO: Como dijo el presidente el 1 de mayo en la partidura de las hechones,
+[252.60-255.60] OTRO: va a haber siempre y pasan todos los países del mundo.
+[255.60-257.60] MINISTRO: ¿Vuelo que tenés que tener en el islam macroeconomía?
+[257.60-261.60] MINISTRO: Lo suficientemente ordenada para que no haya simbronazos.
+[261.60-263.60] MINISTRO: Acá no hay posibilidad de simbronazos,
+[263.60-265.60] MINISTRO: eso es lo que le quieren hacer creer a la gente.
+[265.60-266.60] OTRO: Eso no va a pasar.
+[266.60-268.60] OTRO: ¿Cuando hablamos de simbronazo se perdonó?
+[268.60-269.60] OTRO: Te hago una referencia más.
+[269.60-270.60] MINISTRO: ¿Cómo no?
+[270.60-275.60] MINISTRO: Ese 1.400 de hace 9 meses es el equivalente de 1.600 de hoy.
+[275.60-278.60] MINISTRO: Entonces, pues fíjate que hoy hay muchos militando corrida,
+[278.60-281.60] MINISTRO: porque el dólar vale 1.300.
+[281.60-282.60] MINISTRO: ¿Militando corrida?
+[282.60-283.60] MINISTRO: Sí, claro.
+[283.60-286.60] MINISTRO: Que es un 15% arriba de cuando nosotros llegamos
+[286.60-290.60] MINISTRO: y lo veían en 2000, 3000, 4000, 8000.
+[290.60-293.60] OTRO: O sea, corrida, lo que le pasó al gobierno anterior,
+[293.60-296.60] OTRO: que arrancó con un dólar de 60,
+[296.60-299.60] OTRO: con una herencia que al lado de lo que nosotros recibimos
+[299.60-301.60] OTRO: era a Disneylandia.
+[301.60-307.60] OTRO: Y sabes que en apenas 10 meses se le había ido de 60 a 180.
+[307.60-311.60] OTRO: ¿Sí? O sea, había subido 200%
+[311.60-314.60] MINISTRO: Acá subió 15% en 10 meses.
+[314.60-317.60] MINISTRO: Usted lo que me quiere decir es que el dólar en la Argentina
+[317.60-320.60] OTRO: no se va a disparar y no va a haber una devaluación brunca
+[320.60-321.60] OTRO: y desionada.
+[321.60-322.60] MINISTRO: De ninguna manera.
+[322.60-323.60] MINISTRO: Ok.
+[323.60-326.60] MINISTRO: Y me está diciendo que yo no quisiera ser tan fino
+[326.60-328.60] MINISTRO: con los números,
+[328.60-330.60] MINISTRO: primero porque no sé cómo me esté,
+[330.60-332.60] MINISTRO: pero no sé cómo me voy a generar una insertidumbre
+[332.60-333.60] MINISTRO: donde no la hay.
+[333.60-335.60] MINISTRO: Este dólar, que es el equi...
+[335.60-336.60] MINISTRO: Este dólar de 1.300.
+[336.60-339.60] MINISTRO: Es un dólar que a lo sumo con esta volatilidad
+[339.60-341.60] OTRO: que se pueda registrar
+[341.60-343.60] MINISTRO: hasta el momento en que se firme el acuerdo
+[343.60-345.60] OTRO: y puedan anunciar algunos de los detalles,
+[345.60-347.60] OTRO: no se va a ir a una cifra loca.
+[347.60-348.60] OTRO: ¿No?
+[348.60-350.60] OTRO: No importa el cortísimo...
+[350.60-351.60] MINISTRO: No, eso sí, pero digamos,
+[351.60-353.60] MINISTRO: no importa el corto plazo acá.
+[353.60-356.60] MINISTRO: Yo siempre machaco en algo.
+[356.60-359.60] MINISTRO: Que es que las cosas en economía
+[359.60-360.60] MINISTRO: pasan por algo.
+[360.60-362.60] MINISTRO: Argentina no tuvo siempre defaults
+[362.60-365.60] MINISTRO: y devaluaciones porque sí.
+[365.60-368.60] MINISTRO: Eso es producto de que se hacían las cosas mal.
+[368.60-370.60] MINISTRO: Cuando la gente dice, ya la vimos,
+[370.60-371.60] OTRO: yo insisto, no vieron nada,
+[371.60-374.60] OTRO: porque esto en Argentina no se hace a 620 años.
+[374.60-376.60] OTRO: ¿Este sigue siendo objeto distinto?
+[376.60-377.60] OTRO: No, no, no lo digo yo.
+[377.60-379.60] MINISTRO: Vienen los premios nuevos,
+[379.60-380.60] MINISTRO: los más importantes del mundo
+[380.60-382.60] MINISTRO: y nos piden que excregamos un libro.
+[382.60-384.60] MINISTRO: O sea, se está estudiando
+[384.60-386.60] MINISTRO: en las mejores universidades del mundo.
+[386.60-387.60] MINISTRO: O sea, no es que lo digo yo.
+[387.60-390.60] MINISTRO: Lo dicen los tipos que más saben de economía en el mundo.
+[390.60-392.60] MINISTRO: O sea, esto que hicimos nosotros
+[392.60-394.60] MINISTRO: no se hizo en 120 años.
+[394.60-397.60] MINISTRO: Y en Argentina no lo vio absolutamente nadie.
+[397.60-398.60] MINISTRO: No puede pasar.
+[398.60-401.60] MINISTRO: Lo del fondo no tiene nada que ver
+[401.60-403.60] MINISTRO: con acuerdos anteriores.
+[403.60-405.60] MINISTRO: Porque primero, nosotros ya veníamos de un acuerdo.
+[405.60-408.60] MINISTRO: Esto es importante aclararlo.
+[408.60-409.60] OTRO: ¿Y el acuerdo del gobierno anterior?
+[409.60-410.60] OTRO: El acuerdo del gobierno anterior
+[410.60-412.60] MINISTRO: que estaba completamente caído.
+[412.60-414.60] MINISTRO: Porque no habían cumplido ninguna meta.
+[415.60-418.60] MINISTRO: Nosotros teníamos la opción de ir a un acuerdo nuevo.
+[418.60-422.60] MINISTRO: O de seguir con ese acuerdo viejo.
+[422.60-424.60] OTRO: No hicimos ninguna de las dos.
+[424.60-426.60] OTRO: No fuimos un acuerdo nuevo.
+[426.60-428.60] MINISTRO: Porque sabíamos que si le decíamos al fondo
+[428.60-429.60] MINISTRO: lo que queríamos hacer,
+[429.60-431.60] MINISTRO: que de hecho lo hicimos,
+[431.60-433.60] OTRO: obviamente iban a dudar de que eso era posible.
+[433.60-434.60] OTRO: Como dudaban.
+[434.60-435.60] OTRO: O sea, no, para,
+[435.60-437.60] OTRO: no van a poder mantener un equilibrio fiscal.
+[437.60-440.60] OTRO: Van a poner tasa de interés real negativa.
+[440.60-442.60] OTRO: Eso se les va a ir al dólar.
+[442.60-444.60] MINISTRO: Entonces, como sabemos que no lo hicimos
+[444.60-446.60] MINISTRO: a convencer para que nos pudieran dar
+[446.60-448.60] MINISTRO: nueva plata y recapitalizar al banco central.
+[448.60-449.60] MINISTRO: ¿Qué hiciera?
+[449.60-450.60] MINISTRO: Estaba la otra opción,
+[450.60-452.60] OTRO: que era revivir el programa viejo.
+[452.60-453.60] OTRO: Ahora, el programa viejo,
+[453.60-454.60] OTRO: las metas que tenía,
+[454.60-457.60] OTRO: nos llevaban a una hiperinflación igual.
+[457.60-459.60] OTRO: Entonces, nosotros nos pusimos metas
+[459.60-460.60] OTRO: mucho más fuertes,
+[460.60-462.60] MINISTRO: mucho más ambiciosas.
+[462.60-464.60] MINISTRO: Este es un programa que habíamos diseñado
+[464.60-465.60] MINISTRO: estando en el sector privado.
+[465.60-467.60] MINISTRO: Y lo llevamos a la práctica
+[467.60-468.60] MINISTRO: desde el primer día.
+[468.60-469.60] MINISTRO: Perdón, ministro,
+[469.60-470.60] OTRO: usted dice,
+[470.60-472.60] OTRO: y la propuesta es
+[472.60-474.60] OTRO: ir a este acuerdo con el equilibrio fiscal.
+[474.60-476.60] OTRO: Eso, o con su perávitica.
+[476.60-478.60] OTRO: Claro, te dio lo que terminó.
+[478.60-479.60] OTRO: ¿Qué distinto sería?
+[479.60-481.60] OTRO: Qué fue lo que pasó en la práctica.
+[481.60-483.60] MINISTRO: Nosotros llevamos a la práctica
+[483.60-485.60] MINISTRO: nuestro propio programa.
+[485.60-487.60] MINISTRO: Y le fuimos mostrando al fondo
+[487.60-489.60] MINISTRO: y al mundo que teníamos razón.
+[489.60-491.60] MINISTRO: Que todos lo que pensaban
+[491.60-492.60] MINISTRO: que era imposible que mantuvieramos
+[492.60-494.60] MINISTRO: el equilibrio fiscal era posible.
+[494.60-497.60] MINISTRO: Que bajáramos la inflación era posible.
+[497.60-500.60] OTRO: Que no devaluáramos era posible.
+[500.60-502.60] OTRO: Entonces, para septiembre de octubre
+[502.60-504.60] MINISTRO: le dijimos al fondo.
+[504.60-507.60] MINISTRO: Nosotros podemos continuar con nuestro programa.
+[507.60-509.60] MINISTRO: O ustedes pueden
+[509.60-512.60] MINISTRO: subirse, darnos una mano
+[512.60-515.60] MINISTRO: y, digamos, acelerar el proceso este.
+[515.60-516.60] OTRO: La continuidad,
+[516.60-518.60] OTRO: si nosotros hubiéramos seguido por nuestra cuenta
+[518.60-520.60] OTRO: hubiera sido como hasta ahora
+[520.60-522.60] OTRO: ir recomprando reservas
+[522.60-524.60] MINISTRO: para capitalizar a lo anco central
+[524.60-525.60] MINISTRO: gradualmente.
+[526.60-529.60] OTRO: Siendo al fondo, la diferencia está en que ahora...
+[529.60-530.60] OTRO: ¿En que lo hacemos más rápido?
+[530.60-531.60] OTRO: Claro, en que lo hacemos más rápido.
+[531.60-532.60] OTRO: Pero no es deuda nueva.
+[532.60-534.60] OTRO: Estamos reemplazando
+[534.60-536.60] OTRO: lo que hizo el quisnerismo
+[536.60-540.60] MINISTRO: allá por el 2011, 2012, 2013, 2014
+[540.60-543.60] OTRO: que emitía letras instranferibles
+[543.60-547.60] OTRO: para sacarle los dólares al banco central.
+[547.60-549.60] MINISTRO: Entonces, vos tenes el banco...
+[549.60-550.60] MINISTRO: Le volví a papelitos.
+[550.60-552.60] OTRO: Le daba un papelito que decían a letra.
+[552.60-553.60] OTRO: ¿Entonces, que el banco central
+[553.60-554.60] OTRO: no la puede monetizar?
+[554.60-555.60] OTRO: Es intransferible.
+[555.60-558.60] OTRO: O sea, no puede hacer nada con eso.
+[558.60-561.60] OTRO: ¿Y cómo quedaba el balance
+[561.60-563.60] OTRO: en ese momento y a posteriori
+[563.60-565.60] MINISTRO: del banco central?
+[565.60-567.60] MINISTRO: El balance del banco central es importante
+[567.60-569.60] MINISTRO: entenderlo porque
+[569.60-571.60] MINISTRO: los pesos que el banco central emite
+[571.60-573.60] MINISTRO: es la deuda con la gente.
+[573.60-576.60] MINISTRO: Sí, como diría bien el profesor de Pablo,
+[576.60-578.60] MINISTRO: cumplir con ese compromiso es un tema moral.
+[578.60-580.60] MINISTRO: Y eso es la que la política
+[580.60-581.60] MINISTRO: despreció siempre.
+[581.60-583.60] MINISTRO: Entonces, ¿qué hizo el quisnerismo
+[583.60-584.60] MINISTRO: en su momento?
+[584.60-587.60] MINISTRO: Le sacaba el respaldo a esos pesos.
+[587.60-589.60] MINISTRO: Le sacaba todos los dólares.
+[589.60-591.60] MINISTRO: Se les llevó 120 mil millones de dólares.
+[591.60-593.60] MINISTRO: De hecho, les gustan verlo en términos de acuerdo
+[593.60-594.60] MINISTRO: con el fondo.
+[594.60-595.60] MINISTRO: Se acuerdan tres acuerdos con el fondo.
+[595.60-597.60] MINISTRO: Y por otro lado, como tenía déficit,
+[597.60-599.60] OTRO: emitía pesos a Mansalva.
+[599.60-601.60] OTRO: Entonces, cada vez había más deuda
+[601.60-603.60] OTRO: y cada vez había menos respaldo.
+[603.60-605.60] MINISTRO: Al punto que cuando llegamos nosotros
+[605.60-607.60] MINISTRO: había
+[607.60-610.60] OTRO: casi cuatro bases monetarias
+[610.60-611.60] OTRO: en Pasivo Oranjez.
+[611.60-613.60] OTRO: Había una sobreabundancia de pesos únicas.
+[613.60-616.60] OTRO: Imprimieron 13 puntos de producto
+[616.60-618.60] MINISTRO: en el último año.
+[618.60-620.60] MINISTRO: Y ya no es que no había reservas
+[620.60-621.60] MINISTRO: en el banco central.
+[621.60-623.60] MINISTRO: Había reservas negativas.
+[623.60-625.60] MINISTRO: Y además debíamos 40 mil millones.
+[625.60-627.60] OTRO: El central debía 40 mil millones de dólares
+[627.60-628.60] OTRO: a importadores.
+[628.60-631.60] OTRO: Entonces, lo que es importante
+[631.60-632.60] OTRO: entender es que
+[632.60-635.60] OTRO: ¿por qué hay que recapitalizar al banco central?
+[635.60-637.60] OTRO: ¿Por qué ese es el respaldo
+[637.60-638.60] OTRO: contra la deuda?
+[638.60-639.60] OTRO: Para hacer más fuerte el peso.
+[639.60-641.60] OTRO: Claro, vos tenés peso.
+[641.60-643.60] MINISTRO: O sea, sentido común, vos tenés pesos.
+[643.60-645.60] MINISTRO: ¿Crees que haya respaldo de tus pesos o no?
+[645.60-646.60] MINISTRO: Sí.
+[646.60-647.60] MINISTRO: Obvio.
+[647.60-648.60] OTRO: Es lo que querría todo el mundo.
+[648.60-649.60] OTRO: Eso es lo que estamos haciendo.
+[649.60-650.60] OTRO: Sí, pues darnos un peso.
+[650.60-651.60] MINISTRO: Obvio.
+[651.60-652.60] MINISTRO: Eso es lo que estamos haciendo.
+[652.60-654.60] MINISTRO: Estamos, entonces, dando vuelta
+[654.60-655.60] MINISTRO: de esa operación que hizo el quiserismo.
+[655.60-657.60] MINISTRO: Estamos recomprando esas letras
+[657.60-659.60] MINISTRO: intransferibles, honrando esa deuda
+[659.60-661.60] OTRO: y volviendo a ponerle dólares
+[661.60-663.60] MINISTRO: al banco central para que tengan
+[663.60-664.60] MINISTRO: respaldo a los pesos.
+[664.60-666.60] MINISTRO: Ministro, esto no forma parte
+[666.60-667.60] MINISTRO: de la operación de los pesos.
+[667.60-671.60] MINISTRO: Y es el miedo ancestral que tenemos
+[671.60-673.60] MINISTRO: los argentinos, que cada tanto
+[673.60-675.60] MINISTRO: y cada vez que le vamos a pedir plata al fondo
+[675.60-677.60] MINISTRO: tarde o temprano me puedo volver
+[677.60-682.60] MINISTRO: un golpe o sube el dólar o el corralito
+[682.60-683.60] MINISTRO: o el planbón, eso.
+[683.60-685.60] MINISTRO: Entonces, hay un miedo
+[685.60-687.60] MINISTRO: que entiendo que el quiserismo
+[687.60-688.60] MINISTRO: en general y Cristina en particular
+[688.60-689.60] MINISTRO: agita eso.
+[689.60-690.60] OTRO: Obvio.
+[690.60-691.60] OTRO: Y comprende eso.
+[691.60-692.60] OTRO: Y eso genera volatilidad también.
+[692.60-693.60] OTRO: Obvio.
+[693.60-694.60] OTRO: Ellos generan eso.
+[694.60-696.60] MINISTRO: Generan eso en los dos sentidos.
+[696.60-698.60] MINISTRO: Los generan cuando son gobierno.
+[698.60-700.60] MINISTRO: ¿Por qué te dejan siempre un banco
+[700.60-703.60] MINISTRO: central absolutamente desestabilizado?
+[703.60-705.60] MINISTRO: A Macri le pasó lo mismo,
+[705.60-708.60] MINISTRO: no tanto como al presidente
+[708.60-711.60] MINISTRO: Milaí, pero sí en una gran medida.
+[711.60-713.60] OTRO: Y después, cuando no están,
+[713.60-715.60] OTRO: lo agitan, porque saben que es un tema
+[715.60-717.60] OTRO: sensible para la gente.
+[717.60-718.60] MINISTRO: Entonces, sí, es lo que hacen.
+[718.60-719.60] MINISTRO: ¿Correcto?
+[719.60-720.60] MINISTRO: Hablando de Juan Carlos de Pablo,
+[720.60-722.60] MINISTRO: el viernes yo lo entreviste
+[722.60-724.60] MINISTRO: y me dijo, si yo estuviera
+[724.60-726.60] MINISTRO: asesorando clientes en este momento,
+[726.60-728.60] MINISTRO: le diría que no
+[728.60-730.60] MINISTRO: que no tomen las decisiones
+[730.60-732.60] MINISTRO: en base a un salto de evaluatorio.
+[732.60-734.60] OTRO: Eso fue lo que es.
+[734.60-736.60] MINISTRO: Sí, no puedo hablar como ministro,
+[736.60-739.60] MINISTRO: pero sí tendría a coincidir.
+[739.60-742.60] MINISTRO: De vuelta, nosotros, Luis,
+[742.60-744.60] MINISTRO: estamos, o sea, no estamos mirando
+[744.60-746.60] MINISTRO: acá el día a día, porque sabemos
+[746.60-748.60] MINISTRO: que diseñamos algo
+[748.60-750.60] OTRO: sólido y que va a durar
+[750.60-752.60] OTRO: y que va a ser algo de largo plazo.
+[752.60-754.60] OTRO: Y en la dirección en Argentina
+[754.60-756.60] MINISTRO: va a terminar colapsando.
+[756.60-758.60] MINISTRO: El dólar no va a ser un problema.
+[758.60-760.60] MINISTRO: De esto, la gente lamentablemente
+[760.60-762.60] MINISTRO: lo va a ver en la práctica.
+[762.60-764.60] MINISTRO: O sea, por más que yo se lo diga
+[764.60-766.60] MINISTRO: y algunos me creerán y otros no,
+[766.60-768.60] MINISTRO: porque la tradición pasó eso.
+[768.60-770.60] MINISTRO: Entiendo. Yo comprendo
+[770.60-772.60] MINISTRO: que yo no tengo que hacer
+[772.60-774.60] MINISTRO: las preguntas necesarias.
+[774.60-776.60] MINISTRO: Que usted, desde el punto de vista
+[776.60-778.60] MINISTRO: del secreto o como funcionario,
+[778.60-780.60] MINISTRO: no me puedo decir muchas cosas,
+[780.60-782.60] MINISTRO: ya sabemos que Argentina pidió
+[782.60-784.60] MINISTRO: 20.000 millones de dólares
+[784.60-786.60] MINISTRO: y que el director
+[786.60-788.60] MINISTRO: y el fondo lo tienen que aceptar
+[788.60-790.60] MINISTRO: todavía, aunque desde el punto de vista
+[790.60-792.60] MINISTRO: de la dirección política del fondo,
+[792.60-794.60] OTRO: entre comillas, dijeron que
+[794.60-796.60] OTRO: eso estaría bien y están de acuerdo, ¿sí?
+[796.60-798.60] OTRO: Esperemos que sí.
+[798.60-800.60] OTRO: Eso lo decide el board.
+[800.60-802.60] MINISTRO: Sí, o sea, nos llevó tiempo
+[802.60-804.60] MINISTRO: convencerlos, corrimos mucho
+[804.60-806.60] MINISTRO: modelos, nuestros de ellos y demás.
+[806.60-808.60] MINISTRO: Y eso fue lo que terminamos
+[808.60-810.60] MINISTRO: proponiendoles, pero ahora lo que
+[810.60-812.60] MINISTRO: tiene que ir a aprobación del board.
+[812.60-814.60] OTRO: Y usted, y el gobierno, ¿y usted
+[814.60-816.60] OTRO: siguen hablando de 20.000 millones de dólares?
+[816.60-818.60] MINISTRO: Sí, eso es el total
+[818.60-820.60] MINISTRO: del paquete, ¿sí?
+[820.60-822.60] MINISTRO: Ahora después está cómo se desembolsan
+[822.60-824.60] MINISTRO: esos 20.000 millones que es
+[824.60-826.60] MINISTRO: parte de la negociación que estamos terminando ahora.
+[826.60-828.60] MINISTRO: Una vez hablando con el presidente,
+[828.60-830.60] MINISTRO: el presidente me dijo,
+[830.60-832.60] MINISTRO: yo le pregunte esto, el presidente,
+[834.60-836.60] MINISTRO: ¿usted dice que
+[836.60-838.60] MINISTRO: que se salga el cepo, por el
+[838.60-840.60] MINISTRO: confundido dos fenómenos,
+[840.60-842.60] MINISTRO: que se salgo dos decisiones,
+[842.60-844.60] MINISTRO: que se salga el cepo o que se vaya
+[844.60-846.60] MINISTRO: un cruel impec no del uno, sino
+[846.60-848.60] MINISTRO: el 2% por mes, o lo que ustedes
+[848.60-850.60] MINISTRO: decían, depende de
+[850.60-852.60] MINISTRO: de cuánta alta sea
+[852.60-854.60] MINISTRO: la primera cuota del desembolso.
+[854.60-856.60] MINISTRO: ¿Es correcto eso?
+[856.60-858.60] OTRO: Mira, a ver, la primera cuota del desembolso
+[858.60-860.60] OTRO: para nosotros
+[860.60-862.60] OTRO: es importante porque el Banco Central
+[862.60-864.60] OTRO: está muy descapitalizado.
+[864.60-866.60] OTRO: Y además, por una razón
+[866.60-868.60] OTRO: lo pedimos.
+[868.60-870.60] OTRO: Es cierto, cuando se dice
+[870.60-872.60] OTRO: que no hay
+[872.60-874.60] OTRO: precedente en que el fondo
+[874.60-876.60] MINISTRO: haga un desembolso
+[876.60-878.60] OTRO: inicial muy alto.
+[878.60-880.60] OTRO: ¿De el 80%? No, no, no, ni por
+[880.60-882.60] OTRO: hemos si a general, hacen del 20, 30,
+[882.60-884.60] OTRO: o en alguna excepción 40.
+[884.60-886.60] OTRO: Nosotros
+[886.60-888.60] OTRO: hemos pedido más por qué razón,
+[888.60-890.60] OTRO: porque en un acuerdo del fondo tradicional,
+[890.60-892.60] OTRO: lo que el fondo hace es
+[892.60-894.60] MINISTRO: seguir haciendo esos desembolsos parciales
+[894.60-896.60] MINISTRO: a cambio del cumplimiento
+[896.60-898.60] MINISTRO: de metafiscales y monetarias.
+[898.60-900.60] MINISTRO: Cosa que en el caso nuestro
+[900.60-902.60] OTRO: ya lo hicimos.
+[902.60-904.60] OTRO: ¿Nosotros ya adelantamos cosas que
+[904.60-906.60] OTRO: ustedes no van a pedir?
+[906.60-908.60] OTRO: Así que por favor, nos adelantan
+[908.60-910.60] OTRO: un desembolso más importante.
+[910.60-912.60] MINISTRO: Lo que nosotros decimos es, también puede
+[912.60-914.60] MINISTRO: no haber precedente de esto, pero no hay
+[914.60-916.60] MINISTRO: precedente tampoco del fondo
+[916.60-918.60] MINISTRO: firmando un acuerdo con un país que
+[918.60-920.60] MINISTRO: ya ha hecho todos los ajustes
+[920.60-922.60] MINISTRO: de los que se han hecho.
+[922.60-924.60] MINISTRO: Entonces, la lógica sería
+[924.60-926.60] MINISTRO: cuando terminan esos ajustes,
+[926.60-928.60] MINISTRO: ¿ustedes cuánto desembolsaron?
+[928.60-930.60] OTRO: No desembolsaron, el 20, 30 o 40.
+[930.60-932.60] OTRO: Bueno, nosotros ya terminamos.
+[932.60-934.60] OTRO: Entonces, estamos diciendo, sería más lógico
+[934.60-936.60] MINISTRO: que ya que hicimos todos estos ajustes
+[936.60-938.60] MINISTRO: el desembolso inicial sea
+[938.60-940.60] MINISTRO: más alto.
+[940.60-942.60] MINISTRO: Y discúlpame la ignorancia de nuevo.
+[942.60-944.60] MINISTRO: Cuando usted habla de 20.000 millones de dólares,
+[944.60-946.60] MINISTRO: ¿cuántos de esos dólares
+[946.60-948.60] MINISTRO: que es el total serían
+[948.60-950.60] MINISTRO: que se denomina libre disponibilidad?
+[950.60-952.60] OTRO: A ver, la
+[952.60-954.60] OTRO: operación funciona de la siguiente manera.
+[954.60-956.60] MINISTRO: Los dólares que nosotros recibimos
+[956.60-958.60] MINISTRO: ¿sí?
+[958.60-960.60] MINISTRO: Pasamos a recomprar esas letras intransferibles
+[960.60-962.60] MINISTRO: que le vendió Kicillof
+[962.60-964.60] MINISTRO: para sacarle los dólares en el pasado.
+[964.60-966.60] OTRO: Esos dólares pasan a ser
+[966.60-968.60] OTRO: parte de las reservas de lo ancocentral.
+[968.60-970.60] OTRO: Las reservas son de libre disponibilidad.
+[970.60-972.60] OTRO: O sea, que si yo no leo
+[972.60-974.60] MINISTRO: más, no leo mal
+[974.60-976.60] MINISTRO: si el primer desembolso
+[976.60-978.60] MINISTRO: es importante
+[978.60-980.60] MINISTRO: ustedes lo van a poder usar
+[980.60-982.60] MINISTRO: como quieran dentro de las reservas del banco central.
+[982.60-984.60] OTRO: Son reservas del banco central.
+[984.60-986.60] OTRO: A ver si estoy pensando bien.
+[986.60-988.60] MINISTRO: Está perfecto.
+[988.60-990.60] MINISTRO: Y por eso usted es tan optimista.
+[990.60-992.60] MINISTRO: Entonces, supongo.
+[992.60-994.60] MINISTRO: Yo soy optimista
+[994.60-996.60] MINISTRO: más que, o sea, sobre todo porque
+[996.60-998.60] MINISTRO: como te digo
+[998.60-1000.60] OTRO: a mí lo que me importa es
+[1000.60-1002.60] OTRO: la gente. Yo entiendo
+[1002.60-1004.60] OTRO: el marcado
+[1004.60-1006.60] OTRO: que está mirando el arbitraje
+[1006.60-1008.60] MINISTRO: un 2% le influye.
+[1008.60-1010.60] MINISTRO: Lo que quiero que la gente entienda
+[1010.60-1012.60] MINISTRO: y llevarle tranquilidad es que nosotros
+[1012.60-1014.60] MINISTRO: no vamos a hacer
+[1014.60-1016.60] MINISTRO: lo que hay que hacer
+[1016.60-1018.60] MINISTRO: para llevarle un resultado mejor
+[1018.60-1020.60] MINISTRO: a la gente.
+[1020.60-1022.60] MINISTRO: Claramente que entre plata para respaldar los pesos
+[1022.60-1024.60] MINISTRO: es algo mejor.
+[1024.60-1026.60] MINISTRO: Nosotros nunca vamos a salir de las restricciones
+[1026.60-1028.60] OTRO: si le vamos a generar
+[1028.60-1030.60] OTRO: un estrés
+[1030.60-1032.60] MINISTRO: a la gente.
+[1032.60-1034.60] MINISTRO: Eso es lo que ellos tienen que entender.
+[1034.60-1036.60] MINISTRO: Eso que les tratan de vender algunos
+[1036.60-1038.60] MINISTRO: de que puede haber un sinpronazzo
+[1038.60-1040.60] MINISTRO: de que pueden ir tantos miles de pesos
+[1040.60-1042.60] MINISTRO: porque el M3
+[1042.60-1044.60] OTRO: eso va a pasar.
+[1044.60-1046.60] OTRO: Bueno, de eso le voy a preguntar. La base monetaria.
+[1046.60-1048.60] MINISTRO: Yo lo escucho a usted y el presidente
+[1048.60-1050.60] MINISTRO: y dice, nosotros tenemos los dólares suficientes.
+[1050.60-1052.60] MINISTRO: No hay la suficiente cantidad
+[1052.60-1054.60] MINISTRO: de pesos como para que haga
+[1054.60-1056.60] MINISTRO: una corrida
+[1056.60-1058.60] MINISTRO: no sé, que llega el dólar
+[1058.60-1060.60] MINISTRO: no quiero decir el número, o que sea
+[1060.60-1062.60] MINISTRO: a dos mil.
+[1062.60-1064.60] MINISTRO: No hay suficiente cantidad de pesos.
+[1064.60-1066.60] OTRO: Y otros dicen no, pero mira
+[1066.60-1068.60] OTRO: la base monetaria, no sé
+[1068.60-1070.60] MINISTRO: los gerentes financieros de la multinacionales
+[1070.60-1072.60] MINISTRO: ven que esto
+[1072.60-1074.60] MINISTRO: es tan volátil
+[1074.60-1076.60] MINISTRO: entonces empiezan a desarmar las posiciones
+[1076.60-1078.60] OTRO: no influye también en eso
+[1078.60-1080.60] OTRO: que puede haber una corrida lo que se denomina.
+[1080.60-1082.60] MINISTRO: Por eso te hablaba del balance
+[1082.60-1084.60] MINISTRO: del banco central, hay que entender
+[1084.60-1086.60] MINISTRO: los pasivos y los activos.
+[1086.60-1088.60] MINISTRO: Los pesos que emite
+[1088.60-1090.60] MINISTRO: el banco central es lo que se llama emisión primaria
+[1090.60-1092.60] MINISTRO: de dinero. Después hay emisión
+[1092.60-1094.60] MINISTRO: secundaria de dinero que es
+[1094.60-1096.60] MINISTRO: lo que emiten los bancos
+[1096.60-1098.60] MINISTRO: vía el crédito
+[1098.60-1100.60] MINISTRO: y lo que implica ese efecto
+[1100.60-1102.60] MINISTRO: ese famoso efecto que habrás escuchado a alguna gente
+[1102.60-1104.60] MINISTRO: el efecto multiplicador.
+[1104.60-1106.60] OTRO: Eso no tiene nada, o sea, eso no es que
+[1106.60-1108.60] OTRO: todos esos pesos pueden ir
+[1108.60-1110.60] MINISTRO: al dólar.
+[1110.60-1112.60] MINISTRO: En todo caso hay un desinfle
+[1112.60-1114.60] MINISTRO: del multiplicador. Los pesos que pueden ir
+[1114.60-1116.60] MINISTRO: al dólar cuando interviven el banco central
+[1116.60-1118.60] MINISTRO: son los mismos pesos de la emisión primaria.
+[1118.60-1120.60] MINISTRO: Entonces
+[1120.60-1122.60] MINISTRO: como fue tomando el ejemplo, por ejemplo,
+[1122.60-1124.60] MINISTRO: de la convertibilidad, hoy
+[1124.60-1126.60] MINISTRO: digamos, alguno podría decir, alguno me decía
+[1126.60-1128.60] MINISTRO: esto sería como una especie de neocompartibilidad,
+[1128.60-1130.60] MINISTRO: porque ustedes están diciendo que ahora va a haber
+[1130.60-1132.60] MINISTRO: respaldo para... no, va a haber
+[1132.60-1134.60] MINISTRO: sobre respaldo. Si uno toma
+[1134.60-1136.60] MINISTRO: el tipo de cambio equivalente
+[1136.60-1138.60] OTRO: de la cantidad de dólares que va a dar
+[1138.60-1140.60] MINISTRO: a la base monetaria, el tipo
+[1140.60-1142.60] MINISTRO: de cambio de cobertura es de 600.
+[1142.60-1144.60] OTRO: Si tomamos la base
+[1144.60-1146.60] OTRO: amplia, claro, de 600.
+[1146.60-1148.60] OTRO: No es que habría, podría haber
+[1148.60-1150.60] OTRO: o sea, sobra cobertura.
+[1150.60-1152.60] OTRO: Si tomo la base amplia
+[1152.60-1154.60] OTRO: de 950.
+[1154.60-1156.60] MINISTRO: Es decir, nunca hubo tanta
+[1156.60-1158.60] MINISTRO: cobertura, ninguna generación como nosotros vivió,
+[1158.60-1160.60] MINISTRO: nunca un nivel de cobertura
+[1160.60-1162.60] MINISTRO: de la deuda de pesos como la que
+[1162.60-1164.60] OTRO: va a haber ahora en el banco central.
+[1164.60-1166.60] MINISTRO: Con un agregado fundamental
+[1166.60-1168.60] MINISTRO: que es, además,
+[1168.60-1170.60] MINISTRO: ahora no hay más emisión de pesos, no hay
+[1170.60-1172.60] MINISTRO: déficit y no hay emisión
+[1172.60-1174.60] MINISTRO: por pasivos remunerados.
+[1174.60-1176.60] MINISTRO: Que no haya déficit es la gran
+[1176.60-1178.60] MINISTRO: diferencia con la convertibilidad.
+[1178.60-1180.60] MINISTRO: La convertibilidad, acá yo, porque hubo déficit.
+[1180.60-1182.60] MINISTRO: Esa es la razón.
+[1182.60-1184.60] MINISTRO: Conceptualmente, el car...
+[1184.60-1186.60] MINISTRO: un carnesivor, como se dice,
+[1186.60-1188.60] MINISTRO: puede durar una convertibilidad
+[1188.60-1190.60] MINISTRO: puede durar
+[1190.60-1192.60] MINISTRO: a infinitum. No está mal.
+[1192.60-1194.60] OTRO: Si hay equilibrio fiscal. Obvio.
+[1194.60-1196.60] OTRO: La convertibilidad en ese sentido
+[1196.60-1198.60] MINISTRO: podría haber durado mucho más.
+[1198.60-1200.60] MINISTRO: ¿Por qué cayó la convertibilidad? Bueno, porque hubo déficit.
+[1200.60-1202.60] MINISTRO: Las provincias empezaron a endeudarse
+[1202.60-1204.60] MINISTRO: con los bancos a tasas impagables
+[1204.60-1206.60] MINISTRO: del 15%.
+[1206.60-1208.60] MINISTRO: Como no se podían emitir pesos, empezaron
+[1208.60-1210.60] MINISTRO: a emitir cuasimonedas
+[1210.60-1212.60] MINISTRO: y no le podían devolver la deuda a los bancos.
+[1212.60-1214.60] MINISTRO: Los bancos se habían fundeado
+[1214.60-1216.60] MINISTRO: con arjendolares a 30 días.
+[1216.60-1218.60] MINISTRO: Entonces no podían devolver los depósitos.
+[1218.60-1220.60] MINISTRO: Entonces, por esa es la razón por la que cayó.
+[1220.60-1222.60] MINISTRO: Ahora tenemos sobre cobertura
+[1222.60-1224.60] MINISTRO: con respecto a la convertibilidad,
+[1224.60-1226.60] MINISTRO: pero además tenemos superávit fiscal.
+[1226.60-1228.60] MINISTRO: Es decir, nosotros cada mes, no sólo
+[1228.60-1230.60] MINISTRO: no inyectamos pesos, sino que
+[1230.60-1232.60] OTRO: absorbemos.
+[1232.60-1234.60] OTRO: La sanitaria primaria. Exactamente.
+[1234.60-1236.60] MINISTRO: El presidente me dijo
+[1236.60-1238.60] MINISTRO: en el radio el jueves
+[1238.60-1240.60] MINISTRO: efectivamente
+[1240.60-1242.60] MINISTRO: el ritmo de la
+[1242.60-1244.60] MINISTRO: desaceleración
+[1244.60-1246.60] MINISTRO: inflacionaria se detuvo,
+[1246.60-1248.60] OTRO: se hizo más lento
+[1248.60-1250.60] MINISTRO: y probablemente en abril no podamos
+[1250.60-1252.60] MINISTRO: empezar con un índice, no podemos presentar un índice
+[1252.60-1254.60] MINISTRO: que empiece con uno
+[1254.60-1256.60] MINISTRO: como producto de la
+[1256.60-1258.60] MINISTRO: volatilidad política
+[1258.60-1260.60] MINISTRO: que generaron, no sé, algunos políticos.
+[1260.60-1262.60] MINISTRO: Sí, la volatilidad política definitivamente
+[1262.60-1264.60] MINISTRO: no ayudó. Por esto que bien
+[1264.60-1266.60] MINISTRO: decías vos, porque también
+[1266.60-1268.60] MINISTRO: hay una parte de ese teo de expectativas.
+[1268.60-1270.60] MINISTRO: Entonces, si le hacen creer a los comerciantes
+[1270.60-1272.60] MINISTRO: y a la gente que acá puede haber un simbronazo
+[1272.60-1274.60] OTRO: y demás, bueno, alguno por ahí
+[1274.60-1276.60] MINISTRO: picaramente
+[1276.60-1278.60] MINISTRO: o por cobertura
+[1278.60-1280.60] OTRO: o porque generalmente tiene temor o algo
+[1280.60-1282.60] OTRO: puede hacer eso. Ahora, la verdad
+[1282.60-1284.60] OTRO: que cuánto va a ser el índice
+[1284.60-1286.60] OTRO: de abril, ninguno
+[1286.60-1288.60] OTRO: nosotros puede saberlo, pero no importa
+[1288.60-1290.60] OTRO: si es abril, mayo, o sea
+[1290.60-1292.60] OTRO: acá, lo que los argentinos pueden estar
+[1292.60-1294.60] OTRO: tranquilos. La inflación
+[1294.60-1296.60] OTRO: va a colapsar, es un tema de tiempo
+[1296.60-1298.60] OTRO: porque cuando vos haces las cosas bien
+[1298.60-1300.60] OTRO: los resultados salen. De vuelta siempre el ejemplo
+[1300.60-1302.60] MINISTRO: del buen alumno. Argentina siempre le fue
+[1302.60-1304.60] MINISTRO: mal porque fue un pésimo
+[1304.60-1306.60] OTRO: alumno que no estudiaba y se portaba mal.
+[1306.60-1308.60] OTRO: Hoy es uno de los cinco mejores alumnos del mundo.
+[1308.60-1310.60] OTRO: Hay 195 países, cinco
+[1310.60-1312.60] OTRO: tenemos SuperAvit. Entonces
+[1312.60-1314.60] OTRO: si uno de los mejores alumnos le va a ir bien.
+[1314.60-1316.60] MINISTRO: Mourillo Macri y otro diagnóstico
+[1316.60-1318.60] MINISTRO: dijo que
+[1318.60-1320.60] OTRO: la falta de apego
+[1320.60-1322.60] MINISTRO: institucional de este gobierno
+[1322.60-1324.60] MINISTRO: puede estar impactando
+[1324.60-1326.60] MINISTRO: en el programa económico.
+[1326.60-1328.60] MINISTRO: Usted qué opinó.

@@ -1,0 +1,721 @@
+[0.00-10.20] MINISTRO: Muchas gracias a todos por venir y muchas gracias a Manuel por la introducción.
+[10.20-17.80] MINISTRO: Manuel es una persona que yo respeto muchísimo, no solo desde lo profesional, sino también
+[17.80-29.80] MINISTRO: desde lo personal, porque conozco su hombría de bien, conozco su familia, soy muy amigo
+[29.80-41.80] MINISTRO: de su llano y de su hija, así que la verdad que un gusto Manuel, esta presentación.
+[41.80-55.56] MINISTRO: Bueno, vamos a los bifes. Han pasado ya seis meses, entonces por ahí es bueno hacer un
+[55.56-65.56] MINISTRO: pequeño raconto de lo que se ha recibido y de lo que hemos hecho.
+[65.56-75.56] MINISTRO: Se recibió una situación realmente calamitosa, la peor herencia de la historia, como siempre
+[75.56-85.56] MINISTRO: dice el presidente la combinación de lo peor del rodriazo, de la hiperinflación del Alfonso
+[85.56-98.61] MINISTRO: Inmenem y de la crisis del 2001. Una situación de un déficit fiscal de cinco puntos, un déficit
+[98.61-108.61] MINISTRO: quasi fiscal de diez puntos, un déficit consolidado de 15 puntos de producto que es una bestialidad,
+[108.61-120.05] MINISTRO: un banco central absolutamente quebrado, desmantelado, no había reserva alguna, no es que ya no había
+[120.05-126.05] MINISTRO: reservas propias del banco central, no estaban los dólares de la gente, teníamos 11.500 millones
+[126.05-139.86] MINISTRO: de dólares de reservas negativas, tres bases monetarias en pasivos remunerados que a la tasa
+[139.86-147.86] MINISTRO: de ese momento implicaba emitir una base monetaria más cada más, menos dos meses y medio.
+[147.86-157.86] MINISTRO: Una demanda de dinero que, consecuentemente, estaba colapsando, inflación por arriba del 200%
+[157.86-166.86] MINISTRO: además de la mayoría de los precios de la economía pisados, alimentos, combustibles, tarifa, tipo de cambio.
+[166.86-175.86] MINISTRO: No te había escuchado a un economista diciendo que se necesitaba un clínico, no puedo sentir más realmente,
+[175.86-183.86] MINISTRO: lejos del clínico se necesitaba un grupo de cirujanos, el diagnóstico clínico era más que obvio,
+[183.86-196.86] MINISTRO: teníamos un país con cáncer fiscal y metástasis monetaria, financiera, cambiaria, institucional.
+[196.86-204.86] MINISTRO: Era un paciente que estaba más cerca de pasar del otro lado de la vida que de recuperarse.
+[204.86-222.02] MINISTRO: Tuvimos realmente que hacer todo un proceso, todo una cirugía que muy poca gente esperaba,
+[222.02-231.02] MINISTRO: se hizo en un lapso de cinco, seis meses, cosas que realmente no se hicieron en 100 años.
+[232.02-245.02] MINISTRO: El país tuvo la convicción de votar un presidente que se animó a hacer eso que algunos hoy quieren subestimar,
+[245.02-249.02] MINISTRO: pero que nadie hizo en 100 años.
+[249.02-259.02] MINISTRO: Y se hizo, como digo, de una manera sumamente prolija y ordenada.
+[259.02-265.02] MINISTRO: Es totalmente muy difícil desatar todos esos cables juntos.
+[265.02-275.02] MINISTRO: Se llegó al equilibrio fiscal en el mes uno, algo que en teoría era imposible hacer ni siquiera en los cuatro años de mandato.
+[275.02-287.02] MINISTRO: Se bajó el déficit cinco puntos desde el primer mes y eso se logró, además, teniendo en cuenta los más vulnerables.
+[288.02-298.02] MINISTRO: Todo lo que es asistencia directa, la asistencia universal por hijo, subió un 335 por ciento.
+[298.02-306.02] MINISTRO: Al mismo tiempo que en este período, o sea, desde fin de noviembre a hoy, la inflación fue del 129 por ciento.
+[306.02-313.02] MINISTRO: Es decir, que la asistencia universal prácticamente se duplicó en términos reales.
+[314.02-318.02] MINISTRO: Subió también en términos reales la tarjeta alimentar.
+[318.02-325.02] MINISTRO: Subió más de mil por ciento el plan primeros mil días.
+[325.02-331.02] MINISTRO: Cuando nosotros combinamos las tres cosas, lo que es estas asistencias directas,
+[331.02-338.02] MINISTRO: Aguache, tarjeta alimentar, plan primeros mil días,
+[338.02-342.02] MINISTRO: esa combinación de las tres cosas antes de que nosotros llegáramos,
+[342.02-345.02] MINISTRO: no cubrían la canasta básica familiar.
+[345.02-349.02] MINISTRO: Apenas llegaban al 68 por ciento.
+[349.02-355.02] MINISTRO: Hoy la combinación de esos tres planes cubre en el 118 por ciento.
+[356.02-368.02] MINISTRO: También tuvimos casarnos cargos de la deuda de energía que dejó el gobierno anterior, mucha plata.
+[368.02-375.78] MINISTRO: Y como digo, este déficit se corrigió desde el mes uno.
+[375.78-380.78] MINISTRO: Y se dijo, bueno, caputo se sentó en la caja y demás.
+[380.78-386.78] MINISTRO: Es solamente enero. Bueno, tuvimos superávit enero, tuvimos superávit febrero.
+[386.78-394.78] MINISTRO: Después era no, porque no le pagamos a Camesa, le pagamos a Camesa y superávit en marzo, abril, mayo.
+[394.78-416.26] MINISTRO: Y así va a seguir porque este gobierno no va a renunciar al orden macroeconómico.
+[416.26-431.26] MINISTRO: En lo monetario y en lo cambiario aplicamos una política que sorprendió a la gran mayoría acá y en el mundo.
+[431.26-440.26] MINISTRO: Porque, digamos, típicamente para bajar la inflación, que es lo que hacen los bancos centrales, su ventaza.
+[440.26-444.26] MINISTRO: Eso es lo que te enseñan en la universidad.
+[444.26-449.26] MINISTRO: Para algunos parece que lo aprendieron de memoria.
+[449.26-459.26] MINISTRO: Esa situación para la Argentina de ese momento hubiera sido un error, yo diría, de características fatales.
+[459.26-461.26] MINISTRO: Fatales.
+[461.26-472.26] MINISTRO: Y les explico porque subir la tasa de interés, típicamente, se hace para descomprimir la creación secundaria de dinero,
+[472.26-474.26] MINISTRO: para descomprimir el crédito.
+[474.26-482.26] MINISTRO: Y con eso el consumo y la inversión y que la economía se desacelere.
+[482.26-488.26] MINISTRO: Y entonces se equilibre nuevamente la oferta y la demanda de bienes.
+[488.26-497.26] MINISTRO: Pero en Argentina no aplicaba eso por dos razones, porque la inflación argentina no obedecía un recalentamiento de la economía.
+[497.26-509.26] MINISTRO: Estábamos lejos de estar al 100% de capacidad instalada y de que la presión sea efectivamente por un problema de,
+[509.26-514.26] MINISTRO: digamos, como digo, de fuerza de la demanda de una economía que estaba creciendo.
+[514.26-518.26] MINISTRO: Por otro lado, no hay crédito en Argentina.
+[518.26-521.26] MINISTRO: Entonces no hay creación secundaria de dinero.
+[521.26-527.26] MINISTRO: El crédito es apenas 3.8 puntos de producto, o sea nada.
+[527.26-532.26] MINISTRO: Pero por otro lado, teníamos una montaña de pasivos remunerados,
+[532.26-536.26] MINISTRO: más de tres bases monetarias en pasivos remunerados.
+[536.26-543.26] MINISTRO: Entonces si nosotros aplicábamos la teoría económica básica y que hubieran aplicado prácticamente todos
+[543.26-546.26] MINISTRO: y la que recomendaban todos de que subiéramos tasa,
+[546.26-552.26] MINISTRO: lo único que hubiéramos hecho era exacerbar el descalabro monetario.
+[552.26-558.26] MINISTRO: Porque los pasivos, los intereses de los pasivos remunerados,
+[558.26-563.26] MINISTRO: lo que llamamos los intereses endógenos, se hubieran multiplicado en un contexto
+[563.26-566.26] MINISTRO: en que la demanda de dinero seguía colapsando.
+[567.26-574.26] MINISTRO: Es decir, hubiéramos tenido que imprimir a esas nuevas tasas una base monetaria por mes.
+[574.26-579.26] MINISTRO: Lo repito, hubiéramos tenido que imprimir una base monetaria por mes.
+[579.26-581.26] MINISTRO: ¿Saben cuál es la consecuencia de eso?
+[581.26-584.26] MINISTRO: Si no es que ya estaríamos en íper e inflación,
+[584.26-589.26] MINISTRO: hubiera sido imposible salir del cepo cambiario.
+[589.26-595.26] MINISTRO: Porque hoy tendríamos seis o siete bases más que además hubieran ganado un 150 por ciento en dólares.
+[595.26-602.26] MINISTRO: Y lo único que estarían esperando era que liberáramos el cepo para sambullirse a realizar ganancias.
+[602.26-613.70] MINISTRO: Entonces, para entender eso, hay que tener como digo una combinación de conocimientos
+[613.70-618.70] MINISTRO: que son extremadamente importantes.
+[618.70-622.70] MINISTRO: Porque más de uno que puede haber pescado este concepto,
+[622.70-629.70] MINISTRO: también podría haber estado asustado por el lado de, bueno, pero si bajo las tasas se me va a ir al dólar.
+[629.70-635.70] MINISTRO: Y si se me va al dólar, se me va la brecha y se va todo al demonio.
+[635.70-644.70] MINISTRO: Bueno, nosotros queríamos poder controlar eso porque entre otras cosas diseñamos un producto financiero
+[644.70-653.70] MINISTRO: como el Bopreal que, como expliqué cuando efectivamente lo hicimos público, tenía tres funciones.
+[653.70-659.70] MINISTRO: Una era amortiguar la suba del tipo de cambio, con lo cual nosotros nos quedábamos tranquilos
+[659.70-663.70] MINISTRO: que no se nos iba a ir el tipo de cambio.
+[663.70-671.70] MINISTRO: Servía para absorber pesos y además servía para resolver el otro gran problema que nos habían dejado,
+[671.70-679.70] MINISTRO: que era el de la promesa de 60.000 millones de dólares que el Banco Central tenía que darle a los importadores.
+[679.70-688.70] MINISTRO: Otro ingrediente perfecto para una hiperinflación, porque imagínense a qué precio tenían que evaluar sus productos,
+[688.70-692.70] MINISTRO: los importadores cuando desconocían su valor de reposición,
+[692.70-700.70] MINISTRO: porque la cadena entre el importador y el productor del exterior estaba quebrada,
+[700.70-704.70] MINISTRO: porque los importadores ya no estaban pagando.
+[704.70-714.70] MINISTRO: Entonces pongan todo eso en una coctelera y la hiperinflación efectivamente estaba a la vuelta de la esquina.
+[714.70-725.70] MINISTRO: Todo ese conjunto de medidas fue lo que hizo que la operación resultara exitosa.
+[725.70-733.70] MINISTRO: Piensen que cada una de las crisis anteriores de las que les habla siempre el presidente
+[733.70-743.70] MINISTRO: y les acabo de mencionar, cada una de ellas, el Rodriguazo, el 89-90, el 2001, terminaron en mega crisis.
+[743.70-750.70] MINISTRO: Acá tuvimos la combinación de las tres y el paciente salió sano.
+[750.70-756.70] MINISTRO: Entonces, valoremos eso porque cuando dicen no estamos creciendo,
+[756.70-766.70] MINISTRO: no pongamos comparaciones que no son realistas, pongamos comparaciones, digamos, realistas.
+[766.70-770.70] MINISTRO: Y la realidad es que como tal cual pensaba el 84% de la gente,
+[770.70-781.43] MINISTRO: antes de que asumiramos el 84% de la gente, pensaba que efectivamente íbamos a ir a una hiperinflación.
+[781.43-794.29] MINISTRO: Y digo un poco esto porque también quiero que entiendan que todo esto pasó por una razón.
+[794.29-799.29] MINISTRO: Y es porque se hicieron los deberes de vuelta.
+[799.29-804.29] MINISTRO: No es una casualidad que las cosas hayan mejorado.
+[804.29-812.29] MINISTRO: Es una causalidad. La sorpresa de para muchos que las cosas estén mejor, no debiera ser tal.
+[812.29-817.29] MINISTRO: En todo caso, la sorpresa es que se hicieron los deberes que no se hicieron en 100 años,
+[817.29-823.29] MINISTRO: no las consecuencias. Cuando uno hace las cosas bien, las consecuencias son buenas.
+[823.29-828.29] MINISTRO: El problema argentino fue que durante 100 años nos metieron un cuento
+[828.29-833.29] MINISTRO: y durante 20 años directamente entramos en una estafa piramidal.
+[834.29-853.08] MINISTRO: Y también quiero aprovechar porque acá hay mucho de credibilidad en esto.
+[853.08-859.08] MINISTRO: Uno de los mayores problemas que uno se enfrenta cuando hace política económica en un país como Argentina
+[859.08-863.08] MINISTRO: es que es un país que no tiene credibilidad y eso te juega en contra.
+[863.08-870.08] MINISTRO: Entonces vos tenés por un lado la credibilidad propia de cada país
+[870.08-874.08] MINISTRO: y después la credibilidad de tus propias políticas.
+[874.08-882.08] MINISTRO: Uno entra acá con una credibilidad negativa infinita porque Argentina hace 100 años que rompe todo.
+[882.08-890.08] MINISTRO: Contratos, reglas, defaultea, saca 13 cero a la moneda,
+[890.08-893.08] MINISTRO: digamos todo lo que ya conocemos.
+[893.08-900.08] MINISTRO: Entonces hay que compensar eso con la credibilidad de las medidas propias.
+[902.08-908.08] MINISTRO: Y entonces eso es lo que nosotros hemos tratado de hacer desde el día uno,
+[908.08-913.08] MINISTRO: empezando por el presidente y siguiendo por el equipo económico.
+[913.08-916.08] MINISTRO: Es decir, nunca le hemos mentido a la gente.
+[916.08-923.08] MINISTRO: Hemos hecho siempre desde el día uno lo que dijimos que íbamos a hacer
+[923.08-930.08] MINISTRO: y no solo eso, sino que los resultados han sido los que nosotros hemos dicho,
+[930.08-936.08] MINISTRO: no los que algunos de ustedes escuchan en televisión, que les ponen el micrófono,
+[936.08-943.08] MINISTRO: porque son los cuatro o cinco que lo voy a decir brutalmente no han pegado una
+[943.08-953.08] MINISTRO: y siguen tratando de inculcarles mala vibra a todos y de buscar errores
+[953.08-955.08] MINISTRO: y de tratar de marcar cosas.
+[955.08-960.08] MINISTRO: Y esto lo digo no por tirarles un palo, sino por lo que acabo de decirles antes,
+[960.08-963.08] MINISTRO: porque la credibilidad es muy importante.
+[963.08-968.08] MINISTRO: Entonces nosotros si hacemos las cosas mal, lo pagamos.
+[969.08-975.08] MINISTRO: Del otro lado decir cualquier cosa y no invocar una parece ser gratis,
+[975.08-978.08] MINISTRO: porque después siguen hablando como si no hubiera pasado nada,
+[978.08-982.08] MINISTRO: siguen dando cátedra, los mismos tipos que aún después de que anunciamos
+[982.08-986.08] MINISTRO: lo que íbamos a hacer, aún después de que lo anunciamos,
+[986.08-988.08] MINISTRO: siguieron sin entender nada.
+[988.08-992.08] MINISTRO: Todavía hoy no entienden lo que es un modo predal que siguen hablando.
+[992.08-1004.27] MINISTRO: Así que quiero contarles a ustedes
+[1004.27-1009.27] MINISTRO: y quiero aprovechar este momento para darle crédito al equipo nuestro,
+[1009.27-1015.27] MINISTRO: porque nosotros yo doy la cara, pero atrás hay un equipo realmente chico,
+[1015.27-1020.27] MINISTRO: no somos muchos, honestamente no somos los 70, eso somos 6, 7,
+[1020.27-1027.27] MINISTRO: pero que tienen un mérito enorme, deben andar por algún lugar acá,
+[1027.27-1033.27] MINISTRO: pero son extraordinarios economistas que además de economía saben de finanzas
+[1033.27-1038.27] MINISTRO: y tienen una vocación de servicio infinita,
+[1038.27-1042.27] MINISTRO: y me estoy refiriendo, por supuesto, al presidente del Banco Central,
+[1042.27-1047.27] MINISTRO: Santiago Vauzilli, a Pablo Quirno, a Federico Furiasse, a Martín Boutier,
+[1047.27-1051.27] MINISTRO: a Felipe Núñez, a Vladimir Mernin, a Diego Aduris,
+[1051.27-1065.86] MINISTRO: para todos, por favor, un fuerte aplauso.
+[1065.86-1072.86] MINISTRO: Yo creo que el resumen, si se quiere más concluyente de esto,
+[1072.86-1080.23] MINISTRO: es que pasamos de una hiperinflación casi garantizada
+[1080.23-1086.23] MINISTRO: a créditos hipotecarios en cinco meses.
+[1086.23-1092.57] MINISTRO: Es un cambio realmente, digamos, si hace...
+[1092.57-1096.57] MINISTRO: Y esto lo quiero relacionar con el tema de la ley.
+[1096.57-1102.57] MINISTRO: Acá me gustaría pasar un mensaje que me parece que es súper importante
+[1102.57-1108.57] MINISTRO: que todos incorporen, porque se está hablando mucho de la ley
+[1108.57-1113.88] MINISTRO: y se está viendo un poco la ley como en forma binaria,
+[1113.88-1119.88] MINISTRO: como que si pasa, qué bueno, si no pasa, uy, qué desastre.
+[1119.88-1121.88] MINISTRO: No sepan que no es así.
+[1121.88-1125.88] MINISTRO: Es como dijimos, siempre desde el día uno.
+[1125.88-1130.88] MINISTRO: Es muy bueno que la ley pase, muy bueno, porque es una ley para los argentinos.
+[1130.88-1133.88] MINISTRO: Es una ley que va a cambiar el país.
+[1133.88-1140.88] MINISTRO: Sobre todo va a ser un acelerador, un potenciador de la recuperación
+[1140.88-1145.88] MINISTRO: de la situación económica.
+[1145.88-1149.88] MINISTRO: Pero no va a alterar el hecho de que este país se va a recuperar.
+[1149.88-1152.88] MINISTRO: Eso es lo que quiero que les quede claro.
+[1152.88-1156.88] MINISTRO: Que si la ley eventualmente no pasara,
+[1156.88-1159.88] MINISTRO: este gobierno no va a cambiar el rumbo.
+[1159.88-1163.88] MINISTRO: El orden macro va a seguir y el país se va a recuperar igual.
+[1163.88-1167.88] MINISTRO: Lamentablemente va a llevar un poco más de sacrificio y tiempo,
+[1167.88-1170.88] MINISTRO: pero no va a cambiar el rumbo.
+[1170.88-1175.88] MINISTRO: Es muy importante que se incorpore esto.
+[1175.88-1177.88] MINISTRO: Importantísimo, porque...
+[1177.88-1181.88] MINISTRO: Imagínense, por ejemplo, si no hubiera habido ley, ¿no?
+[1181.88-1184.88] MINISTRO: Y hace seis meses yo les hubiera dicho,
+[1184.88-1188.88] MINISTRO: miren, dentro de seis meses, con toda la herencia que les dije
+[1188.88-1192.88] MINISTRO: que hayamos recibido, dentro de seis meses vamos a estar
+[1192.88-1197.88] MINISTRO: con superávit fiscal, superávit comercial, superávit de cuenta corriente,
+[1197.88-1202.88] MINISTRO: habiendo comprado 17.000 millones de dólares en el mercado,
+[1202.88-1207.88] MINISTRO: habiendo reducido la base monetaria amplia, 45%.
+[1207.88-1212.88] MINISTRO: Habiendo solucionado prácticamente el problema
+[1212.88-1215.88] MINISTRO: de los 60.000 millones de la duda del Banco Central
+[1215.88-1220.88] MINISTRO: con los importadores, habiendo terminado con la cira
+[1220.88-1223.88] MINISTRO: y la corrupción que todo eso implicaba,
+[1223.88-1230.88] MINISTRO: habiendo sacado más de 69 regulaciones en comercio exterior.
+[1230.88-1234.88] MINISTRO: Con créditos hipotecarios a 30 años,
+[1234.88-1239.88] MINISTRO: creo que nos hubiera parecido que eso sería una fantasía
+[1239.88-1241.88] MINISTRO: y hubiéramos estado todos felices.
+[1241.88-1245.88] MINISTRO: Entonces, esa es la situación en la que estamos hoy.
+[1245.88-1251.88] MINISTRO: Entonces, no es binario, es, ojalá haya responsabilidad
+[1251.88-1256.88] MINISTRO: por el lado del Congreso y la ley finalmente salga,
+[1256.88-1260.88] MINISTRO: porque eso va a acelerar las cosas,
+[1260.88-1265.88] MINISTRO: pero no se equivocan que si eso no pasara, es un tema de tiempo.
+[1265.88-1268.88] MINISTRO: Nosotros vamos a seguir haciendo las cosas que hay que hacer.
+[1268.88-1271.88] MINISTRO: El año que viene el presidente ganará,
+[1271.88-1274.88] MINISTRO: no con el 40, 45, va a ganar con el 60 o 70,
+[1274.88-1277.88] MINISTRO: porque todos los dedos van a quedar marcados.
+[1277.88-1285.67] MINISTRO: Saben lo que va a pasar con la ley,
+[1285.67-1287.67] MINISTRO: todos los dedos van a quedar marcados,
+[1287.67-1291.67] MINISTRO: porque vuelvo a decir lo que dije el otro día en una entrevista.
+[1291.67-1294.67] MINISTRO: Todo el mundo, toda la oposición,
+[1294.67-1297.67] MINISTRO: sabe que esta ley favorece a los argentinos
+[1297.67-1301.67] MINISTRO: y es la razón por la que mucha de la oposición
+[1301.67-1305.67] MINISTRO: no la quiere votar por esa mezquilidad que tienen,
+[1305.67-1309.67] MINISTRO: porque hay gente que, por suerte digo gracias a Dios,
+[1309.67-1313.67] MINISTRO: no todos, pero hay gente que efectivamente
+[1313.67-1316.67] MINISTRO: no tiene ningún interés en que al país le vaya bien.
+[1316.67-1320.67] MINISTRO: Están en política por negocio para hacer plata
+[1320.67-1322.67] MINISTRO: y ellos quieren manejar el negocio.
+[1322.67-1326.67] MINISTRO: Y para manejar el negocio, a vos que tiene que ir mal.
+[1326.67-1335.31] MINISTRO: Esa es la realidad de por qué está pasando
+[1335.31-1337.31] MINISTRO: todo lo que está pasando,
+[1337.31-1340.31] MINISTRO: porque hay más susto de ese lado que nunca.
+[1340.31-1346.31] MINISTRO: Porque de vuelta, acuérdense, por todo lo que acabo de decir,
+[1346.31-1350.31] MINISTRO: todos imaginaron que la situación se iba a desbandar
+[1350.31-1354.31] MINISTRO: y como decía ese tristemente, ese publicista,
+[1354.31-1359.31] MINISTRO: su duda era si nos íbamos en marzo o en abril.
+[1359.31-1362.31] MINISTRO: Y tan seguro estaba que iba a ser así que hasta cancheriaba
+[1362.31-1365.31] MINISTRO: y se autofilmaba y lo hacía público.
+[1365.31-1369.31] MINISTRO: Bueno, hoy pasamos de vuelta de ese escenario
+[1369.31-1371.31] MINISTRO: a la situación actual.
+[1371.31-1374.31] MINISTRO: Entonces, del otro lado dicen, no entendemos qué pasó,
+[1374.31-1377.31] MINISTRO: ni cómo pasó, pero ahora estamos acá
+[1377.31-1379.31] MINISTRO: y si les votamos esta ley,
+[1379.31-1382.31] MINISTRO: ¿qué pasa si se quedan cuatro años más o si se quedan ocho?
+[1382.31-1385.31] MINISTRO: ¿Cómo hacemos para no manejar un negocio
+[1385.31-1387.31] MINISTRO: de miles de millones de dólares
+[1387.31-1390.31] MINISTRO: por cuatro o ocho años más?
+[1390.31-1395.31] MINISTRO: Esa es en realidad lo que está pasando por sus cabezas.
+[1395.31-1410.94] MINISTRO: Pero no nos dejemos como argentinos,
+[1410.94-1416.94] MINISTRO: porque esto está haciendo realmente un trabajo de equipo fenomenal.
+[1416.94-1419.94] MINISTRO: Cuando digo de equipo es entre el presidente
+[1419.94-1423.94] MINISTRO: y su gabinete de ministros y la gente,
+[1423.94-1429.94] MINISTRO: y la gente de bien, porque lo que está aguantando,
+[1429.94-1434.94] MINISTRO: digamos, lo que está apoyando la gente
+[1434.94-1439.94] MINISTRO: es lo que también desconcierta a la oposición.
+[1439.94-1445.94] MINISTRO: La gente apoya el cambio y lo va a seguir apoyando.
+[1445.94-1447.94] MINISTRO: Y están haciendo un esfuerzo impresionante,
+[1447.94-1449.94] MINISTRO: pero saben qué es lo que pasa esta vez,
+[1449.94-1452.94] MINISTRO: saben cuál es la diferencia.
+[1452.94-1455.94] MINISTRO: Y la esperanza, porque la mayoría entendió
+[1455.94-1460.94] MINISTRO: que este es el camino correcto
+[1460.94-1465.94] MINISTRO: y que obviamente no se sale de 100 años de mal manejo económico
+[1465.94-1469.94] MINISTRO: y de 20 años de populismo en seis meses.
+[1469.94-1476.94] MINISTRO: Y que el modelo sonso y piramidal de imprimir plata
+[1476.94-1479.94] MINISTRO: y regalarla es simplemente eso,
+[1479.94-1484.94] MINISTRO: una soncera que si fuera, digamos, algo razonable
+[1484.94-1488.94] MINISTRO: se aplicaría en todos los países del mundo, de hace 2000 años.
+[1488.94-1493.94] MINISTRO: Entonces, lamentablemente, se aplicó en este país
+[1493.94-1497.94] MINISTRO: por los últimos 20 y se llegó a lo que se llegó,
+[1497.94-1499.94] MINISTRO: un país absolutamente descapitalizado
+[1499.94-1502.94] MINISTRO: con un nivel de pobreza altísimo,
+[1502.94-1506.94] MINISTRO: pero que de vuelta la gran mayoría de la gente
+[1506.94-1509.94] MINISTRO: ya entendió que no hay que volver ahí
+[1509.94-1512.94] MINISTRO: y que la salida, como siempre dijo el presidente
+[1512.94-1517.94] MINISTRO: y como siempre hemos dicho nosotros, es dura pero es segura
+[1517.94-1519.94] MINISTRO: y la salida es ésta.
+[1519.94-1524.94] MINISTRO: Entonces, no nos enganchemos
+[1524.94-1530.94] MINISTRO: con que 30 personas en el Senado volteen
+[1530.94-1535.94] MINISTRO: o atenten contra nuestras expectativas.
+[1535.94-1540.28] MINISTRO: ¿Qué les quiero decir con esto?
+[1540.28-1544.28] MINISTRO: La mejor forma de combatir esta gente,
+[1544.28-1548.28] MINISTRO: lo digo porque hay mucha gente que,
+[1548.28-1552.28] MINISTRO: mi hermana misma furiosa me dice que debe salir a la calle,
+[1552.28-1554.28] MINISTRO: que hacerle ese...
+[1554.28-1558.28] MINISTRO: ¿Saben cuál es la mejor forma de combatir contra esta gente?
+[1558.28-1562.28] MINISTRO: Lo único que quiere es seguir en el pasado
+[1562.28-1564.28] MINISTRO: para seguir manejando negocios
+[1564.28-1567.28] MINISTRO: y que nada les importa a ustedes ni la gente.
+[1567.28-1571.28] MINISTRO: ¿Saben cuál es la mejor forma de apoyar el modelo?
+[1571.28-1574.28] MINISTRO: Ustedes,
+[1574.28-1579.28] MINISTRO: teníamos que seguir con esa alianza, pero más que nunca,
+[1579.28-1582.28] MINISTRO: pero ustedes tienen que empoderarse
+[1582.28-1587.28] MINISTRO: y saber que la decisión individual de cada uno de ustedes
+[1587.28-1590.28] MINISTRO: hoy es tanto más importante que la ley,
+[1590.28-1593.28] MINISTRO: porque si ustedes se convencen de esto,
+[1593.28-1597.28] MINISTRO: la economía empieza a recuperar muy rápidamente
+[1597.28-1600.28] MINISTRO: y si la economía empieza a recuperar rápidamente,
+[1600.28-1604.28] MINISTRO: ya saben lo que vamos a hacer nosotros porque no mentimos.
+[1604.28-1608.28] MINISTRO: Vamos a... el superávit que tengamos producto de esa recuperación,
+[1608.28-1612.28] MINISTRO: se los vamos a devolver a ustedes en baja de impuestos.
+[1612.28-1624.14] MINISTRO: Eso es lo que vamos a hacer
+[1624.14-1627.14] MINISTRO: y eso es lo que va a hacer que el país arranque
+[1627.14-1630.14] MINISTRO: y demos vuelta a 100 años de historia
+[1630.14-1634.14] MINISTRO: porque la única cosa que siempre se dijo de Argentina,
+[1634.14-1636.14] MINISTRO: que es cierto, es que es un país rico.
+[1636.14-1640.14] MINISTRO: Si nosotros revertimos el ciclo, empezamos a crecer
+[1640.14-1643.14] MINISTRO: y empezamos a bajar impuestos,
+[1643.14-1646.14] MINISTRO: Argentina no lo para nadie realmente.
+[1646.14-1650.14] MINISTRO: Entonces, yo digo, no nos enganchemos tanto con esto.
+[1650.14-1653.14] MINISTRO: Sepan que ustedes como empresarios,
+[1653.14-1656.14] MINISTRO: no solo como empresarios, sino como ciudadanos,
+[1656.14-1659.14] MINISTRO: tienen muchísimo para aportar,
+[1659.14-1664.14] MINISTRO: empoderense, vuelvan y empoderen a sus hijos,
+[1664.14-1667.14] MINISTRO: empecemos a ser mejores ciudadanos
+[1667.14-1673.14] MINISTRO: y confíen en que eso se va a traducir en mejores resultados
+[1673.14-1676.14] MINISTRO: porque va a ser así, va a ser así.
+[1676.14-1679.14] MINISTRO: Esto se va a traducir siempre en mejores resultados
+[1679.14-1681.14] MINISTRO: y una vez que el país arranque,
+[1681.14-1685.14] MINISTRO: en pocos años vamos a estar en otra Argentina,
+[1685.14-1687.14] MINISTRO: en una Argentina que ni nos imaginamos,
+[1687.14-1690.14] MINISTRO: estamos cerquísima, ¿saben por qué?
+[1690.14-1692.14] MINISTRO: Porque el trabajo más duro,
+[1692.14-1695.14] MINISTRO: ese trabajo que nadie se animaba,
+[1695.14-1697.14] MINISTRO: este presidente se animó,
+[1697.14-1699.14] MINISTRO: este equipo económico también
+[1699.14-1702.14] MINISTRO: y lo hicimos, y lo hicimos,
+[1702.14-1710.14] MINISTRO: ya estamos hoy en condiciones de empezar a crecer.
+[1710.14-1713.14] MINISTRO: Ya estamos en condiciones de que la inflación
+[1713.14-1717.14] MINISTRO: vaya a niveles absolutamente normales
+[1717.14-1721.14] MINISTRO: porque no están dadas ya ninguna condición macro
+[1721.14-1724.14] MINISTRO: para que hoy haya asusto.
+[1724.14-1726.14] MINISTRO: Alguno puede decir, no, bueno,
+[1726.14-1730.14] MINISTRO: pero lo que pasó en el mercado los últimos días
+[1730.14-1731.14] MINISTRO: y bla, bla, bla,
+[1731.14-1736.14] MINISTRO: sí, obviamente que la política va a tratar de meter la cola ahí.
+[1736.14-1739.14] MINISTRO: Pero tampoco se enganchen con eso.
+[1739.14-1742.14] MINISTRO: La condición número uno para que haya algún problema
+[1742.14-1745.14] MINISTRO: es que la macroeconomía esté desordenada.
+[1745.14-1747.14] MINISTRO: Yo sé que mucha gente en el mercado
+[1747.14-1750.14] MINISTRO: y muchos de ustedes pueden pensar,
+[1750.14-1752.14] MINISTRO: no yo las vi todas,
+[1752.14-1754.14] MINISTRO: esta la vi 50 veces,
+[1754.14-1757.14] MINISTRO: no esta no la vimos nada 50 veces en Argentina,
+[1757.14-1759.14] MINISTRO: yo también tengo casi 60 años,
+[1759.14-1761.14] MINISTRO: no la vimos nada 50 veces.
+[1761.14-1764.14] MINISTRO: En Argentina pasó muchas veces estas cosas
+[1764.14-1767.14] MINISTRO: siempre porque la macroeconomía estaba desordenada.
+[1767.14-1771.14] MINISTRO: Entonces cualquier ruido político desestabilizaba,
+[1771.14-1772.14] MINISTRO: típicamente.
+[1772.14-1774.14] MINISTRO: Este es un caso atípico.
+[1774.14-1778.14] MINISTRO: La macroeconomía está ordenada.
+[1778.14-1780.14] MINISTRO: Entonces no se coma en el cuento
+[1780.14-1783.14] MINISTRO: porque la política hace ruido esta vez va a afectar.
+[1783.14-1786.14] MINISTRO: No lo va a hacer, sí,
+[1786.14-1788.14] MINISTRO: por todo lo que dije antes,
+[1788.14-1791.14] MINISTRO: porque tenemos súper abe fiscal, comercial,
+[1791.14-1793.14] MINISTRO: de cuenta corriente
+[1793.14-1797.14] MINISTRO: y ya no hay ese soborante de pesos para hacer daño.
+[1797.14-1799.14] MINISTRO: Entonces,
+[1799.14-1803.14] MINISTRO: estamos en una situación muchísimo más sólida
+[1803.14-1805.14] MINISTRO: que además se llegó,
+[1805.14-1807.14] MINISTRO: no por crisis,
+[1807.14-1809.14] MINISTRO: se llegó por decisión.
+[1809.14-1812.14] MINISTRO: Alguna vez estuvo en una situación así,
+[1812.14-1818.14] MINISTRO: como por ejemplo a la salida de la convertibilidad,
+[1818.14-1820.14] MINISTRO: pero producto de la crisis.
+[1820.14-1823.14] MINISTRO: Esta es la primera vez que estamos en una situación sólida
+[1823.14-1826.14] MINISTRO: porque los argentinos
+[1826.14-1829.14] MINISTRO: decidieron un cambio de rumbo.
+[1829.14-1832.14] MINISTRO: Entonces es absolutamente diferente.
+[1832.14-1835.14] MINISTRO: Sientan realmente,
+[1835.14-1837.14] MINISTRO: esto que les estoy diciendo,
+[1837.14-1840.14] MINISTRO: porque créanme que es la clave también
+[1840.14-1844.14] MINISTRO: de cuán rápido y cuán, digamos,
+[1844.14-1847.14] MINISTRO: pronunciadamente recuperemos.
+[1847.14-1850.14] MINISTRO: Están mucho más en ustedes
+[1850.14-1852.14] MINISTRO: en sus decisiones personales
+[1852.14-1855.14] MINISTRO: y ver esto como una oportunidad.
+[1855.14-1858.14] MINISTRO: Hoy hay una oportunidad histórica,
+[1858.14-1861.14] MINISTRO: hay un presidente con un nivel de convicción
+[1861.14-1863.14] MINISTRO: que probablemente no se va a repetir
+[1863.14-1865.14] MINISTRO: nunca más en la historia,
+[1865.14-1868.14] MINISTRO: hay un grupo de gobierno de ministros
+[1868.14-1872.14] MINISTRO: que vienen, que han venido por vocación pública,
+[1872.14-1876.14] MINISTRO: estamos terminando con todos los curros
+[1876.14-1878.14] MINISTRO: de la política,
+[1878.14-1883.14] MINISTRO: estamos terminando con la famosa casta política.
+[1883.14-1887.14] MINISTRO: Eso está generando por supuesto muchísimo ruido,
+[1887.14-1890.14] MINISTRO: por supuesto muchísima resistencia
+[1890.14-1893.14] MINISTRO: y va a seguir generando, no nos achiquemos,
+[1893.14-1895.14] MINISTRO: no tengan miedo.
+[1895.14-1897.14] MINISTRO: Este país ya arrancó
+[1897.14-1900.14] MINISTRO: y con toda la ayuda de todos ustedes
+[1900.14-1902.14] MINISTRO: y con nuestro compromiso,
+[1902.14-1903.14] MINISTRO: créanme que en poco tiempo
+[1903.14-1905.14] MINISTRO: vamos a hacer un nuevo país.
+[1905.14-1913.76] MINISTRO: Muchas gracias.
+[1915.76-1917.76] MINISTRO: Por lo menos se está sonando por todos lados.
+[1917.76-1920.76] MINISTRO: Me toca a mí la parte de la charla
+[1920.76-1922.76] MINISTRO: con Luis Caputo
+[1922.76-1925.76] MINISTRO: hacer las preguntas, espero que sean
+[1925.76-1927.76] MINISTRO: también de interés de ustedes.
+[1927.76-1930.76] MINISTRO: No voy a ser muy condescendiente
+[1930.76-1932.76] MINISTRO: porque creo que justamente
+[1932.76-1934.76] MINISTRO: lo que la gente quiere escuchar
+[1934.76-1938.76] MINISTRO: son las dudas que plantean todos los días
+[1938.76-1942.76] MINISTRO: ante la opinión pública a otros colegas o a los medios.
+[1942.76-1945.76] MINISTRO: En ese sentido, cuando veníamos entrando
+[1945.76-1947.76] MINISTRO: que te atacaron los periodistas
+[1947.76-1949.76] MINISTRO: acá en la puerta,
+[1949.76-1952.76] MINISTRO: la pregunta que más te hacía en es
+[1952.76-1954.76] MINISTRO: sobre la suba del dólar.
+[1954.76-1956.76] MINISTRO: Y claramente uno entiende eso
+[1956.76-1958.76] MINISTRO: porque cuando la gente debe subir el dólar
+[1958.76-1961.76] MINISTRO: inmediatamente, a pesar de que muchos economistas
+[1961.76-1962.76] MINISTRO: no lo entienden,
+[1962.76-1964.76] MINISTRO: piensa los pesos que tengo en el bolsillo
+[1964.76-1966.76] MINISTRO: están perdiendo valor.
+[1966.76-1968.76] MINISTRO: Y claramente eso asusta la gente.
+[1968.76-1970.76] MINISTRO: A mí me asusta por eso
+[1970.76-1974.76] MINISTRO: y también me asusta porque a veces pienso,
+[1974.76-1976.76] MINISTRO: bueno, acá hay una promesa de ir
+[1976.76-1978.76] MINISTRO: a una unificación cambiaria,
+[1978.76-1980.76] MINISTRO: lo más rápidamente posible,
+[1980.76-1982.76] MINISTRO: una unificación cambiaria que,
+[1982.76-1984.76] MINISTRO: según plantea el gobierno,
+[1984.76-1987.76] MINISTRO: va a ser con una suba irrelevante,
+[1987.76-1990.76] MINISTRO: alguna suba, pero irrelevante
+[1990.76-1992.76] MINISTRO: del tipo de cambio oficial
+[1992.76-1995.76] MINISTRO: y en la medida que se agranda la brecha
+[1995.76-1999.76] MINISTRO: eso suena cada vez como más lejano.
+[1999.76-2002.76] MINISTRO: ¿Cómo ves los instrumentos que ustedes tienen
+[2002.76-2005.76] MINISTRO: como para que esa brecha vuelva a bajar
+[2005.76-2008.76] MINISTRO: y vuelva a acercarse al dólar oficial
+[2008.76-2011.76] MINISTRO: para que ese salto al día de la unificación
+[2011.76-2015.20] MINISTRO: sea verdaderamente relevante?
+[2015.20-2018.20] MINISTRO: Bueno, primero, déjame decirte
+[2018.20-2022.20] MINISTRO: que no quiero sonar arrogante
+[2022.20-2024.20] MINISTRO: ni mucho menos,
+[2024.20-2026.20] MINISTRO: que a mí no me asusta
+[2026.20-2029.20] MINISTRO: y no me asusta por lo que le dije antes.
+[2029.20-2033.20] MINISTRO: Conozco bien el paño,
+[2033.20-2038.20] MINISTRO: he pasado por 500 crisis en todos los países del mundo.
+[2038.20-2041.20] MINISTRO: La condición sin ecuano para que haya una crisis
+[2041.20-2043.20] MINISTRO: que haya desorden macro
+[2043.20-2045.20] MINISTRO: es condición necesaria.
+[2045.20-2048.20] MINISTRO: Hoy no lo hay de ningún tipo.
+[2048.20-2053.20] MINISTRO: Entonces, seguro no va a haber crisis.
+[2053.20-2055.20] MINISTRO: Vos me decís, bueno, pero todo lo que pasó
+[2055.20-2058.20] MINISTRO: en la política las últimas dos semanas,
+[2058.20-2062.20] MINISTRO: hizo que el dólar pasara de 100 a 1.280
+[2062.20-2066.20] MINISTRO: y que el riesgo a país pasara de 1.200 a 1.500.
+[2066.20-2069.20] MINISTRO: Es atribuible a la política,
+[2069.20-2072.20] MINISTRO: sí, prácticamente en su totalidad,
+[2072.20-2075.20] MINISTRO: es atribuible a la política.
+[2075.20-2077.20] MINISTRO: Es una lástima. ¿Por qué?
+[2077.20-2080.20] MINISTRO: ¿Por qué más? Yo, en realidad, fue un mes espectacular.
+[2080.20-2084.20] MINISTRO: Piensen que hasta antes de este ataque político
+[2084.20-2087.20] MINISTRO: el riesgo a país estaba en 1.200
+[2087.20-2089.20] MINISTRO: y el dólar en 1.100.
+[2089.20-2093.20] MINISTRO: Y más yo fue un mes de prácticamente récord
+[2093.20-2095.20] MINISTRO: de superávit fiscal
+[2095.20-2101.20] MINISTRO: y además la inflación bajó prácticamente a la mitad
+[2101.20-2103.20] MINISTRO: con respecto a abril.
+[2103.20-2107.20] MINISTRO: Para los que también decían que no podía bajar de 7,
+[2107.20-2112.20] MINISTRO: bueno, empieza con 4 el número.
+[2112.20-2115.20] MINISTRO: Entonces, la realidad es que había sido un mes bárbaro
+[2115.20-2119.20] MINISTRO: y que si se hubiera aprobado la ley ya seguramente
+[2119.20-2121.20] MINISTRO: estaríamos con el riesgo a país
+[2121.20-2126.20] MINISTRO: en un nivel probablemente en 1.000 o por debajo de 1.000.
+[2126.20-2130.20] MINISTRO: Ahora bien, ¿lo demoró? Nada más.
+[2130.20-2134.20] MINISTRO: No, de vuelta, no cambia eso.
+[2134.20-2136.20] MINISTRO: ¿Por qué lo hizo la política?
+[2136.20-2140.20] MINISTRO: Porque no es tonta por esto mismo, por lo que expliqué antes,
+[2140.20-2143.20] MINISTRO: porque ellos están acá para que a ustedes les vaya mal,
+[2143.20-2145.20] MINISTRO: para que a nosotros nos vaya mal,
+[2145.20-2147.20] MINISTRO: para que al gobierno les vaya mal
+[2147.20-2149.20] MINISTRO: y, consecuentemente, a ustedes les vaya mal.
+[2149.20-2153.20] MINISTRO: No se coman ningún otro cuento, no hay ninguna otra razón.
+[2153.20-2155.20] MINISTRO: Todo lo que ustedes ven en el Congreso,
+[2155.20-2159.20] MINISTRO: de los pataleos y gritos y esto y lo otro,
+[2159.20-2163.20] MINISTRO: son todas puestas en escena, son puestas en escena.
+[2163.20-2167.20] MINISTRO: Lo único que importa ahí para muchos de los que discuten esto
+[2167.20-2168.20] MINISTRO: es la plata.
+[2168.20-2172.20] MINISTRO: Si les llevan balijas, se arreglan algo para sus provincias,
+[2172.20-2175.20] MINISTRO: si le das puestos, si le das cajas,
+[2175.20-2179.20] MINISTRO: eso es lo que ellos ya van a hacer política,
+[2179.20-2183.20] MINISTRO: que nosotros decimos hacer en todo caso mala política,
+[2183.20-2185.20] MINISTRO: pero eso es lo que es.
+[2185.20-2196.19] MINISTRO: Entonces, esta es la pura, no importa lo que se escucha,
+[2196.19-2198.19] MINISTRO: esta es la realidad.
+[2198.19-2202.19] MINISTRO: Lo que están discutiendo ahí es eso, es plata.
+[2202.19-2203.19] MINISTRO: Nada más.
+[2203.19-2207.19] MINISTRO: Entonces, insisto, no se coman esos cuentos
+[2207.19-2209.19] MINISTRO: porque no son ciertos,
+[2209.19-2213.19] MINISTRO: no les importan nada los jubilados porque meten la ley.
+[2213.19-2215.19] MINISTRO: Vamos a datos concretos.
+[2215.19-2217.19] MINISTRO: Hace cuatro años, en los últimos cuatro años,
+[2217.19-2221.19] MINISTRO: los jubilados llegaron a perder 24% en términos reales.
+[2221.19-2225.19] MINISTRO: ¿Escucharon mandar alguna fórmula?
+[2225.19-2228.19] MINISTRO: Si pasó, me lo perdí.
+[2228.19-2230.19] MINISTRO: En nuestro mandato,
+[2230.19-2233.19] MINISTRO: desde que llegamos las jubilaciones,
+[2233.19-2235.19] MINISTRO: escuchen bien lo que les voy a decir,
+[2235.19-2240.19] MINISTRO: subieron 3%, subieron en términos reales 3%,
+[2240.19-2244.19] MINISTRO: las jubilaciones de los que aportan,
+[2244.19-2246.19] MINISTRO: de los que no aportaron,
+[2246.19-2249.19] MINISTRO: de esos que cobran la jubilación
+[2249.19-2252.19] MINISTRO: y el bono apenas cayeron 3,5%,
+[2252.19-2257.19] MINISTRO: ahora de los que aportaron, subieron el 3%,
+[2257.19-2260.19] MINISTRO: pero ahora están todos desesperados con los jubilados.
+[2260.19-2263.19] MINISTRO: Durante cuatro años estaban mudos.
+[2263.19-2266.19] MINISTRO: Son todas excusas para qué,
+[2266.19-2268.19] MINISTRO: para atacar el equilibrio fiscal,
+[2268.19-2271.19] MINISTRO: porque saben que esto está funcionando
+[2271.19-2275.19] MINISTRO: y lo quieren, como diría el presidente, torpediar.
+[2275.19-2278.19] MINISTRO: Entonces hay que hacer algo para que esto no funcione.
+[2278.19-2281.19] MINISTRO: Esa es la realidad de lo que hacen.
+[2281.19-2284.19] MINISTRO: Cuando voten, van a quedar todos los deditos marcados.
+[2284.19-2286.19] MINISTRO: No nos enganchemos más.
+[2286.19-2289.19] MINISTRO: Hay que esperar un año más, se esperará.
+[2289.19-2291.19] MINISTRO: Lo único que pueden estar seguros es que nosotros
+[2291.19-2294.19] MINISTRO: no nos vamos a desviar del curso.
+[2294.19-2297.19] MINISTRO: Entonces todo esto va, en todo caso,
+[2297.19-2300.19] MINISTRO: a generar alguna demora y no mucho más.
+[2300.19-2307.19] MINISTRO: Con respecto al dólar y eso, digamos,
+[2307.19-2311.19] MINISTRO: seguramente puede haber un poco más de volatilidad,
+[2311.19-2313.19] MINISTRO: pero como te digo, no hay asidero económico
+[2313.19-2315.19] MINISTRO: para que pase nada.
+[2315.19-2318.19] MINISTRO: Yo ya la vi porque vi muchas crisis.
+[2318.19-2321.19] MINISTRO: No, no subestimen los fundamentales.
+[2321.19-2323.19] MINISTRO: Vieron todas esas cosas siempre,
+[2323.19-2326.19] MINISTRO: porque Argentina siempre fue un país
+[2326.19-2329.19] MINISTRO: que ignoró los fundamentales.
+[2329.19-2334.19] MINISTRO: Siempre la economía estuvo subeditada a la política.
+[2334.19-2338.19] MINISTRO: Siempre la política mandó sobre la economía.
+[2338.19-2341.19] MINISTRO: Esta es la primera vez que la economía
+[2341.19-2343.19] MINISTRO: manda sobre la política.
+[2343.19-2353.33] MINISTRO: Entonces es un cambio de época eso.
+[2353.33-2356.33] MINISTRO: La política podrá hacer lo que quiera hacer.
+[2356.33-2358.33] MINISTRO: Les aseguro que este presidente
+[2358.33-2361.33] MINISTRO: no va a cambiar un centímetro
+[2361.33-2363.33] MINISTRO: a donde nos ha pedido que fuéramos
+[2363.33-2366.33] MINISTRO: y les aseguro que este equipo económico tampoco.
+[2366.33-2368.33] MINISTRO: Así que quédense tranquilos,
+[2368.33-2370.33] MINISTRO: que cuando sea el momento
+[2370.33-2374.33] MINISTRO: vamos a hacer los cambios que sean necesarios.
+[2374.33-2377.33] MINISTRO: Nosotros ahora estamos en el proceso
+[2377.33-2384.33] MINISTRO: de la revaluación del fondo,
+[2384.33-2385.33] MINISTRO: que va a ser el 13,
+[2385.33-2390.33] MINISTRO: y a partir de ahí empezaremos a negociar con ellos
+[2390.33-2391.33] MINISTRO: un nuevo programa
+[2391.33-2393.33] MINISTRO: que ya se los hemos contado en su momento,
+[2393.33-2395.33] MINISTRO: porque es un programa que tenemos
+[2395.33-2396.33] MINISTRO: desde agosto del año pasado,
+[2396.33-2398.33] MINISTRO: y yo personalmente se lo conté al fondo
+[2398.33-2401.33] MINISTRO: en octubre, en noviembre,
+[2401.33-2404.33] MINISTRO: o sea que no va a ser algo nuevo para ellos.
+[2404.33-2407.33] MINISTRO: Probablemente llevará un poco de tiempo,
+[2407.33-2409.33] MINISTRO: pero no lo estamos anunciando ahora,
+[2409.33-2411.33] MINISTRO: porque lógicamente primero hay que acordarlo
+[2411.33-2414.33] MINISTRO: con el fondo y eventualmente
+[2414.33-2418.33] MINISTRO: tratar de que con ese nuevo programa
+[2418.33-2419.33] MINISTRO: llegue nueva plata,
+[2419.33-2422.33] MINISTRO: porque como dije para salir del cepo
+[2422.33-2425.33] MINISTRO: se tienen que cumplir cuatro condiciones
+[2425.33-2426.33] MINISTRO: que son,
+[2426.33-2429.33] MINISTRO: que haya equilibrio fiscal
+[2429.33-2433.33] MINISTRO: a haber solucionado el problema de los stocks
+[2433.33-2440.33] MINISTRO: heredados de demanda de dólares
+[2440.33-2442.33] MINISTRO: heredados de la administración anterior,
+[2442.33-2445.33] MINISTRO: solucionar el problema de los flujos,
+[2445.33-2448.33] MINISTRO: piensen que hoy las PIMES ya pueden
+[2448.33-2451.33] MINISTRO: adquirir dólares a 30 días,
+[2451.33-2455.33] MINISTRO: pero todavía el programa sigue siendo
+[2455.33-2458.33] MINISTRO: 30, 60, 90 y 120 para las empresas
+[2458.33-2460.33] MINISTRO: más grandes,
+[2460.33-2464.33] MINISTRO: yo diría que el 75% de ambos está solucionado
+[2464.33-2467.33] MINISTRO: y el cuarto punto es que haya una relación
+[2467.33-2469.33] MINISTRO: razonable que en su momento diremos cuál
+[2469.33-2473.33] MINISTRO: entre la cantidad de reservas en el banco
+[2473.33-2476.33] MINISTRO: central y los pasivos remunerados.
+[2476.33-2478.33] MINISTRO: Entonces, todavía no estamos ahí,
+[2478.33-2480.33] MINISTRO: la que se cumple más contundentemente
+[2480.33-2483.33] MINISTRO: es la del equilibrio fiscal,
+[2483.33-2486.33] MINISTRO: la segunda y la tercera están en mayor
+[2486.33-2488.33] MINISTRO: medida resueltas,
+[2488.33-2492.33] MINISTRO: la cuarta todavía es la que tenemos que
+[2492.33-2495.33] MINISTRO: seguir trabajando.
+[2495.33-2496.33] MINISTRO: Para aquellos que dicen,
+[2496.33-2498.33] MINISTRO: bueno, hasta ahora pareciera que el ajuste
+[2498.33-2501.33] MINISTRO: fiscal este no está atacando la casta
+[2501.33-2505.33] MINISTRO: o no está yendo contra lo que es el exceso
+[2505.33-2507.33] MINISTRO: de gasto público.
+[2507.33-2509.33] MINISTRO: Y en cierta medida, por ahí los economistas
+[2509.33-2511.33] MINISTRO: lo entendemos porque cuando uno asume
+[2511.33-2513.33] MINISTRO: en semejante veringenal,
+[2513.33-2514.33] MINISTRO: como asumieron ustedes,
+[2514.33-2517.33] MINISTRO: lo que toma son medidas de urgencia.
+[2517.33-2521.33] MINISTRO: Pero, ¿después cómo te imaginás este proceso
+[2521.33-2523.33] MINISTRO: de mantener el ajuste fiscal,
+[2523.33-2525.33] MINISTRO: las cuentas en orden,
+[2525.33-2528.33] MINISTRO: pero ya dejando de utilizar esas medidas
+[2528.33-2530.33] MINISTRO: de urgencia, que por ahí sí
+[2530.33-2533.33] MINISTRO: tienen un costo para la sociedad?
+[2533.33-2534.33] MINISTRO: Obra pública.
+[2534.33-2536.33] MINISTRO: Me encanta la pregunta porque en realidad
+[2536.33-2540.33] MINISTRO: la única medida de urgencia
+[2541.33-2545.33] MINISTRO: fue la de subir el impuesto a país.
+[2545.33-2548.33] MINISTRO: Esa fue la única medida de urgencia
+[2548.33-2551.33] MINISTRO: y lo hicimos porque sabíamos,
+[2551.33-2554.33] MINISTRO: me pongo a la cabeza de esto,
+[2554.33-2557.33] MINISTRO: tenía ninguna duda que no iban a aprobar la ley
+[2557.33-2560.33] MINISTRO: porque yo esto que le digo de los políticos
+[2560.33-2562.33] MINISTRO: lo tengo totalmente incorporado.
+[2562.33-2564.33] MINISTRO: Entonces, ya sabía que no le iban a aprobar
+[2564.33-2567.33] MINISTRO: por lo menos rápidamente.
+[2567.33-2571.33] MINISTRO: Entonces, siempre supe que teníamos que mostrar
+[2571.33-2573.33] MINISTRO: que no los necesitábamos.
+[2573.33-2577.33] MINISTRO: Si nosotros no llegábamos rápidamente
+[2577.33-2581.33] MINISTRO: al equilibrio fiscal y lo podíamos mostrar
+[2581.33-2584.33] MINISTRO: con la poca participación que teníamos
+[2584.33-2587.33] MINISTRO: tanto en diputados y en senadores,
+[2587.33-2589.33] MINISTRO: ¿qué creen que hubiera pasado?
+[2589.33-2591.33] MINISTRO: ¿No se hubieran comido?
+[2591.33-2593.33] MINISTRO: ¿Nunca hubiéramos podido ir al equilibrio fiscal
+[2593.33-2595.33] MINISTRO: porque nos hubieran pedido todo el oro
+[2595.33-2598.33] MINISTRO: y el moro porque hubieran sabido que dependíamos de ellos.
+[2598.33-2602.33] MINISTRO: Entonces, yo me tomé el atrevimiento
+[2602.33-2604.33] MINISTRO: de subir el impuesto a país,
+[2604.33-2608.33] MINISTRO: a pesar del disgusto que me generaba eso,
+[2608.33-2611.33] MINISTRO: para poder tener mayor poder de negociación
+[2611.33-2614.33] MINISTRO: con el Congreso y con los gobernadores.
+[2614.33-2616.33] MINISTRO: Esa es la realidad.
+[2616.33-2619.33] MINISTRO: Y por eso es el primer impuesto
+[2619.33-2622.33] MINISTRO: que vamos a retrotraer tal cual dije en su momento
+[2622.33-2625.33] MINISTRO: a pesar que cuando lo dije todos dijeron
+[2625.33-2628.33] MINISTRO: que lo vas a caer, lo mismo dijeron
+[2628.33-2630.33] MINISTRO: del impuesto al cheque en su momento.
+[2630.33-2632.33] MINISTRO: Bueno, ahora lo vuelvo a decir,
+[2632.33-2639.33] MINISTRO: si la ley pasa y que lo anoten los senadores,
+[2639.33-2642.33] MINISTRO: porque esto baja directamente el costo país
+[2642.33-2645.33] MINISTRO: y baja directamente la inflación,
+[2645.33-2648.33] MINISTRO: si efectivamente pasa esta ley,
+[2648.33-2653.33] MINISTRO: vamos a retrotraer ese aumento del impuesto a país.
+[2653.33-2657.33] MINISTRO: Todo el resto de las cosas que hemos hecho,
+[2657.33-2662.33] MINISTRO: legísimos de ser cosas circunstanciales
+[2662.33-2665.33] MINISTRO: y esto de vuelta es importantísimo verlo
+[2665.33-2668.33] MINISTRO: como un cambio de era.
+[2668.33-2669.33] MINISTRO: Todo eso que decíamos,
+[2669.33-2672.33] MINISTRO: ¿estás sentando en la caja?
+[2672.33-2675.33] MINISTRO: Bueno, déjenme darle algún cuento
+[2675.33-2677.33] MINISTRO: para que entiendan que no es así.
+[2677.33-2680.33] MINISTRO: No se hace más obra pública.
+[2680.33-2684.33] MINISTRO: Y claro, si era un chorío la obra pública,
+[2684.33-2686.33] MINISTRO: está bien que no se haga más
+[2686.33-2690.33] MINISTRO: y no se tiene que hacer más la obra pública.
+[2690.33-2692.33] MINISTRO: Y les voy a decir algo,
+[2692.33-2695.33] MINISTRO: eso que creen que es algo circunstancial
+[2695.33-2697.33] MINISTRO: ya vino para quedarse.
+[2697.33-2702.33] MINISTRO: Nosotros teníamos 2.600 obras públicas.
+[2703.33-2708.33] MINISTRO: Se les dije hace poco a la gente de obras públicas
+[2708.33-2712.33] MINISTRO: que muchas de estas obras que están avanzadas
+[2712.33-2715.33] MINISTRO: se las transferirán a las provincias.
+[2715.33-2719.33] MINISTRO: Recuerden que el déficit,
+[2719.33-2721.33] MINISTRO: los 5 puntos de déficit,
+[2721.33-2724.33] MINISTRO: están concentrados en nación.
+[2724.33-2728.33] MINISTRO: Provincias en su conjunto estaban medianamente en equilibrio.
+[2728.33-2731.33] MINISTRO: ¿Por qué están concentrados en nación?
+[2731.33-2736.33] MINISTRO: Porque nación usa todas estas cosas para hacer política.
+[2736.33-2740.33] MINISTRO: Eso es lo que hace, esa es la famosa política.
+[2740.33-2743.33] MINISTRO: Entonces le da la caja que quiere a los radicales,
+[2743.33-2748.33] MINISTRO: le da la caja que quieren a los sindicalistas,
+[2748.33-2751.33] MINISTRO: le da la caja que quieren a los grabois,
+[2751.33-2754.33] MINISTRO: entonces le dan el repartir los planes,
+[2754.33-2756.33] MINISTRO: los fondos fiduciarios
+[2756.33-2759.33] MINISTRO: y a las provincias que les dan obra pública
+[2759.33-2762.33] MINISTRO: que es un curro y transferencias discrecionales.
+[2762.33-2766.33] MINISTRO: Todo eso hacer política,
+[2766.33-2769.33] MINISTRO: son 4 o 5 puntos de producto al año.
+[2769.33-2772.33] MINISTRO: Bueno, ahora déjenme decirles qué pasó con la obra pública.
+[2772.33-2778.33] MINISTRO: La primera reacción del secretario y su equipo fue...
+[2778.33-2779.33] MINISTRO: ¡Uff!
+[2779.33-2781.33] MINISTRO: Parece darles las obras y demás.
+[2781.33-2783.33] MINISTRO: Bueno, ¿saben qué está pasando hoy?
+[2783.33-2787.33] MINISTRO: Están viniendo ellos a pedir
+[2787.33-2789.33] MINISTRO: que les pasemos las obras
+[2789.33-2794.33] MINISTRO: y el ministro ahora jefe de Gabinete Guillermo Franco,
+[2794.33-2796.33] MINISTRO: prácticamente todos los días
+[2796.33-2798.33] MINISTRO: se está firmando con las provincias
+[2798.33-2800.33] MINISTRO: el traspaso de la obra pública.
+[2800.33-2802.33] MINISTRO: Y así es como tiene que ser.
+[2802.33-2805.33] MINISTRO: No tenemos que usar la obra pública para hacer política.
+[2805.33-2813.49] MINISTRO: ¿Saben cuánto van a seguir siendo las transferencias discrecionales?
+[2813.49-2816.49] MINISTRO: Cero, van a seguir siendo cero.
+[2816.49-2826.60] MINISTRO: Los gerentes de la pobreza que repartían los planes
+[2826.60-2829.60] MINISTRO: que quedaban con la mitad de la plata,
+[2829.60-2833.60] MINISTRO: también se van a tener que quedar buscando ver
+[2833.60-2836.60] MINISTRO: cómo voltean este gobierno,
+[2836.60-2839.60] MINISTRO: porque Sandra Petóveló les va a seguir dando batalla
+[2839.60-2841.60] MINISTRO: y se las va a ganar.
+[2841.60-2849.92] MINISTRO: Entonces, todo lo que creen que era licuadora
+[2849.92-2852.92] MINISTRO: y demás es todo un cambio fundamental
+[2852.92-2854.92] MINISTRO: que vino para quedarse.
+[2854.92-2857.92] MINISTRO: Esta reducción del déficit vino para quedarse.
+[2857.92-2860.92] MINISTRO: Por eso las cuentas siguen cerrando
+[2860.92-2862.92] MINISTRO: y cada vez estamos mejor.
+[2862.92-2864.92] MINISTRO: Y déjenme decirles algo.
+[2864.92-2866.92] MINISTRO: La última semana en particular
+[2866.92-2869.92] MINISTRO: vinieron varios gobernadores,
+[2869.92-2871.92] MINISTRO: a ver, varios...
+[2871.92-2875.92] MINISTRO: Pido disculpas a algún gobernador
+[2875.92-2877.92] MINISTRO: si los mando al frente,
+[2877.92-2879.92] MINISTRO: pero tienen sonrisa de oreja, oreja.
+[2879.92-2883.92] MINISTRO: O sea, no digo nadando en plata,
+[2883.92-2885.92] MINISTRO: pero con excepción de Buenos Aires
+[2885.92-2887.92] MINISTRO: que tenemos un muy mal administrador,
+[2887.92-2889.92] MINISTRO: un gastador serial,
+[2889.92-2893.92] MINISTRO: el resto de las provincias están realmente...
+[2893.92-2896.92] MINISTRO: Yo les diría casi disfrutando este momento.
+[2896.92-2901.92] MINISTRO: Pasó hasta la paradoja que vino el gobernador de Santa Cruz,
+[2901.92-2904.92] MINISTRO: una provincia que manejada por Alicia Kirchner
+[2904.92-2906.92] MINISTRO: se aburrió de pedir plata,
+[2906.92-2909.92] MINISTRO: vino a cancelarnos deuda.
+[2909.92-2912.92] MINISTRO: A cancelarnos deuda vino.
+[2913.92-2919.30] MINISTRO: Los buenos administradores han hecho ajuste,
+[2919.30-2922.30] MINISTRO: lamentablemente alguno ha subido impuestos.
+[2922.30-2926.30] MINISTRO: Y entre esas dos cosas
+[2926.30-2928.30] MINISTRO: y lo que ha subido la recaudación,
+[2928.30-2930.30] MINISTRO: particularmente en mayo,
+[2930.30-2932.30] MINISTRO: déjenme decirles, ellos mismos
+[2932.30-2935.30] MINISTRO: están súper bien sorprendidos
+[2935.30-2937.30] MINISTRO: de lo que está pasando.
+[2937.30-2939.30] MINISTRO: Están casi contentos en confianza.
+[2939.30-2942.30] MINISTRO: Te dicen, ojalá la ley pase,
+[2942.30-2945.30] MINISTRO: porque esto es mucho mejor.
+[2945.30-2948.30] MINISTRO: Bueno, ojalá realmente la apoyen.
+[2955.00-2957.00] MINISTRO: Le queremos agradecer al ministro
+[2957.00-2960.00] MINISTRO: por haber compartido este escenario
+[2960.00-2962.00] MINISTRO: y habernos dado su palabra.
+[2962.00-2964.00] MINISTRO: La verdad, muchísimas gracias.
+[2964.00-2966.00] MINISTRO: Gracias a ustedes, en serio.
+[2966.00-2968.00] MINISTRO: Muchísimas gracias.

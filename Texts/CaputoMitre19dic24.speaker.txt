@@ -1,0 +1,532 @@
+[0.00-1.12] UNK: ¿Cómo va, ministro?
+[1.16-3.44] MINISTRO: Muy bien, gracias por la invitación.
+[3.48-5.64] MINISTRO: Hola a todos y a la audiencia.
+[5.68-6.76] MINISTRO: Bienvenido, bienvenido.
+[6.80-8.92] MINISTRO: Muchas gracias por estar hoy acá.
+[8.96-14.12] OTRO: Bueno, a ver, tenemos muchísimo para hablar en el día de hoy.
+[14.16-15.80] MINISTRO: Termina un buen año.
+[15.84-20.12] MINISTRO: Termina mejor de lo que pensaban.
+[20.16-22.16] MINISTRO: Termina un gran año, sin duda.
+[22.20-28.76] MINISTRO: Si pensás sobre todo de dónde veníamos,
+[28.84-34.20] MINISTRO: inflación en noviembre del año pasado, minorista, de 12,8,
+[34.24-38.88] MINISTRO: bajando ahora al 2,4,
+[38.92-46.12] MINISTRO: la mayorista del 11,1 al 1,4 hoy, ¿no?
+[46.16-49.32] OTRO: Que más, digamos, salarios,
+[49.36-52.72] MINISTRO: ya superando los niveles de noviembre del 2023,
+[52.76-55.20] MINISTRO: están 1% arriba,
+[55.28-60.08] MINISTRO: jubilaciones que le ganaron fuertemente a la inflación,
+[60.12-64.72] MINISTRO: pensaba que la inflación de noviembre del 23 a noviembre del 24
+[64.76-70.32] OTRO: fue del 166% y las jubilaciones subieron 189,
+[70.36-74.80] OTRO: eso es, que le ganaron en términos reales un 8,7%.
+[74.84-80.48] MINISTRO: La brecha que era del 200% está prácticamente en cero,
+[80.52-84.56] MINISTRO: tenemos superávit fiscal, superávit comercial,
+[84.60-88.68] MINISTRO: superávit energético, el riesgo país bajó de más de 2.000 puntos
+[88.72-95.52] MINISTRO: a 670, la economía recuperó,
+[95.56-99.52] OTRO: acérdate que muchos decían que la baja de la inflación
+[99.56-102.56] OTRO: iba a ser a costa de una recesión brutal y larguísima,
+[102.60-106.40] OTRO: fue la recesión más corta en un plan de estabilización,
+[106.44-110.20] OTRO: duró dos trimestres y la recuperación más que en vez
+[110.24-112.84] OTRO: fue en un cohete para arriba,
+[112.96-115.36] OTRO: porque ha anualizado el tercer trimestre,
+[115.40-119.00] MINISTRO: la economía creció 16,5, esto es inédito,
+[119.04-126.56] MINISTRO: así que sí, la verdad que todo ha sido un gran año.
+[126.60-129.40] OTRO: Ahora, esos números son inegables,
+[129.44-132.60] MINISTRO: los vemos, de hecho el número de inflación mayorista
+[132.64-134.20] MINISTRO: llegó hace un ratito, nada más,
+[134.24-138.56] MINISTRO: 1.4, un 0.9 en construcción,
+[138.60-140.68] OTRO: 0.9 en construcción y demás,
+[140.84-144.72] OTRO: más allá de esto es cierto que también esta reactivación
+[144.76-148.32] OTRO: se sienten ciertos sectores y otros no,
+[148.36-150.52] OTRO: digo, sigue siendo despareja, ¿no?
+[150.56-153.84] OTRO: Bueno, ahora era despareja más al principio,
+[153.88-156.20] MINISTRO: más ahí por junio, julio,
+[156.24-160.92] OTRO: hoy es mucho más equilibrada con todos los sectores que hablas,
+[160.96-163.48] OTRO: nosotros hablamos con todos, yo me reúno con todos,
+[163.52-168.60] OTRO: hoy incluso estuve en Aéa y hoy es muy generalizado,
+[168.68-173.24] MINISTRO: te diría que en la gran mayoría de los sectores,
+[173.28-176.40] MINISTRO: un poquitito menos por ahí se sienten alguno en particular,
+[176.44-178.56] MINISTRO: por ejemplo, como en la construcción,
+[178.60-183.68] MINISTRO: porque la verdad que la construcción está un poco más cara
+[183.72-186.44] OTRO: y además compite contra lo ya construido
+[186.48-188.84] OTRO: que está en un precio mucho más bajo,
+[188.88-191.52] OTRO: entonces le cuesta más arrancar,
+[191.56-196.20] OTRO: pero en términos generales es como Dios, digamos,
+[196.28-198.32] OTRO: muy generalizado la suba.
+[198.36-202.28] OTRO: Vamos con un tema, perdón, Michael, de coyuntura local,
+[202.32-203.96] OTRO: digo que sucedió en el día de hoy,
+[204.00-206.24] OTRO: que tiene que ver con la suba del dólar blu,
+[206.28-207.48] OTRO: ¿hay alguna explicación?
+[207.52-211.76] OTRO: Veníamos con una calma absoluta
+[211.80-213.96] OTRO: en términos de cotización de tipo de cambio
+[214.00-217.80] OTRO: y ahora vemos una suba de, no sé, 30 pesos.
+[217.84-219.56] OTRO: Sí, es nada eso, si lo pensás,
+[219.60-222.80] OTRO: que venimos de niveles de 1.500,
+[222.84-226.00] OTRO: veníamos de una baja del 30%,
+[226.04-231.16] MINISTRO: digamos, que tenga una recuperación del 3%
+[231.20-235.08] OTRO: o lo que haya tenido, no, no es relevante.
+[235.12-237.28] OTRO: Sobre todo se va a pensar en un contexto
+[237.32-242.36] OTRO: en el que claramente vos ves que no es un tema de aversión al riesgo,
+[242.40-245.76] OTRO: porque al mismo tiempo que se dio esta suba del dólar,
+[245.80-249.88] MINISTRO: siguió bajando el riesgo país, o sea, a los mínimos,
+[249.92-252.44] MINISTRO: la bolsa directamente voló
+[252.48-259.48] OTRO: y las acciones subieron estos dos días más de 15%,
+[259.52-262.48] OTRO: y el banco central sigue comprando dólares,
+[262.52-265.20] MINISTRO: hoy compro otros 150 millones, entonces,
+[265.24-268.36] OTRO: digamos, es muy puntual en el dólar que puede estar relacionado
+[268.40-269.76] OTRO: con que la gente pueda estar comprando
+[269.80-272.52] MINISTRO: porque se va a ir de vacaciones afuera o algo así,
+[272.56-273.40] MINISTRO: es algo muy puntual.
+[273.44-274.60] MINISTRO: Más bien por un tema estacional, entonces.
+[274.64-275.72] MINISTRO: Sí, absoluto.
+[275.76-276.64] MINISTRO: Sí, Michael.
+[276.68-279.80] OTRO: Y hoy estuvo con Aya, ¿qué dicen los productores,
+[279.84-281.64] MINISTRO: los empresarios locales,
+[281.68-284.56] MINISTRO: por ejemplo, frente a la nueva flexibilidad respecto
+[284.60-288.68] MINISTRO: de las importaciones, ¿se preocupan, les interesa
+[288.72-291.36] MINISTRO: cómo se ubican frente a este tipo de cuestiones?
+[291.40-296.68] MINISTRO: Bueno, eso, obviamente, lo que les preocupa es que se, digamos,
+[297.96-302.60] OTRO: como dijo uno de ellos, que se nivele,
+[302.64-305.00] OTRO: digamos, que no se desnivele la lancha,
+[305.04-308.00] OTRO: y eso es lo que nosotros estamos haciendo,
+[308.08-311.60] OTRO: y nosotros, si te fijan nosotros, bajamos aranceles de importación,
+[311.64-313.68] OTRO: esencialmente de bienes de capital.
+[313.72-314.72] MINISTRO: Sí.
+[314.76-318.44] OTRO: El 50% de los bienes de capital tienen arancel cero,
+[318.48-322.36] MINISTRO: y estamos considerando bajar el otro 50 también a cero.
+[322.40-325.68] OTRO: Entonces, nosotros, por supuesto,
+[325.72-330.56] OTRO: no estamos haciendo, no estamos desnivelando la lancha,
+[330.60-332.48] OTRO: y no lo vamos a hacer.
+[332.52-337.36] MINISTRO: Por supuesto, vinimos acá a plantear otro modelo,
+[337.44-341.48] MINISTRO: que es un modelo donde los empresarios tienen que empezar,
+[341.52-344.48] OTRO: digamos, a invertir más y a competir más.
+[344.52-346.04] OTRO: Pero nosotros, de nuestro lado,
+[346.08-350.16] MINISTRO: tenemos que brindar las condiciones para que ellos puedan hacerlo,
+[350.20-351.48] MINISTRO: es totalmente lógico.
+[351.52-353.24] MINISTRO: Entonces, nosotros tenemos que, esencialmente,
+[353.28-357.60] MINISTRO: seguir sacando regulaciones y bajando impuestos.
+[357.64-359.60] OTRO: Y eso, obviamente, es lo que vamos a hacer.
+[359.64-363.44] OTRO: Las importaciones que nosotros estamos abriendo,
+[363.48-366.40] MINISTRO: fíjate, no son indiscriminadas, son puntuales,
+[366.44-371.96] MINISTRO: hemos aumentado la franquicia por curridad de 50 a 400 dólares,
+[372.00-376.44] OTRO: pero digamos, no hay ninguna apertura indiscriminada,
+[376.48-378.08] OTRO: así que afecte a la industria.
+[378.12-380.80] OTRO: Claro, es cierto que hay muchos empresarios que lo que dicen es,
+[380.84-382.96] OTRO: bueno, en este caso, el orden de los factores,
+[383.00-385.04] OTRO: si alteré el producto, sería bueno primero,
+[385.08-388.84] OTRO: nivelar la cancha y después abrir las importaciones.
+[388.88-392.24] OTRO: Hablaba recién del tema impuestos, sí.
+[392.28-393.28] OTRO: Sí.
+[393.32-395.44] MINISTRO: No, pero te decía, en realidad no es nivelar la cancha,
+[395.56-397.64] MINISTRO: sino no desnivelarla porque hoy...
+[397.68-398.68] MINISTRO: Ah, está bien.
+[398.72-401.32] MINISTRO: ...porque no es el caso.
+[401.36-403.52] MINISTRO: Entonces, por ahí su preocupación es que nosotros
+[403.56-406.72] OTRO: abramos masivamente las importaciones
+[406.76-408.60] OTRO: sin que bajemos impuestos y eso.
+[408.64-411.16] OTRO: No, todo eso no va a pasar.
+[411.20-413.68] MINISTRO: Nosotros venimos, como digo, a bajar impuestos,
+[413.72-416.00] MINISTRO: pero también, como dije, a plantear otro modelo.
+[416.04-419.40] MINISTRO: Fíjate que en todo este último tiempo,
+[419.44-423.28] MINISTRO: el negocio financiero de las empresas
+[423.36-426.08] MINISTRO: ha sido más importante que el de las empresas mismas,
+[426.12-427.36] MINISTRO: en cualquier industria,
+[427.40-431.88] MINISTRO: ya sea que fabriques ventanas acero,
+[431.92-434.00] MINISTRO: neumáticos, lo que vos quieras,
+[434.04-438.16] OTRO: terminó siendo más importante el manejo financiero de la compañía...
+[438.20-439.20] MINISTRO: El productivo.
+[439.24-441.40] MINISTRO: ...que el productivo, que el negocio mismo.
+[441.44-443.64] OTRO: Eso hay que terminarlo.
+[443.68-447.24] OTRO: Entonces, para eso hay que bajar la inflación,
+[447.28-448.76] OTRO: para eso tienen que bajar las tasas,
+[448.80-450.12] OTRO: tiene que volver el crédito,
+[450.16-452.04] OTRO: o sea, todo lo que ya está pasando
+[452.04-455.32] MINISTRO: y tenemos que bajar cada vez más impuestos
+[455.36-458.72] MINISTRO: y sacar más regulaciones para reducir el costo argentino.
+[458.76-460.60] MINISTRO: ¿Están trabajando en una reforma tributaria?
+[460.64-463.68] MINISTRO: Porque hace muy pocos días el presidente Javier Milé
+[463.72-467.36] MINISTRO: habló de una baja del 90% de los impuestos.
+[467.40-470.72] MINISTRO: Sí, sí, sí, estamos trabajando en una reforma tributaria,
+[470.76-472.52] MINISTRO: es como dijo el presidente.
+[472.56-475.68] OTRO: No la recaudación, sino la cantidad de impuestos.
+[475.72-478.72] OTRO: Argentina tiene un montón de impuestos...
+[478.80-481.36] OTRO: Bueno, las últimas décadas, lo que ha habido,
+[481.40-485.12] OTRO: es una sobreregulación y una sobreimposición tremenda,
+[485.16-487.88] OTRO: y nosotros queremos simplificar todo eso.
+[487.92-491.12] MINISTRO: Entonces queremos reducir, digamos...
+[491.16-493.32] OTRO: Estamos apuntando una reforma tributaria,
+[493.36-495.96] OTRO: donde no haya mucho más que seis impuestos.
+[496.00-499.16] OTRO: A nivel nacional, digamos...
+[499.20-503.60] OTRO: La idea es que haya no más de seis impuestos
+[503.64-507.68] MINISTRO: y que haya competencia entre las diferentes provincias,
+[507.76-512.28] OTRO: para que se genere también una baja adicional
+[512.32-513.76] OTRO: a raíz de la competencia,
+[513.80-516.56] OTRO: y que cada empresa pueda decidir en dónde se instala,
+[516.60-518.08] MINISTRO: de acuerdo a dónde es más conveniente.
+[518.12-519.92] OTRO: ¿Hoy los impuestos que más recaudan que son?
+[519.96-520.76] OTRO: ¿El IVA?
+[520.80-521.44] OTRO: Ganancias.
+[521.48-522.52] OTRO: IVA, ganancias.
+[522.56-523.80] OTRO: Sí.
+[523.84-525.56] OTRO: ¿El impuesto país también o no?
+[525.60-528.00] MINISTRO: El impuesto país era un punto y medio de producto,
+[528.04-532.52] OTRO: pero ese ya lo eliminamos y además no se coparticipaba.
+[532.56-533.68] OTRO: Claro.
+[533.72-537.48] OTRO: Con lo cual, nosotros bajamos ya dos impuestos sumamente
+[537.56-540.84] MINISTRO: importantes y los dos muy nocivos.
+[540.88-544.60] MINISTRO: Uno, el inflacionario, que es el más nocivo de todos,
+[544.64-547.64] MINISTRO: y otro, el impuesto país, que también era malísimo.
+[547.68-552.52] OTRO: Y ese, ya te digo, el año que viene a nivel de nación,
+[552.56-556.56] OTRO: digamos, estamos haciendo un esfuerzo de un punto y medio de producto,
+[556.60-557.72] OTRO: que es un montón.
+[557.76-559.92] OTRO: Hablando de impuestos, hay los impuestos nacionales,
+[559.96-561.76] OTRO: por supuesto, lo pueden manejar ustedes,
+[561.80-564.24] MINISTRO: los impuestos provinciales y municipales no,
+[565.00-568.48] MINISTRO: y hay un gran ejemplo en cuanto a impuestos municipales
+[568.52-570.68] OTRO: o tasas municipales, que es lo que sucede hoy
+[570.72-572.76] OTRO: en los municipios de la provincia de Buenos Aires,
+[572.80-576.04] OTRO: en donde los supermercados, la novedad esta semana,
+[576.08-578.96] OTRO: fueron a la justicia, específicamente en la NUS,
+[579.00-582.24] OTRO: por la casa de Seguridad y Higiene,
+[582.28-585.84] OTRO: pero absolutamente, les diría, casi extorsiva,
+[585.88-587.52] MINISTRO: que subió tres puntos.
+[587.56-589.56] OTRO: El primer aviso que hicieron los supermercados fue,
+[589.60-590.88] OTRO: vamos a tener que subir los precios,
+[590.92-592.52] OTRO: y ahora directamente fueron a la justicia.
+[592.56-594.52] OTRO: ¿Ustedes pueden hacer algo con respecto a eso?
+[594.56-597.84] OTRO: Es excelente lo que están haciendo los privados,
+[597.88-600.80] OTRO: porque es lo que hay que hacer, primero hay que denunciarlos,
+[600.84-605.84] OTRO: exponerlos, porque dijiste bien, es una estafa,
+[605.88-608.00] OTRO: porque vos pensás que las tasas municipales
+[608.04-609.76] MINISTRO: tienen que tener para que la gente entienda
+[609.80-612.80] MINISTRO: una contraprestación acorde.
+[612.84-617.36] MINISTRO: La tasa de Higiene no tiene ninguna relación
+[617.40-623.16] MINISTRO: con la cantidad de bebidas, quesos o carne
+[623.20-624.60] MINISTRO: que vendas en el supermercado,
+[624.64-629.44] MINISTRO: están en realidad taxando una especie de ingreso bruto,
+[629.48-630.76] MINISTRO: no es una tasa.
+[630.80-634.96] OTRO: Entonces, eso es literalmente un estafa,
+[635.00-638.88] MINISTRO: porque como digo, tu trabajo de Higiene es el mismo,
+[638.92-641.96] MINISTRO: independientemente de la cantidad de ventas que haya.
+[642.00-645.44] MINISTRO: Nosotros, por nuestro lado, también estamos yendo a la justicia,
+[645.52-648.32] MINISTRO: estamos yendo a defensa del consumidor,
+[648.36-652.28] MINISTRO: pero tiene que haber mucha conciencia también del lado empresario,
+[652.32-655.20] MINISTRO: porque la única forma de hacer los regulares es
+[655.24-657.60] MINISTRO: llevándolos a la justicia, exponiéndolos
+[657.64-659.72] MINISTRO: y viendo que lo que hacen tienen consecuencias.
+[659.76-662.08] MINISTRO: Nosotros, cuando pasó esto en La Pampa,
+[662.12-664.88] MINISTRO: cerramos las sucursales en La Pampa,
+[664.92-670.56] OTRO: bueno, y hubo que regular para La Pampa.
+[670.60-672.32] OTRO: Entonces hay que seguir haciendo estas cosas,
+[672.36-674.24] MINISTRO: porque si no, además es un pésimo ejemplo
+[674.28-676.24] MINISTRO: para el que está haciendo lo opuesto,
+[676.28-679.56] MINISTRO: para el intendente que está actuando bien, dice más,
+[679.60-683.76] MINISTRO: yo soy el salame que no cobra tasas y todos lo demás cobran,
+[683.80-687.08] MINISTRO: y no les pasa nada.
+[687.12-689.88] MINISTRO: Claro, bueno, también las inversiones van o no,
+[689.92-693.32] MINISTRO: después se elegirán ir o no a un municipio o ir o no a una provincia.
+[693.36-695.20] MINISTRO: Bueno, esa es la idea,
+[695.24-697.76] MINISTRO: la idea es precisamente esa,
+[697.80-700.16] MINISTRO: en el nuevo esquema tributario
+[700.20-703.92] OTRO: que haya esta especie de competencia para que haya premios y castigos.
+[704.08-705.92] MINISTRO: En términos de inversiones,
+[705.96-711.92] MINISTRO: ya están entrando inversiones en Rigi o Rigi.
+[711.96-717.36] MINISTRO: Sí, sí, sí, se entraron aproximadamente 7 pedidos,
+[717.40-720.92] MINISTRO: más o menos por un total de 11 billones 900.
+[720.96-726.20] OTRO: Sí, sí, y ya de hecho, esta semana,
+[726.24-729.00] OTRO: probablemente vamos a estar aprobando el primero.
+[729.04-730.24] OTRO: Ah, el...
+[730.28-732.52] OTRO: Se puede saber en qué área que...
+[732.56-734.44] MINISTRO: Eh, se, digamos...
+[734.48-736.68] OTRO: La respuesta es no, no se puede porque hasta aquí...
+[736.72-737.92] MINISTRO: Buena pregunta, Michael.
+[737.96-739.52] MINISTRO: Porque prefiero...
+[739.56-744.24] MINISTRO: Corre, corresponde que lo anunciemos una vez que esté aprobado,
+[744.28-747.60] MINISTRO: pero sí, te llamó todo, indica que esta semana ya vamos a estar
+[747.64-750.96] MINISTRO: aprobando por lo menos de la economía.
+[751.00-754.48] OTRO: Bueno, flor de título, o sea,
+[754.52-759.12] OTRO: se aprobaría la primera inversión del Rigi o Rigi,
+[759.16-762.08] OTRO: acá debatimos siempre si es Rigi o Rigi,
+[762.12-765.32] MINISTRO: esta semana, eh, todo un título.
+[765.36-767.76] MINISTRO: La Argentina está cara.
+[767.80-771.32] OTRO: Todos decimos, no solamente lo decimos, sino que lo sentimos.
+[771.36-775.04] OTRO: Es cierto que muchos argentinos se van a comprar a Chile
+[775.08-778.08] OTRO: o se van de vacaciones a Brasil o se van de vacaciones en su web
+[778.12-781.24] MINISTRO: porque la resulta más caro que más barato digo que Argentina.
+[781.28-783.96] MINISTRO: ¿Por qué Argentina está tan cara? ¿El dólar está trazado?
+[784.00-788.08] MINISTRO: Bueno, me encanta la pregunta, porque viene bien a aclararlo.
+[788.12-790.36] MINISTRO: No, el dólar no está trazado.
+[790.40-795.04] MINISTRO: Y primero me gustaría como explicar algo
+[795.08-798.76] MINISTRO: que puede ser obvio, pero que vale la pena.
+[798.80-803.72] MINISTRO: Digamos, hay mucha gente que quiere que el país esté barato en dólares.
+[803.76-804.76] OTRO: Sí.
+[804.80-809.80] OTRO: Y que piensan así, genuinamente, incluso con economistas,
+[809.84-812.20] OTRO: que un país esté barato en dólares
+[812.24-815.08] OTRO: no es otra cosa que el reflejo de que le va mal.
+[816.04-818.72] MINISTRO: Cuando vos te va bien, tu moneda se fortalece.
+[818.76-821.60] MINISTRO: Cuando te va mal, el país se pone barato en dólares.
+[821.64-825.80] MINISTRO: Cuando estuvo más barato, cuando soñemos nosotros, digamos,
+[825.84-828.36] MINISTRO: en la previa a la asunción nuestra,
+[828.40-829.84] MINISTRO: decir con Alberto Fernández y...
+[829.88-830.76] MINISTRO: ¿Certiomasa, sí?
+[830.80-835.32] MINISTRO: Claro, queríamos ese país o estamos mejor hoy.
+[835.36-838.24] OTRO: Entonces, es natural que si haces las cosas bien,
+[838.28-839.84] MINISTRO: tu moneda se fortalece.
+[839.88-842.88] MINISTRO: Cuando la gente pide un dólar barato, no se da cuenta,
+[842.92-845.68] MINISTRO: no la gente, sino me refiero a los entendidos,
+[845.72-848.96] MINISTRO: a los economistas, a los empresarios y eso,
+[849.00-851.60] OTRO: cuando piden eso, no se da cuenta que están pidiendo un país
+[851.64-852.56] MINISTRO: al que le vaya mal.
+[852.60-854.40] MINISTRO: No queremos un país al que le vaya mal.
+[854.44-857.72] MINISTRO: Queremos un país competitivo donde la gente tenga acceso
+[857.76-861.60] OTRO: a bienes y servicios a un precio razonable
+[861.64-864.88] MINISTRO: y tenga un buen salario también en dólares.
+[864.92-871.00] MINISTRO: Y además, te digo, hay una diferencia entre decir el dólar.
+[871.04-873.32] MINISTRO: Yo te puedo decir, el dólar está barato
+[873.36-875.96] MINISTRO: o los precios están adelantados.
+[876.00-879.88] MINISTRO: Hoy veía Antonio Laje poner un muy buen ejemplo.
+[880.72-881.96] MINISTRO: Y hay muchos otros, ¿no?
+[882.00-885.64] MINISTRO: Pero ponía el ejemplo de una casa de ropa muy conocida,
+[885.68-888.08] MINISTRO: en Argentina, muy conocida,
+[889.12-894.00] MINISTRO: que vendía, vende una campera en Chile,
+[894.68-897.52] MINISTRO: o sea, exportándola a 250 dólares.
+[898.36-900.04] MINISTRO: ¿En cuanto la vende en Argentina?
+[900.08-900.60] MINISTRO: ¿Cuánto?
+[900.64-902.60] MINISTRO: Ya misma, exacta. 500.
+[903.40-907.28] OTRO: Entonces, vos me decís, la campera es cara, sí.
+[907.32-910.44] OTRO: Ahora yo te digo, es cara porque el dólar está barato
+[910.48-912.44] MINISTRO: o porque quiere ganar un 100 por ciento,
+[912.48-915.04] MINISTRO: más de lo que gana compitiendo en Chile.
+[915.08-916.72] MINISTRO: Claro, en Chile tiene que competir.
+[917.24-919.40] OTRO: Entonces la vende a 250.
+[919.44-923.60] MINISTRO: Acá, casa en el zoológico, entonces la vende a 500.
+[923.64-925.52] MINISTRO: Ahí estamos hablando específicamente de ropa,
+[925.56-927.52] MINISTRO: que es cierto que Argentina aparte ese,
+[927.56-931.60] OTRO: pero hipercaro, no hay manera de comparar la ropa en Argentina,
+[931.64-935.28] OTRO: es imposible, se ha protegido mucho al textile
+[935.32-936.68] OTRO: durante muchos años,
+[936.72-938.16] MINISTRO: pero también es cierto que en Argentina
+[938.20-939.52] MINISTRO: nos ha marcado tomar un café.
+[939.56-942.88] MINISTRO: Pero de vuelta, ese ha sido en general el modelo,
+[942.92-946.00] MINISTRO: con el cuento de proteger a las diferentes industrias
+[946.04-950.88] MINISTRO: y demás, se ha perjudicado a todos los argentinos,
+[950.92-953.68] OTRO: porque terminan comprando productos de peor calidad
+[953.72-955.04] MINISTRO: o un precio más alto.
+[955.12-956.84] MINISTRO: Hay muchísimos ejemplos.
+[958.08-961.20] MINISTRO: Un fabricante de olla muy, muy buenas
+[961.24-963.76] MINISTRO: y que las exporta también.
+[963.80-966.12] MINISTRO: Vende en Estados Unidos a la mitad de precios
+[966.16-967.52] MINISTRO: de lo que los vende acá.
+[967.56-970.96] MINISTRO: El aluminio, un productor más grande,
+[971.00-973.52] MINISTRO: que exporta el 75 por ciento,
+[973.56-977.60] MINISTRO: vende el aluminio, exporta a la mitad de lo que lo vende acá.
+[977.64-979.64] MINISTRO: Entonces de vuelta, yo te pregunto, en realidad,
+[979.68-981.44] MINISTRO: es el precio del dólar o son,
+[981.48-983.44] MINISTRO: o hay gente que quiere un margen
+[983.56-986.96] MINISTRO: que está acostumbrada a ganar un margen en Argentina,
+[987.00-989.04] MINISTRO: que en la Argentina que nosotros queremos,
+[989.08-991.56] MINISTRO: esos margenes no van a estar más.
+[991.60-994.16] MINISTRO: O sea, típicamente eso se justificaba
+[994.20-996.96] MINISTRO: porque Argentina era un país muy riesgoso,
+[997.00-1001.92] OTRO: entonces necesitás una tasa de retorno más alta.
+[1001.96-1004.24] MINISTRO: Ahora, en el país al que nosotros apuntamos,
+[1004.28-1005.64] MINISTRO: eso no tiene que pasar.
+[1005.68-1009.60] MINISTRO: Entonces, pretender tener un dólar barato
+[1009.64-1012.12] MINISTRO: hoy es una muy mala estrategia.
+[1012.16-1014.92] MINISTRO: Nosotros tenemos que, como digo,
+[1014.96-1018.08] MINISTRO: bajar impuestos, bajar regulaciones
+[1018.12-1021.28] MINISTRO: y digamos que la gente tenga acceso
+[1021.32-1024.92] MINISTRO: a mejores productos a mucho mejores precios,
+[1024.96-1027.00] MINISTRO: que haya competencia e inversión.
+[1027.04-1029.84] MINISTRO: Hay que hacer un switch también como empresario
+[1029.88-1031.20] MINISTRO: en que se acabó la época,
+[1031.24-1032.92] MINISTRO: yo lo digo simbólicamente,
+[1032.96-1034.28] MINISTRO: de casar en el zoológico,
+[1034.32-1036.48] MINISTRO: porque la verdad cuando está todo protegido
+[1036.52-1041.92] MINISTRO: y te subsidia en la energía
+[1041.92-1043.32] MINISTRO: y el combustible y todo claro,
+[1043.36-1046.40] MINISTRO: todo parece fácil, pero se paga con inflación,
+[1046.44-1047.80] MINISTRO: lo pagan los que menos tienen,
+[1047.84-1049.24] MINISTRO: se paga con más pobreza,
+[1049.28-1052.36] MINISTRO: es el modelo argentino de todas estas décadas
+[1052.40-1055.12] MINISTRO: que fue un fracaso total que nos trajo a esto.
+[1055.16-1057.56] OTRO: O sea, que lo que hubiera que sé es que son más bien
+[1057.60-1061.24] OTRO: margenes excesivos del empresario en general
+[1061.28-1064.80] OTRO: y no un tema de carro impositivo en la Argentina.
+[1064.84-1066.32] OTRO: No, hay las dos cosas.
+[1066.36-1069.68] OTRO: Hay sectores que están, digamos,
+[1069.72-1072.12] OTRO: que porque el mercado se los convalida,
+[1072.16-1076.04] MINISTRO: venden a un precio mucho más alto,
+[1076.08-1077.16] MINISTRO: pero no le echen la culpa,
+[1077.20-1079.84] MINISTRO: entonces yo digo al tipo de cambio.
+[1079.88-1081.32] OTRO: Y por supuesto que no son todos.
+[1081.36-1084.80] MINISTRO: Y además, hay una carga impositiva
+[1084.84-1089.36] MINISTRO: muy alta producto de todos los déficits pasados.
+[1089.40-1091.20] MINISTRO: Recuerda que todos los déficits pasados
+[1091.24-1093.64] MINISTRO: se financiaron primero con suba de impuestos,
+[1093.68-1096.80] MINISTRO: pues con deuda, después con emisión.
+[1096.84-1099.48] MINISTRO: Entonces, todo eso generó una distorsión
+[1099.52-1101.80] MINISTRO: enorme. Cuando subías los impuestos,
+[1101.84-1104.04] MINISTRO: la gente se iba a la informalidad,
+[1104.08-1107.44] MINISTRO: si lo subías mucho hasta se iban del país,
+[1107.48-1108.76] MINISTRO: cuando se financiaban con deuda,
+[1108.80-1110.20] MINISTRO: generaban crisis de deuda,
+[1110.24-1112.16] MINISTRO: cuando se financiaban con emisión,
+[1112.20-1115.28] MINISTRO: generaban inflación altísima,
+[1115.32-1117.44] MINISTRO: obviamente mucho más pobreza.
+[1117.48-1120.80] MINISTRO: Y ese es lo que nosotros vinimos a,
+[1120.84-1123.04] MINISTRO: digamos, a recomponer.
+[1123.08-1124.96] MINISTRO: Entonces, lo primero es el ancla fiscal,
+[1125.00-1128.64] MINISTRO: es decir, no vamos a gastar más de lo que recaudamos.
+[1128.68-1131.48] MINISTRO: Eso ya te permite que no tengas que tomar de deuda,
+[1131.52-1133.48] MINISTRO: que no tengas que imprimir.
+[1133.52-1136.64] MINISTRO: Y después lo que necesitamos es
+[1136.68-1139.96] OTRO: empezar a crecer como país para tener superávit.
+[1140.00-1141.52] MINISTRO: Una vez que tengamos superávit,
+[1141.56-1143.84] MINISTRO: nosotros le vamos a devolver ese superávit
+[1143.88-1146.52] MINISTRO: a la gente en términos de baja de impuestos.
+[1146.56-1148.88] MINISTRO: Eso lo va a permitir ser más competitiva
+[1148.92-1151.08] MINISTRO: y una vez que puedan ser más competitivos,
+[1151.12-1153.08] MINISTRO: también ahí los haremos competir
+[1153.12-1155.36] MINISTRO: para que de vuelta eso se traduzca
+[1155.40-1158.04] MINISTRO: en que la gente pueda comprar mejores productos.
+[1158.12-1160.84] MINISTRO: Ahora, hoy hablaba con mis amigos del campo.
+[1160.88-1164.20] OTRO: Ustedes saben que yo siempre lo asito al campo.
+[1164.24-1166.16] OTRO: No, no, no, no.
+[1166.20-1168.72] OTRO: No se iba a salvar ninguna respuesta del campo.
+[1168.76-1169.92] OTRO: Jamás, jamás.
+[1169.96-1171.96] OTRO: Bueno, porque cuando pienso en atraso,
+[1172.00-1174.68] OTRO: cambié algo que se dice y mucho en el campo,
+[1174.72-1176.96] OTRO: sobre todo para los exportadores que piensan,
+[1177.00-1181.32] OTRO: bueno, este tipo de cambio, más las retenciones,
+[1181.36-1184.56] OTRO: que bueno, el propio presidente Javier Milé,
+[1184.60-1186.48] OTRO: hace muy poquito en Sociedad Rúo Argentina,
+[1186.52-1188.20] OTRO: dijo tenemos todas las intenciones,
+[1188.24-1189.92] OTRO: pero por ahora no podemos bajar.
+[1189.96-1193.16] MINISTRO: Y a eso los precios bajo de las comodities
+[1193.20-1197.20] MINISTRO: son un combo explosivo hoy para el sector.
+[1197.24-1199.84] MINISTRO: Bueno, de vuelta, dentro de ese combo,
+[1199.88-1203.64] MINISTRO: digamos, el problema no es el tipo de cambio.
+[1203.68-1208.24] MINISTRO: O sea, te digo, para hacerlo así en términos bien burdos.
+[1208.28-1211.20] OTRO: Si nosotros mañana bajáramos las retenciones a cero,
+[1211.24-1212.80] OTRO: estarían felices en el campo.
+[1212.84-1213.96] OTRO: Sí, sin lugar a duda.
+[1214.00-1215.68] OTRO: Entonces, el problema no es el tipo de cambio,
+[1215.72-1218.36] OTRO: son las retenciones y tienes razón el campo.
+[1218.40-1222.96] OTRO: Y nosotros, por supuesto, de vuelta vinimos a eso.
+[1223.00-1227.72] MINISTRO: Vinimos a bajar el impuesto, vinimos a bajar las retenciones.
+[1227.76-1231.56] MINISTRO: Dada la situación heredada, no solo del último,
+[1231.60-1234.12] MINISTRO: sino dada nuestra trayectoria,
+[1234.16-1237.24] OTRO: nuestra trayectoria hace que nuestra herencia,
+[1237.28-1240.00] OTRO: no solo fue la más pesada de la historia económicamente,
+[1240.08-1244.68] MINISTRO: sino que además nos tocó en un pico de cero recursos.
+[1244.72-1246.92] MINISTRO: Cero, o sea, pensá que no teníamos plata,
+[1246.96-1249.52] MINISTRO: no teníamos reserva, no teníamos financiamiento,
+[1249.56-1252.12] MINISTRO: pero sobre todo no teníamos credibilidad.
+[1252.16-1253.48] MINISTRO: Y la credibilidad, insisto,
+[1253.52-1257.20] MINISTRO: es la materia prima a la hora de hacer política económica.
+[1257.24-1260.56] MINISTRO: Entonces, esa combinación hace que vos no tengas
+[1260.60-1263.08] MINISTRO: los mismos grados de libertad que un ministro de Economía
+[1263.12-1266.60] MINISTRO: o un presidente de Banco Central y un país desarrollado,
+[1266.68-1269.08] MINISTRO: que, típicamente, se anuncian algo,
+[1269.12-1271.64] MINISTRO: eso ya es suficiente para cambiar expectativas.
+[1271.68-1272.68] MINISTRO: Nosotros no.
+[1272.72-1275.88] MINISTRO: Tenemos que, efectivamente, mostrar resultados,
+[1275.92-1277.48] MINISTRO: porque si no, no nos creen.
+[1277.52-1279.56] MINISTRO: Y a veces no nos creen ni aún mostrándolo,
+[1279.60-1282.16] MINISTRO: porque, de cuánto tiempo dudaron del déficit fiscal...
+[1282.20-1283.20] MINISTRO: Sí, es cierto.
+[1283.24-1285.72] MINISTRO: ...del mejor hecho del superávit ahora.
+[1285.76-1290.28] MINISTRO: Y, entonces, necesitamos tener una posición fiscal más sólida
+[1290.32-1292.52] MINISTRO: para poder empezar a bajar impuestos.
+[1292.60-1296.32] MINISTRO: Es cosa que yo espero que se dé el año próximo,
+[1296.36-1299.12] MINISTRO: porque la realidad es que la economía está recuperando fuertemente
+[1299.16-1302.04] MINISTRO: y para que la gente entienda cuando la economía recupera,
+[1302.08-1303.56] MINISTRO: aumenta la recaudación.
+[1303.60-1305.56] MINISTRO: Entonces, aumenta la recaudación.
+[1305.60-1308.32] MINISTRO: Y nosotros no aumentamos el gasto,
+[1308.36-1310.56] MINISTRO: entonces empezamos a tener superávit.
+[1310.60-1312.24] MINISTRO: Entonces, ¿qué hacemos con esa plata?
+[1312.28-1314.12] MINISTRO: Empezamos a bajar impuestos.
+[1314.16-1317.16] OTRO: En uno de los impuestos a la cabeza van a ser las retenciones.
+[1317.20-1319.24] OTRO: Las retenciones, las famosas retenciones.
+[1319.28-1322.00] OTRO: ¿Estamos cerca de un acuerdo con el fondo?
+[1322.08-1324.04] OTRO: Estamos muy bien encaminados.
+[1324.08-1325.60] MINISTRO: Sí, sí, estamos muy bien...
+[1325.64-1328.88] MINISTRO: Los tiempos del fondo son lentos,
+[1328.92-1332.48] MINISTRO: pero estamos muy bien encaminados, tenemos muy buen diálogo.
+[1332.52-1336.16] MINISTRO: Y yo estimo que sí, pero al primer cuatrimestre del año que viene,
+[1336.20-1337.64] MINISTRO: vamos a haber llegado a un acuerdo.
+[1337.68-1340.92] OTRO: ¿Ellos que observan sobre lo que está sucediendo en la Argentina
+[1340.96-1343.60] OTRO: y dicen algo explícitamente, piden conexiones?
+[1343.64-1346.60] MINISTRO: No, igual que todo el mundo, se van en loas,
+[1346.64-1350.52] MINISTRO: están maravillados en el fondo...
+[1350.60-1352.24] MINISTRO: En el mundo en general.
+[1352.28-1357.60] MINISTRO: Hoy realmente, si vos miras las redes,
+[1357.64-1360.88] OTRO: no se habla de otra cosa que del presidente Javier Milay.
+[1360.92-1362.20] MINISTRO: En el mundo.
+[1362.24-1367.96] MINISTRO: Siempre se habló de él por sus ideas y por su contundencia
+[1368.00-1369.80] OTRO: y por su personalidad.
+[1369.84-1372.56] MINISTRO: Ahora, además, lo avalan los resultados,
+[1372.60-1377.20] MINISTRO: con lo cual es realmente ya un boom.
+[1377.24-1380.64] MINISTRO: No quiero suenar fantasioso,
+[1380.68-1382.32] MINISTRO: pero realmente les pido chequear en las redes.
+[1382.36-1384.88] MINISTRO: O sea, se habla desde en todas las revistas,
+[1384.92-1387.88] MINISTRO: en todos los medios económicos,
+[1387.92-1389.88] OTRO: hoy, hasta en el Parlamento...
+[1389.92-1391.48] OTRO: A lo bien, en Alemancia.
+[1391.52-1393.60] OTRO: ...lo podían de ejemplo.
+[1393.64-1398.04] MINISTRO: Entonces, está haciendo realmente una revolución el presidente.
+[1398.08-1402.04] MINISTRO: O sea, esa batalla cultural que el presidente dio a nivel local,
+[1402.08-1404.40] MINISTRO: hoy la está dando a nivel mundial.
+[1404.48-1409.04] MINISTRO: Y siempre lo digo, y creo que ya es obvio,
+[1409.08-1411.44] MINISTRO: y nadie me lo puede, digamos, disputar,
+[1411.48-1415.76] MINISTRO: hoy es una de las dos, tres voces más importantes del mundo.
+[1415.80-1418.12] MINISTRO: Y es el presidente de Argentina,
+[1418.16-1420.40] MINISTRO: con lo cual es mío, impresionante lo que estamos diciendo.
+[1420.44-1424.44] MINISTRO: En serio, ubiquemos en lo que era la imagen de nuestro presidente
+[1424.48-1427.64] MINISTRO: hace un año y hoy tener un presidente
+[1427.68-1430.32] MINISTRO: que es uno de los dos, tres más importantes del mundo.
+[1430.36-1434.32] MINISTRO: Bueno, es una verdad que es una cosa increíble.
+[1434.64-1437.72] MINISTRO: Si tenemos para el primer cuatrimestre ese acuerdo con el fondo,
+[1437.76-1442.08] MINISTRO: como usted dice, la salida del cepo está más cerca,
+[1442.12-1445.56] MINISTRO: la salida del cepo nos la tenemos que imaginar en capas.
+[1446.32-1447.64] MINISTRO: Buena pregunta.
+[1447.68-1451.00] MINISTRO: Para salir del cepo, nosotros de vuelta no nos ponemos...
+[1451.04-1453.28] MINISTRO: Es igual que con las retenciones y con todo.
+[1453.32-1455.96] MINISTRO: No nos ponemos fechas, nos ponemos metas.
+[1456.00-1458.92] MINISTRO: Fechas es muy arrogante,
+[1458.96-1461.08] MINISTRO: sería muy arrogante de nuestro lado.
+[1461.12-1462.40] MINISTRO: Si tienen que cumplir condiciones.
+[1462.44-1466.40] OTRO: En el caso del cepo, se tienen que cumplir tres condiciones.
+[1466.44-1470.08] MINISTRO: Una es que la inflación converja al nivel del...
+[1470.12-1473.36] OTRO: del... del crawl, que es la devaluación...
+[1473.40-1474.56] OTRO: Por goteo.
+[1474.60-1477.64] MINISTRO: Por goteo, que se hace del tipo de cambio oficial.
+[1477.68-1482.24] MINISTRO: La segunda es que terminar de equilibrar el mercado de dinero,
+[1482.28-1486.68] MINISTRO: que es, digamos, la demanda y la oferta de pesos,
+[1486.72-1489.92] OTRO: esto es sumamente importante.
+[1489.96-1492.96] MINISTRO: Cuando llegamos el desbalance en el mercado de dinero,
+[1493.00-1493.92] MINISTRO: era total.
+[1493.96-1495.44] MINISTRO: ¿Quién quería pesos?
+[1495.48-1496.64] OTRO: ¿Alguno quería pesos?
+[1496.68-1497.68] OTRO: No, no.
+[1497.72-1499.80] OTRO: La demanda de dinero era cero.
+[1499.84-1501.64] OTRO: Y la oferta era enorme,
+[1501.68-1505.44] MINISTRO: porque había casi cuatro bases monetarias en pasivos remunerados.
+[1505.48-1507.32] MINISTRO: ¿Qué son los pasivos remunerados?
+[1507.36-1512.84] MINISTRO: Son esos pesos que el Banco Central tenía que retirar del mercado,
+[1512.88-1514.00] OTRO: porque sobraban...
+[1514.04-1515.12] OTRO: El excedente de pesos.
+[1515.16-1516.76] MINISTRO: El excedente de pesos.
+[1516.80-1520.40] MINISTRO: Había cuatro bases monetarias más en pasivos remunerados.
+[1520.44-1523.64] MINISTRO: Bueno, nosotros equilibramos muchísimo ese mercado,
+[1523.68-1527.28] MINISTRO: porque uno aumentó fuertemente la demanda de pesos,
+[1527.32-1530.44] MINISTRO: producto de la baja de la inflación y la tasa de interés,
+[1530.48-1535.16] MINISTRO: y dos, nosotros bajamos fuertemente la oferta monetaria,
+[1535.20-1537.16] MINISTRO: sobre todo al principio del programa,
+[1537.20-1539.08] MINISTRO: cuando pusimos tasas...
+[1539.12-1544.28] MINISTRO: Cuando tuvimos un período de fuertes tasas de interés reales negativas,
+[1544.32-1545.96] MINISTRO: que fue toda una novedad,
+[1546.00-1549.56] MINISTRO: pero que fue una parte crucial del programa, crucial,
+[1549.60-1551.72] MINISTRO: porque si no hubiéramos hecho eso,
+[1551.76-1554.40] MINISTRO: y hubiéramos puesto como muchos aconsejaban tener...

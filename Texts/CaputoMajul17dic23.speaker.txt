@@ -1,0 +1,949 @@
+[3.54-5.54] OTRO: Ministro, gracias por atendernos.
+[5.54-7.54] OTRO: Al contrario, gracias por la invitación Luis.
+[7.54-9.54] MINISTRO: ¿Aún un domingo que se supone que uno descansa?
+[9.54-11.54] MINISTRO: Trabajando todos los días.
+[11.54-15.54] MINISTRO: Un segundo antes Luis, manifestando la solidaridad
+[15.54-20.54] OTRO: con todos los problemas y la gente que ha fallecido en Vallablanca
+[20.54-25.54] MINISTRO: y todos los que han tenido problemas acá también en el AMBA.
+[25.54-32.54] MINISTRO: El presidente ha viajado con una comitiva, así que la manifestación de solidaridad a todos los familiares.
+[32.54-34.54] MINISTRO: Y nosotros nos sumamos a nosotros también.
+[34.54-38.54] OTRO: ¿Cómo han recibido los mercados y la gente, el paquete de medidas de ajuste
+[38.54-42.54] MINISTRO: y impositivo, con otros elementos?
+[42.54-49.54] MINISTRO: Bueno, digamos, hay una parte que es importante entender
+[49.54-57.54] MINISTRO: que siempre menciono que es la delarencia y las consecuencias que va a tener en el corto plazo.
+[57.54-62.54] MINISTRO: Como hemos dicho, el presidente muchas veces y yo alguna,
+[62.54-66.54] MINISTRO: que es una situación de catástrofe.
+[66.54-69.54] MINISTRO: La peor herencia, 15 puntos de déficit consolidado,
+[69.54-74.54] OTRO: una inflación no solo la que se ha recibido, sino la que se va a ver ahora,
+[74.54-80.54] MINISTRO: la que se va a destapar producto de la política monetaria de los últimos años,
+[80.54-86.54] OTRO: estos 20 puntos de déficit que se han financiado con emisión.
+[86.54-90.54] MINISTRO: El control de precios que se está destapando ahora mismo,
+[90.54-94.54] MINISTRO: si han ido de vuelta al supermercado las últimas semanas.
+[94.54-100.54] OTRO: Este fogonazo es producto del control de precios, la presión total.
+[100.54-105.54] MINISTRO: Y eso lo quiero dejar bien claro porque en realidad lo que nosotros estamos haciendo justamente
+[105.54-110.54] MINISTRO: es lo único que se podía hacer para controlar eso, para que eso no se exacerbe.
+[110.54-112.54] MINISTRO: Y ya estábamos en esos números.
+[112.54-118.54] MINISTRO: Cuando uno dice que el presidente exagera cuando habla de los 15.000 o de miles,
+[118.54-123.54] MINISTRO: la inflación las últimas dos semanas está en niveles que anualizados,
+[123.54-125.54] MINISTRO: nos llevarían arriba del 3.000%.
+[125.54-128.54] MINISTRO: Es decir, que ya estábamos encaminados a eso.
+[128.54-134.54] MINISTRO: Y las medidas fueron muy bien recibidas.
+[134.54-140.54] MINISTRO: Y ahí dejéme hacer un comentario a esto, porque he leído ahí en algún lado de no.
+[140.54-144.54] MINISTRO: Bueno, pero es un programa de estabilización.
+[144.54-150.54] MINISTRO: Cuando vos tomas medidas que no tienen un fundamento económico atrás,
+[150.54-156.54] MINISTRO: pasan, por ejemplo, lo que pasó en agosto del 2023.
+[156.54-158.54] OTRO: Con la devaluación, con la última devaluación de masa.
+[158.54-161.54] MINISTRO: Exactamente, con la última devaluación de masa.
+[161.54-169.54] MINISTRO: En ese momento se devaluó el dólar de 281 a 350, un 21,8%.
+[169.54-172.54] MINISTRO: ¿Cuál fue la reacción del dólar a eso?
+[172.54-175.54] MINISTRO: No había ninguna otra medida atrás.
+[175.54-180.54] MINISTRO: Fue simplemente una devaluación sin ningún paquete económico creíble atrás.
+[180.54-185.54] MINISTRO: En tres días el tipo de cambio libre subió 23%.
+[185.54-189.54] MINISTRO: Es decir, subió de 600 a 740.
+[189.54-193.54] MINISTRO: La brecha se mantuvo igual y todos sabemos lo que pasó después.
+[193.54-198.54] MINISTRO: Siguiendo esa lógica, el ajuste del tipo de cambio
+[198.54-201.54] MINISTRO: que nosotros hemos hecho de 360 a 800,
+[201.54-205.54] MINISTRO: si no tuviera la credibilidad que efectivamente tuvo,
+[205.54-207.54] MINISTRO: ¿qué hubiera pasado con el tipo de cambio libre?
+[207.54-209.54] OTRO: Que estaba en 1100 y se podría abrir.
+[209.54-212.54] OTRO: ¿Y la brecha de OECD?
+[212.54-216.54] MINISTRO: La brecha OECD, la misma o más.
+[216.54-222.54] MINISTRO: Lejos de pasar eso, el tipo de cambio cayó de 1100 a 980.
+[222.54-227.54] MINISTRO: Y hoy estamos en la brecha más baja del 20%,
+[227.54-232.54] MINISTRO: igual a cuando Alberto Fernández asumió en diciembre del 2019.
+[232.54-234.54] MINISTRO: Es decir, asumió con esa brecha,
+[234.54-239.54] MINISTRO: esa brecha del 20 subió casi al 200 y en una semana volvimos al 20.
+[239.54-244.54] MINISTRO: De vuelta, si no hay medidas consistentes atrás, eso no puede pasar.
+[244.54-250.54] MINISTRO: ¿Cuánto tiempo pensás que la gente puede tolerar este fogonazo inflacionario?
+[250.54-256.54] OTRO: Y va a ser duro, porque como te digo, no es solo la inercia inflacionaria,
+[256.54-259.54] MINISTRO: sino toda la inflación que estaba metida abajo del alfombra.
+[259.54-263.54] MINISTRO: Este control de precios que, como sabemos, no funciona nunca.
+[263.54-266.54] MINISTRO: El rezago de la política monetaria.
+[266.54-270.54] MINISTRO: Van a ser meses de inflación dura, o sea, difícil.
+[270.54-275.54] MINISTRO: Pero yo quiero llevar tranquilidad a la gente,
+[275.54-278.54] MINISTRO: porque todas las medidas que estamos tomando,
+[278.54-281.54] MINISTRO: van a ser para revertir ese proceso.
+[281.54-283.54] MINISTRO: ¿Qué quiere decir eso?
+[283.54-287.54] MINISTRO: Que la inflación va a tender a cedar y que las cosas se van a encaminar.
+[287.54-292.54] OTRO: Es la primera vez que, digamos, que de alguna manera va a tener sentido el esfuerzo que están haciendo.
+[292.54-295.54] MINISTRO: Yo creo que la gente siente que ha hecho esfuerzo durante décadas
+[295.54-299.54] MINISTRO: y todo el tiempo caemos en estas crisis recurrentes.
+[299.54-303.54] MINISTRO: Eso, como ya expliqué en mis cursos, es porque jamás resolvemos el problema.
+[303.54-308.54] MINISTRO: Siempre queremos atacar las consecuencias y echarle la culpa a las consecuencias
+[308.54-311.54] MINISTRO: porque a la política le conviene seguir gastando.
+[311.54-316.54] MINISTRO: Entonces echémosle la culpa a los empresarios, a los especuladores, a los que nos prestan plata.
+[316.54-319.54] MINISTRO: Así nosotros podemos seguir gastando.
+[319.54-321.54] MINISTRO: Al mismo tiempo, hablando con el presidente,
+[321.54-328.54] MINISTRO: me contaba que en los cálculos que habían hecho el ajuste se había distribuido
+[328.54-332.54] MINISTRO: un 60% en el Estado y un 40% en el sector privado.
+[332.54-334.54] MINISTRO: ¿Me lo puedes explicar?
+[334.54-338.54] MINISTRO: Es verdad, totalmente. Tiene razón el presidente.
+[338.54-344.54] MINISTRO: El 60% del ajuste se concentró en reducción del gasto público,
+[344.54-351.54] MINISTRO: que fue desde la reducción de ministerios, secretarías, autos,
+[351.54-355.54] MINISTRO: transferencias discrecionales a las provincias,
+[355.54-361.54] OTRO: los aviones y PFS, gastos administrativos.
+[361.54-364.54] MINISTRO: Eso constituye el 60%.
+[364.54-369.54] MINISTRO: Como yo siempre digo, yo casi que diría que es más porque yo considero que los subsidios no son tales,
+[369.54-373.54] OTRO: son también uso de los recursos públicos para ser políticas.
+[373.54-375.54] OTRO: ¿Los subsidios, el agua, la luz y el gas?
+[375.54-382.54] MINISTRO: El agua, la luz, el gas son cosas que se usan para reducir políticamente
+[382.54-386.54] MINISTRO: pero que de vuelta te lo dan por un lado y te lo cobran por el otro
+[386.54-389.54] MINISTRO: y incluso se lo cobran a los que menos tienen,
+[389.54-395.54] MINISTRO: porque como yo siempre hay mucha gente que nos beneficiamos de ese subsidio que no lo necesitamos.
+[395.54-398.54] MINISTRO: Entonces en realidad es un perjuicio para el que menos tiene.
+[398.54-406.54] MINISTRO: Entonces todo eso hemos venido a corregir y como digo el ancla es fiscal
+[406.54-411.54] MINISTRO: pero también tiene su componente monetario y cambiario.
+[411.54-417.54] MINISTRO: Es decir, no es solamente lo fiscal que es condición necesaria.
+[418.54-426.54] MINISTRO: Entonces si querés te comento un poco qué es lo que me refiero cuando digo lo monetario y el cambiario.
+[426.54-431.54] MINISTRO: Está este famoso tema de las lélix que mucha gente no...
+[431.54-433.54] MINISTRO: ¿Cómo desarmar las lélix?
+[433.54-436.54] OTRO: El presidente en su momento dijo que es uno de los...
+[436.54-441.54] MINISTRO: Bueno, el punto de arranque para en el futuro levantar el cepo
+[441.54-444.54] MINISTRO: y en el futuro reactivar la economía, etcétera.
+[444.54-446.54] MINISTRO: Y ahora son el presidente.
+[446.54-451.54] MINISTRO: O sea, el problema de base es fiscal pero el financiamiento de 20 puntos
+[451.54-458.54] MINISTRO: que es un montón de producto con emisión generó a su vez un problema monetario
+[458.54-460.54] MINISTRO: que es que hay un sobrante de pesos enormes.
+[460.54-465.54] MINISTRO: Es decir, todos esos pesos que se emitieron la ciudadanía no los demanda.
+[465.54-467.54] MINISTRO: Entonces sobran.
+[467.54-468.54] MINISTRO: ¿Cómo sobran?
+[468.54-470.54] MINISTRO: El Banco Central los tiene que retirar.
+[470.54-472.54] MINISTRO: ¿Cómo los retira?
+[472.54-474.54] MINISTRO: Emite estas famosas lélix.
+[474.54-477.54] MINISTRO: Emite lélix, retira pesos.
+[477.54-479.54] MINISTRO: ¿Cómo se desarman las lélix?
+[479.54-483.54] MINISTRO: Bueno, esas lélix se desarman.
+[483.54-487.54] MINISTRO: Se pueden desarmar de manera gradual y de shock.
+[487.54-489.54] MINISTRO: Y no son exclusives.
+[489.54-492.54] MINISTRO: Nosotros estamos usando ambas herramientas.
+[492.54-494.54] OTRO: ¿Una herramienta de shock y una herramienta gradual?
+[494.54-495.54] OTRO: Exactamente.
+[495.54-497.54] OTRO: ¿Cuál es la de shock y cuál es la gradual?
+[497.54-503.54] MINISTRO: Bueno, gradual, por un lado, vamos a tratar de aumentar la demanda de dinero.
+[503.54-504.54] MINISTRO: ¿Cómo lo haces eso?
+[504.54-506.54] MINISTRO: Generando más confianza, con un plan creíble.
+[506.54-510.54] MINISTRO: Hoy la demanda de pesos de la gente está en un nivel muy bajo.
+[510.54-516.54] MINISTRO: Si volviera a un nivel normal, podría subir tres o cuatro puntos de producto
+[516.54-521.54] MINISTRO: lo que reduciría el problema de las lélix un poco más de un 30%.
+[521.54-522.54] MINISTRO: Es mucho.
+[522.54-524.54] MINISTRO: ¿Eso sería la manera gradual?
+[524.54-528.54] MINISTRO: Sí, otra manera gradual es la que también ya estamos implementando,
+[528.54-534.54] MINISTRO: que es vía reducción de la tasa de interés que el banco central paga por esas lélix.
+[534.54-538.54] MINISTRO: Como paga una tasa de interés más baja que la inflación,
+[538.54-542.54] MINISTRO: ese stock de lélix en términos reales se reduce también.
+[542.54-546.54] MINISTRO: Y hay otras más de shock.
+[546.54-553.54] MINISTRO: Una, que es, si querés, nuestra ancla principal en lo monetario,
+[553.54-558.54] MINISTRO: que es que no va a haber más financiamiento del banco central al tesoro.
+[558.54-561.54] MINISTRO: Un tercio del financiamiento que estábamos viendo,
+[561.54-564.54] MINISTRO: un tercio de la emisión que estábamos viendo, perdón,
+[564.54-567.54] MINISTRO: era el financiamiento del banco central al tesoro.
+[567.54-572.54] MINISTRO: Al ir a déficit cero ya no hay que emitir más pesos para financiar.
+[572.54-574.54] OTRO: ¿El banco central no va a financiar más el tesoro?
+[574.54-577.54] OTRO: No, es como si desapareciera en esos términos del banco central.
+[577.54-578.54] OTRO: Exactamente.
+[578.54-582.54] MINISTRO: Le estamos dando la independencia que tanto se pide.
+[582.54-587.54] MINISTRO: Entonces, se va a un tercio de la emisión que se venía generando.
+[587.54-592.54] MINISTRO: Y hay una opción más, que es la que se va a estar anunciando la semana que viene,
+[592.54-597.54] MINISTRO: que tiene que ver con lo monetario, lo comercial y lo cambiario.
+[597.54-605.54] OTRO: Que es, digamos, este problema comercial que está viendo por el lado de los importadores.
+[605.54-610.54] MINISTRO: Sí, hay una deuda con los importadores de 55.000 millones de dólares.
+[610.54-616.54] MINISTRO: De esos 55.000 millones de dólares, 25.000 es parte del flujo que siempre se tiene
+[616.54-618.54] MINISTRO: por el intercambio comercial.
+[618.54-622.54] OTRO: Pero hay una deuda que se salió de madre, que es de 30.000 millones de dólares.
+[622.54-624.54] MINISTRO: ¿Qué pasa con esa deuda?
+[624.54-629.54] MINISTRO: Córrecto. ¿Cómo funciona, digamos, para que la gente entienda?
+[629.54-634.54] MINISTRO: Los importadores, digamos, piden autorización para importar,
+[634.54-639.54] MINISTRO: han pedido durante todo este tiempo el gobierno anterior se las concedió,
+[639.54-644.54] MINISTRO: importaron, la mercadería llegó, está en Argentina,
+[644.54-648.54] MINISTRO: el importador tiene que ir con los pesos y comprarle los dólares al banco central
+[648.54-651.54] MINISTRO: para poder pagarle al proveedor.
+[651.54-655.54] OTRO: Cuando los importadores iban con los pesos a pagarle al banco central los dólares,
+[655.54-658.54] OTRO: el banco central les dijo, no los tengo.
+[658.54-663.54] MINISTRO: Entonces se fue generando un problema que en qué le afecta a la gente eso.
+[663.54-667.54] MINISTRO: En más inflación y eventualmente desabastecimiento,
+[667.54-671.54] MINISTRO: porque llega a un punto que los proveedores le dicen a los importadores,
+[671.54-673.54] MINISTRO: no, si no me das los dólares no te vendo más.
+[673.54-677.54] MINISTRO: Perdón que te interrumpo. Mucha de las faltas de equipamiento médico...
+[677.54-679.54] OTRO: Claro, exactamente.
+[679.54-683.54] MINISTRO: ...que el equipamiento tenido hasta una pieza de un ascensor importado,
+[683.54-685.54] OTRO: poné el alemán.
+[685.54-689.54] MINISTRO: Exactamente. Y una sola pieza te traba toda tu...
+[689.54-690.54] MINISTRO: Entiendo.
+[690.54-693.54] OTRO: Entonces pasa desde la industria automotriz a la que se te ocurra.
+[693.54-696.54] MINISTRO: Entonces eso está trabado, hay que destrabarlo.
+[696.54-698.54] OTRO: ¿Cómo lo podemos destrabar?
+[698.54-701.54] OTRO: Porque los dólares el banco central no los tiene.
+[701.54-704.54] MINISTRO: Entonces lo que le decimos a los importadores es,
+[704.54-706.54] MINISTRO: te los vamos a dar en el futuro.
+[706.54-711.54] MINISTRO: Te vamos a dar un bono en dólares que te va a dar estos dólares en el futuro.
+[711.54-715.54] MINISTRO: Cuando el banco central los tenga, porque el banco central en el futuro
+[715.54-718.54] MINISTRO: los va a tener porque va a haber superávit comercial los próximos años,
+[718.54-721.54] MINISTRO: el banco central se va a hacer de los dólares.
+[721.54-723.54] MINISTRO: De hecho el presidente creo que vos también dijiste que estén en el,
+[723.54-728.54] MINISTRO: se espera un superávit comercial de entre 16.000 y 20.000 millones de dólares.
+[728.54-729.54] MINISTRO: Exactamente.
+[729.54-732.54] MINISTRO: Entonces el banco central se va a hacer de esos dólares.
+[732.54-734.54] MINISTRO: Le dan entonces estos bonos.
+[734.54-738.54] MINISTRO: Y esto destraba el problema de las importaciones.
+[738.54-741.54] OTRO: Es un bono más atractivo que cualquier bono que ande por ahí.
+[741.54-746.54] MINISTRO: Va a ser un bono más atractivo para que cotice a un precio bien alto.
+[746.54-750.54] MINISTRO: Y ahora te voy a explicar cuál es el sentido de eso.
+[750.54-754.54] MINISTRO: Primero punto, entonces se resuelve esta parte comercial que es muy importante
+[754.54-758.54] MINISTRO: para que haya desabastecimiento y no haya más inflación.
+[758.54-761.54] MINISTRO: Esto contribuye a eso.
+[761.54-765.54] MINISTRO: Como segundo punto, por cada bono que el banco central vende,
+[765.54-768.54] MINISTRO: los importadores se lo compran con pesos.
+[768.54-771.54] MINISTRO: Entonces ¿qué hace el banco central con esos pesos?
+[771.54-774.54] MINISTRO: Los elimina, los quema.
+[774.54-778.54] MINISTRO: Entonces ese es el cuarto componente de shock en lo monetario.
+[778.54-781.54] OTRO: Empieza diminuir el sobrante monetario.
+[781.54-782.54] OTRO: Exactamente.
+[782.54-786.54] MINISTRO: Empieza a caer ya no en términos reales, en términos nominales.
+[786.54-791.54] MINISTRO: Por cada bono que el banco central vende, elimina 800 pesos.
+[791.54-794.54] MINISTRO: A ver, entiendo yo que cuando termina el proceso, no sé en cuánto tiempo,
+[794.54-801.54] MINISTRO: va a haber el equivalente a 28.000, 30.000 millones de dólares menos
+[801.54-803.54] MINISTRO: en pesos en la base monetaria.
+[803.54-807.54] MINISTRO: Depende de cuántos bonos le compren, los importadores supongamos
+[807.54-810.54] MINISTRO: que le compran 10.000 millones de dólares.
+[810.54-812.54] MINISTRO: ¿Y eso por qué va a ser virtuoso? ¿Por qué va a bajar la inflación?
+[812.54-818.54] MINISTRO: Bueno, porque justamente va a eliminar fuertemente el sobrante de pesos
+[818.54-823.54] MINISTRO: y eso va a ser que la expectativa inflacionaria caiga fuertemente.
+[823.54-826.54] MINISTRO: La inflación es un fenómeno monetario.
+[826.54-831.54] MINISTRO: Entonces hoy sobran muchos pesos y se expresa de esa manera.
+[831.54-835.54] MINISTRO: La medida que vos retiras, reducís todo ese sobrante monetario,
+[835.54-838.54] MINISTRO: la expectativa inflacionaria evidentemente cae.
+[838.54-842.54] MINISTRO: Entonces en lo monetario están estas cuatro cosas.
+[842.54-846.54] MINISTRO: El aumento de la demanda de dinero, la baja de la tasa de interés
+[846.54-852.54] MINISTRO: por parte del banco central, la emisión cero para financiar al tesoro
+[852.54-856.54] MINISTRO: y los pesos que se van a eliminar producto de este bono
+[856.54-859.54] MINISTRO: que el banco central le va a colocar a los importadores.
+[859.54-864.54] MINISTRO: Y más tiene el beneficio que hace las veces de estabilizador
+[864.54-866.54] MINISTRO: de el tipo de cambio libre.
+[866.54-870.54] MINISTRO: ¿Por qué? Porque este bono se va a vender,
+[870.54-873.54] MINISTRO: es un bono en dólares que se va a vender al tipo de cambio oficial.
+[873.54-878.54] MINISTRO: O sea, a 800 más el aumento por el 2% de crawling.
+[878.54-883.04] MINISTRO: ¿Cómo es un bono que va a tener características especiales
+[883.04-885.04] MINISTRO: y va a cotizar a un precio alto?
+[885.04-888.04] MINISTRO: ¿Qué quiere decir que los importadores se van a estar haciendo
+[888.04-892.04] MINISTRO: de dólares a un valor cercano a 800?
+[892.04-894.04] MINISTRO: Entonces, ¿qué va a pasar?
+[894.04-896.04] MINISTRO: Si el dólar libre empieza a subir,
+[896.04-899.04] MINISTRO: los importadores van a estar vendiendo este bono,
+[899.04-902.04] MINISTRO: haciéndose de los dólares a 800
+[902.04-906.04] MINISTRO: y vendiendo el dólar libre a un precio más alto
+[906.04-908.04] MINISTRO: permitiendo que no suba.
+[908.04-912.04] MINISTRO: Entonces, eso también es una ancla muy, muy importante
+[912.04-914.04] MINISTRO: porque como vos sabés,
+[914.04-917.04] MINISTRO: en los precios influyen las expectativas futuras
+[917.04-919.04] MINISTRO: del tipo de cambio.
+[919.04-922.04] MINISTRO: Entonces, pasamos de un esquema anterior
+[922.04-924.04] MINISTRO: donde no había ningún ancla,
+[924.04-928.04] MINISTRO: no había ancla fiscal porque el gasto estaba desorbitado,
+[928.04-933.04] MINISTRO: no había ancla monetaria porque la emisión estaba descontrolada,
+[933.04-936.04] MINISTRO: no había ancla cambiaria y el tipo de cambio estaba descontrolado.
+[936.04-938.04] MINISTRO: Hoy tenemos un ancla fiscal fuerte,
+[938.04-940.04] MINISTRO: tenemos un ancla monetaria fuerte
+[940.04-943.04] MINISTRO: que es el NOMA financiamiento del Banco Central
+[943.04-946.04] MINISTRO: al Tesoro, pero las otras tres anclas que te comenté,
+[946.04-949.04] MINISTRO: que le comenté ya recién,
+[949.04-951.04] MINISTRO: y un ancla también cambiaria ahora
+[951.04-955.04] MINISTRO: que la produce este nuevo bono que va a ser de estabilizador.
+[955.04-957.04] MINISTRO: Entiendo.
+[957.04-961.70] MINISTRO: Vos estás en contra del impuesto a las enancias,
+[961.70-963.70] MINISTRO: ideológicamente.
+[963.70-965.70] MINISTRO: Estás en contra de subir las retenciones.
+[965.70-967.70] MINISTRO: El presidente también, yo lo escuché.
+[967.70-969.70] MINISTRO: En un momento dijo,
+[969.70-972.70] MINISTRO: me corto el brazo y tengo que subir un impuesto.
+[972.70-975.70] MINISTRO: ¿Por qué lo hicieron?
+[975.70-979.70] MINISTRO: Bueno, porque la prioridad es ir a déficit cero.
+[979.70-980.70] MINISTRO: ¿Sí?
+[980.70-983.70] MINISTRO: Y Argentina tiene poca credibilidad
+[983.70-985.70] MINISTRO: como los funcionarios públicos
+[985.70-988.70] MINISTRO: después de tantos años de pisotear contratos,
+[988.70-991.70] MINISTRO: de pisotear estadísticas, todo.
+[991.70-995.70] MINISTRO: El funcionario público tiene poca credibilidad.
+[995.70-997.70] MINISTRO: Entonces, nosotros necesitábamos
+[997.70-1000.70] MINISTRO: ganar esa credibilidad que hoy no hay.
+[1000.70-1002.70] MINISTRO: Entonces, ¿qué tenemos que hacer?
+[1002.70-1004.70] MINISTRO: Mostrar que el ajuste,
+[1004.70-1008.70] MINISTRO: que digamos, el llegar a déficit cero es creíble.
+[1008.70-1009.70] MINISTRO: ¿Sí?
+[1009.70-1011.70] MINISTRO: Y eso es lo que hemos hecho.
+[1011.70-1015.70] MINISTRO: El presidente, el encargo que me hizo fue,
+[1015.70-1016.70] MINISTRO: no se negocia el déficit.
+[1016.70-1018.70] MINISTRO: Vamos a déficit cero
+[1018.70-1021.70] MINISTRO: y hay que tener en cuenta los más necesitados.
+[1021.70-1024.70] MINISTRO: Entonces, tenés razón, sí,
+[1024.70-1029.70] MINISTRO: en ese contexto a ninguno nos gusta subir algún impuesto.
+[1029.70-1032.70] MINISTRO: Pero dentro de lo que se estaba haciendo
+[1032.70-1036.70] MINISTRO: en este paquete de medidas tenía su lógica.
+[1036.70-1039.70] MINISTRO: Si vos le subís el tipo de cambio a un exportador
+[1039.70-1042.70] MINISTRO: de 350 a 800,
+[1042.70-1045.70] MINISTRO: en una situación de tremenda vulnerabilidad,
+[1045.70-1047.70] MINISTRO: como está el país hoy, si te digo, Luis,
+[1047.70-1050.70] MINISTRO: me devolvés 15 de eso que te dice...
+[1050.70-1051.70] OTRO: Es más lógico.
+[1051.70-1052.70] OTRO: ...a la que la gente...
+[1052.70-1054.70] MINISTRO: ¿Y por eso empezaron la liquididad ahora?
+[1054.70-1056.70] MINISTRO: Y por eso están empezando a liquidar, claro.
+[1056.70-1060.70] MINISTRO: Entonces, el Banco Central está recomponiendo resarvas.
+[1060.70-1063.70] MINISTRO: Ya bajó la tasa de interés, como dije,
+[1063.70-1066.70] MINISTRO: el tipo de cambio libre lejos de subir Callo.
+[1066.70-1070.70] MINISTRO: Y hoy estamos volvimos a la brecha de diciembre del 2019.
+[1070.70-1072.70] MINISTRO: Es decir, en una semana se corregieron cuatro años
+[1072.70-1074.70] MINISTRO: de desmanezco cambiario.
+[1074.70-1079.70] MINISTRO: Vamos a la cuestión de bolsillo de las personas.
+[1079.70-1084.70] MINISTRO: Con la fórmula que van a cambiar,
+[1084.70-1087.70] MINISTRO: la fórmula que tenían el gobierno anterior
+[1087.70-1090.70] MINISTRO: de cálculo de aumento de averes,
+[1090.70-1095.70] MINISTRO: ¿va a aumentar el poder adquisitivo de los jubilados
+[1095.70-1100.70] MINISTRO: en un punto 6% anual,
+[1100.70-1102.70] OTRO: comparada a si se la dejaba
+[1102.70-1105.70] OTRO: tal como la había hecho este gobierno o el gobierno anterior?
+[1105.70-1108.70] MINISTRO: Claro, la fórmula anterior,
+[1108.70-1111.70] MINISTRO: estimando lo que hubieran perdido los jubilados
+[1111.70-1114.70] MINISTRO: en los próximos cuatro meses producto de esa fórmula,
+[1114.70-1115.70] MINISTRO: Cuatro meses.
+[1115.70-1121.70] MINISTRO: Sí, aproximadamente, hubiera significado para el FISCO
+[1121.70-1125.70] MINISTRO: un ahorro de dos puntos de déficit.
+[1125.70-1127.70] OTRO: O sea, pagándoles menos a los jubilados.
+[1127.70-1129.70] OTRO: Habían cobrado ellos muchísimo menos,
+[1129.70-1131.70] MINISTRO: aproximadamente un 40% menos.
+[1131.70-1132.70] MINISTRO: Prometido.
+[1132.70-1135.70] MINISTRO: Sí, sobre un nivel que ya está bajo,
+[1135.70-1137.70] MINISTRO: es decir, sobre un nivel de los jubilados
+[1137.70-1140.70] MINISTRO: que ya está bajo, si seguíamos con esa fórmula,
+[1140.70-1142.70] MINISTRO: los jubilados hubieran perdido poder adquisitivo
+[1142.70-1146.70] MINISTRO: más o menos en los próximos meses, en un 40%.
+[1146.70-1148.70] MINISTRO: Esa fórmula es muy mala, Luis.
+[1148.70-1150.70] MINISTRO: Hay que eliminarla, porque como digo,
+[1150.70-1153.70] MINISTRO: cuando la inflación sube, los jubilados pierden y pierden,
+[1153.70-1154.70] MINISTRO: que es lo que ha pasado,
+[1154.70-1157.70] MINISTRO: hasta ahora ha obtenido inflación creciente.
+[1157.70-1160.70] MINISTRO: Cuando la inflación baja por esa misma fórmula,
+[1160.70-1163.70] MINISTRO: también se hace muy difícil controlar el déficit.
+[1163.70-1165.70] MINISTRO: Entonces pierde toda la gente.
+[1165.70-1168.70] MINISTRO: Por eso se está compensando siempre con bonos y demás.
+[1168.70-1169.70] MINISTRO: La realidad es que la fórmula es mala.
+[1169.70-1172.70] MINISTRO: Entonces, saquemosla así, la fórmula es mala y pensemos otra.
+[1172.70-1176.70] MINISTRO: Lo que hicimos por ahora, justamente para no especular,
+[1176.70-1180.70] MINISTRO: fue sacarla ahora, en el momento en que ellos más se iban a perjudicar.
+[1180.70-1182.70] MINISTRO: A partir de abril o de mayo,
+[1182.70-1184.70] MINISTRO: o cuando sea que uno espere que la inflación
+[1184.70-1186.70] MINISTRO: eventualmente pueda empezar a bajar.
+[1186.70-1189.70] MINISTRO: O sea, el gobierno no está especulando, está protegiéndolos.
+[1189.70-1191.70] MINISTRO: Entonces, la sacamos ahora
+[1191.70-1194.70] MINISTRO: y se pensará alguna buena alternativa
+[1194.70-1197.70] MINISTRO: para que yo no haya que lidiar más con estos problemas.
+[1197.70-1204.70] OTRO: Asignación universal por hijo se aumenta el 100%.
+[1204.70-1207.70] OTRO: El tarjeta alimentar un 50%.
+[1207.70-1210.70] MINISTRO: ¿Y con los planes potenciar, qué se hace?
+[1210.70-1213.70] MINISTRO: Los planes potenciar se congelan a hoy.
+[1213.70-1215.70] MINISTRO: O sea, no los estamos eliminando,
+[1215.70-1216.70] MINISTRO: ni mucho menos.
+[1216.70-1218.70] MINISTRO: Lo que estamos diciendo a las provincias es,
+[1218.70-1220.70] MINISTRO: no tenemos plata, es la realidad.
+[1220.70-1222.70] MINISTRO: Mucho menos tiene plata nación.
+[1222.70-1224.70] MINISTRO: Déjame acá que te haga un paréntesis,
+[1224.70-1226.70] MINISTRO: que es importante.
+[1226.70-1231.70] MINISTRO: Argentina gasta más o menos 39 puntos de producto.
+[1231.70-1234.70] MINISTRO: Pero nación de eso, lo que controlamos nosotros,
+[1234.70-1236.70] MINISTRO: son 19.
+[1236.70-1240.70] MINISTRO: Los otros 20 son provincias y municipios.
+[1240.70-1243.70] MINISTRO: Provincias y municipios en su conjunto
+[1243.70-1245.70] MINISTRO: están en equilibrio fiscal.
+[1245.70-1248.70] MINISTRO: Gastan lo mismo que lo que recaudan.
+[1248.70-1250.70] MINISTRO: Es decir, se les da mucha plata.
+[1250.70-1253.70] MINISTRO: De nuevo, provincia y municipios en su conjunto.
+[1253.70-1254.70] OTRO: Exactamente.
+[1254.70-1257.70] OTRO: Solamente distribuyendo correctamente la coparticipación.
+[1257.70-1259.70] OTRO: Malas transferencias, malas transferencias,
+[1259.70-1264.70] MINISTRO: más todos los partidas especiales y demás, están en equilibrio.
+[1264.70-1266.70] OTRO: ¿Alguna provincia será deficitaria?
+[1266.70-1267.70] OTRO: Exactamente.
+[1267.70-1268.70] OTRO: Entiendo.
+[1268.70-1269.70] MINISTRO: ¿Por qué me aclaras eso?
+[1269.70-1274.70] MINISTRO: No, porque te quiero decir que el déficit de los 5.5
+[1274.70-1278.70] MINISTRO: se concentra en los 19 puntos que maneja nación,
+[1278.70-1281.70] MINISTRO: de los cuales 11.1.5 son jubilaciones,
+[1281.70-1285.70] MINISTRO: pensiones, asistencia, que nosotros no queremos cortar.
+[1285.70-1289.70] MINISTRO: Entonces, si le restas a los 19, los 11.5, te quedan 7.5.
+[1289.70-1293.70] MINISTRO: Si yo tengo que cortar 5.5 de los 7.5 no dan las cuentas.
+[1293.70-1297.70] MINISTRO: O sea, no podemos pagar seguridad, salud, nada.
+[1297.70-1299.70] MINISTRO: No podemos hacer prácticamente nada.
+[1299.70-1300.70] OTRO: ¿Qué me quiero decir?
+[1300.70-1305.70] OTRO: Para descongelar los planes sociales,
+[1305.70-1309.70] OTRO: quizás la persona que recibió un plan social
+[1309.70-1312.70] OTRO: o la provincia de San Luis para ser una provincia,
+[1312.70-1315.70] MINISTRO: o Catamarca o la provincia de Buenos Aires,
+[1315.70-1319.70] OTRO: si quiere que esa persona haga ne más,
+[1319.70-1323.70] OTRO: tendrá que aumentarlo por encima de lo que le das voz,
+[1323.70-1324.70] OTRO: cobración.
+[1324.70-1326.70] OTRO: Se entiende lo que quiero decir.
+[1326.70-1327.70] MINISTRO: Totalmente.
+[1327.70-1328.70] MINISTRO: Y lo explicaste bien.
+[1328.70-1330.70] MINISTRO: O sea, de vuelta, no estamos,
+[1330.70-1332.70] MINISTRO: yo la estoy administrando riqueza,
+[1332.70-1334.70] MINISTRO: estoy administrando escasez.
+[1334.70-1338.70] MINISTRO: Entonces, me encantaría que seguir aportando a eso.
+[1338.70-1341.70] MINISTRO: Si la gente que está en la provincia,
+[1341.70-1344.70] MINISTRO: si la gente que está en la provincia,
+[1344.70-1347.70] MINISTRO: si la gente que está en la provincia,
+[1347.70-1350.70] MINISTRO: si la gente que está en la provincia,
+[1350.70-1353.70] MINISTRO: si la gente que está en la provincia,
+[1353.70-1356.70] MINISTRO: si la gente que está en la provincia,
+[1356.70-1359.70] MINISTRO: si la gente que está en la provincia,
+[1359.70-1362.70] MINISTRO: si la gente que está en la provincia,
+[1362.70-1365.70] MINISTRO: si la gente que está en la provincia,
+[1365.70-1367.70] MINISTRO: bueno, es mucho más difícil.
+[1367.70-1369.70] MINISTRO: Ministro, hablando de la provincia,
+[1369.70-1371.70] MINISTRO: el martes se van a reunir con los gobernadores.
+[1371.70-1374.70] MINISTRO: Yo entiendo que lo que quiere hacer entender el gobierno,
+[1374.70-1376.70] MINISTRO: la nación, boja, viernes, leía de los gobernadores,
+[1376.70-1378.70] MINISTRO: no sé si vas a estar en esa reunión,
+[1378.70-1382.70] MINISTRO: es que si se elimina el impuesto de las ganancias,
+[1382.70-1384.70] MINISTRO: el costo político por eliminarlo,
+[1384.70-1387.70] MINISTRO: lo tienen que pagar parejo también,
+[1387.70-1389.70] MINISTRO: que no sea solamente una exición
+[1389.70-1391.70] MINISTRO: del Poder Ejecutivo Nacional,
+[1391.70-1394.70] MINISTRO: porque es un recurso que va a ir a las provincias.
+[1394.70-1396.70] MINISTRO: ¿Ese sería el mensaje político?
+[1396.70-1399.70] MINISTRO: Mi mensaje, en este sentido, es más...
+[1399.70-1400.70] MINISTRO: Simple todavía.
+[1400.70-1403.70] MINISTRO: Sí, más simple o más profundo que eso.
+[1403.70-1406.70] MINISTRO: Hay muchos gobernadores que ya han entendido,
+[1406.70-1408.70] MINISTRO: que estamos frente a un esquema nuevo,
+[1408.70-1411.70] MINISTRO: que la gente entendió el cuento de que, digamos,
+[1411.70-1414.70] MINISTRO: que el problema no es el dólar,
+[1414.70-1416.70] MINISTRO: ni la inflación, ni la deuda,
+[1416.70-1418.70] MINISTRO: sino que es el déficit fiscal.
+[1418.70-1420.70] MINISTRO: Ya no le meten más el perro este.
+[1420.70-1422.70] MINISTRO: La sociedad entendió eso.
+[1422.70-1424.70] MINISTRO: Y hoy está exigiendo eso.
+[1424.70-1427.70] MINISTRO: Entonces, hay algunos políticos que ya, digamos,
+[1427.70-1429.70] MINISTRO: gobernadores que lo han entendido,
+[1429.70-1431.70] MINISTRO: y hay otros por ahí que siguen más con la mentalidad
+[1431.70-1433.70] MINISTRO: de la política de todos estos últimos años,
+[1433.70-1435.70] MINISTRO: deben ir a pedir más plata.
+[1435.70-1437.70] MINISTRO: Más plata no hay.
+[1437.70-1440.70] OTRO: O sea que la solución es que se vuelva
+[1440.70-1442.70] MINISTRO: a instalar el impuesto de las ganancias.
+[1442.70-1446.70] MINISTRO: O que fientice, o que hagan más eficiente su gasto.
+[1446.70-1449.70] MINISTRO: O sea, digamos, si quieren mantener eso,
+[1449.70-1452.70] MINISTRO: un problema deberán ajustar otras partidas
+[1452.70-1455.70] MINISTRO: de vuelta a hacer más eficiente su gasto
+[1455.70-1457.70] MINISTRO: de manera tal de compensar eso.
+[1457.70-1459.70] MINISTRO: No es obligatorio dar vuelta a esto.
+[1459.70-1461.70] MINISTRO: Lo que no se puede es hacer magia.
+[1461.70-1463.70] MINISTRO: ¿Paritarias libres?
+[1463.70-1467.70] MINISTRO: Bueno, digamos, es la idea, ¿sí?
+[1467.70-1471.34] MINISTRO: Claro.
+[1471.34-1473.34] MINISTRO: Sí.
+[1473.34-1475.34] MINISTRO: Se va camino a eso.
+[1475.34-1477.34] MINISTRO: Ahora se están cerrando,
+[1477.34-1480.34] MINISTRO: se cerraron las paritarias bancarias.
+[1480.34-1482.34] MINISTRO: ¿Qué se puede hacer?
+[1482.34-1484.34] MINISTRO: ¿Pero qué se puede hacer?
+[1484.34-1486.34] MINISTRO: ¿Pero qué se puede hacer?
+[1486.34-1488.34] MINISTRO: ¿Pero qué se puede hacer?
+[1488.34-1490.34] MINISTRO: Bueno, es una idea,
+[1490.34-1492.34] MINISTRO: es una idea que se puede hacer.
+[1492.34-1494.34] MINISTRO: ¿Pero qué se puede hacer?
+[1494.34-1496.34] MINISTRO: Bueno, es una idea que se puede hacer.
+[1496.34-1498.34] MINISTRO: ¿Pero qué se puede hacer?
+[1498.34-1500.34] MINISTRO: Bueno, es una idea que se puede hacer.
+[1500.34-1502.34] OTRO: ¿Pero qué se puede hacer?
+[1502.34-1504.34] OTRO: Bueno, es una idea que se puede hacer.
+[1504.34-1506.34] OTRO: ¿Pero qué se puede hacer?
+[1506.34-1508.34] OTRO: Bueno, es una idea que se puede hacer.
+[1508.34-1510.34] OTRO: Bueno, no es ni 3.800.
+[1510.34-1514.34] OTRO: 380.000 regulaciones a nivel nacional.
+[1514.34-1517.34] OTRO: ¿Cuánta pérdida de fuerza productiva representa eso?
+[1517.34-1519.34] OTRO: ¿Lo calcularon?
+[1519.34-1521.34] MINISTRO: No, no tengo el cálculo,
+[1521.34-1524.34] MINISTRO: pero, digamos, lo sufre cada argentino todos los días,
+[1524.34-1527.34] MINISTRO: cada vez que quiera hacer un trámite de algo.
+[1527.34-1529.34] MINISTRO: Ya no es solo el costo en términos de plata,
+[1529.34-1532.34] MINISTRO: es el costo en términos también de tiempo
+[1532.34-1535.34] MINISTRO: y todas esas cosas, digamos,
+[1535.34-1537.34] MINISTRO: que a eso apunta el decreto,
+[1537.34-1539.34] MINISTRO: a eso apunta la ley también,
+[1539.34-1541.34] MINISTRO: a simplificarle la vida a la gente.
+[1541.34-1543.34] MINISTRO: Eso es libertad también, ¿no?
+[1543.34-1548.34] MINISTRO: O sea, es empezar a sacar todas esas trabas
+[1548.34-1551.34] MINISTRO: que joroba el día a día de la gente
+[1551.34-1554.34] MINISTRO: y que la gente está mucho cansadísima de esas cosas.
+[1554.34-1555.34] OTRO: O sea, que no hay que...
+[1555.34-1557.34] OTRO: Además hay mucho corrupción ahí,
+[1557.34-1561.34] OTRO: porque cada administración es un peaje.
+[1561.34-1563.34] MINISTRO: ¿Son qué oscos?
+[1563.34-1565.34] MINISTRO: ¿Eso va a ser el decreto a través de una ley?
+[1565.34-1568.34] OTRO: El paquete de regulaciones.
+[1568.34-1570.34] MINISTRO: ¿Hasta donde se está decidiendo ahora?
+[1570.34-1573.34] MINISTRO: Hay un decreto que incluye este trabajo
+[1573.34-1575.34] MINISTRO: que estaba haciendo Federico.
+[1575.34-1576.34] MINISTRO: Federico.
+[1576.34-1579.34] OTRO: Dice el presidente que es el trabajo que hizo Federico,
+[1579.34-1580.34] OTRO: que es monumental,
+[1580.34-1585.34] OTRO: es un tercio comparado con toda la propuesta de desregulación.
+[1585.34-1587.34] MINISTRO: Sí, sí, es un trabajo bárbaro
+[1587.34-1589.34] MINISTRO: que le ha llevado mucho tiempo,
+[1589.34-1591.34] MINISTRO: pero también se ha llevado mucho tiempo.
+[1591.34-1593.34] MINISTRO: Y, por supuesto,
+[1593.34-1595.34] MINISTRO: la ley se ha llevado mucho tiempo.
+[1595.34-1597.34] MINISTRO: Y, por supuesto,
+[1597.34-1599.34] MINISTRO: la ley se ha llevado mucho tiempo.
+[1599.34-1600.34] MINISTRO: Y, por supuesto,
+[1600.34-1602.34] MINISTRO: la ley se ha llevado mucho tiempo.
+[1602.34-1603.34] MINISTRO: Y, por supuesto,
+[1603.34-1605.34] MINISTRO: la ley se ha llevado mucho tiempo.
+[1605.34-1606.34] MINISTRO: Y, por supuesto,
+[1606.34-1608.34] MINISTRO: la ley se ha llevado mucho tiempo.
+[1608.34-1609.34] MINISTRO: Y, por supuesto,
+[1609.34-1611.34] MINISTRO: la ley se ha llevado mucho tiempo.
+[1611.34-1612.34] MINISTRO: Y, por supuesto,
+[1612.34-1614.34] MINISTRO: la ley se ha llevado mucho tiempo.
+[1614.34-1615.34] MINISTRO: Y, por supuesto,
+[1615.34-1617.34] OTRO: la ley se ha llevado mucho tiempo.
+[1617.34-1619.34] OTRO: ¿Y, por supuesto,
+[1619.34-1621.34] OTRO: la ley se ha llevado mucho tiempo?
+[1621.34-1622.34] OTRO: ¿Y, por supuesto,
+[1622.34-1624.34] OTRO: la ley se ha llevado mucho tiempo?
+[1624.34-1625.34] OTRO: ¿Y, por supuesto,
+[1625.34-1627.34] OTRO: la ley se ha llevado mucho tiempo?
+[1627.34-1628.34] OTRO: ¿Y, por supuesto,
+[1628.34-1630.34] OTRO: la ley se ha llevado mucho tiempo?
+[1630.34-1631.34] OTRO: ¿Y, por supuesto,
+[1631.34-1633.34] OTRO: la ley se ha llevado mucho tiempo?
+[1633.34-1634.34] OTRO: ¿Y, por supuesto,
+[1634.34-1636.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1636.34-1637.34] MINISTRO: ¿Y, por supuesto,
+[1637.34-1639.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1639.34-1640.34] MINISTRO: ¿Y, por supuesto,
+[1640.34-1642.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1642.34-1643.34] MINISTRO: ¿Y, por supuesto,
+[1643.34-1645.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1645.34-1646.34] MINISTRO: ¿Y, por supuesto,
+[1646.34-1648.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1648.34-1649.34] MINISTRO: ¿Y, por supuesto,
+[1649.34-1651.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1651.34-1652.34] MINISTRO: ¿Y, por supuesto,
+[1652.34-1654.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1654.34-1655.34] MINISTRO: ¿Y, por supuesto,
+[1655.34-1657.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1657.34-1658.34] MINISTRO: ¿Y, por supuesto,
+[1658.34-1660.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1660.34-1661.34] MINISTRO: ¿Y, por supuesto,
+[1661.34-1663.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1663.34-1664.34] MINISTRO: ¿Y, por supuesto,
+[1664.34-1666.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1666.34-1667.34] MINISTRO: ¿Y, por supuesto,
+[1667.34-1669.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1669.34-1670.34] MINISTRO: ¿Y, por supuesto,
+[1670.34-1672.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1672.34-1673.34] MINISTRO: ¿Y, por supuesto,
+[1673.34-1675.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1675.34-1676.34] MINISTRO: ¿Y, por supuesto,
+[1676.34-1678.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1678.34-1679.34] MINISTRO: ¿Y, por supuesto,
+[1679.34-1681.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1681.34-1682.34] MINISTRO: ¿Y, por supuesto,
+[1682.34-1684.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1684.34-1685.34] MINISTRO: ¿Y, por supuesto,
+[1685.34-1687.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1687.34-1688.34] MINISTRO: ¿Y, por supuesto,
+[1688.34-1690.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1690.34-1691.34] MINISTRO: ¿Y, por supuesto,
+[1691.34-1693.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1693.34-1694.34] MINISTRO: ¿Y, por supuesto,
+[1694.34-1696.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1696.34-1697.34] MINISTRO: ¿Y, por supuesto,
+[1697.34-1699.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1699.34-1700.34] OTRO: ¿Y, por supuesto,
+[1700.34-1702.34] OTRO: la ley se ha llevado mucho tiempo?
+[1702.34-1703.34] OTRO: ¿Y, por supuesto,
+[1703.34-1705.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1705.34-1706.34] MINISTRO: ¿Y, por supuesto,
+[1706.34-1708.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1708.34-1709.34] MINISTRO: ¿Y, por supuesto,
+[1709.34-1711.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1711.34-1712.34] MINISTRO: ¿Y, por supuesto,
+[1712.34-1714.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1714.34-1715.34] OTRO: ¿Y, por supuesto,
+[1715.34-1717.34] OTRO: la ley se ha llevado mucho tiempo?
+[1717.34-1718.34] OTRO: ¿Y, por supuesto,
+[1718.34-1720.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1720.34-1721.34] MINISTRO: ¿Y, por supuesto,
+[1721.34-1723.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1723.34-1724.34] MINISTRO: ¿Y, por supuesto,
+[1724.34-1726.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1726.34-1727.34] MINISTRO: ¿Y, por supuesto,
+[1727.34-1729.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1729.34-1730.34] MINISTRO: ¿Y, por supuesto,
+[1730.34-1732.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1732.34-1733.34] MINISTRO: ¿Y, por supuesto,
+[1733.34-1735.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1735.34-1736.34] MINISTRO: ¿Y, por supuesto,
+[1736.34-1738.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1738.34-1739.34] OTRO: ¿Y, por supuesto,
+[1739.34-1741.34] OTRO: la ley se ha llevado mucho tiempo?
+[1741.34-1742.34] OTRO: ¿Y, por supuesto,
+[1742.34-1744.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1744.34-1745.34] MINISTRO: ¿Y, por supuesto,
+[1745.34-1747.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1747.34-1748.34] OTRO: ¿Y, por supuesto,
+[1748.34-1750.34] OTRO: la ley se ha llevado mucho tiempo?
+[1750.34-1751.34] OTRO: ¿Y, por supuesto,
+[1751.34-1753.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1753.34-1754.34] MINISTRO: ¿Y, por supuesto,
+[1754.34-1756.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1756.34-1757.34] MINISTRO: ¿Y, por supuesto,
+[1757.34-1759.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1759.34-1760.34] MINISTRO: ¿Y, por supuesto,
+[1760.34-1761.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1761.34-1762.34] MINISTRO: ¿Y, por supuesto,
+[1762.34-1764.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1764.34-1765.34] MINISTRO: ¿Y, por supuesto,
+[1765.34-1767.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1767.34-1768.34] MINISTRO: ¿Y, por supuesto,
+[1768.34-1770.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1770.34-1771.34] MINISTRO: ¿Y, por supuesto,
+[1771.34-1773.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1773.34-1774.34] MINISTRO: ¿Y, por supuesto,
+[1774.34-1776.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1776.34-1777.34] MINISTRO: ¿Y, por supuesto,
+[1777.34-1779.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1779.34-1780.34] MINISTRO: ¿Y, por supuesto,
+[1780.34-1782.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1782.34-1783.34] MINISTRO: ¿Y, por supuesto,
+[1783.34-1785.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1785.34-1786.34] MINISTRO: ¿Y, por supuesto,
+[1786.34-1788.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1788.34-1789.34] OTRO: ¿Y, por supuesto,
+[1789.34-1791.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1791.34-1792.34] MINISTRO: ¿Y, por supuesto,
+[1792.34-1794.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1794.34-1795.34] MINISTRO: ¿Y, por supuesto,
+[1795.34-1797.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1797.34-1798.34] OTRO: ¿Y, por supuesto,
+[1798.34-1800.34] OTRO: la ley se ha llevado mucho tiempo?
+[1800.34-1801.34] OTRO: ¿Y, por supuesto,
+[1801.34-1803.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1803.34-1804.34] MINISTRO: ¿Y, por supuesto,
+[1804.34-1806.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1806.34-1807.34] MINISTRO: ¿Y, por supuesto,
+[1807.34-1809.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1809.34-1810.34] MINISTRO: ¿Y, por supuesto,
+[1810.34-1812.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1812.34-1813.34] MINISTRO: ¿Y, por supuesto,
+[1813.34-1815.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1815.34-1816.34] MINISTRO: ¿Y, por supuesto,
+[1816.34-1818.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1818.34-1819.34] MINISTRO: ¿Y, por supuesto,
+[1819.34-1821.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1821.34-1822.34] MINISTRO: ¿Y, por supuesto,
+[1822.34-1824.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1824.34-1825.34] MINISTRO: ¿Y, por supuesto,
+[1825.34-1827.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1827.34-1828.34] MINISTRO: ¿Y, por supuesto,
+[1828.34-1830.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1830.34-1831.34] MINISTRO: ¿Y, por supuesto,
+[1831.34-1833.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1833.34-1834.34] MINISTRO: ¿Y, por supuesto,
+[1834.34-1836.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1836.34-1837.34] MINISTRO: ¿Y, por supuesto,
+[1837.34-1839.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1839.34-1840.34] MINISTRO: ¿Y, por supuesto,
+[1840.34-1842.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1842.34-1843.34] MINISTRO: ¿Y, por supuesto,
+[1843.34-1845.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1845.34-1846.34] MINISTRO: ¿Y, por supuesto,
+[1846.34-1847.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1847.34-1848.34] MINISTRO: ¿Y, por supuesto,
+[1848.34-1850.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1850.34-1851.34] MINISTRO: ¿Y, por supuesto,
+[1851.34-1853.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1853.34-1854.34] MINISTRO: ¿Y, por supuesto,
+[1854.34-1856.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1856.34-1857.34] MINISTRO: ¿Y, por supuesto,
+[1857.34-1859.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1859.34-1860.34] MINISTRO: ¿Y, por supuesto,
+[1860.34-1862.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1862.34-1863.34] MINISTRO: ¿Y, por supuesto,
+[1863.34-1865.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1865.34-1866.34] MINISTRO: ¿Y, por supuesto,
+[1866.34-1868.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1868.34-1869.34] MINISTRO: ¿Y, por supuesto,
+[1869.34-1871.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1871.34-1872.34] MINISTRO: ¿Y, por supuesto,
+[1872.34-1874.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1874.34-1875.34] MINISTRO: ¿Y, por supuesto,
+[1875.34-1877.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1877.34-1878.34] MINISTRO: ¿Y, por supuesto,
+[1878.34-1880.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1880.34-1881.34] MINISTRO: ¿Y, por supuesto,
+[1881.34-1883.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1883.34-1884.34] MINISTRO: ¿Y, por supuesto,
+[1884.34-1886.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1886.34-1887.34] MINISTRO: ¿Y, por supuesto,
+[1887.34-1889.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1889.34-1890.34] MINISTRO: ¿Y, por supuesto,
+[1890.34-1892.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1892.34-1893.34] MINISTRO: ¿Y, por supuesto,
+[1893.34-1895.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1895.34-1896.34] MINISTRO: ¿Y, por supuesto,
+[1896.34-1898.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1898.34-1899.34] MINISTRO: ¿Y, por supuesto,
+[1899.34-1901.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1901.34-1902.34] MINISTRO: ¿Y, por supuesto,
+[1902.34-1904.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1904.34-1905.34] MINISTRO: ¿Y, por supuesto,
+[1905.34-1907.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1907.34-1908.34] OTRO: ¿Y, por supuesto,
+[1908.34-1910.34] OTRO: la ley se ha llevado mucho tiempo?
+[1910.34-1911.34] OTRO: ¿Y, por supuesto,
+[1911.34-1913.34] OTRO: la ley se ha llevado mucho tiempo?
+[1913.34-1914.34] OTRO: ¿Y, por supuesto,
+[1914.34-1916.34] OTRO: la ley se ha llevado mucho tiempo?
+[1916.34-1917.34] MINISTRO: ¿Y, por supuesto,
+[1917.34-1919.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1919.34-1920.34] OTRO: ¿Y, por supuesto,
+[1920.34-1922.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1922.34-1923.34] MINISTRO: ¿Y, por supuesto,
+[1923.34-1925.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1925.34-1926.34] OTRO: ¿Y, por supuesto,
+[1926.34-1928.34] OTRO: la ley se ha llevado mucho tiempo?
+[1928.34-1929.34] OTRO: ¿Y, por supuesto,
+[1929.34-1931.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1931.34-1932.34] MINISTRO: ¿Y, por supuesto,
+[1932.34-1934.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1934.34-1935.34] MINISTRO: ¿Y, por supuesto,
+[1935.34-1937.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1937.34-1938.34] MINISTRO: ¿Y, por supuesto,
+[1938.34-1940.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1940.34-1941.34] MINISTRO: ¿Y, por supuesto,
+[1941.34-1943.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1943.34-1944.34] MINISTRO: ¿Y, por supuesto,
+[1944.34-1946.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1946.34-1947.34] MINISTRO: ¿Y, por supuesto,
+[1947.34-1949.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1949.34-1950.34] MINISTRO: ¿Y, por supuesto,
+[1950.34-1952.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1952.34-1953.34] MINISTRO: ¿Y, por supuesto,
+[1953.34-1955.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1955.34-1956.34] MINISTRO: ¿Y, por supuesto,
+[1956.34-1958.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1958.34-1959.34] MINISTRO: ¿Y, por supuesto,
+[1959.34-1961.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1961.34-1962.34] MINISTRO: ¿Y, por supuesto,
+[1962.34-1964.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1964.34-1965.34] MINISTRO: ¿Y, por supuesto,
+[1965.34-1967.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1967.34-1968.34] MINISTRO: ¿Y, por supuesto,
+[1968.34-1970.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1970.34-1971.34] MINISTRO: ¿Y, por supuesto,
+[1971.34-1973.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1973.34-1974.34] MINISTRO: ¿Y, por supuesto,
+[1974.34-1976.34] OTRO: la ley se ha llevado mucho tiempo?
+[1976.34-1977.34] OTRO: ¿Y, por supuesto,
+[1977.34-1979.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1979.34-1980.34] MINISTRO: ¿Y, por supuesto,
+[1980.34-1982.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1982.34-1983.34] MINISTRO: ¿Y, por supuesto,
+[1983.34-1985.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1985.34-1986.34] MINISTRO: ¿Y, por supuesto,
+[1986.34-1988.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1988.34-1989.34] MINISTRO: ¿Y, por supuesto,
+[1989.34-1990.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1990.34-1991.34] MINISTRO: ¿Y, por supuesto,
+[1991.34-1993.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1993.34-1994.34] MINISTRO: ¿Y, por supuesto,
+[1994.34-1996.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1996.34-1997.34] MINISTRO: ¿Y, por supuesto,
+[1997.34-1999.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[1999.34-2000.34] MINISTRO: ¿Y, por supuesto,
+[2000.34-2002.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2002.34-2003.34] MINISTRO: ¿Y, por supuesto,
+[2003.34-2005.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2005.34-2006.34] MINISTRO: ¿Y, por supuesto,
+[2006.34-2008.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2008.34-2009.34] OTRO: ¿Y, por supuesto,
+[2009.34-2011.34] OTRO: la ley se ha llevado mucho tiempo?
+[2011.34-2012.34] MINISTRO: ¿Y, por supuesto,
+[2012.34-2014.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2014.34-2015.34] MINISTRO: ¿Y, por supuesto,
+[2015.34-2017.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2017.34-2018.34] MINISTRO: ¿Y, por supuesto,
+[2018.34-2020.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2020.34-2021.34] MINISTRO: ¿Y, por supuesto,
+[2021.34-2023.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2023.34-2024.34] MINISTRO: ¿Y, por supuesto,
+[2024.34-2026.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2026.34-2027.34] MINISTRO: ¿Y, por supuesto,
+[2027.34-2029.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2029.34-2030.34] MINISTRO: ¿Y, por supuesto,
+[2030.34-2032.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2032.34-2033.34] MINISTRO: ¿Y, por supuesto,
+[2033.34-2035.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2035.34-2036.34] MINISTRO: ¿Y, por supuesto,
+[2036.34-2038.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2038.34-2039.34] MINISTRO: ¿Y, por supuesto,
+[2039.34-2041.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2041.34-2042.34] MINISTRO: ¿Y, por supuesto,
+[2042.34-2044.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2044.34-2045.34] MINISTRO: ¿Y, por supuesto,
+[2045.34-2047.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2047.34-2048.34] MINISTRO: ¿Y, por supuesto,
+[2048.34-2050.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2050.34-2051.34] MINISTRO: ¿Y, por supuesto,
+[2051.34-2053.34] OTRO: la ley se ha llevado mucho tiempo?
+[2053.34-2054.34] MINISTRO: ¿Y, por supuesto,
+[2054.34-2056.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2056.34-2057.34] MINISTRO: ¿Y, por supuesto,
+[2057.34-2059.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2059.34-2060.34] MINISTRO: ¿Y, por supuesto,
+[2060.34-2062.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2062.34-2063.34] MINISTRO: ¿Y, por supuesto,
+[2063.34-2065.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2065.34-2066.34] MINISTRO: ¿Y, por supuesto,
+[2066.34-2068.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2068.34-2069.34] MINISTRO: ¿Y, por supuesto,
+[2069.34-2071.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2071.34-2072.34] MINISTRO: ¿Y, por supuesto,
+[2072.34-2074.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2074.34-2075.34] MINISTRO: ¿Y, por supuesto,
+[2075.34-2076.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2076.34-2077.34] MINISTRO: ¿Y, por supuesto,
+[2077.34-2079.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2079.34-2080.34] MINISTRO: ¿Y, por supuesto,
+[2080.34-2082.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2082.34-2083.34] MINISTRO: ¿Y, por supuesto,
+[2083.34-2085.34] OTRO: la ley se ha llevado mucho tiempo?
+[2085.34-2086.34] MINISTRO: ¿Y, por supuesto,
+[2086.34-2088.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2088.34-2089.34] MINISTRO: ¿Y, por supuesto,
+[2089.34-2091.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2091.34-2092.34] MINISTRO: ¿Y, por supuesto,
+[2092.34-2094.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2094.34-2095.34] MINISTRO: ¿Y, por supuesto,
+[2095.34-2097.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2097.34-2098.34] OTRO: ¿Y, por supuesto,
+[2098.34-2100.34] OTRO: la ley se ha llevado mucho tiempo?
+[2100.34-2101.34] MINISTRO: ¿Y, por supuesto,
+[2101.34-2103.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2103.34-2104.34] MINISTRO: ¿Y, por supuesto,
+[2104.34-2106.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2106.34-2107.34] MINISTRO: ¿Y, por supuesto,
+[2107.34-2109.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2109.34-2110.34] MINISTRO: ¿Y, por supuesto,
+[2110.34-2112.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2112.34-2113.34] MINISTRO: ¿Y, por supuesto,
+[2113.34-2115.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2115.34-2116.34] MINISTRO: ¿Y, por supuesto,
+[2116.34-2118.34] OTRO: la ley se ha llevado mucho tiempo?
+[2118.34-2119.34] OTRO: ¿Y, por supuesto,
+[2119.34-2121.34] OTRO: la ley se ha llevado mucho tiempo?
+[2121.34-2122.34] MINISTRO: ¿Y, por supuesto,
+[2122.34-2124.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2124.34-2125.34] MINISTRO: ¿Y, por supuesto,
+[2125.34-2127.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2127.34-2128.34] MINISTRO: ¿Y, por supuesto,
+[2128.34-2130.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2130.34-2131.34] MINISTRO: ¿Y, por supuesto,
+[2131.34-2133.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2133.34-2134.34] MINISTRO: ¿Y, por supuesto,
+[2134.34-2136.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2136.34-2137.34] MINISTRO: ¿Y, por supuesto,
+[2137.34-2139.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2139.34-2140.34] OTRO: ¿Y, por supuesto,
+[2140.34-2142.34] OTRO: la ley se ha llevado mucho tiempo?
+[2142.34-2143.34] OTRO: ¿Y, por supuesto,
+[2143.34-2145.34] OTRO: la ley se ha llevado mucho tiempo?
+[2145.34-2146.34] MINISTRO: ¿Y, por supuesto,
+[2146.34-2148.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2148.34-2149.34] MINISTRO: ¿Y, por supuesto,
+[2149.34-2151.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2151.34-2152.34] OTRO: ¿Y, por supuesto,
+[2152.34-2154.34] OTRO: la ley se ha llevado mucho tiempo?
+[2154.34-2155.34] OTRO: ¿Y, por supuesto,
+[2155.34-2157.34] OTRO: la ley se ha llevado mucho tiempo?
+[2157.34-2158.34] OTRO: ¿Y, por supuesto,
+[2158.34-2160.34] OTRO: la ley se ha llevado mucho tiempo?
+[2160.34-2161.34] MINISTRO: ¿Y, por supuesto,
+[2161.34-2163.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2163.34-2164.34] MINISTRO: ¿Y, por supuesto,
+[2164.34-2166.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2166.34-2167.34] MINISTRO: ¿Y, por supuesto,
+[2167.34-2169.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2169.34-2170.34] MINISTRO: ¿Y, por supuesto,
+[2170.34-2172.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2172.34-2173.34] MINISTRO: ¿Y, por supuesto,
+[2173.34-2175.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2175.34-2176.34] MINISTRO: ¿Y, por supuesto,
+[2176.34-2178.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2178.34-2179.34] MINISTRO: ¿Y, por supuesto,
+[2179.34-2181.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2181.34-2182.34] MINISTRO: ¿Y, por supuesto,
+[2182.34-2184.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2184.34-2185.34] MINISTRO: ¿Y, por supuesto,
+[2185.34-2187.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2187.34-2188.34] MINISTRO: ¿Y, por supuesto,
+[2188.34-2190.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2190.34-2191.34] MINISTRO: ¿Y, por supuesto,
+[2191.34-2193.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2193.34-2194.34] MINISTRO: ¿Y, por supuesto,
+[2194.34-2196.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2196.34-2197.34] MINISTRO: ¿Y, por supuesto,
+[2197.34-2199.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2199.34-2200.34] MINISTRO: ¿Y, por supuesto,
+[2200.34-2202.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2202.34-2203.34] MINISTRO: ¿Y, por supuesto,
+[2203.34-2205.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2205.34-2206.34] MINISTRO: ¿Y, por supuesto,
+[2206.34-2208.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2208.34-2209.34] MINISTRO: ¿Y, por supuesto,
+[2209.34-2211.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2211.34-2212.34] MINISTRO: ¿Y, por supuesto,
+[2212.34-2214.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2214.34-2215.34] MINISTRO: ¿Y, por supuesto,
+[2215.34-2217.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2217.34-2218.34] MINISTRO: ¿Y, por supuesto,
+[2218.34-2220.34] MINISTRO: la ley se ha llevado mucho tiempo?
+[2220.34-2221.34] MINISTRO: ¿Y, por supuesto,
+[2221.34-2226.22] OTRO: la ley se ha llevado mucho tiempo?
+[2226.22-2227.22] OTRO: ¿Y, por supuesto,
+[2227.22-2229.22] OTRO: la ley se ha llevado mucho tiempo?
+[2229.22-2230.22] MINISTRO: ¿Y, por supuesto,
+[2230.22-2232.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2232.22-2233.22] MINISTRO: ¿Y, por supuesto,
+[2233.22-2235.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2235.22-2236.22] MINISTRO: ¿Y, por supuesto,
+[2236.22-2238.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2238.22-2239.22] MINISTRO: ¿Y, por supuesto,
+[2239.22-2241.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2241.22-2242.22] MINISTRO: ¿Y, por supuesto,
+[2242.22-2244.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2244.22-2245.22] MINISTRO: ¿Y, por supuesto,
+[2245.22-2247.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2247.22-2248.22] MINISTRO: ¿Y, por supuesto,
+[2248.22-2250.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2250.22-2251.22] MINISTRO: ¿Y, por supuesto,
+[2251.22-2253.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2253.22-2254.22] MINISTRO: ¿Y, por supuesto,
+[2254.22-2256.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2256.22-2257.22] MINISTRO: ¿Y, por supuesto,
+[2257.22-2259.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2259.22-2260.22] MINISTRO: ¿Y, por supuesto,
+[2260.22-2262.22] MINISTRO: la ley se ha llevado mucho tiempo?
+[2262.22-2263.22] UNK: ¿Y, por supuesto,
+[2263.22-2265.22] UNK: la ley se ha llevado mucho tiempo?
+[2265.22-2266.22] UNK: ¿Y, por supuesto,
+[2266.22-2268.22] UNK: la ley se ha llevado mucho tiempo?
+[2268.22-2269.22] UNK: ¿Y, por supuesto,
+[2269.22-2271.22] UNK: la ley se ha llevado mucho tiempo?
+[2271.22-2272.22] UNK: ¿Y, por supuesto,
+[2272.22-2274.22] UNK: la ley se ha llevado mucho tiempo?
+[2274.22-2275.22] UNK: ¿Y, por supuesto,
+[2275.22-2277.22] UNK: la ley se ha llevado mucho tiempo?
+[2277.22-2278.22] UNK: ¿Y, por supuesto,

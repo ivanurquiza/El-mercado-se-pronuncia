@@ -1,0 +1,621 @@
+{"start": 0.0, "end": 5.08, "text": "Ministro, muchísimas gracias por recibirnos especialmente un domingo, sabemos que usted trata de descansar,", "avg_logprob": -0.2364734627983787, "no_speech_prob": 0.12046711891889572}
+{"start": 5.08, "end": 7.44, "text": "así que lo agradecemos doblemente. Al contrario.", "avg_logprob": -0.2364734627983787, "no_speech_prob": 0.12046711891889572}
+{"start": 7.44, "end": 13.92, "text": "Bueno, quiero ir al grano sobre cosas de las que supuestamente está hablando el mercado", "avg_logprob": -0.2364734627983787, "no_speech_prob": 0.12046711891889572}
+{"start": 13.92, "end": 20.92, "text": "y le preocupan a la gente aún con no tanta información técnica, pero que le preocupan.", "avg_logprob": -0.2364734627983787, "no_speech_prob": 0.12046711891889572}
+{"start": 20.92, "end": 23.8, "text": "¿Por qué usted y el presidente también creo que lo ha dicho?", "avg_logprob": -0.2364734627983787, "no_speech_prob": 0.12046711891889572}
+{"start": 23.8, "end": 29.2, "text": "Dice que no hay suficiente peso para correr al dólar, para que haya una corrida", "avg_logprob": -0.2364734627983787, "no_speech_prob": 0.12046711891889572}
+{"start": 29.28, "end": 32.08, "text": "y hacernos subir considerablemente.", "avg_logprob": -0.20197633953175992, "no_speech_prob": 0.0016964325914159417}
+{"start": 32.08, "end": 35.92, "text": "Y al mismo tiempo, en las últimas jornadas, creo que diez jornadas,", "avg_logprob": -0.20197633953175992, "no_speech_prob": 0.0016964325914159417}
+{"start": 35.92, "end": 39.68, "text": "el Banco Central gastó 1.700 millones de dólares.", "avg_logprob": -0.20197633953175992, "no_speech_prob": 0.0016964325914159417}
+{"start": 39.68, "end": 42.84, "text": "Entiendo que para tratar de contenerlo. ¿Por qué?", "avg_logprob": -0.20197633953175992, "no_speech_prob": 0.0016964325914159417}
+{"start": 42.84, "end": 44.88, "text": "Aún una diferencia importante ahí.", "avg_logprob": -0.20197633953175992, "no_speech_prob": 0.0016964325914159417}
+{"start": 44.88, "end": 48.2, "text": "No, no, no gastó 1.700 millones conteniendo al dólar.", "avg_logprob": -0.20197633953175992, "no_speech_prob": 0.0016964325914159417}
+{"start": 48.2, "end": 55.28, "text": "Eso es lo que se gasta entre la diferencia de lo que se llama el mercado único y libre de cambios.", "avg_logprob": -0.20197633953175992, "no_speech_prob": 0.0016964325914159417}
+{"start": 55.36, "end": 58.16, "text": "O sea, está obligado al Banco Central.", "avg_logprob": -0.24921351841517858, "no_speech_prob": 0.1311916559934616}
+{"start": 58.16, "end": 62.44, "text": "Si hay más exportaciones que importaciones, el Banco Central compra,", "avg_logprob": -0.24921351841517858, "no_speech_prob": 0.1311916559934616}
+{"start": 62.44, "end": 66.52, "text": "como compramos 25 mil millones de dólares en los últimos 14 meses.", "avg_logprob": -0.24921351841517858, "no_speech_prob": 0.1311916559934616}
+{"start": 67.8, "end": 70.76, "text": "En los últimos 10 días no es que estamos interveniendo.", "avg_logprob": -0.24921351841517858, "no_speech_prob": 0.1311916559934616}
+{"start": 70.8, "end": 74.68, "text": "Es que hay más, digamos, importaciones que exportaciones.", "avg_logprob": -0.24921351841517858, "no_speech_prob": 0.1311916559934616}
+{"start": 74.68, "end": 77.08, "text": "Esto es, sabíamos perfecto que iba a pasar.", "avg_logprob": -0.24921351841517858, "no_speech_prob": 0.1311916559934616}
+{"start": 77.32, "end": 80.96, "text": "Perdón, y hay más importaciones que exportaciones,", "avg_logprob": -0.24921351841517858, "no_speech_prob": 0.1311916559934616}
+{"start": 81.28, "end": 85.84, "text": "porque los que importan prefieren hacerlo cuando tengan el panorama más claro", "avg_logprob": -0.2865132714106032, "no_speech_prob": 0.018360532820224762}
+{"start": 85.84, "end": 88.16, "text": "y se sepa el acuerdo con el panorama.", "avg_logprob": -0.2865132714106032, "no_speech_prob": 0.018360532820224762}
+{"start": 88.16, "end": 90.68, "text": "Y los importadores quieren importar más rápido.", "avg_logprob": -0.2865132714106032, "no_speech_prob": 0.018360532820224762}
+{"start": 90.68, "end": 95.24, "text": "Sí, también hubo un reacomodamiento de portafolio de Banco.", "avg_logprob": -0.2865132714106032, "no_speech_prob": 0.018360532820224762}
+{"start": 95.24, "end": 97.56, "text": "Las dos cosas, pero es algo que esperábamos.", "avg_logprob": -0.2865132714106032, "no_speech_prob": 0.018360532820224762}
+{"start": 97.56, "end": 99.08, "text": "Un reacomodamiento de portafolio de Banco.", "avg_logprob": -0.2865132714106032, "no_speech_prob": 0.018360532820224762}
+{"start": 99.08, "end": 102.4, "text": "Sí, también. Pero es algo que esperábamos absolutamente,", "avg_logprob": -0.2865132714106032, "no_speech_prob": 0.018360532820224762}
+{"start": 102.4, "end": 105.52, "text": "porque con la ley nueva esta,", "avg_logprob": -0.2865132714106032, "no_speech_prob": 0.018360532820224762}
+{"start": 106.28, "end": 110.64, "text": "Guzmán, yo se lo dije al fondo, se lo dije al presidencial.", "avg_logprob": -0.280228763156467, "no_speech_prob": 0.03313528001308441}
+{"start": 110.64, "end": 112.36, "text": "Ya sabíamos todos que iba a pasar.", "avg_logprob": -0.280228763156467, "no_speech_prob": 0.03313528001308441}
+{"start": 112.36, "end": 114.52, "text": "Oye, perdón, quiero interrumpir, no quiero precisar.", "avg_logprob": -0.280228763156467, "no_speech_prob": 0.03313528001308441}
+{"start": 114.52, "end": 118.92, "text": "La ley Guzmán es la que le impone al gobierno pasar por el Congreso", "avg_logprob": -0.280228763156467, "no_speech_prob": 0.03313528001308441}
+{"start": 119.16, "end": 121.2, "text": "antes de firmar cualquier acuerdo con el gobierno.", "avg_logprob": -0.280228763156467, "no_speech_prob": 0.03313528001308441}
+{"start": 121.2, "end": 126.12, "text": "Entonces se genera un período de incertidumbre entre que entre, en este caso,", "avg_logprob": -0.280228763156467, "no_speech_prob": 0.03313528001308441}
+{"start": 126.12, "end": 130.16, "text": "el DNU y la aprobación de el fondo,", "avg_logprob": -0.280228763156467, "no_speech_prob": 0.03313528001308441}
+{"start": 130.16, "end": 133.12, "text": "donde nosotros como funcionarios no podemos decir nada.", "avg_logprob": -0.280228763156467, "no_speech_prob": 0.03313528001308441}
+{"start": 133.76, "end": 140.08, "text": "Y entonces la oposición, algunos colegas tuyos y demás aprovechan", "avg_logprob": -0.2355175430613353, "no_speech_prob": 0.005851214285939932}
+{"start": 140.96, "end": 145.04, "text": "para generar incertidumbre en la gente en un tema sensible.", "avg_logprob": -0.2355175430613353, "no_speech_prob": 0.005851214285939932}
+{"start": 145.04, "end": 147.2, "text": "Entonces, ¿qué termina pasando en la práctica?", "avg_logprob": -0.2355175430613353, "no_speech_prob": 0.005851214285939932}
+{"start": 147.2, "end": 151.8, "text": "Y bueno, ante la duda, por ahí unos importadores aceleran importaciones.", "avg_logprob": -0.2355175430613353, "no_speech_prob": 0.005851214285939932}
+{"start": 152.12, "end": 155.72, "text": "Los exportadores retienen y no liquidan.", "avg_logprob": -0.2355175430613353, "no_speech_prob": 0.005851214285939932}
+{"start": 155.72, "end": 158.76, "text": "Y eso provoca que el Banco central te haya que comprar el dólar.", "avg_logprob": -0.2355175430613353, "no_speech_prob": 0.005851214285939932}
+{"start": 158.76, "end": 159.44, "text": "Pero no es un problema.", "avg_logprob": -0.2355175430613353, "no_speech_prob": 0.005851214285939932}
+{"start": 159.44, "end": 160.24, "text": "Y que bajen las reservas.", "avg_logprob": -0.2355175430613353, "no_speech_prob": 0.005851214285939932}
+{"start": 160.24, "end": 161.64, "text": "Claro, pero no es un problema,", "avg_logprob": -0.2355175430613353, "no_speech_prob": 0.005851214285939932}
+{"start": 161.68, "end": 165.6, "text": "porque el importador que adelanta esa importación,", "avg_logprob": -0.2462970605537073, "no_speech_prob": 0.002733528381213546}
+{"start": 166.16, "end": 169.44, "text": "mañana no lo va a tener que volver a importar.", "avg_logprob": -0.2462970605537073, "no_speech_prob": 0.002733528381213546}
+{"start": 169.44, "end": 172.52, "text": "O sea, y el exportador que retuvo va a tener que liquidar.", "avg_logprob": -0.2462970605537073, "no_speech_prob": 0.002733528381213546}
+{"start": 172.52, "end": 174.52, "text": "Entonces, las reservas que estás pariendo ahora,", "avg_logprob": -0.2462970605537073, "no_speech_prob": 0.002733528381213546}
+{"start": 174.52, "end": 177.12, "text": "cuando hagamos el acuerdo con el fondo se van a recuperar.", "avg_logprob": -0.2462970605537073, "no_speech_prob": 0.002733528381213546}
+{"start": 177.12, "end": 179.24, "text": "Se van a recuperar en los siguientes días.", "avg_logprob": -0.2462970605537073, "no_speech_prob": 0.002733528381213546}
+{"start": 179.24, "end": 181.12, "text": "Así que no es una preocupación.", "avg_logprob": -0.2462970605537073, "no_speech_prob": 0.002733528381213546}
+{"start": 182.28, "end": 183.28, "text": "Entiendo.", "avg_logprob": -0.2462970605537073, "no_speech_prob": 0.002733528381213546}
+{"start": 184.12, "end": 187.88, "text": "¿Por qué, si ante la nueva emisión,", "avg_logprob": -0.2462970605537073, "no_speech_prob": 0.002733528381213546}
+{"start": 187.92, "end": 191.6, "text": "usted sigue diciendo que no hay suficiente peso para correr al dólar,", "avg_logprob": -0.2462970605537073, "no_speech_prob": 0.002733528381213546}
+{"start": 191.6, "end": 192.6, "text": "¿no?", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 192.6, "end": 195.6, "text": "Usted y el presidente, el jueves lo entrevisté,", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 195.6, "end": 197.6, "text": "no hay suficiente peso para correr al dólar.", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 197.6, "end": 199.6, "text": "No, no, es una realidad práctica.", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 199.6, "end": 200.6, "text": "¿De acuerdo?", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 200.6, "end": 204.6, "text": "Necesitamos de dólares del fondo para que la economía se ponga mejor.", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 204.6, "end": 210.6, "text": "Es así, ¿pues te acordás que en junio, julio del año pasado", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 210.6, "end": 212.6, "text": "me entrevistaste cuando el dólar estaba a 1.400?", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 212.6, "end": 213.6, "text": "Yo me acuerdo.", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 213.6, "end": 215.6, "text": "Te acuerdas de que todos decían que el dólar se iba a 2.000?", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 215.6, "end": 217.6, "text": "A 2.000, 1.800.", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 217.6, "end": 218.6, "text": "¿Te acordás lo que te contesté?", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 218.6, "end": 219.6, "text": "No.", "avg_logprob": -0.2792222817738851, "no_speech_prob": 0.00037468253867700696}
+{"start": 219.6, "end": 220.6, "text": "Ah, bueno.", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 220.6, "end": 221.6, "text": "Te dije, no.", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 221.6, "end": 225.6, "text": "Mira, este es un esquema monetario y fiscal tan robusto", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 225.6, "end": 227.6, "text": "que puede haber volatilidad, te dije.", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 227.6, "end": 229.6, "text": "Pero no puede haber simbronazo.", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 229.6, "end": 230.6, "text": "Es más, te dije.", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 231.6, "end": 236.6, "text": "Lo más probable que suceda es que el dólar de 1.400,", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 236.6, "end": 239.6, "text": "el contado con Ricky, converja al oficial.", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 240.6, "end": 241.6, "text": "Me mataron.", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 241.6, "end": 244.6, "text": "En general, digamos, no soy de dar pronósticos.", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 244.6, "end": 245.6, "text": "Pero ¿por qué?", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 245.6, "end": 248.6, "text": "Porque eso es la robustez de este esquema.", "avg_logprob": -0.1194136021313844, "no_speech_prob": 0.004340016283094883}
+{"start": 248.6, "end": 249.6, "text": "O sea, ¿vuelan a que lidiar?", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 249.6, "end": 252.6, "text": "Como dijo el presidente el 1 de mayo en la partidura de las hechones,", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 252.6, "end": 255.6, "text": "va a haber siempre y pasan todos los países del mundo.", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 255.6, "end": 257.6, "text": "¿Vuelo que tenés que tener en el islam macroeconomía?", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 257.6, "end": 261.6, "text": "Lo suficientemente ordenada para que no haya simbronazos.", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 261.6, "end": 263.6, "text": "Acá no hay posibilidad de simbronazos,", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 263.6, "end": 265.6, "text": "eso es lo que le quieren hacer creer a la gente.", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 265.6, "end": 266.6, "text": "Eso no va a pasar.", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 266.6, "end": 268.6, "text": "¿Cuando hablamos de simbronazo se perdonó?", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 268.6, "end": 269.6, "text": "Te hago una referencia más.", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 269.6, "end": 270.6, "text": "¿Cómo no?", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 270.6, "end": 275.6, "text": "Ese 1.400 de hace 9 meses es el equivalente de 1.600 de hoy.", "avg_logprob": -0.2539420714143847, "no_speech_prob": 0.004722253419458866}
+{"start": 275.6, "end": 278.6, "text": "Entonces, pues fíjate que hoy hay muchos militando corrida,", "avg_logprob": -0.16002881249716117, "no_speech_prob": 0.0052559999749064445}
+{"start": 278.6, "end": 281.6, "text": "porque el dólar vale 1.300.", "avg_logprob": -0.16002881249716117, "no_speech_prob": 0.0052559999749064445}
+{"start": 281.6, "end": 282.6, "text": "¿Militando corrida?", "avg_logprob": -0.16002881249716117, "no_speech_prob": 0.0052559999749064445}
+{"start": 282.6, "end": 283.6, "text": "Sí, claro.", "avg_logprob": -0.16002881249716117, "no_speech_prob": 0.0052559999749064445}
+{"start": 283.6, "end": 286.6, "text": "Que es un 15% arriba de cuando nosotros llegamos", "avg_logprob": -0.16002881249716117, "no_speech_prob": 0.0052559999749064445}
+{"start": 286.6, "end": 290.6, "text": "y lo veían en 2000, 3000, 4000, 8000.", "avg_logprob": -0.16002881249716117, "no_speech_prob": 0.0052559999749064445}
+{"start": 290.6, "end": 293.6, "text": "O sea, corrida, lo que le pasó al gobierno anterior,", "avg_logprob": -0.16002881249716117, "no_speech_prob": 0.0052559999749064445}
+{"start": 293.6, "end": 296.6, "text": "que arrancó con un dólar de 60,", "avg_logprob": -0.16002881249716117, "no_speech_prob": 0.0052559999749064445}
+{"start": 296.6, "end": 299.6, "text": "con una herencia que al lado de lo que nosotros recibimos", "avg_logprob": -0.16002881249716117, "no_speech_prob": 0.0052559999749064445}
+{"start": 299.6, "end": 301.6, "text": "era a Disneylandia.", "avg_logprob": -0.16002881249716117, "no_speech_prob": 0.0052559999749064445}
+{"start": 301.6, "end": 307.6, "text": "Y sabes que en apenas 10 meses se le había ido de 60 a 180.", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 307.6, "end": 311.6, "text": "¿Sí? O sea, había subido 200%", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 311.6, "end": 314.6, "text": "Acá subió 15% en 10 meses.", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 314.6, "end": 317.6, "text": "Usted lo que me quiere decir es que el dólar en la Argentina", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 317.6, "end": 320.6, "text": "no se va a disparar y no va a haber una devaluación brunca", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 320.6, "end": 321.6, "text": "y desionada.", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 321.6, "end": 322.6, "text": "De ninguna manera.", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 322.6, "end": 323.6, "text": "Ok.", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 323.6, "end": 326.6, "text": "Y me está diciendo que yo no quisiera ser tan fino", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 326.6, "end": 328.6, "text": "con los números,", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 328.6, "end": 330.6, "text": "primero porque no sé cómo me esté,", "avg_logprob": -0.1974927917007328, "no_speech_prob": 0.0031170067377388477}
+{"start": 330.6, "end": 332.6, "text": "pero no sé cómo me voy a generar una insertidumbre", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 332.6, "end": 333.6, "text": "donde no la hay.", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 333.6, "end": 335.6, "text": "Este dólar, que es el equi...", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 335.6, "end": 336.6, "text": "Este dólar de 1.300.", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 336.6, "end": 339.6, "text": "Es un dólar que a lo sumo con esta volatilidad", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 339.6, "end": 341.6, "text": "que se pueda registrar", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 341.6, "end": 343.6, "text": "hasta el momento en que se firme el acuerdo", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 343.6, "end": 345.6, "text": "y puedan anunciar algunos de los detalles,", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 345.6, "end": 347.6, "text": "no se va a ir a una cifra loca.", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 347.6, "end": 348.6, "text": "¿No?", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 348.6, "end": 350.6, "text": "No importa el cortísimo...", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 350.6, "end": 351.6, "text": "No, eso sí, pero digamos,", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 351.6, "end": 353.6, "text": "no importa el corto plazo acá.", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 353.6, "end": 356.6, "text": "Yo siempre machaco en algo.", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 356.6, "end": 359.6, "text": "Que es que las cosas en economía", "avg_logprob": -0.23437740850302338, "no_speech_prob": 0.002252431819215417}
+{"start": 359.6, "end": 360.6, "text": "pasan por algo.", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 360.6, "end": 362.6, "text": "Argentina no tuvo siempre defaults", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 362.6, "end": 365.6, "text": "y devaluaciones porque sí.", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 365.6, "end": 368.6, "text": "Eso es producto de que se hacían las cosas mal.", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 368.6, "end": 370.6, "text": "Cuando la gente dice, ya la vimos,", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 370.6, "end": 371.6, "text": "yo insisto, no vieron nada,", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 371.6, "end": 374.6, "text": "porque esto en Argentina no se hace a 620 años.", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 374.6, "end": 376.6, "text": "¿Este sigue siendo objeto distinto?", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 376.6, "end": 377.6, "text": "No, no, no lo digo yo.", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 377.6, "end": 379.6, "text": "Vienen los premios nuevos,", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 379.6, "end": 380.6, "text": "los más importantes del mundo", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 380.6, "end": 382.6, "text": "y nos piden que excregamos un libro.", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 382.6, "end": 384.6, "text": "O sea, se está estudiando", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 384.6, "end": 386.6, "text": "en las mejores universidades del mundo.", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 386.6, "end": 387.6, "text": "O sea, no es que lo digo yo.", "avg_logprob": -0.15606429142022282, "no_speech_prob": 0.0058275251649320126}
+{"start": 387.6, "end": 390.6, "text": "Lo dicen los tipos que más saben de economía en el mundo.", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 390.6, "end": 392.6, "text": "O sea, esto que hicimos nosotros", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 392.6, "end": 394.6, "text": "no se hizo en 120 años.", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 394.6, "end": 397.6, "text": "Y en Argentina no lo vio absolutamente nadie.", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 397.6, "end": 398.6, "text": "No puede pasar.", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 398.6, "end": 401.6, "text": "Lo del fondo no tiene nada que ver", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 401.6, "end": 403.6, "text": "con acuerdos anteriores.", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 403.6, "end": 405.6, "text": "Porque primero, nosotros ya veníamos de un acuerdo.", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 405.6, "end": 408.6, "text": "Esto es importante aclararlo.", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 408.6, "end": 409.6, "text": "¿Y el acuerdo del gobierno anterior?", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 409.6, "end": 410.6, "text": "El acuerdo del gobierno anterior", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 410.6, "end": 412.6, "text": "que estaba completamente caído.", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 412.6, "end": 414.6, "text": "Porque no habían cumplido ninguna meta.", "avg_logprob": -0.13251567902890118, "no_speech_prob": 0.0018413756042718887}
+{"start": 415.6, "end": 418.6, "text": "Nosotros teníamos la opción de ir a un acuerdo nuevo.", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 418.6, "end": 422.6, "text": "O de seguir con ese acuerdo viejo.", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 422.6, "end": 424.6, "text": "No hicimos ninguna de las dos.", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 424.6, "end": 426.6, "text": "No fuimos un acuerdo nuevo.", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 426.6, "end": 428.6, "text": "Porque sabíamos que si le decíamos al fondo", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 428.6, "end": 429.6, "text": "lo que queríamos hacer,", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 429.6, "end": 431.6, "text": "que de hecho lo hicimos,", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 431.6, "end": 433.6, "text": "obviamente iban a dudar de que eso era posible.", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 433.6, "end": 434.6, "text": "Como dudaban.", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 434.6, "end": 435.6, "text": "O sea, no, para,", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 435.6, "end": 437.6, "text": "no van a poder mantener un equilibrio fiscal.", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 437.6, "end": 440.6, "text": "Van a poner tasa de interés real negativa.", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 440.6, "end": 442.6, "text": "Eso se les va a ir al dólar.", "avg_logprob": -0.15682317347576222, "no_speech_prob": 0.011301481164991856}
+{"start": 442.6, "end": 444.6, "text": "Entonces, como sabemos que no lo hicimos", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 444.6, "end": 446.6, "text": "a convencer para que nos pudieran dar", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 446.6, "end": 448.6, "text": "nueva plata y recapitalizar al banco central.", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 448.6, "end": 449.6, "text": "¿Qué hiciera?", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 449.6, "end": 450.6, "text": "Estaba la otra opción,", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 450.6, "end": 452.6, "text": "que era revivir el programa viejo.", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 452.6, "end": 453.6, "text": "Ahora, el programa viejo,", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 453.6, "end": 454.6, "text": "las metas que tenía,", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 454.6, "end": 457.6, "text": "nos llevaban a una hiperinflación igual.", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 457.6, "end": 459.6, "text": "Entonces, nosotros nos pusimos metas", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 459.6, "end": 460.6, "text": "mucho más fuertes,", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 460.6, "end": 462.6, "text": "mucho más ambiciosas.", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 462.6, "end": 464.6, "text": "Este es un programa que habíamos diseñado", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 464.6, "end": 465.6, "text": "estando en el sector privado.", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 465.6, "end": 467.6, "text": "Y lo llevamos a la práctica", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 467.6, "end": 468.6, "text": "desde el primer día.", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 468.6, "end": 469.6, "text": "Perdón, ministro,", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 469.6, "end": 470.6, "text": "usted dice,", "avg_logprob": -0.1281670615250288, "no_speech_prob": 0.009115203283727169}
+{"start": 470.6, "end": 472.6, "text": "y la propuesta es", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 472.6, "end": 474.6, "text": "ir a este acuerdo con el equilibrio fiscal.", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 474.6, "end": 476.6, "text": "Eso, o con su perávitica.", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 476.6, "end": 478.6, "text": "Claro, te dio lo que terminó.", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 478.6, "end": 479.6, "text": "¿Qué distinto sería?", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 479.6, "end": 481.6, "text": "Qué fue lo que pasó en la práctica.", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 481.6, "end": 483.6, "text": "Nosotros llevamos a la práctica", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 483.6, "end": 485.6, "text": "nuestro propio programa.", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 485.6, "end": 487.6, "text": "Y le fuimos mostrando al fondo", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 487.6, "end": 489.6, "text": "y al mundo que teníamos razón.", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 489.6, "end": 491.6, "text": "Que todos lo que pensaban", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 491.6, "end": 492.6, "text": "que era imposible que mantuvieramos", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 492.6, "end": 494.6, "text": "el equilibrio fiscal era posible.", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 494.6, "end": 497.6, "text": "Que bajáramos la inflación era posible.", "avg_logprob": -0.18602272389190538, "no_speech_prob": 0.00541897164657712}
+{"start": 497.6, "end": 500.6, "text": "Que no devaluáramos era posible.", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 500.6, "end": 502.6, "text": "Entonces, para septiembre de octubre", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 502.6, "end": 504.6, "text": "le dijimos al fondo.", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 504.6, "end": 507.6, "text": "Nosotros podemos continuar con nuestro programa.", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 507.6, "end": 509.6, "text": "O ustedes pueden", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 509.6, "end": 512.6, "text": "subirse, darnos una mano", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 512.6, "end": 515.6, "text": "y, digamos, acelerar el proceso este.", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 515.6, "end": 516.6, "text": "La continuidad,", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 516.6, "end": 518.6, "text": "si nosotros hubiéramos seguido por nuestra cuenta", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 518.6, "end": 520.6, "text": "hubiera sido como hasta ahora", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 520.6, "end": 522.6, "text": "ir recomprando reservas", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 522.6, "end": 524.6, "text": "para capitalizar a lo anco central", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 524.6, "end": 525.6, "text": "gradualmente.", "avg_logprob": -0.14810893841150427, "no_speech_prob": 0.014107800088822842}
+{"start": 526.6, "end": 529.6, "text": "Siendo al fondo, la diferencia está en que ahora...", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 529.6, "end": 530.6, "text": "¿En que lo hacemos más rápido?", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 530.6, "end": 531.6, "text": "Claro, en que lo hacemos más rápido.", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 531.6, "end": 532.6, "text": "Pero no es deuda nueva.", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 532.6, "end": 534.6, "text": "Estamos reemplazando", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 534.6, "end": 536.6, "text": "lo que hizo el quisnerismo", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 536.6, "end": 540.6, "text": "allá por el 2011, 2012, 2013, 2014", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 540.6, "end": 543.6, "text": "que emitía letras instranferibles", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 543.6, "end": 547.6, "text": "para sacarle los dólares al banco central.", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 547.6, "end": 549.6, "text": "Entonces, vos tenes el banco...", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 549.6, "end": 550.6, "text": "Le volví a papelitos.", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 550.6, "end": 552.6, "text": "Le daba un papelito que decían a letra.", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 552.6, "end": 553.6, "text": "¿Entonces, que el banco central", "avg_logprob": -0.2805527314333848, "no_speech_prob": 0.003262763610109687}
+{"start": 553.6, "end": 554.6, "text": "no la puede monetizar?", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 554.6, "end": 555.6, "text": "Es intransferible.", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 555.6, "end": 558.6, "text": "O sea, no puede hacer nada con eso.", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 558.6, "end": 561.6, "text": "¿Y cómo quedaba el balance", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 561.6, "end": 563.6, "text": "en ese momento y a posteriori", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 563.6, "end": 565.6, "text": "del banco central?", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 565.6, "end": 567.6, "text": "El balance del banco central es importante", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 567.6, "end": 569.6, "text": "entenderlo porque", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 569.6, "end": 571.6, "text": "los pesos que el banco central emite", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 571.6, "end": 573.6, "text": "es la deuda con la gente.", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 573.6, "end": 576.6, "text": "Sí, como diría bien el profesor de Pablo,", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 576.6, "end": 578.6, "text": "cumplir con ese compromiso es un tema moral.", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 578.6, "end": 580.6, "text": "Y eso es la que la política", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 580.6, "end": 581.6, "text": "despreció siempre.", "avg_logprob": -0.14367872294578843, "no_speech_prob": 0.014510620385408401}
+{"start": 581.6, "end": 583.6, "text": "Entonces, ¿qué hizo el quisnerismo", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 583.6, "end": 584.6, "text": "en su momento?", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 584.6, "end": 587.6, "text": "Le sacaba el respaldo a esos pesos.", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 587.6, "end": 589.6, "text": "Le sacaba todos los dólares.", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 589.6, "end": 591.6, "text": "Se les llevó 120 mil millones de dólares.", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 591.6, "end": 593.6, "text": "De hecho, les gustan verlo en términos de acuerdo", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 593.6, "end": 594.6, "text": "con el fondo.", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 594.6, "end": 595.6, "text": "Se acuerdan tres acuerdos con el fondo.", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 595.6, "end": 597.6, "text": "Y por otro lado, como tenía déficit,", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 597.6, "end": 599.6, "text": "emitía pesos a Mansalva.", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 599.6, "end": 601.6, "text": "Entonces, cada vez había más deuda", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 601.6, "end": 603.6, "text": "y cada vez había menos respaldo.", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 603.6, "end": 605.6, "text": "Al punto que cuando llegamos nosotros", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 605.6, "end": 607.6, "text": "había", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 607.6, "end": 610.6, "text": "casi cuatro bases monetarias", "avg_logprob": -0.1892776678999265, "no_speech_prob": 0.0071906135417521}
+{"start": 610.6, "end": 611.6, "text": "en Pasivo Oranjez.", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 611.6, "end": 613.6, "text": "Había una sobreabundancia de pesos únicas.", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 613.6, "end": 616.6, "text": "Imprimieron 13 puntos de producto", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 616.6, "end": 618.6, "text": "en el último año.", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 618.6, "end": 620.6, "text": "Y ya no es que no había reservas", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 620.6, "end": 621.6, "text": "en el banco central.", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 621.6, "end": 623.6, "text": "Había reservas negativas.", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 623.6, "end": 625.6, "text": "Y además debíamos 40 mil millones.", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 625.6, "end": 627.6, "text": "El central debía 40 mil millones de dólares", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 627.6, "end": 628.6, "text": "a importadores.", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 628.6, "end": 631.6, "text": "Entonces, lo que es importante", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 631.6, "end": 632.6, "text": "entender es que", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 632.6, "end": 635.6, "text": "¿por qué hay que recapitalizar al banco central?", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 635.6, "end": 637.6, "text": "¿Por qué ese es el respaldo", "avg_logprob": -0.18637001225307806, "no_speech_prob": 0.00254339468665421}
+{"start": 637.6, "end": 638.6, "text": "contra la deuda?", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 638.6, "end": 639.6, "text": "Para hacer más fuerte el peso.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 639.6, "end": 641.6, "text": "Claro, vos tenés peso.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 641.6, "end": 643.6, "text": "O sea, sentido común, vos tenés pesos.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 643.6, "end": 645.6, "text": "¿Crees que haya respaldo de tus pesos o no?", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 645.6, "end": 646.6, "text": "Sí.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 646.6, "end": 647.6, "text": "Obvio.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 647.6, "end": 648.6, "text": "Es lo que querría todo el mundo.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 648.6, "end": 649.6, "text": "Eso es lo que estamos haciendo.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 649.6, "end": 650.6, "text": "Sí, pues darnos un peso.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 650.6, "end": 651.6, "text": "Obvio.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 651.6, "end": 652.6, "text": "Eso es lo que estamos haciendo.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 652.6, "end": 654.6, "text": "Estamos, entonces, dando vuelta", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 654.6, "end": 655.6, "text": "de esa operación que hizo el quiserismo.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 655.6, "end": 657.6, "text": "Estamos recomprando esas letras", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 657.6, "end": 659.6, "text": "intransferibles, honrando esa deuda", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 659.6, "end": 661.6, "text": "y volviendo a ponerle dólares", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 661.6, "end": 663.6, "text": "al banco central para que tengan", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 663.6, "end": 664.6, "text": "respaldo a los pesos.", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 664.6, "end": 666.6, "text": "Ministro, esto no forma parte", "avg_logprob": -0.1626338191934534, "no_speech_prob": 0.04114741086959839}
+{"start": 666.6, "end": 667.6, "text": "de la operación de los pesos.", "avg_logprob": -0.19814509581022732, "no_speech_prob": 0.016865713521838188}
+{"start": 667.6, "end": 671.6, "text": "Y es el miedo ancestral que tenemos", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 671.6, "end": 673.6, "text": "los argentinos, que cada tanto", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 673.6, "end": 675.6, "text": "y cada vez que le vamos a pedir plata al fondo", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 675.6, "end": 677.6, "text": "tarde o temprano me puedo volver", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 677.6, "end": 682.6, "text": "un golpe o sube el dólar o el corralito", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 682.6, "end": 683.6, "text": "o el planbón, eso.", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 683.6, "end": 685.6, "text": "Entonces, hay un miedo", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 685.6, "end": 687.6, "text": "que entiendo que el quiserismo", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 687.6, "end": 688.6, "text": "en general y Cristina en particular", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 688.6, "end": 689.6, "text": "agita eso.", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 689.6, "end": 690.6, "text": "Obvio.", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 690.6, "end": 691.6, "text": "Y comprende eso.", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 691.6, "end": 692.6, "text": "Y eso genera volatilidad también.", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 692.6, "end": 693.6, "text": "Obvio.", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 693.6, "end": 694.6, "text": "Ellos generan eso.", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 694.6, "end": 696.6, "text": "Generan eso en los dos sentidos.", "avg_logprob": -0.1992249082069139, "no_speech_prob": 0.7753584980964661}
+{"start": 696.6, "end": 698.6, "text": "Los generan cuando son gobierno.", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 698.6, "end": 700.6, "text": "¿Por qué te dejan siempre un banco", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 700.6, "end": 703.6, "text": "central absolutamente desestabilizado?", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 703.6, "end": 705.6, "text": "A Macri le pasó lo mismo,", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 705.6, "end": 708.6, "text": "no tanto como al presidente", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 708.6, "end": 711.6, "text": "Milaí, pero sí en una gran medida.", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 711.6, "end": 713.6, "text": "Y después, cuando no están,", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 713.6, "end": 715.6, "text": "lo agitan, porque saben que es un tema", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 715.6, "end": 717.6, "text": "sensible para la gente.", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 717.6, "end": 718.6, "text": "Entonces, sí, es lo que hacen.", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 718.6, "end": 719.6, "text": "¿Correcto?", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 719.6, "end": 720.6, "text": "Hablando de Juan Carlos de Pablo,", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 720.6, "end": 722.6, "text": "el viernes yo lo entreviste", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 722.6, "end": 724.6, "text": "y me dijo, si yo estuviera", "avg_logprob": -0.1973483059555292, "no_speech_prob": 0.0034997262991964817}
+{"start": 724.6, "end": 726.6, "text": "asesorando clientes en este momento,", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 726.6, "end": 728.6, "text": "le diría que no", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 728.6, "end": 730.6, "text": "que no tomen las decisiones", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 730.6, "end": 732.6, "text": "en base a un salto de evaluatorio.", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 732.6, "end": 734.6, "text": "Eso fue lo que es.", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 734.6, "end": 736.6, "text": "Sí, no puedo hablar como ministro,", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 736.6, "end": 739.6, "text": "pero sí tendría a coincidir.", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 739.6, "end": 742.6, "text": "De vuelta, nosotros, Luis,", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 742.6, "end": 744.6, "text": "estamos, o sea, no estamos mirando", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 744.6, "end": 746.6, "text": "acá el día a día, porque sabemos", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 746.6, "end": 748.6, "text": "que diseñamos algo", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 748.6, "end": 750.6, "text": "sólido y que va a durar", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 750.6, "end": 752.6, "text": "y que va a ser algo de largo plazo.", "avg_logprob": -0.12508744046543585, "no_speech_prob": 0.00747331790626049}
+{"start": 752.6, "end": 754.6, "text": "Y en la dirección en Argentina", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 754.6, "end": 756.6, "text": "va a terminar colapsando.", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 756.6, "end": 758.6, "text": "El dólar no va a ser un problema.", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 758.6, "end": 760.6, "text": "De esto, la gente lamentablemente", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 760.6, "end": 762.6, "text": "lo va a ver en la práctica.", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 762.6, "end": 764.6, "text": "O sea, por más que yo se lo diga", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 764.6, "end": 766.6, "text": "y algunos me creerán y otros no,", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 766.6, "end": 768.6, "text": "porque la tradición pasó eso.", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 768.6, "end": 770.6, "text": "Entiendo. Yo comprendo", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 770.6, "end": 772.6, "text": "que yo no tengo que hacer", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 772.6, "end": 774.6, "text": "las preguntas necesarias.", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 774.6, "end": 776.6, "text": "Que usted, desde el punto de vista", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 776.6, "end": 778.6, "text": "del secreto o como funcionario,", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 778.6, "end": 780.6, "text": "no me puedo decir muchas cosas,", "avg_logprob": -0.1771038781395919, "no_speech_prob": 0.025297008454799652}
+{"start": 780.6, "end": 782.6, "text": "ya sabemos que Argentina pidió", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 782.6, "end": 784.6, "text": "20.000 millones de dólares", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 784.6, "end": 786.6, "text": "y que el director", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 786.6, "end": 788.6, "text": "y el fondo lo tienen que aceptar", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 788.6, "end": 790.6, "text": "todavía, aunque desde el punto de vista", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 790.6, "end": 792.6, "text": "de la dirección política del fondo,", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 792.6, "end": 794.6, "text": "entre comillas, dijeron que", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 794.6, "end": 796.6, "text": "eso estaría bien y están de acuerdo, ¿sí?", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 796.6, "end": 798.6, "text": "Esperemos que sí.", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 798.6, "end": 800.6, "text": "Eso lo decide el board.", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 800.6, "end": 802.6, "text": "Sí, o sea, nos llevó tiempo", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 802.6, "end": 804.6, "text": "convencerlos, corrimos mucho", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 804.6, "end": 806.6, "text": "modelos, nuestros de ellos y demás.", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 806.6, "end": 808.6, "text": "Y eso fue lo que terminamos", "avg_logprob": -0.1612640168931749, "no_speech_prob": 0.0009840410202741623}
+{"start": 808.6, "end": 810.6, "text": "proponiendoles, pero ahora lo que", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 810.6, "end": 812.6, "text": "tiene que ir a aprobación del board.", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 812.6, "end": 814.6, "text": "Y usted, y el gobierno, ¿y usted", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 814.6, "end": 816.6, "text": "siguen hablando de 20.000 millones de dólares?", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 816.6, "end": 818.6, "text": "Sí, eso es el total", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 818.6, "end": 820.6, "text": "del paquete, ¿sí?", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 820.6, "end": 822.6, "text": "Ahora después está cómo se desembolsan", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 822.6, "end": 824.6, "text": "esos 20.000 millones que es", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 824.6, "end": 826.6, "text": "parte de la negociación que estamos terminando ahora.", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 826.6, "end": 828.6, "text": "Una vez hablando con el presidente,", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 828.6, "end": 830.6, "text": "el presidente me dijo,", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 830.6, "end": 832.6, "text": "yo le pregunte esto, el presidente,", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 834.6, "end": 836.6, "text": "¿usted dice que", "avg_logprob": -0.1615712123320383, "no_speech_prob": 0.003765141824260354}
+{"start": 836.6, "end": 838.6, "text": "que se salga el cepo, por el", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 838.6, "end": 840.6, "text": "confundido dos fenómenos,", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 840.6, "end": 842.6, "text": "que se salgo dos decisiones,", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 842.6, "end": 844.6, "text": "que se salga el cepo o que se vaya", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 844.6, "end": 846.6, "text": "un cruel impec no del uno, sino", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 846.6, "end": 848.6, "text": "el 2% por mes, o lo que ustedes", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 848.6, "end": 850.6, "text": "decían, depende de", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 850.6, "end": 852.6, "text": "de cuánta alta sea", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 852.6, "end": 854.6, "text": "la primera cuota del desembolso.", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 854.6, "end": 856.6, "text": "¿Es correcto eso?", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 856.6, "end": 858.6, "text": "Mira, a ver, la primera cuota del desembolso", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 858.6, "end": 860.6, "text": "para nosotros", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 860.6, "end": 862.6, "text": "es importante porque el Banco Central", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 862.6, "end": 864.6, "text": "está muy descapitalizado.", "avg_logprob": -0.16422354583199142, "no_speech_prob": 0.006992495618760586}
+{"start": 864.6, "end": 866.6, "text": "Y además, por una razón", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 866.6, "end": 868.6, "text": "lo pedimos.", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 868.6, "end": 870.6, "text": "Es cierto, cuando se dice", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 870.6, "end": 872.6, "text": "que no hay", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 872.6, "end": 874.6, "text": "precedente en que el fondo", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 874.6, "end": 876.6, "text": "haga un desembolso", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 876.6, "end": 878.6, "text": "inicial muy alto.", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 878.6, "end": 880.6, "text": "¿De el 80%? No, no, no, ni por", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 880.6, "end": 882.6, "text": "hemos si a general, hacen del 20, 30,", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 882.6, "end": 884.6, "text": "o en alguna excepción 40.", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 884.6, "end": 886.6, "text": "Nosotros", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 886.6, "end": 888.6, "text": "hemos pedido más por qué razón,", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 888.6, "end": 890.6, "text": "porque en un acuerdo del fondo tradicional,", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 890.6, "end": 892.6, "text": "lo que el fondo hace es", "avg_logprob": -0.20060046152635055, "no_speech_prob": 0.0015788485761731863}
+{"start": 892.6, "end": 894.6, "text": "seguir haciendo esos desembolsos parciales", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 894.6, "end": 896.6, "text": "a cambio del cumplimiento", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 896.6, "end": 898.6, "text": "de metafiscales y monetarias.", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 898.6, "end": 900.6, "text": "Cosa que en el caso nuestro", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 900.6, "end": 902.6, "text": "ya lo hicimos.", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 902.6, "end": 904.6, "text": "¿Nosotros ya adelantamos cosas que", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 904.6, "end": 906.6, "text": "ustedes no van a pedir?", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 906.6, "end": 908.6, "text": "Así que por favor, nos adelantan", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 908.6, "end": 910.6, "text": "un desembolso más importante.", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 910.6, "end": 912.6, "text": "Lo que nosotros decimos es, también puede", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 912.6, "end": 914.6, "text": "no haber precedente de esto, pero no hay", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 914.6, "end": 916.6, "text": "precedente tampoco del fondo", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 916.6, "end": 918.6, "text": "firmando un acuerdo con un país que", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 918.6, "end": 920.6, "text": "ya ha hecho todos los ajustes", "avg_logprob": -0.18227283536952776, "no_speech_prob": 0.01564960554242134}
+{"start": 920.6, "end": 922.6, "text": "de los que se han hecho.", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 922.6, "end": 924.6, "text": "Entonces, la lógica sería", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 924.6, "end": 926.6, "text": "cuando terminan esos ajustes,", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 926.6, "end": 928.6, "text": "¿ustedes cuánto desembolsaron?", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 928.6, "end": 930.6, "text": "No desembolsaron, el 20, 30 o 40.", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 930.6, "end": 932.6, "text": "Bueno, nosotros ya terminamos.", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 932.6, "end": 934.6, "text": "Entonces, estamos diciendo, sería más lógico", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 934.6, "end": 936.6, "text": "que ya que hicimos todos estos ajustes", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 936.6, "end": 938.6, "text": "el desembolso inicial sea", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 938.6, "end": 940.6, "text": "más alto.", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 940.6, "end": 942.6, "text": "Y discúlpame la ignorancia de nuevo.", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 942.6, "end": 944.6, "text": "Cuando usted habla de 20.000 millones de dólares,", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 944.6, "end": 946.6, "text": "¿cuántos de esos dólares", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 946.6, "end": 948.6, "text": "que es el total serían", "avg_logprob": -0.261764980696298, "no_speech_prob": 0.004410670604556799}
+{"start": 948.6, "end": 950.6, "text": "que se denomina libre disponibilidad?", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 950.6, "end": 952.6, "text": "A ver, la", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 952.6, "end": 954.6, "text": "operación funciona de la siguiente manera.", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 954.6, "end": 956.6, "text": "Los dólares que nosotros recibimos", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 956.6, "end": 958.6, "text": "¿sí?", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 958.6, "end": 960.6, "text": "Pasamos a recomprar esas letras intransferibles", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 960.6, "end": 962.6, "text": "que le vendió Kicillof", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 962.6, "end": 964.6, "text": "para sacarle los dólares en el pasado.", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 964.6, "end": 966.6, "text": "Esos dólares pasan a ser", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 966.6, "end": 968.6, "text": "parte de las reservas de lo ancocentral.", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 968.6, "end": 970.6, "text": "Las reservas son de libre disponibilidad.", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 970.6, "end": 972.6, "text": "O sea, que si yo no leo", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 972.6, "end": 974.6, "text": "más, no leo mal", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 974.6, "end": 976.6, "text": "si el primer desembolso", "avg_logprob": -0.16123096655598648, "no_speech_prob": 0.012910603545606136}
+{"start": 976.6, "end": 978.6, "text": "es importante", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 978.6, "end": 980.6, "text": "ustedes lo van a poder usar", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 980.6, "end": 982.6, "text": "como quieran dentro de las reservas del banco central.", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 982.6, "end": 984.6, "text": "Son reservas del banco central.", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 984.6, "end": 986.6, "text": "A ver si estoy pensando bien.", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 986.6, "end": 988.6, "text": "Está perfecto.", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 988.6, "end": 990.6, "text": "Y por eso usted es tan optimista.", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 990.6, "end": 992.6, "text": "Entonces, supongo.", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 992.6, "end": 994.6, "text": "Yo soy optimista", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 994.6, "end": 996.6, "text": "más que, o sea, sobre todo porque", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 996.6, "end": 998.6, "text": "como te digo", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 998.6, "end": 1000.6, "text": "a mí lo que me importa es", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 1000.6, "end": 1002.6, "text": "la gente. Yo entiendo", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 1002.6, "end": 1004.6, "text": "el marcado", "avg_logprob": -0.18996548038302807, "no_speech_prob": 0.007396552246063948}
+{"start": 1004.6, "end": 1006.6, "text": "que está mirando el arbitraje", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1006.6, "end": 1008.6, "text": "un 2% le influye.", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1008.6, "end": 1010.6, "text": "Lo que quiero que la gente entienda", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1010.6, "end": 1012.6, "text": "y llevarle tranquilidad es que nosotros", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1012.6, "end": 1014.6, "text": "no vamos a hacer", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1014.6, "end": 1016.6, "text": "lo que hay que hacer", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1016.6, "end": 1018.6, "text": "para llevarle un resultado mejor", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1018.6, "end": 1020.6, "text": "a la gente.", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1020.6, "end": 1022.6, "text": "Claramente que entre plata para respaldar los pesos", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1022.6, "end": 1024.6, "text": "es algo mejor.", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1024.6, "end": 1026.6, "text": "Nosotros nunca vamos a salir de las restricciones", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1026.6, "end": 1028.6, "text": "si le vamos a generar", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1028.6, "end": 1030.6, "text": "un estrés", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1030.6, "end": 1032.6, "text": "a la gente.", "avg_logprob": -0.11491560622924517, "no_speech_prob": 0.05029948800802231}
+{"start": 1032.6, "end": 1034.6, "text": "Eso es lo que ellos tienen que entender.", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1034.6, "end": 1036.6, "text": "Eso que les tratan de vender algunos", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1036.6, "end": 1038.6, "text": "de que puede haber un sinpronazzo", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1038.6, "end": 1040.6, "text": "de que pueden ir tantos miles de pesos", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1040.6, "end": 1042.6, "text": "porque el M3", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1042.6, "end": 1044.6, "text": "eso va a pasar.", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1044.6, "end": 1046.6, "text": "Bueno, de eso le voy a preguntar. La base monetaria.", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1046.6, "end": 1048.6, "text": "Yo lo escucho a usted y el presidente", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1048.6, "end": 1050.6, "text": "y dice, nosotros tenemos los dólares suficientes.", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1050.6, "end": 1052.6, "text": "No hay la suficiente cantidad", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1052.6, "end": 1054.6, "text": "de pesos como para que haga", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1054.6, "end": 1056.6, "text": "una corrida", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1056.6, "end": 1058.6, "text": "no sé, que llega el dólar", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1058.6, "end": 1060.6, "text": "no quiero decir el número, o que sea", "avg_logprob": -0.21696604101370412, "no_speech_prob": 0.016710981726646423}
+{"start": 1060.6, "end": 1062.6, "text": "a dos mil.", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1062.6, "end": 1064.6, "text": "No hay suficiente cantidad de pesos.", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1064.6, "end": 1066.6, "text": "Y otros dicen no, pero mira", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1066.6, "end": 1068.6, "text": "la base monetaria, no sé", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1068.6, "end": 1070.6, "text": "los gerentes financieros de la multinacionales", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1070.6, "end": 1072.6, "text": "ven que esto", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1072.6, "end": 1074.6, "text": "es tan volátil", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1074.6, "end": 1076.6, "text": "entonces empiezan a desarmar las posiciones", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1076.6, "end": 1078.6, "text": "no influye también en eso", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1078.6, "end": 1080.6, "text": "que puede haber una corrida lo que se denomina.", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1080.6, "end": 1082.6, "text": "Por eso te hablaba del balance", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1082.6, "end": 1084.6, "text": "del banco central, hay que entender", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1084.6, "end": 1086.6, "text": "los pasivos y los activos.", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1086.6, "end": 1088.6, "text": "Los pesos que emite", "avg_logprob": -0.16157512516938438, "no_speech_prob": 0.006159067153930664}
+{"start": 1088.6, "end": 1090.6, "text": "el banco central es lo que se llama emisión primaria", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1090.6, "end": 1092.6, "text": "de dinero. Después hay emisión", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1092.6, "end": 1094.6, "text": "secundaria de dinero que es", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1094.6, "end": 1096.6, "text": "lo que emiten los bancos", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1096.6, "end": 1098.6, "text": "vía el crédito", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1098.6, "end": 1100.6, "text": "y lo que implica ese efecto", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1100.6, "end": 1102.6, "text": "ese famoso efecto que habrás escuchado a alguna gente", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1102.6, "end": 1104.6, "text": "el efecto multiplicador.", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1104.6, "end": 1106.6, "text": "Eso no tiene nada, o sea, eso no es que", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1106.6, "end": 1108.6, "text": "todos esos pesos pueden ir", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1108.6, "end": 1110.6, "text": "al dólar.", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1110.6, "end": 1112.6, "text": "En todo caso hay un desinfle", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1112.6, "end": 1114.6, "text": "del multiplicador. Los pesos que pueden ir", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1114.6, "end": 1116.6, "text": "al dólar cuando interviven el banco central", "avg_logprob": -0.11793248934282673, "no_speech_prob": 0.026381265372037888}
+{"start": 1116.6, "end": 1118.6, "text": "son los mismos pesos de la emisión primaria.", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1118.6, "end": 1120.6, "text": "Entonces", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1120.6, "end": 1122.6, "text": "como fue tomando el ejemplo, por ejemplo,", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1122.6, "end": 1124.6, "text": "de la convertibilidad, hoy", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1124.6, "end": 1126.6, "text": "digamos, alguno podría decir, alguno me decía", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1126.6, "end": 1128.6, "text": "esto sería como una especie de neocompartibilidad,", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1128.6, "end": 1130.6, "text": "porque ustedes están diciendo que ahora va a haber", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1130.6, "end": 1132.6, "text": "respaldo para... no, va a haber", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1132.6, "end": 1134.6, "text": "sobre respaldo. Si uno toma", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1134.6, "end": 1136.6, "text": "el tipo de cambio equivalente", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1136.6, "end": 1138.6, "text": "de la cantidad de dólares que va a dar", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1138.6, "end": 1140.6, "text": "a la base monetaria, el tipo", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1140.6, "end": 1142.6, "text": "de cambio de cobertura es de 600.", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1142.6, "end": 1144.6, "text": "Si tomamos la base", "avg_logprob": -0.18753907488038143, "no_speech_prob": 0.015057330951094627}
+{"start": 1144.6, "end": 1146.6, "text": "amplia, claro, de 600.", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1146.6, "end": 1148.6, "text": "No es que habría, podría haber", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1148.6, "end": 1150.6, "text": "o sea, sobra cobertura.", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1150.6, "end": 1152.6, "text": "Si tomo la base amplia", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1152.6, "end": 1154.6, "text": "de 950.", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1154.6, "end": 1156.6, "text": "Es decir, nunca hubo tanta", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1156.6, "end": 1158.6, "text": "cobertura, ninguna generación como nosotros vivió,", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1158.6, "end": 1160.6, "text": "nunca un nivel de cobertura", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1160.6, "end": 1162.6, "text": "de la deuda de pesos como la que", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1162.6, "end": 1164.6, "text": "va a haber ahora en el banco central.", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1164.6, "end": 1166.6, "text": "Con un agregado fundamental", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1166.6, "end": 1168.6, "text": "que es, además,", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1168.6, "end": 1170.6, "text": "ahora no hay más emisión de pesos, no hay", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1170.6, "end": 1172.6, "text": "déficit y no hay emisión", "avg_logprob": -0.14593189113906452, "no_speech_prob": 0.007213653530925512}
+{"start": 1172.6, "end": 1174.6, "text": "por pasivos remunerados.", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1174.6, "end": 1176.6, "text": "Que no haya déficit es la gran", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1176.6, "end": 1178.6, "text": "diferencia con la convertibilidad.", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1178.6, "end": 1180.6, "text": "La convertibilidad, acá yo, porque hubo déficit.", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1180.6, "end": 1182.6, "text": "Esa es la razón.", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1182.6, "end": 1184.6, "text": "Conceptualmente, el car...", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1184.6, "end": 1186.6, "text": "un carnesivor, como se dice,", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1186.6, "end": 1188.6, "text": "puede durar una convertibilidad", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1188.6, "end": 1190.6, "text": "puede durar", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1190.6, "end": 1192.6, "text": "a infinitum. No está mal.", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1192.6, "end": 1194.6, "text": "Si hay equilibrio fiscal. Obvio.", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1194.6, "end": 1196.6, "text": "La convertibilidad en ese sentido", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1196.6, "end": 1198.6, "text": "podría haber durado mucho más.", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1198.6, "end": 1200.6, "text": "¿Por qué cayó la convertibilidad? Bueno, porque hubo déficit.", "avg_logprob": -0.17937699403311755, "no_speech_prob": 0.007476901635527611}
+{"start": 1200.6, "end": 1202.6, "text": "Las provincias empezaron a endeudarse", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1202.6, "end": 1204.6, "text": "con los bancos a tasas impagables", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1204.6, "end": 1206.6, "text": "del 15%.", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1206.6, "end": 1208.6, "text": "Como no se podían emitir pesos, empezaron", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1208.6, "end": 1210.6, "text": "a emitir cuasimonedas", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1210.6, "end": 1212.6, "text": "y no le podían devolver la deuda a los bancos.", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1212.6, "end": 1214.6, "text": "Los bancos se habían fundeado", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1214.6, "end": 1216.6, "text": "con arjendolares a 30 días.", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1216.6, "end": 1218.6, "text": "Entonces no podían devolver los depósitos.", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1218.6, "end": 1220.6, "text": "Entonces, por esa es la razón por la que cayó.", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1220.6, "end": 1222.6, "text": "Ahora tenemos sobre cobertura", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1222.6, "end": 1224.6, "text": "con respecto a la convertibilidad,", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1224.6, "end": 1226.6, "text": "pero además tenemos superávit fiscal.", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1226.6, "end": 1228.6, "text": "Es decir, nosotros cada mes, no sólo", "avg_logprob": -0.13276381194591522, "no_speech_prob": 0.03413131833076477}
+{"start": 1228.6, "end": 1230.6, "text": "no inyectamos pesos, sino que", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1230.6, "end": 1232.6, "text": "absorbemos.", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1232.6, "end": 1234.6, "text": "La sanitaria primaria. Exactamente.", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1234.6, "end": 1236.6, "text": "El presidente me dijo", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1236.6, "end": 1238.6, "text": "en el radio el jueves", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1238.6, "end": 1240.6, "text": "efectivamente", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1240.6, "end": 1242.6, "text": "el ritmo de la", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1242.6, "end": 1244.6, "text": "desaceleración", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1244.6, "end": 1246.6, "text": "inflacionaria se detuvo,", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1246.6, "end": 1248.6, "text": "se hizo más lento", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1248.6, "end": 1250.6, "text": "y probablemente en abril no podamos", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1250.6, "end": 1252.6, "text": "empezar con un índice, no podemos presentar un índice", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1252.6, "end": 1254.6, "text": "que empiece con uno", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1254.6, "end": 1256.6, "text": "como producto de la", "avg_logprob": -0.17415168805000109, "no_speech_prob": 0.02009207382798195}
+{"start": 1256.6, "end": 1258.6, "text": "volatilidad política", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1258.6, "end": 1260.6, "text": "que generaron, no sé, algunos políticos.", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1260.6, "end": 1262.6, "text": "Sí, la volatilidad política definitivamente", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1262.6, "end": 1264.6, "text": "no ayudó. Por esto que bien", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1264.6, "end": 1266.6, "text": "decías vos, porque también", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1266.6, "end": 1268.6, "text": "hay una parte de ese teo de expectativas.", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1268.6, "end": 1270.6, "text": "Entonces, si le hacen creer a los comerciantes", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1270.6, "end": 1272.6, "text": "y a la gente que acá puede haber un simbronazo", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1272.6, "end": 1274.6, "text": "y demás, bueno, alguno por ahí", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1274.6, "end": 1276.6, "text": "picaramente", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1276.6, "end": 1278.6, "text": "o por cobertura", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1278.6, "end": 1280.6, "text": "o porque generalmente tiene temor o algo", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1280.6, "end": 1282.6, "text": "puede hacer eso. Ahora, la verdad", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1282.6, "end": 1284.6, "text": "que cuánto va a ser el índice", "avg_logprob": -0.14861083646615347, "no_speech_prob": 0.0174055527895689}
+{"start": 1284.6, "end": 1286.6, "text": "de abril, ninguno", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1286.6, "end": 1288.6, "text": "nosotros puede saberlo, pero no importa", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1288.6, "end": 1290.6, "text": "si es abril, mayo, o sea", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1290.6, "end": 1292.6, "text": "acá, lo que los argentinos pueden estar", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1292.6, "end": 1294.6, "text": "tranquilos. La inflación", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1294.6, "end": 1296.6, "text": "va a colapsar, es un tema de tiempo", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1296.6, "end": 1298.6, "text": "porque cuando vos haces las cosas bien", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1298.6, "end": 1300.6, "text": "los resultados salen. De vuelta siempre el ejemplo", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1300.6, "end": 1302.6, "text": "del buen alumno. Argentina siempre le fue", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1302.6, "end": 1304.6, "text": "mal porque fue un pésimo", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1304.6, "end": 1306.6, "text": "alumno que no estudiaba y se portaba mal.", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1306.6, "end": 1308.6, "text": "Hoy es uno de los cinco mejores alumnos del mundo.", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1308.6, "end": 1310.6, "text": "Hay 195 países, cinco", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1310.6, "end": 1312.6, "text": "tenemos SuperAvit. Entonces", "avg_logprob": -0.16325564152442368, "no_speech_prob": 0.016952423378825188}
+{"start": 1312.6, "end": 1314.6, "text": "si uno de los mejores alumnos le va a ir bien.", "avg_logprob": -0.2335067443225695, "no_speech_prob": 0.11380995810031891}
+{"start": 1314.6, "end": 1316.6, "text": "Mourillo Macri y otro diagnóstico", "avg_logprob": -0.2335067443225695, "no_speech_prob": 0.11380995810031891}
+{"start": 1316.6, "end": 1318.6, "text": "dijo que", "avg_logprob": -0.2335067443225695, "no_speech_prob": 0.11380995810031891}
+{"start": 1318.6, "end": 1320.6, "text": "la falta de apego", "avg_logprob": -0.2335067443225695, "no_speech_prob": 0.11380995810031891}
+{"start": 1320.6, "end": 1322.6, "text": "institucional de este gobierno", "avg_logprob": -0.2335067443225695, "no_speech_prob": 0.11380995810031891}
+{"start": 1322.6, "end": 1324.6, "text": "puede estar impactando", "avg_logprob": -0.2335067443225695, "no_speech_prob": 0.11380995810031891}
+{"start": 1324.6, "end": 1326.6, "text": "en el programa económico.", "avg_logprob": -0.2335067443225695, "no_speech_prob": 0.11380995810031891}
+{"start": 1326.6, "end": 1328.6, "text": "Usted qué opinó.", "avg_logprob": -0.2335067443225695, "no_speech_prob": 0.11380995810031891}

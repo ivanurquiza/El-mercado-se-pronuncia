@@ -1,0 +1,473 @@
+[0.00-10.00] MINISTRO: La idea es en realidad pasarles tres mensajes que a mí me parecen importantes.
+[10.00-16.00] OTRO: Uno es algo que nos preguntan recurrentemente en los viajes que hacemos con el presidente,
+[16.00-21.00] MINISTRO: que es explicarles por qué esta vez es distinto.
+[21.00-30.47] MINISTRO: Y es muy importante entender esto porque hace a la convicción.
+[30.47-41.47] MINISTRO: El segundo mensaje sería el rol que juegan ustedes, empresarios y ciudadanos en esta historia.
+[41.47-48.47] MINISTRO: Que él se adelanto es mucho más importante de lo que uno por ahí desde el sector privado creen.
+[48.47-59.47] MINISTRO: Y el tercero es el que ya todos saben en particular en este recinto, que es el enorme potencial que el país tiene.
+[59.47-69.47] MINISTRO: Bueno, entonces arrancando por el primer punto, cuando preguntan por qué esta vez es distinto,
+[69.47-80.47] MINISTRO: yo creo que hay una cosa muy distintiva y bien, bien clara, que es la primera vez en décadas
+[80.47-87.47] MINISTRO: que hay una vocación política por tener un orden macroeconómico.
+[87.47-97.26] MINISTRO: ¿Se entiende? Algunos, bueno todos acá tenemos más o menos la misma edad y algunos más jóvenes,
+[97.26-103.26] MINISTRO: pero no hemos vivido muchos, digamos, procesos de estabilidad.
+[103.26-109.26] MINISTRO: Ahora, aún los que recordamos esos pequeños procesos, esos pocos años,
+[109.26-114.26] MINISTRO: uno podría decir los primeros años de la convertibilidad,
+[114.26-119.26] MINISTRO: podría ser también los primeros años de la salida, de la convertibilidad,
+[119.26-130.26] MINISTRO: aún esos pocos procesos que hemos visto no eran necesariamente decisiones políticas de tener un orden macroeconómico.
+[130.26-142.26] MINISTRO: Era una situación, si se quiere, de calma provisoria, producto de que veníamos de brutales crisis de mercado.
+[142.26-150.26] MINISTRO: Antes de la convertibilidad, las imprimflaciones del 89 y 90, de la salida, de la convertibilidad,
+[150.26-158.26] MINISTRO: del default, la pesificación asimétrica, la economía cayendo 16%,
+[158.26-164.26] MINISTRO: los salarios reales cayendo más del 40%, más del 60 en dólares.
+[164.26-170.26] MINISTRO: O sea, son todas, eran todas situaciones coyunturales y por qué no duraban,
+[170.26-175.26] MINISTRO: no duraban justamente porque no había una vocación política de tener un orden macroeconómico.
+[175.26-180.26] MINISTRO: Pero era simplemente la consecuencia de que el ajuste lo había hecho el mercado,
+[180.26-187.26] MINISTRO: cuando el ajuste lo hace el mercado típicamente es brutal y entonces típicamente ahí se produce,
+[187.26-191.26] MINISTRO: durante un tiempo, un proceso de recuperación.
+[191.26-203.25] MINISTRO: Pero nunca hemos tenido un presidente con la convicción que tiene nuestro presidente
+[203.25-212.25] MINISTRO: de que el orden macro es la respuesta a los males que venimos sufriendo desde hace más de 100 años.
+[212.25-222.25] MINISTRO: Y ese orden macro se resume, esencialmente, en el famoso déficit fiscal,
+[222.25-231.25] MINISTRO: ese tumor que hemos tenido en Argentina por más de 100 años, en los últimos 123 años,
+[231.25-241.25] MINISTRO: como decía hoy bien el presidente, en 113 años hemos tenido déficit fiscal,
+[241.25-250.25] MINISTRO: es decir, prácticamente la mayor parte de nuestra historia, en los últimos 120 años, ha sido así.
+[250.25-255.25] OTRO: Y los problemas dependían siempre de cómo se financiaba ese déficit y hemos probado todo,
+[255.25-261.25] MINISTRO: subiendo impuestos, emitiendo, tomando deuda y dependiendo de cómo se financiaba eso,
+[261.25-269.25] MINISTRO: las consecuencias que ustedes como empresarios y la gente común padecían.
+[269.25-278.25] MINISTRO: Cada vez más impuestos, cada vez una carga más alta, cada vez más gente yéndose entonces al sector informal para protegerse.
+[278.25-289.25] MINISTRO: El financiamiento era con emisión, lo que ya sabemos, inflación, suba de dólar, el financiamiento era con deuda, crisis de deuda.
+[289.25-299.25] MINISTRO: Y típicamente siempre que Argentina llegaba a ese punto de tensión donde evidentemente tenía que decidir
+[299.25-310.25] OTRO: si hacer un ajuste o dejar que el ajuste lo haga el mercado vía los mecanismos ya conocidos,
+[310.25-314.25] MINISTRO: Argentina siempre decidió lo segundo.
+[314.25-324.25] MINISTRO: Y bueno, disfrutiemos, hasta incluso recordemos haber aplaudido algunas decisiones como esa,
+[324.25-340.25] MINISTRO: rompíamos contratos, todo lo que hoy nos pesa atrás, todo lo que hoy pesa en nuestro currículum y hace que hayamos perdido la materia prima más importante
+[340.25-346.25] MINISTRO: para hacer política económica que es la credibilidad. Hemos perdido la credibilidad.
+[346.25-357.25] MINISTRO: Esta es la primera vez que he llegado a una situación límite y cuando digo límite, pucha que era límite, o sea, esta situación sí que era límite,
+[357.25-366.25] OTRO: ni comparable con las últimas situaciones de crisis que hemos vivido, ni comparable con la situación previa de la salida de la convertibilidad,
+[366.25-371.25] MINISTRO: ni con la hiperinflación, ni con el rodrigazo.
+[371.25-386.75] OTRO: Como siempre dice, el presidente era lo peor de las tres y se tomó la decisión, entonces, de no, de finalmente llegado ese punto, resolver finalmente el problema.
+[386.75-396.75] OTRO: Y ahí venía el desafío, decir, bueno, ¿cómo van a ser para resolver el problema sin Argentina? No se puede bajar el déficit nunca.
+[396.75-411.42] OTRO: O si son agresivos un punto por año, ¿cómo van a parar una emisión endógena cuando ya había más de tres bases monetarias impasivos remunerados?
+[411.42-427.92] MINISTRO: Imprimíamos una base monetaria cada dos meses y medio, una inflación que para diciembre mayoristas tuvo en 54% anualizada en más de 17.000
+[427.92-440.92] MINISTRO: y todo esto con la mayoría de los precios pisados. Estamos hablando de tarifas, alimentos combustibles, o sea, un cóctel hiperinflacionario único.
+[440.92-452.92] MINISTRO: Y en ese contexto, de vuelta, vino un presidente que explicó en campaña cuál era la raíz de nuestro problema y la gente le creyó.
+[452.92-467.92] MINISTRO: No, la gente se hartó, finalmente, de la política, se hartó del relato, se hartó de la mentira y lo votó contra lo que se podría haber esperado, ¿no?
+[467.92-478.92] MINISTRO: Pero una persona sin partido, sin gobernadores, sin financiamiento, le ganó a todo el aparato político.
+[478.92-488.92] MINISTRO: Y este es un detalle que no tiene que pasar desapercibido, porque esta combinación es lo que hace esta vez que la situación sea tan potente.
+[488.92-500.92] MINISTRO: Tenemos un presidente con la convicción total de no moverse ni un ápice de nuestra regla fiscal, ¿sí?
+[500.92-518.39] MINISTRO: Y por otro lado, tenemos la gente que algunos hubieran sospechado que no iban a apoyar nunca un ajuste y ahí lo tienen a más de la mitad de la población apoyando y apoyando, ¿no?
+[518.39-529.39] MINISTRO: Entonces creo que este es un elemento distintivo clave, porque esta es la mayor garantía que nosotros podemos darles a ustedes a la hora de invertir en el país.
+[529.39-537.39] MINISTRO: Que este es un cambio que va, digamos, apunta a ser un cambio histórico, un cambio de tendencia, un cambio de largo plazo.
+[537.39-545.39] MINISTRO: Nosotros venimos a hacerlo opuesto a lo que se hizo toda la vida. Exactamente lo opuesto.
+[545.39-554.39] MINISTRO: Venimos a terminar con el déficit, venimos a terminar con la emisión, venimos a terminar con la inflación y venimos a bajar impuestos.
+[554.39-558.39] MINISTRO: Todo lo que Argentina no hizo en los últimos 100 años.
+[558.39-571.89] MINISTRO: Y los resultados están siendo, yo diría, más que elocuentes, ¿no? O sea, redujimos en el primer mes el déficit fiscal.
+[572.89-583.89] MINISTRO: Esto es algo que no tiene antecedente mundial. Terminamos con el déficit fiscal en un mes y con el déficit quasi fiscal en siete meses.
+[583.89-591.89] MINISTRO: No hay más emisión en Argentina. No sé cuántos son conscientes de eso. No hay más emisión en Argentina.
+[592.89-602.89] MINISTRO: El mundo está choqueado con esto. El otro día estábamos con el equipo económico acá presente en el G20.
+[602.89-614.89] MINISTRO: Y en la reunión bilateral con Estados Unidos, con la secretaria del Tesoro, Janet Yellen, sería la ministra de Economía,
+[617.17-625.17] MINISTRO: y miraba atónita. No, no, no, no podía creer lo que el país había hecho en siete meses.
+[625.17-636.17] MINISTRO: Nos dijo en inglés, nothing short from miraculous, nada menos que milagroso lo que se había hecho.
+[636.17-642.17] MINISTRO: Y es cierto, y así es percibido hoy en el mundo.
+[643.17-648.17] MINISTRO: No tiene que pasar de esa percibido gesto porque aquí lo quiero decir es que el trabajo más importante,
+[648.17-653.17] MINISTRO: ese que parecía que no se podía hacer, se hizo, se ha se hizo.
+[653.17-660.17] MINISTRO: Entonces nosotros desgarantizamos el orden macro.
+[660.17-670.17] MINISTRO: Y la micro es el empuje que tiene que venir del sector privado mismo para que podamos tener un mayor crecimiento
+[670.17-679.17] MINISTRO: para que tengamos superávit fiscal y entonces podamos continuar bajando impuestos como todos ustedes quieren.
+[679.17-689.62] MINISTRO: También pasaron cosas, digamos, que van más allá de lo económico.
+[689.62-697.62] MINISTRO: Se aprobó la ley bases con, cuando realmente tenemos muy poca representación en el Congreso,
+[698.62-708.62] MINISTRO: se pasó el decreto, el famoso decreto desregulador de Federico,
+[708.62-714.62] MINISTRO: que está haciendo un trabajo fenomenal todos los días desregula algo
+[714.62-719.62] MINISTRO: y es otra de las cosas que también hay que terminar en este país.
+[719.62-725.62] MINISTRO: Así que no, no, digamos, es un trabajo que les aseguro en un país como este
+[725.62-734.62] MINISTRO: es de lo más árduo que te puede tocar y se está haciendo de manera fenomenal.
+[734.62-740.62] MINISTRO: Se terminaron con los piquetes, se terminaron con los gerentes de la pobreza
+[740.62-745.62] MINISTRO: y si me preguntan a mí qué es lo que hay que mirar hoy,
+[745.62-749.62] MINISTRO: porque mucha gente pregunta por el dólar, por el riesgo país.
+[749.62-754.62] MINISTRO: No sé cuánto ustedes saben que en economía suele haber lo que se llama indicadores adelantados,
+[754.62-760.62] MINISTRO: indicadores retrasados, ¿no? Leading indicators,
+[760.62-767.62] MINISTRO: que es lo que la gente mira para ver, digamos, hacia dónde va el país, hacia dónde va la economía.
+[767.62-773.62] MINISTRO: Algunos tendían a mirar siempre el riesgo país
+[773.62-781.62] MINISTRO: para, digamos, como un proxy de lo que puede venir.
+[781.62-788.62] MINISTRO: Yo creo que hoy el indicador adelantado más importante saben cuál es la realidad.
+[788.62-794.62] MINISTRO: Ese es el indicador adelantado que todos tienen que mirar.
+[794.62-799.62] MINISTRO: Los demás van a ir acompañando la realidad.
+[799.62-806.62] MINISTRO: Ahora, mientras la inflación siga bajando, la economía recupere,
+[806.62-809.62] MINISTRO: todo lo demás va a acompañar.
+[809.62-814.62] MINISTRO: Yo sé que a ustedes los desvela el cepo y a nosotros también, obvio,
+[814.62-819.62] MINISTRO: pero no se trata de salir a las apuradas o mal.
+[819.62-827.62] MINISTRO: Este es un cambio de largo plazo. No importa si está un mes más o dos o un mes menos.
+[827.62-834.62] MINISTRO: Me calo que hay que entender es que estamos terminando con el impuesto más distorsivo de todos,
+[834.62-836.62] MINISTRO: con el impuesto inflacionario.
+[836.62-839.62] OTRO: Y eso inevitablemente va a pasar por lo que dije antes.
+[839.62-843.62] MINISTRO: O sea, acá hay una causalidad.
+[843.62-847.62] MINISTRO: Esto es clave que se entienda.
+[847.62-851.62] MINISTRO: Argentina no le fue mal siempre por casualidad.
+[851.62-854.62] MINISTRO: Fue mal siempre porque era un mal alumno.
+[854.62-857.62] MINISTRO: Era un alumno que no estudió nunca.
+[857.62-862.62] MINISTRO: Entonces, sí, cuando iba a dar examen, lo gochaban, obviamente.
+[862.62-868.62] MINISTRO: Nunca hubo un complot contra Argentina de nadie, ni los profesores.
+[868.62-872.62] MINISTRO: Nos querían bochar o hacer preguntas difíciles.
+[872.62-875.62] MINISTRO: Era simplemente que hacíamos las cosas mal.
+[875.62-880.62] MINISTRO: Entonces, ¿por qué ahora es distinto por la combinación de estas dos cosas?
+[880.62-882.62] OTRO: Porque hemos decidido hacer los deberes.
+[882.62-885.62] MINISTRO: Finalmente, hemos decidido hacer los deberes.
+[885.62-887.62] MINISTRO: No nos vamos a mover de eso.
+[887.62-889.62] MINISTRO: Y eso es lo que nos ha dado.
+[889.62-892.62] MINISTRO: Y, por supuesto, la convicción de la presidenta,
+[892.62-895.62] OTRO: que es la convicción de la presidenta,
+[895.62-897.62] OTRO: que es la convicción de la presidenta,
+[897.62-899.62] MINISTRO: que es la convicción de la presidenta,
+[899.62-901.62] MINISTRO: que es la convicción de la presidenta,
+[901.62-903.62] MINISTRO: que es la convicción de la presidenta,
+[903.62-905.62] MINISTRO: que es la convicción de la presidenta,
+[905.62-907.62] MINISTRO: que es la convicción de la presidenta,
+[907.62-909.62] MINISTRO: que es la convicción de la presidenta,
+[909.62-911.62] MINISTRO: que es la convicción de la presidenta,
+[911.62-913.62] OTRO: que es la convicción de la presidenta,
+[913.62-915.62] OTRO: que es la convicción de la presidenta,
+[915.62-917.62] OTRO: que es la convicción de la presidenta,
+[917.62-919.62] MINISTRO: que es la convicción de la presidenta,
+[919.62-921.62] MINISTRO: que es la convicción de la presidenta,
+[921.62-923.62] OTRO: que es la convicción de la presidenta,
+[923.62-925.62] OTRO: que es la convicción de la presidenta,
+[925.62-927.62] MINISTRO: que es la convicción de la presidenta,
+[927.62-929.62] MINISTRO: que es la convicción de la presidenta,
+[929.62-931.62] MINISTRO: que es la convicción de la presidenta,
+[931.62-933.62] MINISTRO: que es la convicción de la presidenta,
+[933.62-935.62] MINISTRO: que es la convicción de la presidenta,
+[935.62-937.62] MINISTRO: que es la convicción de la presidenta,
+[937.62-939.62] MINISTRO: que es la convicción de la presidenta,
+[939.62-941.62] MINISTRO: que es la convicción de la presidenta,
+[941.62-943.62] MINISTRO: que es la convicción de la presidenta,
+[943.62-945.62] MINISTRO: que es la convicción de la presidenta,
+[945.62-947.62] OTRO: que es la convicción de la presidenta,
+[947.62-949.62] MINISTRO: que es la convicción de la presidenta,
+[949.62-951.62] MINISTRO: que es la convicción de la presidenta,
+[951.62-953.62] OTRO: que es la convicción de la presidenta,
+[953.62-955.62] MINISTRO: que es la convicción de la presidenta,
+[955.62-957.62] MINISTRO: que es la convicción de la presidenta,
+[957.62-959.62] MINISTRO: que es la convicción de la presidenta,
+[959.62-961.62] MINISTRO: que es la convicción de la presidenta,
+[961.62-963.62] MINISTRO: que es la convicción de la presidenta,
+[963.62-965.62] MINISTRO: que es la convicción de la presidenta,
+[965.62-967.62] MINISTRO: que es la convicción de la presidenta,
+[967.62-969.62] MINISTRO: que es la convicción de la presidenta,
+[969.62-975.59] MINISTRO: que es la convicción de la presidenta,
+[975.59-977.59] OTRO: que es la convicción de la presidenta,
+[977.59-979.59] OTRO: que es la convicción de la presidenta,
+[979.59-981.59] MINISTRO: que es la convicción de la presidenta,
+[981.59-983.59] MINISTRO: que es la convicción de la presidenta,
+[983.59-985.59] MINISTRO: que es la convicción de la presidenta,
+[985.59-987.59] MINISTRO: que es la convicción de la presidenta,
+[987.59-989.59] MINISTRO: que es la convicción de la presidenta,
+[989.59-991.59] MINISTRO: que es la convicción de la presidenta,
+[991.59-993.59] MINISTRO: que es la convicción de la presidenta,
+[993.59-995.59] MINISTRO: que es la convicción de la presidenta,
+[995.59-997.59] MINISTRO: que es la convicción de la presidenta,
+[997.59-999.59] MINISTRO: que es la convicción de la presidenta,
+[999.59-1001.59] MINISTRO: que es la convicción de la presidenta,
+[1001.59-1003.59] MINISTRO: que es la convicción de la presidenta,
+[1003.59-1005.59] MINISTRO: que es la convicción de la presidenta,
+[1005.59-1007.59] MINISTRO: que es la convicción de la presidenta,
+[1007.59-1009.59] MINISTRO: que es la convicción de la presidenta,
+[1009.59-1011.59] MINISTRO: que es la convicción de la presidenta,
+[1011.59-1013.59] MINISTRO: que es la convicción de la presidenta,
+[1013.59-1015.59] MINISTRO: que es la convicción de la presidenta,
+[1015.59-1017.59] MINISTRO: que es la convicción de la presidenta,
+[1017.59-1019.59] MINISTRO: que es la convicción de la presidenta,
+[1019.59-1021.59] MINISTRO: que es la convicción de la presidenta,
+[1021.59-1023.59] OTRO: que es la convicción de la presidenta,
+[1023.59-1025.59] MINISTRO: que es la convicción de la presidenta,
+[1025.59-1027.59] MINISTRO: que es la convicción de la presidenta,
+[1027.59-1029.59] MINISTRO: que es la convicción de la presidenta,
+[1029.59-1031.59] MINISTRO: que es la convicción de la presidenta,
+[1031.59-1033.59] MINISTRO: que es la convicción de la presidenta,
+[1033.59-1035.59] OTRO: que es la convicción de la presidenta,
+[1035.59-1037.59] MINISTRO: que es la convicción de la presidenta,
+[1037.59-1039.59] MINISTRO: que es la convicción de la presidenta,
+[1039.59-1041.59] MINISTRO: que es la convicción de la presidenta,
+[1041.59-1043.59] MINISTRO: que es la convicción de la presidenta,
+[1043.59-1045.59] MINISTRO: que es la convicción de la presidenta,
+[1045.59-1047.59] MINISTRO: que es la convicción de la presidenta,
+[1047.59-1049.59] OTRO: que es la convicción de la presidenta,
+[1049.59-1051.59] OTRO: que es la convicción de la presidenta,
+[1051.59-1053.59] OTRO: que es la convicción de la presidenta,
+[1053.59-1055.59] MINISTRO: que es la convicción de la presidenta,
+[1055.59-1057.59] MINISTRO: que es la convicción de la presidenta,
+[1057.59-1059.59] MINISTRO: que es la convicción de la presidenta,
+[1059.59-1061.59] MINISTRO: que es la convicción de la presidenta,
+[1061.59-1063.59] MINISTRO: que es la convicción de la presidenta,
+[1063.59-1065.59] MINISTRO: que es la convicción de la presidenta,
+[1065.59-1067.59] MINISTRO: que es la convicción de la presidenta,
+[1067.59-1069.59] MINISTRO: que es la convicción de la presidenta,
+[1069.59-1071.59] MINISTRO: que es la convicción de la presidenta,
+[1071.59-1073.59] OTRO: que es la convicción de la presidenta,
+[1073.59-1075.59] MINISTRO: que es la convicción de la presidenta,
+[1075.59-1077.59] MINISTRO: que es la convicción de la presidenta,
+[1077.59-1079.59] MINISTRO: que es la convicción de la presidenta,
+[1079.59-1081.59] MINISTRO: que es la convicción de la presidenta,
+[1081.59-1083.59] MINISTRO: que es la convicción de la presidenta,
+[1083.59-1085.59] MINISTRO: que es la convicción de la presidenta,
+[1085.59-1087.59] MINISTRO: que es la convicción de la presidenta,
+[1087.59-1089.59] MINISTRO: que es la convicción de la presidenta,
+[1089.59-1091.59] MINISTRO: que es la convicción de la presidenta,
+[1091.59-1093.59] MINISTRO: que es la convicción de la presidenta,
+[1093.59-1095.59] OTRO: que es la convicción de la presidenta,
+[1095.59-1097.59] MINISTRO: que es la convicción de la presidenta,
+[1097.59-1101.67] MINISTRO: que es la convicción de la presidenta,
+[1101.67-1103.67] MINISTRO: que es la convicción de la presidenta,
+[1103.67-1105.67] OTRO: que es la convicción de la presidenta,
+[1105.67-1107.67] OTRO: que es la convicción de la presidenta,
+[1107.67-1109.67] MINISTRO: que es la convicción de la presidenta,
+[1109.67-1111.67] MINISTRO: que es la convicción de la presidenta,
+[1111.67-1113.67] MINISTRO: que es la convicción de la presidenta,
+[1113.67-1115.67] MINISTRO: que es la convicción de la presidenta,
+[1115.67-1117.67] MINISTRO: que es la convicción de la presidenta,
+[1117.67-1119.67] OTRO: que es la convicción de la presidenta,
+[1119.67-1121.67] OTRO: que es la convicción de la presidenta,
+[1121.67-1123.67] OTRO: que es la convicción de la presidenta,
+[1123.67-1125.67] MINISTRO: que es la convicción de la presidenta,
+[1125.67-1127.67] OTRO: que es la convicción de la presidenta,
+[1127.67-1129.67] OTRO: que es la convicción de la presidenta,
+[1129.67-1131.67] MINISTRO: que es la convicción de la presidenta,
+[1131.67-1133.67] MINISTRO: que es la convicción de la presidenta,
+[1133.67-1135.67] MINISTRO: que es la convicción de la presidenta,
+[1135.67-1137.67] MINISTRO: que es la convicción de la presidenta,
+[1137.67-1139.67] MINISTRO: que es la convicción de la presidenta,
+[1139.67-1141.67] MINISTRO: que es la convicción de la presidenta,
+[1141.67-1143.67] MINISTRO: que es la convicción de la presidenta,
+[1143.67-1145.67] MINISTRO: que es la convicción de la presidenta,
+[1145.67-1147.67] OTRO: para cualquier presidente de cualquier país,
+[1147.67-1149.67] MINISTRO: ni hablar para un país como Argentina.
+[1149.67-1151.67] MINISTRO: Hoy es una de las tres voces más
+[1151.67-1153.67] MINISTRO: escuchadas del mundo.
+[1153.67-1155.67] MINISTRO: Y como digo,
+[1155.67-1157.67] MINISTRO: ojalá pudiera contar ciertas cosas,
+[1157.67-1159.67] MINISTRO: pero, digamos,
+[1159.67-1161.67] MINISTRO: el presidente en sí mismo
+[1161.67-1163.67] MINISTRO: genera mucha atención,
+[1163.67-1165.67] MINISTRO: eso genera mucha
+[1165.67-1167.67] MINISTRO: atracción,
+[1167.67-1169.67] MINISTRO: digo, hacia lo que estamos haciendo,
+[1169.67-1171.67] OTRO: genera inversiones,
+[1171.67-1173.67] MINISTRO: todo esto que hay en la sociedad,
+[1173.67-1175.67] MINISTRO: genera inversiones,
+[1175.67-1177.67] MINISTRO: todo esto que estamos viendo,
+[1177.67-1179.67] MINISTRO: de inversiones
+[1179.67-1181.67] MINISTRO: anunciadas,
+[1181.67-1183.67] OTRO: y eso es raro verlo en la economía real
+[1183.67-1185.67] OTRO: en un plazo de tiempo tan corto,
+[1185.67-1187.67] MINISTRO: no pasa típicamente,
+[1187.67-1189.67] MINISTRO: las inversiones en la economía real,
+[1189.67-1191.67] MINISTRO: las decisiones de inversión en la economía real
+[1191.67-1193.67] MINISTRO: ya han mucho tiempo.
+[1193.67-1195.67] MINISTRO: En sentido, el presidente es
+[1195.67-1197.67] MINISTRO: una tajo fenomenal.
+[1197.67-1199.67] MINISTRO: Entonces, sí, claramente, hay un protagonista,
+[1199.67-1201.67] MINISTRO: hay actores
+[1201.67-1203.67] MINISTRO: de reparto
+[1203.67-1205.67] MINISTRO: como los ministros
+[1205.67-1207.67] MINISTRO: y los secretarios,
+[1207.67-1209.67] MINISTRO: y están ustedes,
+[1209.67-1211.67] MINISTRO: están ustedes,
+[1211.67-1213.67] MINISTRO: los empresarios y los ciudadanos
+[1213.67-1215.67] MINISTRO: que ustedes estarán pensando,
+[1215.67-1217.67] MINISTRO: sí, nosotros somos los extras,
+[1217.67-1219.67] MINISTRO: no.
+[1219.67-1221.67] MINISTRO: Ustedes son los coprotadonistas,
+[1221.67-1223.67] MINISTRO: esa es la parte
+[1223.67-1225.67] MINISTRO: que tienen que entender,
+[1225.67-1227.67] MINISTRO: que me encantaría por lo menos
+[1227.67-1229.67] MINISTRO: transmitirle, y no se los digo como un mimo,
+[1229.67-1231.67] MINISTRO: se los digo porque realmente
+[1231.67-1233.67] MINISTRO: lo pienso.
+[1233.67-1235.67] MINISTRO: Ustedes son los coprotadonistas,
+[1235.67-1237.67] MINISTRO: presidente protagonista, la gente y los empresarios
+[1237.67-1239.67] MINISTRO: coprotadonistas,
+[1239.67-1241.67] MINISTRO: y los actores secundarios somos nosotros,
+[1241.67-1243.67] MINISTRO: porque
+[1243.67-1245.67] MINISTRO: la sumatoria de las decisiones individuales
+[1245.67-1247.67] MINISTRO: de ustedes es lo que va a definir
+[1247.67-1249.67] MINISTRO: que esta recuperación, que inexorablemente
+[1249.67-1251.67] MINISTRO: se va a dar,
+[1251.67-1253.67] MINISTRO: sea más o menos rápida.
+[1253.67-1255.67] MINISTRO: Ustedes pueden pensar, no, en qué puede
+[1255.67-1257.67] MINISTRO: influir lo que yo haga, o piense,
+[1257.67-1259.67] MINISTRO: un montón.
+[1259.67-1261.67] MINISTRO: Un montón. Ustedes entienden
+[1261.67-1263.67] MINISTRO: que estamos realmente frente a un cambio
+[1263.67-1265.67] MINISTRO: histórico,
+[1265.67-1267.67] MINISTRO: sí.
+[1267.67-1269.67] MINISTRO: Bueno, digamos, cambia todo
+[1269.67-1271.67] MINISTRO: realmente. Por eso es muy importante
+[1271.67-1273.67] MINISTRO: que se entienda
+[1273.67-1275.67] OTRO: el porqué y la causalidad
+[1275.67-1277.67] MINISTRO: y todo, y el rol, e insisto, que ustedes
+[1277.67-1279.67] MINISTRO: tienen en esta
+[1279.67-1281.67] OTRO: historia, y es infinitamente más importante
+[1281.67-1283.67] OTRO: de lo que uno del sector privado
+[1283.67-1285.67] MINISTRO: puede imaginar. Creanme lo,
+[1285.67-1290.55] OTRO: escuchaba a José
+[1290.55-1292.55] MINISTRO: también
+[1292.55-1294.55] MINISTRO: por supuesto hablar del tema
+[1294.55-1296.55] MINISTRO: impositivo,
+[1296.55-1298.55] MINISTRO: como digo nosotros, también estamos, o sea, venimos
+[1298.55-1300.55] MINISTRO: a eso, lo que pasa es que
+[1300.55-1302.55] MINISTRO: como siempre digo,
+[1302.55-1304.55] MINISTRO: esto va a llevar un tiempo.
+[1304.55-1306.55] MINISTRO: Por lo pronto hemos bajado
+[1306.55-1308.55] MINISTRO: lo que todos definimos
+[1308.55-1310.55] MINISTRO: como el peor
+[1310.55-1312.55] MINISTRO: de los impuestos, que es el impuesto
+[1312.55-1314.55] MINISTRO: inflacionario, ¿no?
+[1314.55-1316.55] OTRO: Y no tengan duda que vamos a ir
+[1316.55-1318.55] OTRO: bajando
+[1318.55-1320.55] OTRO: todos los otros impuestos, esos distorsivos
+[1320.55-1322.55] OTRO: con los que no sé como ustedes lidian
+[1322.55-1324.55] OTRO: porque realmente de las cosas que cogramos
+[1324.55-1326.55] MINISTRO: hay la miro a flor, pero digo
+[1326.55-1328.55] MINISTRO: miren,
+[1328.55-1330.55] MINISTRO: viene de nuestro lado.
+[1330.55-1332.55] OTRO: Entonces, esa es la forma
+[1332.55-1334.55] OTRO: de ganar competitividad.
+[1334.55-1336.55] OTRO: Hay que dejar la idea
+[1336.55-1338.55] OTRO: esa fantasiosa de que se gana competitividad
+[1338.55-1340.55] OTRO: devaluando para que lo pague
+[1340.55-1342.55] MINISTRO: el que menos tiene y
+[1342.55-1344.55] MINISTRO: engañarnos de que somos
+[1344.55-1346.55] OTRO: un país competitivo.
+[1346.55-1348.55] OTRO: Y no diría lo único que generamos es una carrera
+[1348.55-1350.55] MINISTRO: nominal que nos lleva
+[1350.55-1352.55] MINISTRO: siempre a las crisis
+[1352.55-1354.55] MINISTRO: que siempre hemos tenido.
+[1354.55-1356.55] OTRO: Nosotros
+[1356.55-1358.55] MINISTRO: vamos por el otro camino, que es
+[1358.55-1360.55] MINISTRO: el de ganar la competitividad
+[1360.55-1362.55] MINISTRO: devolviendoles la plata al sector
+[1362.55-1364.55] MINISTRO: privado,
+[1364.55-1366.55] MINISTRO: bajando impuestos.
+[1366.55-1368.55] OTRO: Y eso va a pasar.
+[1368.55-1370.55] OTRO: Así que tengan
+[1370.55-1372.55] MINISTRO: plena confianza
+[1372.55-1376.66] MINISTRO: que esto va a continuar.
+[1376.66-1380.14] MINISTRO: Y por último,
+[1380.14-1382.14] OTRO: les decía el tercer
+[1382.14-1384.14] OTRO: mensaje es
+[1384.14-1386.14] MINISTRO: que no perdamos de vista que estamos
+[1386.14-1388.14] MINISTRO: digamos
+[1388.14-1390.14] MINISTRO: en un país que tiene un potencial
+[1390.14-1392.14] MINISTRO: enorme, ¿no?
+[1392.14-1394.14] MINISTRO: Tenemos realmente
+[1394.14-1396.14] MINISTRO: todo. Ustedes producen alimentos
+[1396.14-1398.14] MINISTRO: para más de 400 millones de personas,
+[1398.14-1400.14] MINISTRO: tenemos minería,
+[1400.14-1402.14] MINISTRO: tenemos energía,
+[1402.14-1404.14] MINISTRO: tenemos un tangible
+[1404.14-1406.14] MINISTRO: que no se presta mucha
+[1406.14-1408.14] MINISTRO: atención, que es espectacular,
+[1408.14-1410.14] MINISTRO: que es el capital humano.
+[1410.14-1412.14] MINISTRO: Tenemos un capital humano
+[1412.14-1414.14] MINISTRO: realmente extraordinario.
+[1414.14-1416.14] MINISTRO: Tenemos
+[1416.14-1418.14] OTRO: también ahora
+[1418.14-1420.14] OTRO: nuevas medidas, ¿no?
+[1420.14-1422.14] MINISTRO: Tenemos un nuevo régimen
+[1422.14-1424.14] MINISTRO: de inversiones
+[1424.14-1426.14] OTRO: que está
+[1426.14-1428.14] OTRO: generando una atracción
+[1428.14-1430.14] OTRO: enorme. Ya ha habido
+[1430.14-1432.14] MINISTRO: inversiones por más de 40.000 millones
+[1432.14-1434.14] MINISTRO: de dólares.
+[1434.14-1436.14] MINISTRO: Y también a nivel de
+[1436.14-1438.14] OTRO: personas
+[1438.14-1440.14] MINISTRO: también hay una oportunidad muy grande
+[1440.14-1442.14] MINISTRO: con el blanqueo
+[1442.14-1444.14] MINISTRO: de capitales.
+[1444.14-1446.14] MINISTRO: Esta es una oportunidad
+[1446.14-1448.14] MINISTRO: de vuelta.
+[1448.14-1450.14] MINISTRO: El blanqueo es algo muy parecido a la ley
+[1450.14-1452.14] MINISTRO: bases.
+[1452.14-1454.14] MINISTRO: Es algo para la gente.
+[1454.14-1456.14] MINISTRO: Sí.
+[1456.14-1458.14] MINISTRO: No tiene una
+[1458.14-1460.14] OTRO: intención recaudadora.
+[1460.14-1462.14] MINISTRO: El blanqueo
+[1462.14-1464.14] MINISTRO: tiene la intención
+[1464.14-1466.14] MINISTRO: de que todos
+[1466.14-1468.14] MINISTRO: entiendan
+[1468.14-1470.14] MINISTRO: que empieza una nueva Argentina.
+[1470.14-1472.14] MINISTRO: Que todos
+[1472.14-1474.14] MINISTRO: podemos ser parte.
+[1474.14-1476.14] MINISTRO: Que ya no va a ser necesario escondarse
+[1476.14-1478.14] OTRO: y tener la plata
+[1478.14-1480.14] OTRO: al cero en una caja de seguridad
+[1480.14-1482.14] OTRO: o abajo del colchón.
+[1482.14-1484.14] MINISTRO: No va a valer la pena.
+[1484.14-1486.14] MINISTRO: No vale la pena.
+[1486.14-1488.14] MINISTRO: Pueden hacerlo
+[1488.14-1490.14] MINISTRO: y tengan la plena convicción
+[1490.14-1492.14] MINISTRO: que
+[1492.14-1494.14] MINISTRO: si se hace eso el país va
+[1494.14-1496.14] MINISTRO: a cambiar mucho más
+[1496.14-1498.14] MINISTRO: rápidamente y más
+[1498.14-1500.14] MINISTRO: fuertemente. Porque de vuelta la intención
+[1500.14-1502.14] MINISTRO: de ese blanqueo no es recaudatorio
+[1502.14-1504.14] OTRO: sino que se motorice la economía.
+[1504.14-1506.14] OTRO: Por eso lo hemos hecho de la forma que lo hemos hecho.
+[1506.14-1508.14] MINISTRO: Algunos piensan erróneamente que
+[1508.14-1510.14] MINISTRO: se paga multa
+[1510.14-1512.14] MINISTRO: si son más de 100.000 dólares.
+[1512.14-1514.14] MINISTRO: No, no es así.
+[1514.14-1516.14] MINISTRO: Se paga multa por cualquier cifra
+[1516.14-1518.14] MINISTRO: si se blanquea antes del 30 de
+[1518.14-1520.14] MINISTRO: septiembre
+[1520.14-1522.14] MINISTRO: y dada ciertas
+[1522.14-1524.14] MINISTRO: condiciones que son muy fáciles
+[1524.14-1526.14] MINISTRO: de cumplir.
+[1526.14-1528.14] MINISTRO: Muy fáciles.
+[1528.14-1530.14] MINISTRO: Entonces, ¿por qué lo estamos haciendo así?
+[1530.14-1532.14] MINISTRO: ¿Por qué queremos construir una Argentina nueva?
+[1532.14-1534.14] MINISTRO: Ya fue, sí.
+[1534.14-1536.14] MINISTRO: Durante muchas décadas fue la forma
+[1536.14-1538.14] MINISTRO: de defenderse de todo el mundo
+[1538.14-1540.14] MINISTRO: y es entendible.
+[1540.14-1542.14] MINISTRO: Ahora estamos yendo a una Argentina nueva
+[1542.14-1544.14] MINISTRO: y es una oportunidad histórica
+[1544.14-1546.14] MINISTRO: y de ese punto de vista
+[1546.14-1548.14] MINISTRO: ustedes pueden contribuir enormemente
+[1548.14-1550.14] MINISTRO: también. Es parte
+[1550.14-1552.14] MINISTRO: de esta construcción.
+[1552.14-1554.14] MINISTRO: Ustedes tienen que sentirse parte porque realmente
+[1554.14-1556.14] MINISTRO: lo son.
+[1556.14-1558.14] OTRO: Ojalá
+[1558.14-1560.14] OTRO: no me alcanzan las palabras
+[1560.14-1562.14] MINISTRO: para transmitir
+[1562.14-1564.14] MINISTRO: este concepto.
+[1564.14-1566.14] MINISTRO: Pero desde este lado
+[1566.14-1568.14] MINISTRO: déjenme
+[1568.14-1570.14] MINISTRO: terminar diciéndoles
+[1570.14-1572.14] MINISTRO: que solamente sentimos todos los que
+[1572.14-1574.14] MINISTRO: estamos en esto.
+[1574.14-1576.14] MINISTRO: Y es una el agradecimiento
+[1576.14-1578.14] MINISTRO: por el apoyo
+[1578.14-1580.14] MINISTRO: siempre
+[1580.14-1582.14] MINISTRO: de todos en particular
+[1582.14-1584.14] MINISTRO: de este sector
+[1584.14-1586.14] MINISTRO: que decirles.
+[1588.14-1590.14] MINISTRO: Y sobre todo
+[1590.14-1592.14] MINISTRO: invitarlos, como dije antes
+[1592.14-1594.14] MINISTRO: invitarlos
+[1594.14-1596.14] MINISTRO: a que se sientan
+[1596.14-1598.14] MINISTRO: coprotagonistas.
+[1598.14-1600.14] MINISTRO: Y si lo son
+[1600.14-1602.14] MINISTRO: y si racionalizamos
+[1602.14-1604.14] MINISTRO: esto y entendemos que entre todos
+[1604.14-1606.14] MINISTRO: podemos construir
+[1606.14-1608.14] MINISTRO: ese país que
+[1608.14-1610.14] MINISTRO: tanto nos merecemos
+[1610.14-1612.14] MINISTRO: les aseguro que nos vamos a sorprender
+[1612.14-1614.14] MINISTRO: de
+[1614.14-1616.14] MINISTRO: lo que puede ser este país
+[1616.14-1618.14] MINISTRO: en los próximos años.
+[1618.14-1620.14] MINISTRO: Así que muchas gracias a todos de vuelta
+[1620.14-1622.14] OTRO: y espero haberlos convencidos de alguien.
+[1622.14-1624.14] OTRO: Y nos vemos en el próximo vídeo.

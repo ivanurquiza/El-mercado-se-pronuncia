@@ -1,0 +1,343 @@
+[2.48-46.24] MINISTRO: Bueno, buenas tardes a todos. Nos estamos convocando porque para
+[46.24-55.08] MINISTRO: contarles cómo seguir lo que es la segunda etapa de este plan de estabilización,
+[55.08-65.66] MINISTRO: pero déjenme entonces como siempre arrancar un poco contando la historia
+[65.66-75.24] MINISTRO: en recibida, porque esto siempre pone de alguna manera en perspectiva.
+[75.24-81.24] MINISTRO: Y eso es lo que podría haber pasado y la situación en la que estamos hoy.
+[81.24-91.24] MINISTRO: Como ya ha dicho muchas veces el presidente, hemos heredado la peor herencia de la historia,
+[91.24-100.24] MINISTRO: lo peor de las últimas tres crisis del Rodriguazo, de las hiperinflaciones del 89-90,
+[100.24-107.24] MINISTRO: y de la salida de la convertibilidad. Piensen que de vuelta en cada una de esas situaciones
+[107.24-116.24] MINISTRO: se terminó en crisis. En este caso heredamos la combinación de esas tres y se pudo evitar la crisis.
+[116.24-126.24] MINISTRO: Es decir, recibimos un paciente literalmente en terapia intensiva y hoy estamos en una situación
+[126.24-134.24] MINISTRO: claramente de recuperación. Sería un déficit consolidado, y esto es algo que vamos a entender
+[134.24-144.24] MINISTRO: mejor hoy, un déficit consolidado entre Tesoro y Banco Central de 15 puntos del producto.
+[144.24-150.24] MINISTRO: 5 puntos, déficit del Tesoro, 10 puntos de déficit en el Banco Central.
+[151.24-156.24] MINISTRO: Reservas netas negativas por 11.200 millones de dólares.
+[156.24-162.24] MINISTRO: Esto para que la gente entienda, quiere decir que no es que ya el Banco Central no tenía dólares propios,
+[162.24-166.24] MINISTRO: sino que muchos se han vendido los dólares de los depósitos de la gente.
+[166.24-175.78] MINISTRO: Además enfrentábamos vencimientos inmediatos con el Fondo Monetario Internacional en diciembre mismo
+[175.78-181.78] MINISTRO: y con el mercado en los primeros días de enero, por lo cual también recibimos el país virtualmente
+[181.78-185.78] MINISTRO: en default con el Fondo y con el mercado.
+[185.78-191.78] MINISTRO: Además había una deuda con los importadores de 60.000 millones de dólares.
+[191.78-198.78] MINISTRO: Esa deuda con los importadores generaba un problema adicional que es que estaba rota la cadena
+[198.78-204.78] MINISTRO: de suministro, de proveedores del exterior con los importadores,
+[204.78-209.78] MINISTRO: lo que generaba una mucha mayor incertidumbre al momento de formar precios,
+[209.78-214.78] MINISTRO: porque claramente no se sabía el valor de reposición,
+[214.78-218.78] MINISTRO: lo que alimentaba mucho más la probabilidad de una hiperinflación.
+[218.78-228.78] MINISTRO: No es entonces una casualidad que el 85% de la gente esperaba una hiperinflación.
+[228.78-239.78] MINISTRO: Producto de todos estos desequilibrios, además teníamos una inflación por encima del 200% anual,
+[239.78-247.78] MINISTRO: particularmente en diciembre la inflación arrancó en el 1% diario,
+[247.78-250.78] MINISTRO: la semana siguiente llegó al 1,5% diario,
+[250.78-257.78] MINISTRO: y como siempre dice el presidente, si tenemos en cuenta la inflación mayorista de diciembre,
+[257.78-264.78] MINISTRO: que fue del 54%, eso daba un anualizado de 17.600.
+[264.78-271.78] MINISTRO: Y todo esto con la mayoría de los precios en la economía, como se dice, pisados,
+[271.78-278.78] MINISTRO: dólar, combustibles, tarifa, alimentos,
+[278.78-286.78] MINISTRO: y sobre todo un enorme, como digo, desbalance en el mercado de dinero
+[286.78-290.78] MINISTRO: entre la oferta y la demanda de pesos.
+[290.78-297.78] MINISTRO: En los últimos años, había tres bases monetarias en pasivos remunerados,
+[297.78-301.78] MINISTRO: para que la gente entienda lo que eran antes las LEVAX, después fueron LELEX,
+[301.78-302.78] MINISTRO: y ahora son pases.
+[302.78-310.78] MINISTRO: Esa fue la situación que se heredó y que claramente requería un programa de shock,
+[310.78-319.78] MINISTRO: y eso fue lo que hicimos, un programa fundamentalmente basado en una muy fuerte ancla fiscal.
+[319.78-324.78] MINISTRO: Y también, una equilibrio fiscal desde el día 1, algo inédito,
+[324.78-330.78] MINISTRO: porque recuerden que esos 5 puntos de déficit, se especulaba con que de ninguna manera
+[330.78-337.78] MINISTRO: podían cerrarse, tal vez 1 o 2 puntos en el mediano plazo,
+[337.78-344.78] MINISTRO: pero definitivamente, una fue una gran sorpresa positiva el hecho de haber podido cerrar
+[344.78-350.95] MINISTRO: este déficit en el primer mes de nuestra función.
+[350.95-355.95] MINISTRO: Y esta, como hemos explicado muchas veces, siempre fue el déficit fiscal,
+[355.95-361.95] MINISTRO: siempre fue el corazón del problema, y por eso era muy importante que la gente
+[361.95-368.95] MINISTRO: entendiera este concepto, porque como dije, muchas veces siempre se le echó la culpa
+[368.95-374.95] MINISTRO: a las consecuencias que ha generado ese déficit fiscal, siempre se le ha echado la culpa
+[374.95-382.95] MINISTRO: a la inflación, a la deuda, al dólar, y siempre se ha tratado de resolver esas consecuencias
+[382.95-388.95] MINISTRO: en vez de atacar el corazón del problema que siempre ha sido el déficit fiscal.
+[388.95-397.95] MINISTRO: Entonces nosotros decidimos con un enorme poder de convicción del Presidente de la Nación
+[397.95-404.95] MINISTRO: y un mandato de hacer esto al mismo tiempo que cuidábamos a los más vulnerables.
+[404.95-413.95] MINISTRO: Cosa que hemos cumplido, y como hoy bien decía también el Presidente en una entrevista
+[413.95-425.95] MINISTRO: a la mañana, lo hemos hecho también sin generar ninguna, digamos, ninguna consecuencia
+[425.95-433.95] MINISTRO: arbitraria negativa contra la sociedad, es decir, no se hizo ningún plan Bónix como se esperaba,
+[433.95-441.95] MINISTRO: no se generó ninguna crisis para poder tener una recuperación después más sencilla,
+[441.95-451.95] MINISTRO: no se violaron contratos, todo se hizo, digamos, dentro de las condiciones de normalidad.
+[451.95-459.95] MINISTRO: Esto es, como digo, muy importante, te lo lo encuentro, porque es el corazón de como nosotros pensamos.
+[459.95-469.95] MINISTRO: Ahora bien, como dije, estamos acá porque estamos ya en lo que nosotros consideramos
+[469.95-477.95] MINISTRO: lo que sería la segunda etapa de este plan de estabilización que consiste esencialmente
+[477.95-486.49] MINISTRO: en ir a emisión, no voy a decir cero, después el Presidente del Banco Central lo va a explicar bien,
+[486.49-495.49] MINISTRO: a cerrar la segunda canilla de emisión. Recuerden que tenemos tres canillas de emisión monetaria,
+[495.49-501.49] MINISTRO: una es el déficit fiscal, la segunda son los intereses que el Banco Central paga
+[501.49-507.49] MINISTRO: por esos famosos pasivos remunerados, lebacks, leleaks, paces,
+[507.49-516.49] MINISTRO: y el tercero es cuando el Banco Central compra dólares, que digamos que es el único efecto si se quiere de emisión
+[516.49-524.49] MINISTRO: que no es dañino porque de alguna manera está siendo compensado por mayor acumulación de reservas.
+[524.49-532.49] MINISTRO: Entonces en la primera etapa se cerró la canilla de la emisión de dinero por déficit fiscal,
+[532.49-541.49] MINISTRO: algo en lo cual se abusó enormemente durante el gobierno pasado y que generó todo este desbalance
+[541.49-547.49] MINISTRO: y esta inflación que hemos visto y que estamos viendo.
+[548.49-555.49] MINISTRO: En esta segunda etapa entonces estamos cerrando el grifo de lo que es el segundo canal de emisión
+[555.49-562.49] MINISTRO: que es los intereses que el Banco Central paga por los pasivos remunerados.
+[562.49-569.93] MINISTRO: Santiago después va a explicar este proceso en mucho más detalle.
+[570.93-573.93] MINISTRO: Y esto, digamos, ¿por qué lo estamos haciendo?
+[573.93-584.93] MINISTRO: Porque queremos dar mayor certidumbre y mayor solidez aún al programa económico
+[584.93-598.93] MINISTRO: para que de alguna manera deje de haber ansiedad con respecto a cuando va a ser la salida del cepo cambiario.
+[599.93-603.93] MINISTRO: ¿Alguno dirá, se están enamorando del cepo?
+[603.93-606.93] MINISTRO: No, no ese es el caso.
+[606.93-611.93] MINISTRO: Lo que nos hemos enamorado es del orden macroeconómico.
+[611.93-616.93] MINISTRO: Y de lo que nos hemos enamorado es de no generarle un problema a los argentinos.
+[616.93-626.93] MINISTRO: Entonces para nosotros la salida del cepo es una tercera etapa que va a ser una etapa de crecimiento
+[626.93-632.93] MINISTRO: y de salida del cepo en la cual como ya he dicho muchas veces no nos hemos fijado una fecha.
+[632.93-639.93] MINISTRO: Nos hemos fijado parámetros que esencialmente implican orden macroeconómico
+[639.93-644.93] MINISTRO: para que cuando hagamos esto estemos nosotros lo más seguros posible
+[644.93-649.93] MINISTRO: que no va a generar ningún sobresalto en la gente.
+[649.93-651.93] MINISTRO: ¿Qué quiere decir sobresalto?
+[651.93-657.93] MINISTRO: Bueno, alguna potencial suba del dólar que como saben que eso genera más inflación, desempleo,
+[657.93-661.93] MINISTRO: todas cosas que los argentinos ya han visto durante mucho tiempo.
+[661.93-668.93] MINISTRO: Entonces lo que nosotros buscamos aquí es que la gente entienda la robustez de este programa
+[668.93-675.93] MINISTRO: y que esto nos va a permitir profundizar lo que hemos venido haciendo,
+[675.93-679.93] MINISTRO: profundizar el proceso de desinflación
+[679.93-684.93] MINISTRO: y de esa manera como digo darnos el tiempo que consideremos necesario
+[684.93-688.93] MINISTRO: para que podamos salir también de las restricciones cambiarias
+[688.93-692.93] MINISTRO: cuando las condiciones macroeconómicas estén dadas.
+[692.93-694.93] MINISTRO: ¿Soy ahora parando poco?
+[694.93-698.40] MINISTRO: Gracias.
+[698.40-703.40] OTRO: Bueno, un poco hablar, complementar los detalles de qué es esta fase 2
+[703.40-705.40] OTRO: y qué implica cerrar esta canilla
+[705.40-710.40] OTRO: y por qué es tan importante cerrar esta canilla, esta segunda canilla de emisión monetaria.
+[710.40-716.40] OTRO: Todo esto es un esfuerzo de seguir profundizando el esfuerzo de saneamiento del balance del Banco Central.
+[716.40-718.40] OTRO: ¿Qué quiere decir sanear el balance del Banco Central?
+[718.40-722.40] OTRO: Al final, el Banco Central es el que emite los pesos que todos tenemos en la sociedad
+[722.40-725.40] OTRO: y cuanto más sólido sea el balance del Banco Central,
+[725.40-728.40] OTRO: más sólido es el respaldo que tiene esos pesos.
+[728.40-730.40] OTRO: ¿Qué es un balance más sólido?
+[730.40-734.40] MINISTRO: Es un balance que tiene mejores activos y menos pasivos.
+[734.40-740.40] OTRO: Los mejores activos lo venimos logrando con la acumulación de reserva hasta ahora.
+[740.40-746.40] OTRO: La recuperación por el lado del pasivo es reducir el monto de los pasivos,
+[746.40-749.40] OTRO: reducir en términos reales que se vienen haciendo de esos pasivos
+[749.40-754.40] OTRO: y reducir los intereses que generan esos pasivos sobre el balance del Banco Central.
+[754.40-760.40] OTRO: Como comentó recién, los pasivos son principalmente los pasivos remunerados
+[760.40-763.40] MINISTRO: del Banco Central los que generan un problema,
+[763.40-768.40] OTRO: lo que eran las LEVAX, que después pasaron a hacer las LELIX, que hoy son los PASES.
+[768.40-776.40] OTRO: Esos pasivos remunerados pagan intereses y esos intereses se pagan con la emisión monetaria.
+[776.40-780.40] MINISTRO: Es una idea de tamaño y de magnitud.
+[780.40-785.40] OTRO: Cuando comenzamos la gestión, los pasivos remunerados que estaban en el balance del Banco Central
+[785.40-792.40] OTRO: emitían el equivalente al 40% de la base monetaria todos los meses.
+[792.40-794.40] OTRO: ¿Qué es la base monetaria? Usémosla como un próxide.
+[794.40-798.40] OTRO: ¿Cuántos pesos demanda la sociedad? ¿Cuántos pesos quiere tener la sociedad,
+[798.40-801.40] OTRO: la gente en su bolsillo en el agregado?
+[801.40-806.40] OTRO: Todos los meses se emitían 40% de ese monto adicionales,
+[806.40-811.40] MINISTRO: solamente como componente de intereses sobre los pasivos del Banco Central.
+[811.40-814.40] MINISTRO: Esto era dos veces lo que se emitía por el déficit.
+[814.40-817.40] OTRO: O sea, los intereses sobre los pasivos del Banco Central
+[817.40-821.40] OTRO: pasaron a ser mucho más relevantes que lo que se estaba emitiendo por déficit.
+[822.40-826.40] OTRO: Y ahí también se comprometía mucho, algo que voy a comentar un ratito,
+[826.40-830.40] OTRO: que es la herramienta de la tasa de interés como herramienta política monetaria.
+[830.40-833.40] OTRO: Todas las discusiones de si sube la tasa, se baja la tasa.
+[833.40-836.40] OTRO: Para el Banco Central empezaba a generar un conflicto,
+[836.40-839.40] OTRO: porque si subía la tasa para que el peso se haga más atractivo,
+[839.40-844.40] OTRO: tenía que pagar emitir más pesos como resultado de los intereses sobre sus pasivos
+[844.40-846.40] MINISTRO: que lo hacía menos atractivo.
+[846.40-849.40] MINISTRO: Entonces, era un equilibrio muy fino y muy difícil de lograr.
+[849.40-853.40] MINISTRO: Por eso el foco inicial fue reducir fuertes esos pasivos y aumentar los activos.
+[854.40-860.40] MINISTRO: ¿Cómo vamos a hacer para recuperar o para terminar de emitir pesos
+[860.40-863.40] MINISTRO: como consecuencia de los pasivos del Banco Central?
+[863.40-866.40] MINISTRO: Sincerando a quién le corresponden estos pasivos.
+[866.40-869.40] MINISTRO: Estos pasivos tienen un origen en déficit fiscal.
+[869.40-874.40] OTRO: En los años anteriores, en los momentos donde no había acceso al financiamiento,
+[874.40-877.40] OTRO: cuando se ocurría en déficit, como no había acceso a endeudarse
+[877.40-880.40] MINISTRO: para pagar el déficit, el déficit siempre se paga de alguna manera.
+[880.40-884.40] OTRO: O se financia con deuda o se paga con la emisión monetaria.
+[884.40-889.40] OTRO: Si no había acceso al financiamiento, se eligió por ir por la emisión monetaria.
+[889.40-892.40] OTRO: Esa emisión monetaria era más de lo que la sociedad quería,
+[892.40-894.40] OTRO: de lo que la sociedad demandaba.
+[894.40-897.40] OTRO: Era una cantidad de pesos que se emitía como consecuencia del déficit
+[897.40-900.40] OTRO: que superaban la base de dinero,
+[900.40-904.40] MINISTRO: que es lo que decía recién, que es un proxy para la demanda de dinero.
+[904.40-906.40] MINISTRO: Perdón, la base monetaria.
+[906.40-910.40] OTRO: Entonces, cada vez que ese déficit era mayor a la demanda
+[910.40-914.40] OTRO: que tenía la sociedad por esos pesos, el Banco Central tenía que reabsorber esos pesos,
+[914.40-918.40] OTRO: como colocando pasivos que pagaban un interés para hacer los atractivos.
+[918.40-921.40] MINISTRO: De esa manera se llegó a ese desbalance.
+[921.40-923.40] MINISTRO: Entonces lo que estamos haciendo ahora es,
+[923.40-925.40] OTRO: sincerando esta situación, como decía,
+[925.40-929.40] OTRO: donde el responsable de esos déficits fue el tesoro en el pasado.
+[929.40-933.40] OTRO: Pero la deuda de estos pasivos se alojaron el balance del Banco Central.
+[933.40-936.40] OTRO: Hoy lo vamos a devolver al balance del tesoro.
+[936.40-939.40] OTRO: Vamos a reemplazar los pasivos remunerados del Banco Central
+[939.40-943.40] OTRO: por pasivos del tesoro que remunerará el tesoro.
+[943.40-946.40] MINISTRO: El Banco Central va a seguir administrando la política monetaria,
+[946.40-950.40] OTRO: va a seguir operando de una manera muy similar a la que opera hoy,
+[950.40-956.40] OTRO: pero ya no sufre la consecuencia de que los movimientos en la tasa de interés
+[956.40-958.40] OTRO: resulten en mayor emisión monetaria.
+[958.40-962.40] OTRO: Esos movimientos en la tasa de interés o esa remuneración de esos pasivos
+[962.40-965.40] MINISTRO: al final van a terminar en mayor endeudamiento del tesoro.
+[965.40-967.40] MINISTRO: ¿Qué quiere decir esto?
+[967.40-972.40] MINISTRO: Que el tesoro se compromete doble a su performado fiscal.
+[972.40-974.40] OTRO: Esto que hasta ahora fue, si se quiere,
+[974.40-979.40] MINISTRO: una promesa política o tener un objetivo de un fiscal cero,
+[979.40-983.40] OTRO: ahora pasa a ser una medida en la que es importante que sea muy responsable,
+[983.40-987.40] OTRO: porque se tiene que hacer cargo en forma directa de este equilibrio monetario.
+[987.40-991.40] OTRO: Los agentes económicos, el mercado, van a estar mirando
+[991.40-995.40] OTRO: la solidez del peso en base al compromiso del tesoro
+[995.40-998.40] MINISTRO: en cumplir con el fiscal en forma muy directa.
+[998.40-1005.54] MINISTRO: ¿Qué es lo que hace esto en términos de la política monetaria?
+[1005.54-1010.54] MINISTRO: Esto le devuelve o le reintegra una autonomía muy importante al Banco Central.
+[1010.54-1013.54] MINISTRO: Principalmente por esto que comentaba su ratito,
+[1013.54-1016.54] MINISTRO: que es que el Banco Central puede fijar la tasa de interés
+[1016.54-1021.54] MINISTRO: sin preocuparse sobre el daño que puede causar sobre su propio balance.
+[1021.54-1025.54] OTRO: Ya desaparece este conflicto de interés en términos de si subo la tasa,
+[1025.54-1027.54] OTRO: qué problema me causa.
+[1027.54-1031.54] MINISTRO: Entonces puede moverse cómodamente a un terreno donde la tasa interés
+[1031.54-1033.54] OTRO: puede ser positiva en términos reales
+[1033.54-1037.54] OTRO: y lo único que está haciendo es jugando un equilibrio macroeconómico
+[1037.54-1039.54] MINISTRO: o apostando un equilibrio macroeconómico
+[1039.54-1042.54] MINISTRO: que al final va a estar solventado por la performada fiscal.
+[1042.54-1046.54] OTRO: Esta autonomía que suena como algo como si fuese técnico,
+[1046.54-1049.54] MINISTRO: al final es la herramienta que el Banco Central tiene
+[1049.54-1054.54] MINISTRO: para enfocarse en su principal función, que es erradicar la inflación.
+[1054.54-1056.54] MINISTRO: Ese es el objetivo principal de todo esto.
+[1056.54-1059.54] MINISTRO: Eliminar una fuente emisión monetaria
+[1059.54-1061.54] OTRO: que le da autonomía al Banco Central
+[1061.54-1065.54] OTRO: para seguir ejecutando una política monetaria que erradica la inflación.
+[1065.54-1069.54] OTRO: Esto hasta ahora es a un nivel muy conceptual
+[1069.54-1071.54] MINISTRO: en el sentido de cómo está hecho este anuncio
+[1071.54-1074.54] OTRO: porque lo que estamos haciendo es, a partir del lunes
+[1074.54-1078.54] OTRO: ya convocamos a los bancos a una reunión del Banco Central
+[1078.54-1082.54] MINISTRO: donde vamos a empezar a entrar en los aspectos técnicos de esta medida,
+[1082.54-1085.54] OTRO: donde vamos a ir trabajando con ellos en la implementación,
+[1085.54-1088.54] OTRO: donde las próximas dos semanas van a ir saliendo,
+[1088.54-1091.54] OTRO: ustedes van a ir viendo distintas normativas del Banco Central
+[1091.54-1094.54] MINISTRO: y del Ministerio de Economía
+[1094.54-1097.54] OTRO: que van a ir normando y estableciendo los parámetros
+[1097.54-1101.54] MINISTRO: para este nuevo esquema de política monetaria.
+[1101.54-1106.54] OTRO: Entonces es mejor anticiparlo para no sorprender a nadie
+[1106.54-1108.54] OTRO: cuando vayan saliendo esas medidas
+[1108.54-1112.54] MINISTRO: y que se entienda en qué marco se están tomando estas medidas.
+[1112.54-1115.54] MINISTRO: Todo este proceso es un proceso que es muy técnico,
+[1115.54-1117.54] MINISTRO: pero para los bancos es totalmente normal.
+[1117.54-1122.54] MINISTRO: Esto no tiene que implicar ningún tipo de sorpresa sobre salto
+[1122.54-1129.13] OTRO: o cambio en lo que es la operatéria normal del sistema bancario.
+[1129.13-1135.13] MINISTRO: Digo decir, para sintetizar qué implica esto para la gente.
+[1135.13-1140.13] MINISTRO: Primero es un programa, digamos, económico,
+[1140.13-1143.13] MINISTRO: es la profundización de lo que hemos venido haciendo.
+[1143.13-1148.13] MINISTRO: Deriva entonces en un programa económico realmente robusto.
+[1148.13-1154.13] OTRO: Estamos en un programa en el que estamos en déficit cero y emisión cero.
+[1154.13-1160.13] OTRO: ¿Qué implica este tema del que sea emisión cero de vuelta para la gente?
+[1160.13-1165.13] MINISTRO: Este implica menor problema cambiario.
+[1165.13-1173.13] MINISTRO: Al estar fija la cantidad de pesos disminuye enormemente la volatilidad cambiaria,
+[1173.13-1179.13] OTRO: porque al estar fija la cantidad de pesos en la medida que ingresan dólares a la economía,
+[1179.13-1184.13] MINISTRO: cada vez esa relación se hace mucho más estable.
+[1184.13-1189.13] OTRO: Y segundo, contribuye fuertemente al proceso que ya estamos viendo
+[1189.13-1192.13] MINISTRO: y que está sorprendiendo a muchos de desinflación.
+[1192.13-1199.13] OTRO: Entonces, ¿qué se debiera ver de esta profundización,
+[1199.13-1206.13] MINISTRO: de esta segunda etapa del programa menor inflación, menor volatilidad cambiaria,
+[1206.13-1213.13] OTRO: lo que como digo va a derivar el menor riesgo para la gente
+[1213.13-1219.13] MINISTRO: en lo que va a ser la tercera etapa, que es esta etapa de crecimiento y salida del CEP.
+[1219.13-1229.13] MINISTRO: Estamos garantizando que vamos a entrar en un camino en el que no se va a estar corriendo riesgos
+[1229.13-1236.13] OTRO: en sentido cambiario, que se sabemos que le preocupa a muchos.
+[1236.13-1244.13] MINISTRO: Y vamos a estar profundizando la desinflación.
+[1244.13-1253.13] OTRO: Y al mismo tiempo, haciendo esto, sin la necesidad de querer hacer una salida de CEP,
+[1253.13-1259.13] MINISTRO: como hemos visto, como han opinado muchos, que no hay problema en que se piensa así,
+[1259.13-1264.13] MINISTRO: pero sin hacerle correr ningún riesgo a la gente.
+[1264.13-1272.13] MINISTRO: O sea, cuando se cumplan las condiciones macroeconómicas necesarias haremos esa movida.
+[1272.13-1276.50] MINISTRO: Escuchamos preguntas.
+[1276.50-1282.50] OTRO: Buenas tardes, Liliana Franco, Aca Liliana Franco de ámbito financiero.
+[1282.50-1290.50] OTRO: Usted, el ministro Caputo, planteó que van a establecer parámetros para lograr la salida del CEP.
+[1290.50-1296.50] OTRO: Infiero que algunos parámetros son metas inflacionarias y también metas de acumulación de reservas.
+[1296.50-1300.50] OTRO: Si pudiera precisar un poco las características de esos parámetros.
+[1300.50-1306.50] OTRO: Y para el titular del Banco Central, Bauzilli, preguntarle lo que usted definió
+[1306.50-1312.50] OTRO: para el tema de sinceramiento, ¿va a ser a través de bonus ya conversado con los bancos?
+[1312.50-1314.50] MINISTRO: Muchas gracias.
+[1314.50-1316.50] MINISTRO: Bueno, primero.
+[1316.50-1326.50] OTRO: Gracias, Lili. Con los bancos tenemos la primera reunión el lunes a la mañana, están convocados.
+[1326.50-1336.91] OTRO: Básicamente, lo que va a ver es un mecanismo de esterilización similar al que hay hoy
+[1336.91-1344.91] OTRO: con los pases del Banco Central, pero que van a estar centrados en una letra de regulación monetaria.
+[1345.91-1353.91] OTRO: Que es la que en definitiva van a acceder los bancos y usar los bancos para colocar sus excesos de liquidez
+[1353.91-1361.70] MINISTRO: que van a administrar el Banco Central, pero que va a estar constituida en el balance del tesoro.
+[1361.70-1372.70] MINISTRO: Con respecto al CEP, Lili, lo primero que diría es ratificar lo que ya hemos dicho,
+[1372.70-1387.70] MINISTRO: pero que nunca está de más a aclarar lo que es, digamos, se mantiene el crón del 2%, se mantiene el 80-20,
+[1387.70-1397.70] MINISTRO: y no hay ningún proyecto de evaluación, ni tampoco es cierto que el fondo haya pedido eso.
+[1398.70-1406.70] MINISTRO: Entonces, ahora cuando vamos a salir del CEP, como dije siempre, cuando estén dadas las condiciones,
+[1406.70-1414.70] OTRO: no nos ponemos una fecha, nos ponemos parámetros, y nosotros queríamos entonces, como digo, llegar a esa fecha
+[1414.70-1421.70] OTRO: dándole al mercado la mayor certeza posible. Bueno, qué mayor certeza hay que decir que al déficit cero
+[1421.70-1433.91] OTRO: vamos a agregarle emisión cero. Eso diría que es lo más prolijo que se puede hacer.
+[1433.91-1437.91] OTRO: Qué tal, buenas tardes, Javier Blanco de la Nación. A quién corresponda.
+[1437.91-1444.91] OTRO: A ver, si no va a haber pasivo remunerado del Banco Central, cambia entonces la tasa de política monetaria.
+[1444.91-1450.91] OTRO: ¿Cómo se va a fijar la tasa de política monetaria? Porque hoy está fijada en función de los pases pasivos.
+[1451.91-1459.91] OTRO: Son tres preguntas, pero cortas. La segunda tiene que ver con, ustedes hablan de emisión, de los motores de emisión,
+[1459.91-1464.91] OTRO: y no nombraron uno que menciona, y mencionó reiteradamente el presidente Milais,
+[1464.91-1471.91] OTRO: que es esta garantía de recompra que le dieron a los bancos por títulos de la deuda pública.
+[1471.91-1479.91] OTRO: Entonces, ahí no se terminaría la posibilidad de que se emitan pesos, porque ellos pueden ejercer esa opción.
+[1479.91-1484.91] OTRO: ¿Cómo están pensando la solución para eso? Y si esta segunda etapa tiene plazos.
+[1487.91-1492.91] MINISTRO: Perfecto. No, esta segunda etapa no tiene plazos.
+[1492.91-1497.91] OTRO: La tasa de política monetaria va a seguir siendo fijada por el Banco Central, y la letra de regulación,
+[1497.91-1503.91] OTRO: estamos entrando en aspectos técnicos, la letra de regulación monetaria va a ser una letra que emite el tesoro,
+[1503.91-1509.91] MINISTRO: y que tiene un cupón flotante, y ese cupón flotante es efectivamente la tasa de política monetaria.
+[1509.91-1517.91] OTRO: Han habido en el pasado instrumentos similares letras, bonos, que son flotantes con tasas fijadas por la política monetaria.
+[1517.91-1522.91] MINISTRO: Y con respecto al tema de los puts, los puts como comentamos un par de veces,
+[1522.91-1528.91] OTRO: son contratos que existen, que se van a cumplir, o sea, se van a respetar,
+[1528.91-1539.91] OTRO: y que estamos trabajando con los bancos en soluciones que le devuelvan al Banco Central el manejo de la política monetaria.
+[1539.91-1546.91] OTRO: O sea, que la política monetaria no dependa de la decisión de un tercero en cuanto a la emisión de dinero.
+[1546.91-1552.91] MINISTRO: Es un proceso muy técnico, muy complejo, en el que estamos trabajando muy bien con los bancos,
+[1552.91-1556.91] OTRO: y estamos muy confiados que vamos a ir encontrando soluciones.
+[1556.91-1562.91] OTRO: También es importante por ahí aclarar que esta es una modalidad, que no es nueva,
+[1562.91-1567.91] MINISTRO: no es que estamos inventando nada, sino que por el contrario, con esto,
+[1567.91-1572.91] OTRO: nos estamos asimilando, pareciendo mucho más a un Banco Central normal.
+[1572.91-1576.91] OTRO: Buenas tardes, Austin Mazadín, Foei.
+[1576.91-1584.91] OTRO: Les consulto, por un lado, si ustedes van a pedir que ahora los bancos suscriban a letras a más largo plazo,
+[1584.91-1590.91] OTRO: si ahí no va a haber un descalce entre lo que se está pagando a los ahorristas
+[1590.91-1594.91] MINISTRO: y lo que paga el Banco Central, que es a un día,
+[1594.91-1601.91] OTRO: si se va a ir a tasa positiva para los plazos fijos, si hay algún plazo en esto,
+[1601.91-1607.91] OTRO: y un poco la preocupación del mercado por estos días, que es las ventas de reservas del Banco Central,
+[1607.91-1613.91] OTRO: que junio fue el primer mes que terminaba negativo, y bueno, empezó a ver una cobertura de liquidez,
+[1613.91-1617.91] OTRO: si nada, qué es lo que tienen previsto para el segundo semestre. Gracias.
+[1617.91-1621.91] OTRO: Bueno, primera pregunta, no vamos a pedir ningún plazo.
+[1621.91-1626.91] OTRO: O sea, acá las transacciones que se hacen al mercado financiero se hacen al término de mercado,
+[1626.91-1636.91] MINISTRO: y el Banco Central continúa administrando el plazo de un día a través de la tasa de política monetaria
+[1636.91-1640.91] OTRO: y el resto de la conformación de la curva de instrumentos financieros,
+[1640.91-1646.91] OTRO: que dan bajo responsabilidad el tesoro, que los usa principalmente como financiamiento de subvencimiento de deuda,
+[1646.91-1649.91] MINISTRO: porque ya no tiene déficit.
+[1649.91-1655.91] MINISTRO: Las tasas de interés tienen mucho más espacio y es mucho más razonable pensar
+[1655.91-1659.91] OTRO: que van a ir a terreno positivo en términos reales.
+[1659.91-1663.91] OTRO: Pero yo solo puedo hablar de la tasa de interés de la política monetaria.
+[1663.91-1666.91] OTRO: El resto de las tasas de interés se fijan por los mecanismos normales
+[1666.91-1669.91] OTRO: de infuncionamiento del mercado y de la economía.
+[1669.91-1675.91] OTRO: Entonces, cuando la tasa de interés de los plazos fijos va a ir a terreno positivo o no en términos reales,
+[1675.91-1679.91] OTRO: es algo que se va a ir determinando según la dinámica del mercado.
+[1679.91-1685.91] OTRO: Es razonable creer que eso va a ir hacia ese sendero a medida que siga creciendo el crédito privado,
+[1685.91-1692.91] OTRO: a medida que siga creciendo la economía y que los bancos vuelvan a su negocio tradicional de intermediación financiera.
+[1693.91-1701.91] OTRO: Y por último, que buena la pregunta de las reservas, porque es algo que da vueltas bastante, genera algo de ansiedad.
+[1705.91-1711.91] OTRO: El movimiento de las reservas en Argentina, todavía con alta dependencia que hay el sector aeropecuario,
+[1711.91-1713.91] MINISTRO: es muy estacional.
+[1713.91-1718.91] OTRO: Es tan estacional que en la época de cosecha es muy típico que se acumulan reservas
+[1718.91-1722.91] OTRO: y en el invierno es muy típico que se pierdan reservas.
+[1722.91-1730.91] OTRO: Eso para aquellos que leyeron las revisiones de la Guardia del Fondo,
+[1730.91-1737.91] OTRO: ahí se incluyen metas de reservas trimestrales y se ve perfectamente que en nuestro programa ya en diciembre
+[1737.91-1745.91] MINISTRO: y asentado en la revisión de marzo, se contemplaba que a partir de junio hasta septiembre se pierdan reservas.
+[1745.91-1748.91] OTRO: Es lo que pasa prácticamente todos los años en Argentina.
+[1748.91-1750.91] MINISTRO: Y en el último trimestre se recuperan.
+[1750.91-1758.91] MINISTRO: De hecho, de acá a septiembre se deberán perder dentro de lo que es el programa estipulado 3.000 millones de dólares.
+[1758.91-1760.91] OTRO: A veces 4.000, a veces 2.000.
+[1760.91-1762.91] MINISTRO: Pero eso es lo totalmente normal.
+[1762.91-1768.91] OTRO: Que junio haya terminado donde terminó, creo que terminó, menos 54 millones, o sea prácticamente cero
+[1769.91-1771.91] OTRO: y no un poco más positivo.
+[1771.91-1774.91] OTRO: Es solamente consecuencia de que este invierno se adelantó.
+[1774.91-1778.91] MINISTRO: El mayo fue el mayo más frío que hay en registro.
+[1778.91-1784.91] OTRO: Y eso hace que importemos más gas para calificionar en estos meses del año.
+[1784.91-1789.91] OTRO: Si junio viene más leve o julio viene más leve, puede ser que eso amengue un poco.
+[1789.91-1795.91] MINISTRO: Pero no es sorpresa, es lo que se espera, es lo que anticipamos
+[1795.91-1799.91] OTRO: y es lo que anticipamos en el diseño original de diciembre del año pasado.
+[1799.91-1812.20] OTRO: Esta buena la pregunta.
+[1812.20-1814.20] MINISTRO: No le pedimos nada a nadie.
+[1814.20-1817.20] OTRO: Los bancos naturalmente tienen un negocio de descalce.
+[1817.20-1820.20] MINISTRO: Es la forma en que los bancos en el mundo generan un retorno.
+[1820.20-1823.20] OTRO: Se fondean a corto plazo con los depósitos de la gente
+[1823.20-1829.20] OTRO: y prestan a veces a hipotecas, a veces a créditos prendarios, a veces a créditos personales.
+[1829.20-1832.20] MINISTRO: Por lo general hay un descalce.
+[1832.20-1837.20] OTRO: Es raro que la gente haya haga depósitos en los bancos a 25 años
+[1837.20-1839.20] OTRO: y existen hipotecas a 25 años.
+[1839.20-1842.20] MINISTRO: Acá los bancos tienen opciones para elegir.
+[1842.20-1850.20] MINISTRO: Típicamente lo natural no es que se coloquen a tasa del Banco Central a un día.
+[1850.20-1857.20] MINISTRO: Típicamente los sistemas financieros en el mundo están calzados en liquidez
+[1857.20-1861.20] MINISTRO: o están cortos de liquidez. Van al Banco Central para pedir liquidez.
+[1861.20-1866.20] OTRO: Nosotros sufrimos todavía una anomalía como consecuencia de los déficits fiscales del pasado
+[1866.20-1872.20] OTRO: que se financiaron con la misión monetaria, que nuestro sistema está sobrecargado en liquidez.
+[1872.20-1880.20] OTRO: A medida que reúscamos las fuentes de misión de monetaria, eso se debería ir normalizando.
+[1880.20-1884.20] MINISTRO: Voy a hacer un número de comparación.
+[1884.20-1888.20] MINISTRO: Hoy la base amplia, quiere decir, los pasivos del Banco Central en pesos
+[1888.20-1890.20] OTRO: constituidos por el circulante.
+[1890.20-1896.20] OTRO: Más los pases, los pasivos remunerados, son aproximadamente 8 puntos del TBI.
+[1896.20-1898.20] OTRO: Bueno, estábamos escuchando esta conferencia de pre-

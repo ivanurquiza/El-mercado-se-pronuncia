@@ -1,0 +1,1085 @@
+[1.62-3.62] OTRO: Ministro, gracias por recibirnos nuevamente.
+[3.62-4.62] OTRO: Un placer, Luis.
+[4.62-7.62] MINISTRO: Casi diez meses de gestión, casi diez meses de gobierno.
+[7.62-11.62] MINISTRO: Yo le voy a proponer un abanico de temas
+[11.62-13.62] MINISTRO: incómodos para la economía hoy
+[13.62-16.62] MINISTRO: y si usted quiere, lo vamos desgranando en el nuevo uno.
+[16.62-18.62] MINISTRO: El veto del presidente,
+[18.62-21.62] MINISTRO: o del presidente, el aumento del presupuesto para las universidades,
+[21.62-22.62] MINISTRO: sacaba su ceder,
+[22.62-25.62] MINISTRO: el veto al esquema de movilidad jubilatoria
+[25.62-28.62] MINISTRO: que fue CHA comaliado,
+[28.62-30.62] MINISTRO: los altísimos índices pobrezas,
+[30.62-32.62] MINISTRO: aerolíneas, los aumento de tarifa,
+[32.62-34.62] MINISTRO: la recesión de muchos sectores de la economía.
+[34.62-36.62] MINISTRO: Pero primero le quiero hacer una pregunta conceptual.
+[36.62-40.62] MINISTRO: ¿Qué les diría a quienes piensan
+[40.62-43.62] MINISTRO: que hacen política económica para los mercados
+[43.62-45.62] MINISTRO: y que Samakro está saliendo bien
+[45.62-47.62] MINISTRO: sin pensar en los argentinos de la PIE
+[47.62-49.62] MINISTRO: o que hoy no llegan a fin de mes?
+[49.62-50.62] MINISTRO: ¿Qué les diría?
+[50.62-54.62] MINISTRO: Diría que es exactamente al revés, nosotros.
+[54.62-57.62] MINISTRO: No estamos haciendo política para los mercados
+[57.62-59.62] MINISTRO: y si te fijas, toda nuestra política
+[59.62-63.62] OTRO: va en función de bajar la inflación
+[63.62-67.62] OTRO: que al que más afecta es a los que menos tienen.
+[67.62-70.62] OTRO: Y el presidente y el equipo económico
+[70.62-72.62] OTRO: y la verdad todos los ministros
+[72.62-75.62] MINISTRO: no nos movemos de esa línea.
+[75.62-78.62] MINISTRO: Entonces diría que es exactamente al revés.
+[78.62-81.62] MINISTRO: Pero cómo se hace para que esa baja de inflación
+[81.62-84.62] MINISTRO: se traslade en consumo, en crecimiento,
+[84.62-86.62] MINISTRO: en más actividad económica?
+[86.62-88.62] MINISTRO: ¿Qué en algunos sectores no se nota?
+[88.62-90.62] OTRO: Bueno, pasa naturalmente.
+[90.62-92.62] MINISTRO: Porque en la medida que hay menos inflación
+[92.62-94.62] MINISTRO: hay más estabilidad.
+[94.62-98.62] OTRO: Eso genera mejores expectativas económicas.
+[98.62-101.62] OTRO: Argentina es un país naturalmente rico
+[101.62-103.62] OTRO: que tiene buenas oportunidades.
+[103.62-105.62] OTRO: Entonces por lo único que lo que más tenés que hacer
+[105.62-109.62] OTRO: es bindar un marco económico, macroeconómico estable
+[109.62-113.62] OTRO: y con eso las inversiones ya empiezan a venir.
+[113.62-115.62] OTRO: Y de hecho ya lo estamos viendo.
+[115.62-121.62] OTRO: Al principio del rebote, en junio-julio,
+[121.62-124.62] MINISTRO: viste que hablamos y eran sectores puntuales.
+[124.62-126.62] MINISTRO: Hoy es genializado.
+[126.62-129.62] MINISTRO: Hoy la recuperación es genial.
+[129.62-131.62] MINISTRO: ¿A qué llama rebote?
+[131.62-134.62] MINISTRO: ¿Rebote no es crecimiento espectacular?
+[134.62-136.62] MINISTRO: Claro, rebote es, digamos,
+[136.62-138.62] OTRO: después de un ciclo de recesión
+[138.62-141.62] OTRO: que empezó en julio del 2022.
+[141.62-146.62] OTRO: Bueno, eso, digamos, tocó su piso en abril.
+[146.62-152.62] OTRO: A partir de ese momento la economía empezó a pegarla en la vuelta.
+[152.62-156.62] OTRO: ¿Con un ritmo?
+[156.62-159.62] OTRO: No, yo diría a buen ritmo.
+[159.62-162.62] OTRO: Viene creciendo ahora a buen ritmo.
+[162.62-164.62] OTRO: Crecimiento nosotros llamamos más
+[164.62-167.62] OTRO: cuando es algo que ya está consolidado, ¿no?
+[167.62-168.62] OTRO: Para eso falta.
+[168.62-170.62] OTRO: Supongase que el Congreso rechaza el veto del presidente.
+[170.62-172.62] MINISTRO: Hoy los números no los tienen.
+[172.62-174.62] MINISTRO: Hoy hasta ahora los números no los tienen.
+[174.62-176.62] MINISTRO: ¿Usted va a pagar el aumento que dice la ley
+[176.62-180.62] MINISTRO: al sector universitario o a las universidades públicas?
+[180.62-183.62] MINISTRO: Yo tengo que hacer lo que dice la ley,
+[183.62-188.62] OTRO: pero sería bueno que también los diputados y senadores lo hagan,
+[188.62-192.62] OTRO: porque lo que dice la ley de la administración financiera
+[192.62-197.62] MINISTRO: es que, digamos, el Congreso no puede presentar un gasto
+[197.62-202.62] MINISTRO: sin una contrapartida de financiamiento que lo justifique.
+[202.62-205.62] MINISTRO: ¿Ese proyecto no lo presenta?
+[205.62-208.62] MINISTRO: No, o sea, no, no, de hecho, están presentando el gasto.
+[208.62-212.62] MINISTRO: También lo dice, perdón, el reglamento del Senado mismo.
+[212.62-216.62] MINISTRO: Es exactamente igual, que la Cámara no puede tratar un aumento de gasto
+[216.62-220.62] MINISTRO: que no tenga una contrapartida de financiamiento que lo justifique.
+[220.62-224.62] MINISTRO: Entonces, la realidad es que están presentando
+[224.62-227.62] MINISTRO: un gasto sin esa contrapartida.
+[227.62-232.62] MINISTRO: Entonces, nosotros, obviamente, vamos a apelar a eso, porque está mal.
+[232.62-233.62] OTRO: ¿Pero apelar cómo?
+[233.62-234.62] OTRO: Bueno, vamos a ver.
+[234.62-236.62] MINISTRO: ¿Por la vida de la justicia? ¿Por la vida administrativa?
+[236.62-239.62] MINISTRO: Sí, sí, probablemente estamos estudiando eso,
+[239.62-242.62] MINISTRO: porque realmente no es un tema de monto,
+[242.62-245.62] MINISTRO: ni de cuál es el tema.
+[245.62-247.62] MINISTRO: Es hasta conceptual.
+[247.62-250.62] MINISTRO: Olvíate ya si sos abogado, si sabes, alero,
+[250.62-252.62] MINISTRO: es hasta de sentido común.
+[252.62-255.62] MINISTRO: No importa si es, te
+[255.62-258.62] MINISTRO: No importa, si es 014 de producto, 014 de producto, 018, 018, 020, 020,
+[258.62-261.62] MINISTRO: si el Congrucio puede presentar todo el total tiempo gastos
+[261.62-263.62] OTRO: y no contrapartigar, no matter how much money,
+[263.62-265.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[265.62-268.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[268.62-270.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[270.62-272.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[272.62-274.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[275.62-276.62] MINISTRO: el Congrucio puede presentar todo el total cost of product,
+[276.62-277.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[277.62-278.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[278.62-279.62] OTRO: si el Congrucio puede presentar todo el total cost of product,
+[279.62-280.62] OTRO: si el Congrucio puede presentar todo el total cost of product,
+[280.62-281.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[281.62-282.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[282.62-283.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[283.62-284.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[284.62-285.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[285.62-286.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[286.62-287.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[287.62-288.62] MINISTRO: si el Congrucio puede presentar todo el total cost of product,
+[288.62-290.62] MINISTRO: ¿Qué es esa ley para el sector universitario?
+[290.62-293.62] OTRO: Mientras tanto no aparezca la herramienta de que lo financien.
+[293.62-295.62] OTRO: Siempre dentro del marco de la ley,
+[295.62-299.62] MINISTRO: o sea, si realmente la ley nos da la razón,
+[299.62-302.62] MINISTRO: bueno, o en realidad lo que nosotros proparemos,
+[302.62-304.62] MINISTRO: que es lo que sería lo lógico,
+[304.62-309.62] MINISTRO: es debatir lo que quieren dentro del marco que corresponde,
+[309.62-311.62] MINISTRO: que es en el marco de la ley de...
+[311.62-312.62] MINISTRO: ¿De presupuesto?
+[312.62-313.62] MINISTRO: Claro, entonces se quiere decir,
+[313.62-315.62] MINISTRO: bueno, quieren discutir esto a las universidades,
+[315.62-317.62] MINISTRO: que se le da todo, o sea,
+[317.62-321.62] MINISTRO: a donde se mezcla la política con, digamos, con...
+[321.62-322.62] MINISTRO: ¿Qué significa todo?
+[322.62-324.62] MINISTRO: Aumentar, el aumento en el financiamiento,
+[324.62-326.62] MINISTRO: fue por encima de la inflación.
+[326.62-327.62] OTRO: Pero, obvio, entonces les decimos a todos
+[327.62-328.62] OTRO: lo que han pedido y...
+[328.62-330.62] OTRO: No, no de los salarios, ¿no?
+[330.62-332.62] OTRO: Ahora, lo único que nosotros decimos es,
+[332.62-334.62] OTRO: ok, que se quiere discutir,
+[334.62-336.62] MINISTRO: si los docentes deben cobrar todavía más
+[336.62-338.62] MINISTRO: que el resto de los empleados públicos,
+[338.62-342.62] MINISTRO: por estar de todo, debatámoslo en el Congreso
+[342.62-345.62] MINISTRO: y definamos cómo se financia eso.
+[345.62-348.62] MINISTRO: Ningún problema, hay una clara pelea entre
+[348.62-350.62] MINISTRO: la vieja política y la nueva.
+[350.62-351.62] MINISTRO: Nosotros buscamos transparencia,
+[351.62-355.62] MINISTRO: la vieja política es la dueña de los trascismo, digamos, ¿no?
+[355.62-358.62] OTRO: Y siempre están buscando, digamos,
+[358.62-360.62] OTRO: estas especies de entes autárquicos,
+[360.62-362.62] OTRO: acuérdate que también pasaba lo mismo
+[362.62-363.62] OTRO: con los fideicomis,
+[363.62-365.62] MINISTRO: y sus cosas que sean difíciles de auditar
+[365.62-367.62] MINISTRO: o que no requieran auditoría.
+[367.62-370.62] MINISTRO: Esa es la otra cosa que nosotros, digamos,
+[370.62-373.62] MINISTRO: combatimos, manejamos la plata de la gente.
+[373.62-375.62] OTRO: Lo que decimos es, bueno, auditimoslo,
+[375.62-378.62] MINISTRO: dicen que hay 1.750.000 alumnos,
+[378.62-381.62] MINISTRO: del 38% no hay registro.
+[381.62-385.62] MINISTRO: El 40, aparentemente pasó una sola materia.
+[385.62-388.62] OTRO: Tenemos el caso de la Universidad de las Madres de Plaza de Mayo,
+[388.62-390.62] OTRO: desde el 2020 a 2023,
+[390.62-395.62] MINISTRO: se recibieron el 0,62% de los alumnos, 16.
+[395.62-398.62] MINISTRO: O sea, se gastó 100 millones por heresado.
+[398.62-400.62] MINISTRO: Casi salía más barato para...
+[400.62-401.62] MINISTRO: Sí, más de pesos, sí.
+[401.62-403.62] MINISTRO: Casi salía más barato que...
+[403.62-404.62] MINISTRO: Más de los azábaros.
+[404.62-405.62] MINISTRO: O sea, quiero decir, digamos,
+[405.62-407.62] MINISTRO: hay cosas que vos decís,
+[407.62-409.62] MINISTRO: ¿cómo no voy a auditar esto?
+[409.62-412.62] MINISTRO: Entonces, no es algo, digamos,
+[412.62-415.62] MINISTRO: fuera del sentido común lo que estamos pidiendo,
+[415.62-416.62] MINISTRO: pero de vuelta,
+[416.62-417.62] MINISTRO: es que va a ser increíble algo,
+[417.62-419.62] MINISTRO: porque aplica a todo,
+[419.62-420.62] OTRO: con los fideicomis,
+[420.62-422.62] OTRO: pasa lo mismo.
+[422.62-424.62] OTRO: Era, digamos,
+[424.62-427.62] OTRO: lo que usaba el quisnerismo para...
+[427.62-429.62] MINISTRO: Un instrumento poco transparente.
+[429.62-430.62] MINISTRO: Un instrumento para tantas cajas.
+[430.62-433.62] MINISTRO: Entonces, le asignan partidas de impuestos específicas
+[433.62-437.62] MINISTRO: que los alimentan y no se los puede auditar.
+[437.62-438.62] MINISTRO: Entonces, vos tenías, por ejemplo,
+[438.62-440.62] MINISTRO: el caso más emblemático, el FISU.
+[440.62-442.62] MINISTRO: ¿Qué hacía el FISU?
+[442.62-443.62] MINISTRO: Viviendas.
+[443.62-444.62] OTRO: Bueno, no hizo.
+[444.62-446.62] OTRO: Y nosotros hicimos investigaciones
+[446.62-448.62] OTRO: en donde se demostró que no hizo viviendas.
+[448.62-451.62] MINISTRO: Pero, digamos, hay una secretaría de viviendas.
+[451.62-453.62] MINISTRO: Entonces, si vos querías que grabó y hiciera viviendas,
+[453.62-456.62] MINISTRO: ¿por qué no lo pones de secretario de viviendas?
+[456.62-458.62] MINISTRO: Y todos sabemos en qué se gastó,
+[458.62-460.62] MINISTRO: qué hizo y demás.
+[460.62-461.62] MINISTRO: ¿Qué necesidad?
+[461.62-463.62] MINISTRO: Tenía que hacer un fondo fideuciario.
+[463.62-465.62] MINISTRO: Se fue lo que maneja la plata discrecionalmente,
+[465.62-468.62] MINISTRO: y, o casualidad, termina candidato a presidente.
+[468.62-470.62] MINISTRO: ¿Te acuerdas a algún secretario de vivienda
+[470.62-472.62] MINISTRO: candidato a presidente?
+[472.62-474.62] MINISTRO: Probablemente no te acuerdes ningún secretario de vivienda.
+[474.62-475.62] MINISTRO: Entonces, sí.
+[475.62-476.62] MINISTRO: También candidato a presidente
+[476.62-477.62] MINISTRO: y con muchos comedores fantamas
+[477.62-479.62] MINISTRO: que probablemente financiaron esa candidatura.
+[479.62-480.62] MINISTRO: ¿Qué quiere decir?
+[480.62-482.62] MINISTRO: Es todo parte de vuelta
+[482.62-484.62] MINISTRO: del mismo juego, de la vieja política,
+[484.62-486.62] MINISTRO: de la política que queremos hacer nosotros.
+[486.62-488.62] MINISTRO: El impacto de las tarifas en la canasta familiar
+[488.62-490.62] MINISTRO: es cada vez más alto,
+[490.62-491.62] MINISTRO: progresivamente más alto.
+[491.62-493.62] MINISTRO: En el AMBA estuvimos revisando
+[493.62-494.62] MINISTRO: al principio de los 6 y pico,
+[494.62-496.62] MINISTRO: y terminó en el 13 y pico
+[496.62-498.62] MINISTRO: de una canasta familiar promedio,
+[498.62-499.62] MINISTRO: una familia promedio.
+[499.62-500.62] MINISTRO: En los últimos nueve meses,
+[500.62-502.62] MINISTRO: aumentaron las tarifas promedio
+[502.62-504.62] MINISTRO: 370%, más o menos,
+[504.62-506.62] MINISTRO: mucho más que la inflación.
+[506.62-510.62] OTRO: ¿Pienso ir reduciendo el aumento de tarifas
+[510.62-512.62] OTRO: o van a salir con el mismo río aumento?
+[512.62-514.62] OTRO: No, naturalmente se va reduciendo,
+[514.62-516.62] MINISTRO: porque justamente lo que pasó al principio
+[516.62-518.62] MINISTRO: es que veníamos de una base tan baja
+[518.62-520.62] MINISTRO: que el aumento en términos porcentuales
+[520.62-522.62] MINISTRO: se hizo más alto.
+[522.62-524.62] OTRO: Pero aclarado que hablábamos ya,
+[524.62-526.62] OTRO: creo que en la primera entrevista
+[526.62-528.62] OTRO: que yo te hablaba de los falsos subsidios,
+[528.62-531.62] OTRO: esto fue una parte de vuelta del cambio.
+[531.62-533.62] OTRO: ¿Por qué digo falsos subsidios?
+[533.62-535.62] OTRO: Porque te hacen creer que no te cobran la luz,
+[535.62-537.62] MINISTRO: pero en realidad te lo están cobrando
+[537.62-539.62] OTRO: mucho más, con una inflación
+[539.62-541.62] OTRO: del 250% en todo lo otro
+[541.62-544.62] OTRO: que tenés que terminar pagando.
+[544.62-547.62] MINISTRO: Y de vuelta, ¿quién sufre más la inflación?
+[547.62-549.62] MINISTRO: El que menos tiene.
+[549.62-551.62] MINISTRO: Entonces, este esquema de te hago creer
+[551.62-554.62] OTRO: que soy bueno y te regalo platio
+[554.62-556.62] MINISTRO: y te doy un subsidio, es falso.
+[556.62-558.62] MINISTRO: ¿Y a la larga se paga?
+[558.62-560.62] MINISTRO: Y no solo se paga, sino que de vuelta
+[560.62-563.62] MINISTRO: lo paga el que menos se puede defender.
+[563.62-565.62] MINISTRO: Eso es el que menos tiene,
+[565.62-567.62] MINISTRO: porque tiene plata tiene forma de cubrirse siempre y demás.
+[567.62-569.62] MINISTRO: El que menos tiene no.
+[569.62-571.62] MINISTRO: ¿Por qué se anticipan más cortes en el verano?
+[571.62-573.62] MINISTRO: Si las tarifas suben y se supone
+[573.62-575.62] MINISTRO: que la distribuidora, si las productoras se supone,
+[575.62-577.62] MINISTRO: deberían invertir más
+[577.62-579.62] MINISTRO: para garantizar que no haya cortes.
+[579.62-581.62] MINISTRO: Bueno, eso es lo que estamos haciendo.
+[581.62-583.62] MINISTRO: Lo que se está viendo es acuerdate
+[583.62-585.62] OTRO: que las inversiones no son un día para el otro.
+[585.62-587.62] OTRO: Entonces, es consecuencia
+[587.62-589.62] OTRO: de esa política energética absurda
+[589.62-591.62] OTRO: de vuelta de hacerle creer a la gente
+[591.62-593.62] OTRO: que no se puede hacer la inversión
+[593.62-595.62] OTRO: de la gente que no tiene la idea
+[595.62-597.62] OTRO: de que la gente no tiene la idea
+[597.62-599.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[599.62-601.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[601.62-603.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[603.62-605.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[605.62-607.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[607.62-609.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[609.62-611.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[611.62-613.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[613.62-615.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[615.62-617.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[617.62-619.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[619.62-621.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[621.62-623.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[623.62-625.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[625.62-627.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[627.62-629.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[629.62-631.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[631.62-633.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[633.62-635.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[635.62-637.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[637.62-639.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[639.62-641.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[641.62-643.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[643.62-645.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[645.62-647.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[647.62-649.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[649.62-651.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[651.62-653.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[653.62-655.62] OTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[655.62-657.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[657.62-659.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[659.62-661.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[661.62-663.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[663.62-665.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[665.62-667.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[667.62-669.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[669.62-671.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[671.62-673.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[673.62-675.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[675.62-677.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene la idea
+[677.62-679.62] MINISTRO: de que la gente no tiene la idea de que la gente no tiene
+[679.62-681.62] MINISTRO: la idea de que la gente no tiene la idea de que la gente
+[681.62-683.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[683.62-685.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[685.62-687.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[687.62-689.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[689.62-691.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[691.62-693.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[693.62-695.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[695.62-697.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[697.62-699.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[699.62-701.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[701.62-703.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[703.62-705.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[705.62-707.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[707.62-709.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[709.62-711.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[711.62-713.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[713.62-715.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[715.62-717.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[717.62-719.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[719.62-721.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[721.62-723.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[723.62-725.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[725.62-727.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[727.62-729.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[729.62-731.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[731.62-733.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[733.62-735.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[735.62-737.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[737.62-739.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[739.62-741.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[741.62-743.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[743.62-745.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[745.62-747.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[747.62-749.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[749.62-751.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[751.62-753.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[753.62-755.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[755.62-757.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[757.62-759.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[759.62-761.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[761.62-763.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[763.62-765.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[765.62-767.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[767.62-769.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[769.62-771.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[771.62-773.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[773.62-775.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[775.62-777.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[777.62-779.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[779.62-781.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[781.62-783.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[783.62-785.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[785.62-787.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[787.62-789.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[789.62-791.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[791.62-793.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[793.62-795.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[795.62-797.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[797.62-799.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[799.62-801.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[801.62-803.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[803.62-805.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[805.62-807.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[807.62-809.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[809.62-811.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[811.62-813.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[813.62-817.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[817.62-819.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[819.62-821.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[821.62-823.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[823.62-825.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[825.62-827.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[827.62-829.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[829.62-831.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[831.62-833.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[833.62-835.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[835.62-837.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[837.62-839.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[839.62-841.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[841.62-843.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[843.62-845.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[845.62-847.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[847.62-849.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[849.62-851.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[851.62-853.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[853.62-855.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[855.62-857.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[857.62-859.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[859.62-861.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[861.62-863.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[863.62-865.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[865.62-867.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[867.62-869.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[869.62-871.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[871.62-873.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[873.62-875.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[875.62-877.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[877.62-879.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[879.62-881.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[881.62-883.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[883.62-885.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[885.62-887.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[887.62-889.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[889.62-891.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[891.62-893.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[893.62-895.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[895.62-897.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[897.62-899.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[899.62-901.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[901.62-903.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[903.62-905.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[905.62-907.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[907.62-909.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[909.62-911.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[911.62-913.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[913.62-915.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[915.62-917.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[917.62-919.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[919.62-921.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[921.62-923.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[923.62-925.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[925.62-927.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[927.62-929.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[929.62-931.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[931.62-933.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[933.62-935.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[935.62-937.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[937.62-939.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[939.62-941.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[941.62-943.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[943.62-945.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[945.62-947.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[947.62-949.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[949.62-951.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[951.62-953.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[953.62-955.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[955.62-957.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[957.62-959.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[959.62-961.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[961.62-963.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[963.62-965.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[965.62-967.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[967.62-969.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[969.62-971.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[971.62-973.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[973.62-975.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[975.62-977.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[977.62-979.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[979.62-981.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[981.62-983.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[983.62-985.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[985.62-987.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[987.62-989.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[989.62-991.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[991.62-993.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[993.62-995.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[995.62-997.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[997.62-999.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[999.62-1001.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1001.62-1003.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1003.62-1005.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1005.62-1007.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1007.62-1009.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1009.62-1011.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1011.62-1013.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1013.62-1015.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1015.62-1017.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1017.62-1019.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1019.62-1021.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1021.62-1023.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1023.62-1025.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1025.62-1027.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1027.62-1029.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1029.62-1031.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1031.62-1033.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1033.62-1035.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1035.62-1037.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1037.62-1039.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1039.62-1041.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1041.62-1043.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1043.62-1045.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1045.62-1047.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1047.62-1049.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1049.62-1051.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1051.62-1053.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1053.62-1055.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1055.62-1057.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1057.62-1059.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1059.62-1061.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1061.62-1063.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1063.62-1065.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1065.62-1067.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1067.62-1069.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1069.62-1071.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1071.62-1073.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1073.62-1075.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1075.62-1077.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1077.62-1079.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1079.62-1081.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1081.62-1083.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1083.62-1085.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1085.62-1087.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1087.62-1089.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1089.62-1091.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1091.62-1093.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1093.62-1095.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1095.62-1097.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1097.62-1099.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1099.62-1101.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1101.62-1103.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1103.62-1105.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1105.62-1107.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1107.62-1109.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1109.62-1111.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1111.62-1113.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1113.62-1115.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1115.62-1117.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1117.62-1119.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1119.62-1121.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1121.62-1123.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1123.62-1125.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1125.62-1127.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1127.62-1129.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1129.62-1131.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1131.62-1133.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1133.62-1135.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1135.62-1137.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1137.62-1139.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1139.62-1141.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1141.62-1143.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1143.62-1145.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1145.62-1147.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1147.62-1149.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1149.62-1151.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1151.62-1153.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1153.62-1155.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1155.62-1157.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1157.62-1159.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1159.62-1161.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1161.62-1163.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1163.62-1165.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1165.62-1167.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1167.62-1169.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1169.62-1171.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1171.62-1173.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1173.62-1175.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1175.62-1177.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1177.62-1179.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1179.62-1181.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1181.62-1183.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1183.62-1185.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1185.62-1187.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1187.62-1189.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1189.62-1191.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1191.62-1193.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1193.62-1195.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1195.62-1197.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1197.62-1199.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1199.62-1203.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1203.62-1205.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1205.62-1207.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1207.62-1209.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1209.62-1211.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1211.62-1213.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1213.62-1215.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1215.62-1217.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1217.62-1219.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1219.62-1221.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1221.62-1223.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1223.62-1225.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1225.62-1227.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1227.62-1229.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1229.62-1231.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1231.62-1233.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1233.62-1235.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1235.62-1237.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1237.62-1239.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1239.62-1241.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1241.62-1243.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1243.62-1245.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1245.62-1247.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1247.62-1249.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1249.62-1253.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1253.62-1255.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1255.62-1257.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1257.62-1259.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1259.62-1261.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1261.62-1263.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1263.62-1265.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1265.62-1267.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1267.62-1269.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1269.62-1271.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1271.62-1273.62] OTRO: no tiene la idea de que la gente
+[1273.62-1275.62] MINISTRO: no tiene la idea de que la gente
+[1275.62-1277.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1277.62-1279.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1279.62-1281.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1281.62-1283.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1283.62-1285.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1285.62-1287.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1287.62-1289.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1289.62-1291.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1291.62-1293.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1293.62-1295.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1295.62-1297.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1297.62-1299.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1299.62-1301.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1301.62-1303.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1303.62-1305.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1305.62-1307.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1307.62-1309.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1309.62-1311.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1311.62-1313.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1313.62-1315.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1315.62-1317.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1317.62-1319.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1319.62-1321.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1321.62-1323.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1323.62-1325.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1325.62-1327.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1327.62-1329.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1329.62-1331.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1331.62-1333.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1333.62-1335.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1335.62-1337.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1337.62-1339.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1339.62-1341.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1341.62-1343.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1343.62-1345.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1345.62-1347.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1347.62-1349.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1349.62-1351.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1351.62-1353.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1353.62-1355.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1355.62-1357.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1357.62-1359.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1359.62-1361.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1361.62-1363.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1363.62-1365.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1365.62-1367.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1367.62-1369.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1369.62-1371.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1371.62-1373.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1373.62-1375.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1375.62-1377.62] OTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1377.62-1379.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1379.62-1381.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1381.62-1383.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1383.62-1385.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1385.62-1387.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1387.62-1389.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1389.62-1391.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1391.62-1393.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1393.62-1395.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1395.62-1397.62] MINISTRO: no tiene la idea de que la gente no tiene la idea de que la gente
+[1397.62-1399.62] MINISTRO: ¿Abajan los aranceles a importación de qué es eso?
+[1399.62-1401.62] OTRO: La lata de café, ventiladores, neumáticos,
+[1401.62-1403.62] MINISTRO: bicicleta, moto,
+[1403.62-1405.62] MINISTRO: ¿en qué me afecta a mí?
+[1405.62-1407.62] OTRO: Bueno, empiezo por lo último.
+[1407.62-1409.62] OTRO: La baja de los aranceles
+[1409.62-1411.62] OTRO: te afecta en que esos
+[1411.62-1413.62] MINISTRO: productos van a bajar de precio.
+[1413.62-1415.62] MINISTRO: Sí, indefectivamente.
+[1415.62-1417.62] OTRO: Indefectivamente.
+[1417.62-1419.62] OTRO: Entonces nosotros vinimos a eso, a bajar impuestos,
+[1419.62-1421.62] OTRO: a bajar aranceles, a comerciar mal con el mundo.
+[1421.62-1423.62] OTRO: Eso es a lo que vinimos.
+[1423.62-1425.62] OTRO: Lo de la Pampa,
+[1425.62-1427.62] OTRO: lo de la Nación,
+[1427.62-1429.62] OTRO: aplaudo, o sea, está perfecto
+[1429.62-1431.62] MINISTRO: y así tiene que ser.
+[1431.62-1433.62] MINISTRO: Ojalá se sumen más bancos privados
+[1433.62-1435.62] MINISTRO: porque lo que hicieron
+[1435.62-1437.62] MINISTRO: fue poner una tasa extra a...
+[1437.62-1439.62] MINISTRO: Subieron ingresos brutos, como al doble,
+[1439.62-1441.62] MINISTRO: creo que fue del 7 y medio, al 15
+[1441.62-1443.62] MINISTRO: y nosotros como
+[1443.62-1445.62] MINISTRO: ciudadanos todos
+[1445.62-1447.62] MINISTRO: y las empresas también,
+[1447.62-1449.62] MINISTRO: también hay que marcarle la cancha
+[1449.62-1451.62] MINISTRO: a los políticos.
+[1451.62-1453.62] MINISTRO: Pasa hoy a todo nivel,
+[1453.62-1455.62] MINISTRO: que hay que marcarle la cancha,
+[1455.62-1457.62] OTRO: que hay que marcarle la cancha,
+[1457.62-1459.62] MINISTRO: que hay que marcarle la cancha,
+[1459.62-1461.62] MINISTRO: que hay que marcarle la cancha,
+[1461.62-1463.62] MINISTRO: que hay que marcarle la cancha,
+[1463.62-1465.62] MINISTRO: que hay que marcarle la cancha,
+[1465.62-1467.62] OTRO: que hay que marcarle la cancha,
+[1467.62-1469.62] MINISTRO: que hay que marcarle la cancha,
+[1469.62-1471.62] MINISTRO: que hay que marcarle la cancha,
+[1471.62-1473.62] MINISTRO: que hay que marcarle la cancha,
+[1473.62-1475.62] MINISTRO: que hay que marcarle la cancha,
+[1475.62-1477.62] MINISTRO: que hay que marcarle la cancha,
+[1477.62-1479.62] MINISTRO: que hay que marcarle la cancha,
+[1479.62-1481.62] MINISTRO: que hay que marcarle la cancha,
+[1481.62-1483.62] MINISTRO: que hay que marcarle la cancha,
+[1483.62-1485.62] MINISTRO: que hay que marcarle la cancha,
+[1485.62-1487.62] MINISTRO: que hay que marcarle la cancha,
+[1487.62-1489.62] MINISTRO: que hay que marcarle la cancha,
+[1489.62-1491.62] MINISTRO: que hay que marcarle la cancha,
+[1491.62-1493.62] MINISTRO: que hay que marcarle la cancha,
+[1493.62-1495.62] MINISTRO: que hay que marcarle la cancha,
+[1495.62-1497.62] OTRO: que hay que marcarle la cancha,
+[1497.62-1499.62] OTRO: que hay que marcarle la cancha,
+[1499.62-1501.62] OTRO: que hay que marcarle la cancha,
+[1501.62-1503.62] OTRO: que hay que marcarle la cancha,
+[1503.62-1505.62] OTRO: que hay que marcarle la cancha,
+[1505.62-1507.62] OTRO: que hay que marcarle la cancha,
+[1507.62-1509.62] MINISTRO: que hay que marcarle la cancha,
+[1509.62-1511.62] MINISTRO: que hay que marcarle la cancha,
+[1511.62-1513.62] MINISTRO: que hay que marcarle la cancha,
+[1513.62-1515.62] MINISTRO: que hay que marcarle la cancha,
+[1515.62-1517.62] MINISTRO: que hay que marcarle la cancha,
+[1517.62-1519.62] MINISTRO: que hay que marcarle la cancha,
+[1519.62-1521.62] MINISTRO: que hay que marcarle la cancha,
+[1521.62-1523.62] MINISTRO: que hay que marcarle la cancha,
+[1523.62-1525.62] MINISTRO: que hay que marcarle la cancha,
+[1525.62-1527.62] MINISTRO: que hay que marcarle la cancha,
+[1527.62-1529.62] MINISTRO: que hay que marcarle la cancha,
+[1529.62-1531.62] MINISTRO: que hay que marcarle la cancha,
+[1531.62-1533.62] MINISTRO: que hay que marcarle la cancha,
+[1533.62-1535.62] MINISTRO: que hay que marcarle la cancha,
+[1535.62-1537.62] MINISTRO: que hay que marcarle la cancha,
+[1537.62-1539.62] MINISTRO: que hay que marcarle la cancha,
+[1539.62-1541.62] MINISTRO: que hay que marcarle la cancha,
+[1541.62-1543.62] OTRO: que hay que marcarle la cancha,
+[1543.62-1545.62] OTRO: que hay que marcarle la cancha,
+[1545.62-1547.62] OTRO: que hay que marcarle la cancha,
+[1547.62-1549.62] MINISTRO: que hay que marcarle la cancha,
+[1549.62-1551.62] MINISTRO: que hay que marcarle la cancha,
+[1551.62-1553.62] MINISTRO: que hay que marcarle la cancha,
+[1553.62-1555.62] MINISTRO: que hay que marcarle la cancha,
+[1555.62-1557.62] MINISTRO: que hay que marcarle la cancha,
+[1557.62-1559.62] MINISTRO: que hay que marcarle la cancha,
+[1559.62-1561.62] MINISTRO: que hay que marcarle la cancha,
+[1561.62-1563.62] MINISTRO: que hay que marcarle la cancha,
+[1563.62-1565.62] MINISTRO: que hay que marcarle la cancha,
+[1565.62-1567.62] MINISTRO: que hay que marcarle la cancha,
+[1567.62-1569.62] MINISTRO: que hay que marcarle la cancha,
+[1569.62-1571.62] MINISTRO: que hay que marcarle la cancha,
+[1571.62-1573.62] MINISTRO: que hay que marcarle la cancha,
+[1573.62-1575.62] MINISTRO: que hay que marcarle la cancha,
+[1575.62-1577.62] MINISTRO: que hay que marcarle la cancha,
+[1577.62-1579.62] MINISTRO: que hay que marcarle la cancha,
+[1579.62-1581.62] MINISTRO: que hay que marcarle la cancha,
+[1581.62-1583.62] MINISTRO: que hay que marcarle la cancha,
+[1583.62-1585.62] MINISTRO: que hay que marcarle la cancha,
+[1585.62-1587.62] MINISTRO: que hay que marcarle la cancha,
+[1587.62-1589.62] MINISTRO: que hay que marcarle la cancha,
+[1589.62-1591.62] MINISTRO: que hay que marcarle la cancha,
+[1591.62-1593.62] MINISTRO: que hay que marcarle la cancha,
+[1593.62-1595.62] MINISTRO: que hay que marcarle la cancha,
+[1595.62-1597.62] MINISTRO: que hay que marcarle la cancha,
+[1597.62-1599.62] MINISTRO: que hay que marcarle la cancha,
+[1599.62-1601.62] MINISTRO: que hay que marcarle la cancha,
+[1601.62-1603.62] MINISTRO: que hay que marcarle la cancha,
+[1603.62-1605.62] MINISTRO: que hay que marcarle la cancha,
+[1605.62-1607.62] MINISTRO: que hay que marcarle la cancha,
+[1607.62-1609.62] MINISTRO: que hay que marcarle la cancha,
+[1609.62-1611.62] OTRO: que hay que marcarle la cancha,
+[1611.62-1613.62] MINISTRO: que hay que marcarle la cancha,
+[1613.62-1615.62] MINISTRO: que hay que marcarle la cancha,
+[1615.62-1617.62] MINISTRO: que hay que marcarle la cancha,
+[1617.62-1619.62] MINISTRO: que hay que marcarle la cancha,
+[1619.62-1621.62] MINISTRO: que hay que marcarle la cancha,
+[1621.62-1623.62] MINISTRO: que hay que marcarle la cancha,
+[1623.62-1625.62] MINISTRO: que hay que marcarle la cancha,
+[1625.62-1627.62] MINISTRO: que hay que marcarle la cancha,
+[1627.62-1629.62] MINISTRO: que hay que marcarle la cancha,
+[1629.62-1631.62] OTRO: que hay que marcarle la cancha,
+[1631.62-1633.62] MINISTRO: que hay que marcarle la cancha,
+[1633.62-1635.62] MINISTRO: que hay que marcarle la cancha,
+[1635.62-1637.62] MINISTRO: que hay que marcarle la cancha,
+[1637.62-1639.62] MINISTRO: que hay que marcarle la cancha,
+[1639.62-1641.62] OTRO: que hay que marcarle la cancha,
+[1641.62-1643.62] MINISTRO: que hay que marcarle la cancha,
+[1643.62-1645.62] MINISTRO: que hay que marcarle la cancha,
+[1645.62-1647.62] MINISTRO: que hay que marcarle la cancha,
+[1647.62-1649.62] MINISTRO: que hay que marcarle la cancha,
+[1649.62-1651.62] MINISTRO: que hay que marcarle la cancha,
+[1651.62-1653.62] MINISTRO: que hay que marcarle la cancha,
+[1653.62-1655.62] MINISTRO: que hay que marcarle la cancha,
+[1655.62-1657.62] MINISTRO: que hay que marcarle la cancha,
+[1657.62-1659.62] MINISTRO: que hay que marcarle la cancha,
+[1659.62-1661.62] MINISTRO: que hay que marcarle la cancha,
+[1661.62-1663.62] MINISTRO: que hay que marcarle la cancha,
+[1663.62-1665.62] MINISTRO: que hay que marcarle la cancha,
+[1665.62-1667.62] MINISTRO: que hay que marcarle la cancha,
+[1667.62-1669.62] MINISTRO: que hay que marcarle la cancha,
+[1669.62-1671.62] OTRO: que hay que marcarle la cancha,
+[1671.62-1673.62] OTRO: que hay que marcarle la cancha,
+[1673.62-1675.62] OTRO: que hay que marcarle la cancha,
+[1675.62-1677.62] OTRO: que hay que marcarle la cancha,
+[1677.62-1679.62] OTRO: que hay que marcarle la cancha,
+[1679.62-1681.62] OTRO: que hay que marcarle la cancha,
+[1681.62-1683.62] OTRO: que hay que marcarle la cancha,
+[1683.62-1685.62] MINISTRO: que hay que marcarle la cancha,
+[1685.62-1687.62] MINISTRO: que hay que marcarle la cancha,
+[1687.62-1689.62] MINISTRO: que hay que marcarle la cancha,
+[1689.62-1691.62] MINISTRO: que hay que marcarle la cancha,
+[1691.62-1693.62] MINISTRO: que hay que marcarle la cancha,
+[1693.62-1695.62] MINISTRO: que hay que marcarle la cancha,
+[1695.62-1697.62] OTRO: que hay que marcarle la cancha,
+[1697.62-1699.62] MINISTRO: que hay que marcarle la cancha,
+[1699.62-1701.62] MINISTRO: que hay que marcarle la cancha,
+[1701.62-1703.62] MINISTRO: que hay que marcarle la cancha,
+[1703.62-1705.62] MINISTRO: que hay que marcarle la cancha,
+[1705.62-1707.62] MINISTRO: que hay que marcarle la cancha,
+[1707.62-1709.62] MINISTRO: que hay que marcarle la cancha,
+[1709.62-1711.62] MINISTRO: que hay que marcarle la cancha,
+[1711.62-1713.62] MINISTRO: que hay que marcarle la cancha,
+[1713.62-1715.62] OTRO: que hay que marcarle la cancha,
+[1715.62-1717.62] OTRO: que hay que marcarle la cancha,
+[1717.62-1719.62] OTRO: que hay que marcarle la cancha,
+[1719.62-1721.62] OTRO: que hay que marcarle la cancha,
+[1721.62-1723.62] MINISTRO: que hay que marcarle la cancha,
+[1723.62-1725.62] MINISTRO: que hay que marcarle la cancha,
+[1725.62-1727.62] MINISTRO: que hay que marcarle la cancha,
+[1727.62-1729.62] MINISTRO: que hay que marcarle la cancha,
+[1729.62-1731.62] OTRO: que hay que marcarle la cancha,
+[1731.62-1733.62] OTRO: que hay que marcarle la cancha,
+[1733.62-1735.62] OTRO: que hay que marcarle la cancha,
+[1735.62-1737.62] OTRO: que hay que marcarle la cancha,
+[1737.62-1739.62] OTRO: que hay que marcarle la cancha,
+[1739.62-1741.62] OTRO: que hay que marcarle la cancha,
+[1741.62-1743.62] MINISTRO: que hay que marcarle la cancha,
+[1743.62-1745.62] MINISTRO: que hay que marcarle la cancha,
+[1745.62-1747.62] MINISTRO: que hay que marcarle la cancha,
+[1747.62-1749.62] MINISTRO: que hay que marcarle la cancha,
+[1749.62-1751.62] OTRO: que hay que marcarle la cancha,
+[1751.62-1753.62] OTRO: que hay que marcarle la cancha,
+[1753.62-1755.62] OTRO: que hay que marcarle la cancha,
+[1755.62-1757.62] OTRO: que hay que marcarle la cancha,
+[1757.62-1759.62] OTRO: que hay que marcarle la cancha,
+[1759.62-1761.62] OTRO: que hay que marcarle la cancha,
+[1761.62-1763.62] OTRO: que hay que marcarle la cancha,
+[1763.62-1765.62] OTRO: que hay que marcarle la cancha,
+[1765.62-1767.62] MINISTRO: que hay que marcarle la cancha,
+[1767.62-1769.62] MINISTRO: que hay que marcarle la cancha,
+[1769.62-1771.62] MINISTRO: que hay que marcarle la cancha,
+[1771.62-1773.62] MINISTRO: que hay que marcarle la cancha,
+[1773.62-1775.62] OTRO: que hay que marcarle la cancha,
+[1775.62-1777.62] OTRO: que hay que marcarle la cancha,
+[1777.62-1779.62] OTRO: que hay que marcarle la cancha,
+[1779.62-1781.62] MINISTRO: que hay que marcarle la cancha,
+[1781.62-1783.62] OTRO: que hay que marcarle la cancha,
+[1783.62-1785.62] MINISTRO: que hay que marcarle la cancha,
+[1785.62-1787.62] MINISTRO: que hay que marcarle la cancha,
+[1787.62-1789.62] MINISTRO: que hay que marcarle la cancha,
+[1789.62-1791.62] MINISTRO: que hay que marcarle la cancha,
+[1791.62-1793.62] MINISTRO: que hay que marcarle la cancha,
+[1793.62-1795.62] MINISTRO: que hay que marcarle la cancha,
+[1795.62-1797.62] MINISTRO: que hay que marcarle la cancha,
+[1797.62-1799.62] MINISTRO: que hay que marcarle la cancha,
+[1799.62-1801.62] MINISTRO: que hay que marcarle la cancha,
+[1801.62-1803.62] MINISTRO: que hay que marcarle la cancha,
+[1803.62-1805.62] OTRO: que hay que marcarle la cancha,
+[1805.62-1807.62] OTRO: que hay que marcarle la cancha,
+[1807.62-1809.62] OTRO: que hay que marcarle la cancha,
+[1809.62-1811.62] MINISTRO: que hay que marcarle la cancha,
+[1811.62-1813.62] MINISTRO: que hay que marcarle la cancha,
+[1813.62-1815.62] OTRO: que hay que marcarle la cancha,
+[1815.62-1817.62] OTRO: que hay que marcarle la cancha,
+[1817.62-1819.62] OTRO: que hay que marcarle la cancha,
+[1819.62-1821.62] OTRO: que hay que marcarle la cancha,
+[1821.62-1823.62] OTRO: que hay que marcarle la cancha,
+[1823.62-1825.62] OTRO: que hay que marcarle la cancha,
+[1825.62-1827.62] OTRO: que hay que marcarle la cancha,
+[1827.62-1829.62] OTRO: que hay que marcarle la cancha,
+[1829.62-1831.62] OTRO: que hay que marcarle la cancha,
+[1831.62-1833.62] OTRO: que hay que marcarle la cancha,
+[1833.62-1835.62] MINISTRO: que hay que marcarle la cancha,
+[1835.62-1837.62] MINISTRO: que hay que marcarle la cancha,
+[1837.62-1839.62] MINISTRO: que hay que marcarle la cancha,
+[1839.62-1841.62] MINISTRO: que hay que marcarle la cancha,
+[1841.62-1843.62] MINISTRO: que hay que marcarle la cancha,
+[1843.62-1845.62] OTRO: que hay que marcarle la cancha,
+[1845.62-1847.62] OTRO: que hay que marcarle la cancha,
+[1847.62-1849.62] OTRO: que hay que marcarle la cancha,
+[1849.62-1851.62] OTRO: que hay que marcarle la cancha,
+[1851.62-1853.62] OTRO: que hay que marcarle la cancha,
+[1853.62-1855.62] MINISTRO: que hay que marcarle la cancha,
+[1855.62-1857.62] MINISTRO: que hay que marcarle la cancha,
+[1857.62-1859.62] MINISTRO: que hay que marcarle la cancha,
+[1859.62-1861.62] MINISTRO: que hay que marcarle la cancha,
+[1861.62-1863.62] OTRO: que hay que marcarle la cancha,
+[1863.62-1865.62] OTRO: que hay que marcarle la cancha,
+[1865.62-1867.62] OTRO: que hay que marcarle la cancha,
+[1867.62-1869.62] OTRO: que hay que marcarle la cancha,
+[1869.62-1871.62] OTRO: que hay que marcarle la cancha,
+[1871.62-1873.62] OTRO: que hay que marcarle la cancha,
+[1873.62-1875.62] OTRO: que hay que marcarle la cancha,
+[1875.62-1877.62] OTRO: que hay que marcarle la cancha,
+[1877.62-1879.62] OTRO: que hay que marcarle la cancha,
+[1879.62-1881.62] OTRO: que hay que marcarle la cancha,
+[1881.62-1883.62] OTRO: que hay que marcarle la cancha,
+[1883.62-1885.62] OTRO: que hay que marcarle la cancha,
+[1885.62-1887.62] OTRO: que hay que marcarle la cancha,
+[1887.62-1889.62] OTRO: que hay que marcarle la cancha,
+[1889.62-1891.62] OTRO: que hay que marcarle la cancha,
+[1891.62-1893.62] OTRO: que hay que marcarle la cancha,
+[1893.62-1895.62] OTRO: que hay que marcarle la cancha,
+[1895.62-1897.62] OTRO: que hay que marcarle la cancha,
+[1897.62-1899.62] OTRO: que hay que marcarle la cancha,
+[1899.62-1901.62] OTRO: que hay que marcarle la cancha,
+[1901.62-1903.62] OTRO: que hay que marcarle la cancha,
+[1903.62-1905.62] OTRO: que hay que marcarle la cancha,
+[1905.62-1907.62] OTRO: que hay que marcarle la cancha,
+[1907.62-1909.62] OTRO: que hay que marcarle la cancha,
+[1909.62-1911.62] OTRO: que hay que marcarle la cancha,
+[1911.62-1913.62] OTRO: que hay que marcarle la cancha,
+[1913.62-1915.62] OTRO: que hay que marcarle la cancha,
+[1915.62-1917.62] OTRO: que hay que marcarle la cancha,
+[1917.62-1919.62] OTRO: que hay que marcarle la cancha,
+[1919.62-1921.62] OTRO: que hay que marcarle la cancha,
+[1921.62-1923.62] OTRO: que hay que marcarle la cancha,
+[1923.62-1925.62] OTRO: que hay que marcarle la cancha,
+[1925.62-1927.62] OTRO: que hay que marcarle la cancha,
+[1927.62-1929.62] MINISTRO: que hay que marcarle la cancha,
+[1929.62-1931.62] OTRO: que hay que marcarle la cancha,
+[1931.62-1933.62] OTRO: que hay que marcarle la cancha,
+[1933.62-1935.62] MINISTRO: que hay que marcarle la cancha,
+[1935.62-1937.62] MINISTRO: que hay que marcarle la cancha,
+[1937.62-1939.62] OTRO: que hay que marcarle la cancha,
+[1939.62-1941.62] OTRO: que hay que marcarle la cancha,
+[1941.62-1943.62] OTRO: que hay que marcarle la cancha,
+[1943.62-1945.62] OTRO: que hay que marcarle la cancha,
+[1945.62-1947.62] OTRO: que hay que marcarle la cancha,
+[1947.62-1949.62] OTRO: que hay que marcarle la cancha,
+[1949.62-1951.62] OTRO: que hay que marcarle la cancha,
+[1951.62-1953.62] OTRO: que hay que marcarle la cancha,
+[1953.62-1955.62] OTRO: que hay que marcarle la cancha,
+[1955.62-1957.62] OTRO: que hay que marcarle la cancha,
+[1957.62-1959.62] OTRO: que hay que marcarle la cancha,
+[1959.62-1961.62] OTRO: que hay que marcarle la cancha,
+[1961.62-1963.62] OTRO: que hay que marcarle la cancha,
+[1963.62-1965.62] OTRO: que hay que marcarle la cancha,
+[1965.62-1967.62] OTRO: que hay que marcarle la cancha,
+[1967.62-1969.62] OTRO: que hay que marcarle la cancha,
+[1969.62-1971.62] OTRO: que hay que marcarle la cancha,
+[1971.62-1973.62] OTRO: que hay que marcarle la cancha,
+[1973.62-1975.62] OTRO: que hay que marcarle la cancha,
+[1975.62-1977.62] MINISTRO: que hay que marcarle la cancha,
+[1977.62-1979.62] OTRO: que hay que marcarle la cancha,
+[1979.62-1981.62] OTRO: que hay que marcarle la cancha,
+[1981.62-1983.62] OTRO: que hay que marcarle la cancha,
+[1983.62-1985.62] OTRO: que hay que marcarle la cancha,
+[1985.62-1987.62] OTRO: que hay que marcarle la cancha,
+[1987.62-1989.62] MINISTRO: que hay que marcarle la cancha,
+[1989.62-1991.62] MINISTRO: que hay que marcarle la cancha,
+[1991.62-1993.62] MINISTRO: que hay que marcarle la cancha,
+[1993.62-1995.62] MINISTRO: que hay que marcarle la cancha,
+[1995.62-1997.62] MINISTRO: que hay que marcarle la cancha,
+[1997.62-1999.62] MINISTRO: que hay que marcarle la cancha,
+[1999.62-2001.62] MINISTRO: que hay que marcarle la cancha,
+[2001.62-2003.62] MINISTRO: que hay que marcarle la cancha,
+[2003.62-2005.62] MINISTRO: que hay que marcarle la cancha,
+[2005.62-2007.62] MINISTRO: que hay que marcarle la cancha,
+[2007.62-2009.62] MINISTRO: que hay que marcarle la cancha,
+[2009.62-2011.62] MINISTRO: que hay que marcarle la cancha,
+[2011.62-2013.62] MINISTRO: que hay que marcarle la cancha,
+[2013.62-2015.62] OTRO: que hay que marcarle la cancha,
+[2015.62-2017.62] OTRO: que hay que marcarle la cancha,
+[2017.62-2019.62] OTRO: que hay que marcarle la cancha,
+[2019.62-2021.62] MINISTRO: que hay que marcarle la cancha,
+[2021.62-2023.62] MINISTRO: que hay que marcarle la cancha,
+[2023.62-2025.62] MINISTRO: que hay que marcarle la cancha,
+[2025.62-2027.62] MINISTRO: que hay que marcarle la cancha,
+[2027.62-2029.62] OTRO: que hay que marcarle la cancha,
+[2029.62-2031.62] OTRO: que hay que marcarle la cancha,
+[2031.62-2033.62] MINISTRO: que hay que marcarle la cancha,
+[2033.62-2035.62] MINISTRO: que hay que marcarle la cancha,
+[2035.62-2037.62] MINISTRO: que hay que marcarle la cancha,
+[2037.62-2039.62] OTRO: que hay que marcarle la cancha,
+[2039.62-2041.62] OTRO: que hay que marcarle la cancha,
+[2041.62-2043.62] OTRO: pero sí, tuvimos una charla bárbara
+[2043.62-2045.62] OTRO: en la que quedamos,
+[2045.62-2047.62] OTRO: en que vamos a hacer esas cosas.
+[2047.62-2049.62] OTRO: Pero como digo,
+[2049.62-2051.62] OTRO: hay más cosas que podemos hacer
+[2051.62-2053.62] MINISTRO: con las provincias,
+[2053.62-2055.62] MINISTRO: porque hay un montón de reclamos cruzados
+[2055.62-2057.62] MINISTRO: que mi sensación es
+[2057.62-2059.62] OTRO: que van a estar años,
+[2059.62-2061.62] OTRO: y nadie los va a resolver,
+[2061.62-2063.62] OTRO: y a veces me pregunto si no sería más
+[2063.62-2065.62] OTRO: pragmático hacer una especie
+[2065.62-2067.62] OTRO: de, como se dice,
+[2067.62-2069.62] OTRO: de clearing, de settlement,
+[2069.62-2071.62] OTRO: de arreglo y decir, bueno,
+[2071.62-2073.62] OTRO: a ver qué tenés vos, qué hay yo,
+[2073.62-2075.62] OTRO: a ver qué podemos hacer, qué nos conviene
+[2075.62-2077.62] OTRO: y terminar con estos temas
+[2077.62-2079.62] OTRO: para que se beneficen todos,
+[2079.62-2081.62] OTRO: porque los reclamos sectos
+[2081.62-2083.62] OTRO: son muy debatibles todos,
+[2083.62-2085.62] OTRO: y las provincias tienen argumentos,
+[2085.62-2087.62] OTRO: y acá tienen argumentos también,
+[2087.62-2089.62] OTRO: y la justicia escucha uno,
+[2089.62-2091.62] OTRO: escucha el otro, y tal.
+[2091.62-2093.62] OTRO: Entonces, a mí me parece que sería más conveniente
+[2093.62-2095.62] MINISTRO: una cosa así.
+[2095.62-2097.62] OTRO: ¿Está bien comparar medicamento, por ejemplo, en India,
+[2097.62-2099.62] MINISTRO: en la provincia de Mendoza,
+[2099.62-2101.62] MINISTRO: conceptualmente usted está de acuerdo?
+[2101.62-2103.62] MINISTRO: Sí, o sea, a lo que no estoy de acuerdo,
+[2103.62-2105.62] OTRO: los medicamentos siguen subiendo
+[2105.62-2107.62] OTRO: como están subiendo,
+[2107.62-2109.62] OTRO: como subieron,
+[2109.62-2111.62] OTRO: entonces, nosotros tenemos que
+[2111.62-2113.62] OTRO: emplear los recursos que podemos
+[2113.62-2115.62] OTRO: de vuelta, para tratar
+[2115.62-2117.62] OTRO: de minimizarle estos costos
+[2117.62-2119.62] OTRO: a la gente,
+[2119.62-2121.62] OTRO: entonces, sí, me parece bien,
+[2121.62-2123.62] OTRO: me parece que es lo que tiene que hacer,
+[2123.62-2125.62] OTRO: es un poco lo mismo que estamos haciendo
+[2125.62-2127.62] OTRO: en lo mismo que estamos haciendo
+[2127.62-2129.62] OTRO: en todos los diferentes rubros,
+[2129.62-2131.62] OTRO: todas estas bajas de aranceles
+[2131.62-2133.62] OTRO: y demás, apuntan
+[2133.62-2135.62] OTRO: a lo mismo. Argentina ha entrado
+[2135.62-2137.62] MINISTRO: en un esquema, en el que
+[2137.62-2139.62] MINISTRO: absurdo, en el que de vuelta
+[2139.62-2141.62] MINISTRO: se generaba un déficit fenomenal
+[2141.62-2143.62] OTRO: por todas las razones que ya sabemos,
+[2143.62-2145.62] OTRO: y entonces, ¿cómo hacías
+[2145.62-2147.62] OTRO: para financiar ese déficit? Bueno, primero,
+[2147.62-2149.62] OTRO: se trataba de aumentar impuestos,
+[2149.62-2151.62] OTRO: se aumentaron todos los impuestos,
+[2151.62-2153.62] MINISTRO: hasta que la gente se empezó a ir afuera,
+[2153.62-2155.62] MINISTRO: o del país, o se empezó a ir al canal
+[2155.62-2157.62] MINISTRO: informal, entonces, tenés
+[2157.62-2159.62] MINISTRO: digamos, una cantidad
+[2159.62-2161.62] OTRO: de empleados en el sector privado
+[2161.62-2163.62] OTRO: que no crece desde el 2011, pero bancando
+[2163.62-2165.62] OTRO: un estado cada vez más grande,
+[2165.62-2167.62] OTRO: que cobra más impuestos, bueno,
+[2167.62-2169.62] OTRO: todo eso hay que ir desarmándolo,
+[2169.62-2171.62] OTRO: bajar aranceles, bajar impuestos,
+[2171.62-2173.62] OTRO: permitir las importaciones,
+[2173.62-2175.62] OTRO: es en beneficio de la gente.
+[2175.62-2177.62] OTRO: Hay una parte de los argentinos
+[2177.62-2179.62] OTRO: que no lo va a poder comerse nunca,
+[2179.62-2181.62] OTRO: si nada, que puta, que yo,
+[2181.62-2183.62] OTRO: que no lo pico por ciento, o lo que sea,
+[2183.62-2185.62] MINISTRO: al tinerismo, y hay otra que dice,
+[2185.62-2187.62] MINISTRO: bueno, yo estoy dispuesto, pero
+[2187.62-2189.62] MINISTRO: ¿cuándo llega la...
+[2189.62-2191.62] OTRO: ¿cuándo hay un poco de agua en este camino
+[2191.62-2193.62] OTRO: del desierto? ¿Cuándo?
+[2193.62-2195.62] MINISTRO: Voy a sentir con...
+[2195.62-2197.62] MINISTRO: No, los vamos a convencer a todos,
+[2197.62-2199.62] MINISTRO: no tengo duda, o sea,
+[2199.62-2201.62] OTRO: algunos les va a llevar más tiempo,
+[2201.62-2203.62] OTRO: eso es lo único que va a cambiar,
+[2203.62-2205.62] OTRO: porque este presidente
+[2205.62-2207.62] OTRO: va a cambiar la historia
+[2207.62-2209.62] OTRO: de la Argentina, no tengo
+[2209.62-2211.62] OTRO: ninguna duda,
+[2211.62-2213.62] OTRO: Argentina va a ser un país
+[2213.62-2215.62] OTRO: que más va a sobre salir
+[2215.62-2217.62] OTRO: en los próximos 30 años,
+[2217.62-2219.62] OTRO: entonces el que no nos cree hoy,
+[2219.62-2221.62] OTRO: o no nos cree el año que viene,
+[2221.62-2223.62] OTRO: no cree el otro año que va a ir...
+[2223.62-2225.62] OTRO: ¿Qué le está pasando mal hoy?
+[2225.62-2227.62] OTRO: No, que le está pasando mal hoy, le digo,
+[2227.62-2229.62] OTRO: que tenga más esperanzas que nunca,
+[2229.62-2231.62] OTRO: porque lo peor ya pasó,
+[2231.62-2233.62] OTRO: y hoy podemos empezar a mostrar resultados.
+[2233.62-2235.62] OTRO: En diciembre era un programa económico
+[2235.62-2237.62] OTRO: que muchos no entendían,
+[2237.62-2239.62] OTRO: pero la economía empezó a recuperar,
+[2239.62-2241.62] MINISTRO: el dólar está estable,
+[2241.62-2243.62] MINISTRO: estamos sacando regulaciones,
+[2243.62-2245.62] MINISTRO: estamos bajando impuestos,
+[2245.62-2247.62] MINISTRO: estamos bajando aranceles,
+[2247.62-2249.62] MINISTRO: entonces hoy ya se empiezan a ver los frutos,
+[2249.62-2251.62] MINISTRO: entonces, quédate tranquilo,
+[2251.62-2253.62] OTRO: que vamos a convencer a todos,
+[2253.62-2255.62] OTRO: hasta los más escépticos,
+[2255.62-2257.62] OTRO: como digo, la realidad se va a llevar
+[2257.62-2259.62] OTRO: puesta al escepticismo.
+[2259.62-2261.62] OTRO: Gracias, ministro, por la entrevista.

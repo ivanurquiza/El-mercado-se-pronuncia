@@ -1,0 +1,343 @@
+{"start": 2.48, "end": 46.24, "text": "Bueno, buenas tardes a todos. Nos estamos convocando porque para", "avg_logprob": -0.4025587188570123, "no_speech_prob": 0.5636487007141113}
+{"start": 46.24, "end": 55.08, "text": "contarles cómo seguir lo que es la segunda etapa de este plan de estabilización,", "avg_logprob": -0.41764573465313826, "no_speech_prob": 0.42084386944770813}
+{"start": 55.08, "end": 65.66, "text": "pero déjenme entonces como siempre arrancar un poco contando la historia", "avg_logprob": -0.41764573465313826, "no_speech_prob": 0.42084386944770813}
+{"start": 65.66, "end": 75.24, "text": "en recibida, porque esto siempre pone de alguna manera en perspectiva.", "avg_logprob": -0.41764573465313826, "no_speech_prob": 0.42084386944770813}
+{"start": 75.24, "end": 81.24, "text": "Y eso es lo que podría haber pasado y la situación en la que estamos hoy.", "avg_logprob": -0.4002241794377157, "no_speech_prob": 0.11056528985500336}
+{"start": 81.24, "end": 91.24, "text": "Como ya ha dicho muchas veces el presidente, hemos heredado la peor herencia de la historia,", "avg_logprob": -0.4002241794377157, "no_speech_prob": 0.11056528985500336}
+{"start": 91.24, "end": 100.24, "text": "lo peor de las últimas tres crisis del Rodriguazo, de las hiperinflaciones del 89-90,", "avg_logprob": -0.4002241794377157, "no_speech_prob": 0.11056528985500336}
+{"start": 100.24, "end": 107.24, "text": "y de la salida de la convertibilidad. Piensen que de vuelta en cada una de esas situaciones", "avg_logprob": -0.15306935268334854, "no_speech_prob": 0.041398078203201294}
+{"start": 107.24, "end": 116.24, "text": "se terminó en crisis. En este caso heredamos la combinación de esas tres y se pudo evitar la crisis.", "avg_logprob": -0.15306935268334854, "no_speech_prob": 0.041398078203201294}
+{"start": 116.24, "end": 126.24, "text": "Es decir, recibimos un paciente literalmente en terapia intensiva y hoy estamos en una situación", "avg_logprob": -0.15306935268334854, "no_speech_prob": 0.041398078203201294}
+{"start": 126.24, "end": 134.24, "text": "claramente de recuperación. Sería un déficit consolidado, y esto es algo que vamos a entender", "avg_logprob": -0.16717737555503845, "no_speech_prob": 0.13697919249534607}
+{"start": 134.24, "end": 144.24, "text": "mejor hoy, un déficit consolidado entre Tesoro y Banco Central de 15 puntos del producto.", "avg_logprob": -0.16717737555503845, "no_speech_prob": 0.13697919249534607}
+{"start": 144.24, "end": 150.24, "text": "5 puntos, déficit del Tesoro, 10 puntos de déficit en el Banco Central.", "avg_logprob": -0.16717737555503845, "no_speech_prob": 0.13697919249534607}
+{"start": 151.24, "end": 156.24, "text": "Reservas netas negativas por 11.200 millones de dólares.", "avg_logprob": -0.12953565931982464, "no_speech_prob": 0.05999929830431938}
+{"start": 156.24, "end": 162.24, "text": "Esto para que la gente entienda, quiere decir que no es que ya el Banco Central no tenía dólares propios,", "avg_logprob": -0.12953565931982464, "no_speech_prob": 0.05999929830431938}
+{"start": 162.24, "end": 166.24, "text": "sino que muchos se han vendido los dólares de los depósitos de la gente.", "avg_logprob": -0.12953565931982464, "no_speech_prob": 0.05999929830431938}
+{"start": 166.24, "end": 175.78, "text": "Además enfrentábamos vencimientos inmediatos con el Fondo Monetario Internacional en diciembre mismo", "avg_logprob": -0.12953565931982464, "no_speech_prob": 0.05999929830431938}
+{"start": 175.78, "end": 181.78, "text": "y con el mercado en los primeros días de enero, por lo cual también recibimos el país virtualmente", "avg_logprob": -0.10230934247374535, "no_speech_prob": 0.05089690908789635}
+{"start": 181.78, "end": 185.78, "text": "en default con el Fondo y con el mercado.", "avg_logprob": -0.10230934247374535, "no_speech_prob": 0.05089690908789635}
+{"start": 185.78, "end": 191.78, "text": "Además había una deuda con los importadores de 60.000 millones de dólares.", "avg_logprob": -0.10230934247374535, "no_speech_prob": 0.05089690908789635}
+{"start": 191.78, "end": 198.78, "text": "Esa deuda con los importadores generaba un problema adicional que es que estaba rota la cadena", "avg_logprob": -0.10230934247374535, "no_speech_prob": 0.05089690908789635}
+{"start": 198.78, "end": 204.78, "text": "de suministro, de proveedores del exterior con los importadores,", "avg_logprob": -0.08337695451525899, "no_speech_prob": 0.10140407830476761}
+{"start": 204.78, "end": 209.78, "text": "lo que generaba una mucha mayor incertidumbre al momento de formar precios,", "avg_logprob": -0.08337695451525899, "no_speech_prob": 0.10140407830476761}
+{"start": 209.78, "end": 214.78, "text": "porque claramente no se sabía el valor de reposición,", "avg_logprob": -0.08337695451525899, "no_speech_prob": 0.10140407830476761}
+{"start": 214.78, "end": 218.78, "text": "lo que alimentaba mucho más la probabilidad de una hiperinflación.", "avg_logprob": -0.08337695451525899, "no_speech_prob": 0.10140407830476761}
+{"start": 218.78, "end": 228.78, "text": "No es entonces una casualidad que el 85% de la gente esperaba una hiperinflación.", "avg_logprob": -0.13314004914433347, "no_speech_prob": 0.0961645245552063}
+{"start": 228.78, "end": 239.78, "text": "Producto de todos estos desequilibrios, además teníamos una inflación por encima del 200% anual,", "avg_logprob": -0.13314004914433347, "no_speech_prob": 0.0961645245552063}
+{"start": 239.78, "end": 247.78, "text": "particularmente en diciembre la inflación arrancó en el 1% diario,", "avg_logprob": -0.12283415415070274, "no_speech_prob": 0.031143391504883766}
+{"start": 247.78, "end": 250.78, "text": "la semana siguiente llegó al 1,5% diario,", "avg_logprob": -0.12283415415070274, "no_speech_prob": 0.031143391504883766}
+{"start": 250.78, "end": 257.78, "text": "y como siempre dice el presidente, si tenemos en cuenta la inflación mayorista de diciembre,", "avg_logprob": -0.12283415415070274, "no_speech_prob": 0.031143391504883766}
+{"start": 257.78, "end": 264.78, "text": "que fue del 54%, eso daba un anualizado de 17.600.", "avg_logprob": -0.12283415415070274, "no_speech_prob": 0.031143391504883766}
+{"start": 264.78, "end": 271.78, "text": "Y todo esto con la mayoría de los precios en la economía, como se dice, pisados,", "avg_logprob": -0.11654872617551258, "no_speech_prob": 0.017499204725027084}
+{"start": 271.78, "end": 278.78, "text": "dólar, combustibles, tarifa, alimentos,", "avg_logprob": -0.11654872617551258, "no_speech_prob": 0.017499204725027084}
+{"start": 278.78, "end": 286.78, "text": "y sobre todo un enorme, como digo, desbalance en el mercado de dinero", "avg_logprob": -0.11654872617551258, "no_speech_prob": 0.017499204725027084}
+{"start": 286.78, "end": 290.78, "text": "entre la oferta y la demanda de pesos.", "avg_logprob": -0.11654872617551258, "no_speech_prob": 0.017499204725027084}
+{"start": 290.78, "end": 297.78, "text": "En los últimos años, había tres bases monetarias en pasivos remunerados,", "avg_logprob": -0.24071937740439237, "no_speech_prob": 0.285281240940094}
+{"start": 297.78, "end": 301.78, "text": "para que la gente entienda lo que eran antes las LEVAX, después fueron LELEX,", "avg_logprob": -0.24071937740439237, "no_speech_prob": 0.285281240940094}
+{"start": 301.78, "end": 302.78, "text": "y ahora son pases.", "avg_logprob": -0.24071937740439237, "no_speech_prob": 0.285281240940094}
+{"start": 302.78, "end": 310.78, "text": "Esa fue la situación que se heredó y que claramente requería un programa de shock,", "avg_logprob": -0.24071937740439237, "no_speech_prob": 0.285281240940094}
+{"start": 310.78, "end": 319.78, "text": "y eso fue lo que hicimos, un programa fundamentalmente basado en una muy fuerte ancla fiscal.", "avg_logprob": -0.24071937740439237, "no_speech_prob": 0.285281240940094}
+{"start": 319.78, "end": 324.78, "text": "Y también, una equilibrio fiscal desde el día 1, algo inédito,", "avg_logprob": -0.23108518654757207, "no_speech_prob": 0.011433183215558529}
+{"start": 324.78, "end": 330.78, "text": "porque recuerden que esos 5 puntos de déficit, se especulaba con que de ninguna manera", "avg_logprob": -0.23108518654757207, "no_speech_prob": 0.011433183215558529}
+{"start": 330.78, "end": 337.78, "text": "podían cerrarse, tal vez 1 o 2 puntos en el mediano plazo,", "avg_logprob": -0.23108518654757207, "no_speech_prob": 0.011433183215558529}
+{"start": 337.78, "end": 344.78, "text": "pero definitivamente, una fue una gran sorpresa positiva el hecho de haber podido cerrar", "avg_logprob": -0.23108518654757207, "no_speech_prob": 0.011433183215558529}
+{"start": 344.78, "end": 350.95, "text": "este déficit en el primer mes de nuestra función.", "avg_logprob": -0.23108518654757207, "no_speech_prob": 0.011433183215558529}
+{"start": 350.95, "end": 355.95, "text": "Y esta, como hemos explicado muchas veces, siempre fue el déficit fiscal,", "avg_logprob": -0.12181782531876896, "no_speech_prob": 0.006531691178679466}
+{"start": 355.95, "end": 361.95, "text": "siempre fue el corazón del problema, y por eso era muy importante que la gente", "avg_logprob": -0.12181782531876896, "no_speech_prob": 0.006531691178679466}
+{"start": 361.95, "end": 368.95, "text": "entendiera este concepto, porque como dije, muchas veces siempre se le echó la culpa", "avg_logprob": -0.12181782531876896, "no_speech_prob": 0.006531691178679466}
+{"start": 368.95, "end": 374.95, "text": "a las consecuencias que ha generado ese déficit fiscal, siempre se le ha echado la culpa", "avg_logprob": -0.12181782531876896, "no_speech_prob": 0.006531691178679466}
+{"start": 374.95, "end": 382.95, "text": "a la inflación, a la deuda, al dólar, y siempre se ha tratado de resolver esas consecuencias", "avg_logprob": -0.11232001562085417, "no_speech_prob": 0.09629958122968674}
+{"start": 382.95, "end": 388.95, "text": "en vez de atacar el corazón del problema que siempre ha sido el déficit fiscal.", "avg_logprob": -0.11232001562085417, "no_speech_prob": 0.09629958122968674}
+{"start": 388.95, "end": 397.95, "text": "Entonces nosotros decidimos con un enorme poder de convicción del Presidente de la Nación", "avg_logprob": -0.11232001562085417, "no_speech_prob": 0.09629958122968674}
+{"start": 397.95, "end": 404.95, "text": "y un mandato de hacer esto al mismo tiempo que cuidábamos a los más vulnerables.", "avg_logprob": -0.150715686155088, "no_speech_prob": 0.05723370239138603}
+{"start": 404.95, "end": 413.95, "text": "Cosa que hemos cumplido, y como hoy bien decía también el Presidente en una entrevista", "avg_logprob": -0.150715686155088, "no_speech_prob": 0.05723370239138603}
+{"start": 413.95, "end": 425.95, "text": "a la mañana, lo hemos hecho también sin generar ninguna, digamos, ninguna consecuencia", "avg_logprob": -0.150715686155088, "no_speech_prob": 0.05723370239138603}
+{"start": 425.95, "end": 433.95, "text": "arbitraria negativa contra la sociedad, es decir, no se hizo ningún plan Bónix como se esperaba,", "avg_logprob": -0.11729414947330952, "no_speech_prob": 0.024759696796536446}
+{"start": 433.95, "end": 441.95, "text": "no se generó ninguna crisis para poder tener una recuperación después más sencilla,", "avg_logprob": -0.11729414947330952, "no_speech_prob": 0.024759696796536446}
+{"start": 441.95, "end": 451.95, "text": "no se violaron contratos, todo se hizo, digamos, dentro de las condiciones de normalidad.", "avg_logprob": -0.11729414947330952, "no_speech_prob": 0.024759696796536446}
+{"start": 451.95, "end": 459.95, "text": "Esto es, como digo, muy importante, te lo lo encuentro, porque es el corazón de como nosotros pensamos.", "avg_logprob": -0.14237891072812286, "no_speech_prob": 0.017337920144200325}
+{"start": 459.95, "end": 469.95, "text": "Ahora bien, como dije, estamos acá porque estamos ya en lo que nosotros consideramos", "avg_logprob": -0.14237891072812286, "no_speech_prob": 0.017337920144200325}
+{"start": 469.95, "end": 477.95, "text": "lo que sería la segunda etapa de este plan de estabilización que consiste esencialmente", "avg_logprob": -0.14237891072812286, "no_speech_prob": 0.017337920144200325}
+{"start": 477.95, "end": 486.49, "text": "en ir a emisión, no voy a decir cero, después el Presidente del Banco Central lo va a explicar bien,", "avg_logprob": -0.06565444263411158, "no_speech_prob": 0.06879467517137527}
+{"start": 486.49, "end": 495.49, "text": "a cerrar la segunda canilla de emisión. Recuerden que tenemos tres canillas de emisión monetaria,", "avg_logprob": -0.06565444263411158, "no_speech_prob": 0.06879467517137527}
+{"start": 495.49, "end": 501.49, "text": "una es el déficit fiscal, la segunda son los intereses que el Banco Central paga", "avg_logprob": -0.06565444263411158, "no_speech_prob": 0.06879467517137527}
+{"start": 501.49, "end": 507.49, "text": "por esos famosos pasivos remunerados, lebacks, leleaks, paces,", "avg_logprob": -0.14452249308427176, "no_speech_prob": 0.1908099353313446}
+{"start": 507.49, "end": 516.49, "text": "y el tercero es cuando el Banco Central compra dólares, que digamos que es el único efecto si se quiere de emisión", "avg_logprob": -0.14452249308427176, "no_speech_prob": 0.1908099353313446}
+{"start": 516.49, "end": 524.49, "text": "que no es dañino porque de alguna manera está siendo compensado por mayor acumulación de reservas.", "avg_logprob": -0.14452249308427176, "no_speech_prob": 0.1908099353313446}
+{"start": 524.49, "end": 532.49, "text": "Entonces en la primera etapa se cerró la canilla de la emisión de dinero por déficit fiscal,", "avg_logprob": -0.10873965015917113, "no_speech_prob": 0.1260107308626175}
+{"start": 532.49, "end": 541.49, "text": "algo en lo cual se abusó enormemente durante el gobierno pasado y que generó todo este desbalance", "avg_logprob": -0.10873965015917113, "no_speech_prob": 0.1260107308626175}
+{"start": 541.49, "end": 547.49, "text": "y esta inflación que hemos visto y que estamos viendo.", "avg_logprob": -0.10873965015917113, "no_speech_prob": 0.1260107308626175}
+{"start": 548.49, "end": 555.49, "text": "En esta segunda etapa entonces estamos cerrando el grifo de lo que es el segundo canal de emisión", "avg_logprob": -0.04489539219782902, "no_speech_prob": 0.006742482073605061}
+{"start": 555.49, "end": 562.49, "text": "que es los intereses que el Banco Central paga por los pasivos remunerados.", "avg_logprob": -0.04489539219782902, "no_speech_prob": 0.006742482073605061}
+{"start": 562.49, "end": 569.93, "text": "Santiago después va a explicar este proceso en mucho más detalle.", "avg_logprob": -0.04489539219782902, "no_speech_prob": 0.006742482073605061}
+{"start": 570.93, "end": 573.93, "text": "Y esto, digamos, ¿por qué lo estamos haciendo?", "avg_logprob": -0.10689514351543039, "no_speech_prob": 0.013740832917392254}
+{"start": 573.93, "end": 584.93, "text": "Porque queremos dar mayor certidumbre y mayor solidez aún al programa económico", "avg_logprob": -0.10689514351543039, "no_speech_prob": 0.013740832917392254}
+{"start": 584.93, "end": 598.93, "text": "para que de alguna manera deje de haber ansiedad con respecto a cuando va a ser la salida del cepo cambiario.", "avg_logprob": -0.10689514351543039, "no_speech_prob": 0.013740832917392254}
+{"start": 599.93, "end": 603.93, "text": "¿Alguno dirá, se están enamorando del cepo?", "avg_logprob": -0.13914985969966773, "no_speech_prob": 0.017540961503982544}
+{"start": 603.93, "end": 606.93, "text": "No, no ese es el caso.", "avg_logprob": -0.13914985969966773, "no_speech_prob": 0.017540961503982544}
+{"start": 606.93, "end": 611.93, "text": "Lo que nos hemos enamorado es del orden macroeconómico.", "avg_logprob": -0.13914985969966773, "no_speech_prob": 0.017540961503982544}
+{"start": 611.93, "end": 616.93, "text": "Y de lo que nos hemos enamorado es de no generarle un problema a los argentinos.", "avg_logprob": -0.13914985969966773, "no_speech_prob": 0.017540961503982544}
+{"start": 616.93, "end": 626.93, "text": "Entonces para nosotros la salida del cepo es una tercera etapa que va a ser una etapa de crecimiento", "avg_logprob": -0.13914985969966773, "no_speech_prob": 0.017540961503982544}
+{"start": 626.93, "end": 632.93, "text": "y de salida del cepo en la cual como ya he dicho muchas veces no nos hemos fijado una fecha.", "avg_logprob": -0.07455713333601648, "no_speech_prob": 0.14160117506980896}
+{"start": 632.93, "end": 639.93, "text": "Nos hemos fijado parámetros que esencialmente implican orden macroeconómico", "avg_logprob": -0.07455713333601648, "no_speech_prob": 0.14160117506980896}
+{"start": 639.93, "end": 644.93, "text": "para que cuando hagamos esto estemos nosotros lo más seguros posible", "avg_logprob": -0.07455713333601648, "no_speech_prob": 0.14160117506980896}
+{"start": 644.93, "end": 649.93, "text": "que no va a generar ningún sobresalto en la gente.", "avg_logprob": -0.07455713333601648, "no_speech_prob": 0.14160117506980896}
+{"start": 649.93, "end": 651.93, "text": "¿Qué quiere decir sobresalto?", "avg_logprob": -0.07455713333601648, "no_speech_prob": 0.14160117506980896}
+{"start": 651.93, "end": 657.93, "text": "Bueno, alguna potencial suba del dólar que como saben que eso genera más inflación, desempleo,", "avg_logprob": -0.09339205488081902, "no_speech_prob": 0.07598724216222763}
+{"start": 657.93, "end": 661.93, "text": "todas cosas que los argentinos ya han visto durante mucho tiempo.", "avg_logprob": -0.09339205488081902, "no_speech_prob": 0.07598724216222763}
+{"start": 661.93, "end": 668.93, "text": "Entonces lo que nosotros buscamos aquí es que la gente entienda la robustez de este programa", "avg_logprob": -0.09339205488081902, "no_speech_prob": 0.07598724216222763}
+{"start": 668.93, "end": 675.93, "text": "y que esto nos va a permitir profundizar lo que hemos venido haciendo,", "avg_logprob": -0.09339205488081902, "no_speech_prob": 0.07598724216222763}
+{"start": 675.93, "end": 679.93, "text": "profundizar el proceso de desinflación", "avg_logprob": -0.09339205488081902, "no_speech_prob": 0.07598724216222763}
+{"start": 679.93, "end": 684.93, "text": "y de esa manera como digo darnos el tiempo que consideremos necesario", "avg_logprob": -0.14777193809377737, "no_speech_prob": 0.0034919357858598232}
+{"start": 684.93, "end": 688.93, "text": "para que podamos salir también de las restricciones cambiarias", "avg_logprob": -0.14777193809377737, "no_speech_prob": 0.0034919357858598232}
+{"start": 688.93, "end": 692.93, "text": "cuando las condiciones macroeconómicas estén dadas.", "avg_logprob": -0.14777193809377737, "no_speech_prob": 0.0034919357858598232}
+{"start": 692.93, "end": 694.93, "text": "¿Soy ahora parando poco?", "avg_logprob": -0.14777193809377737, "no_speech_prob": 0.0034919357858598232}
+{"start": 694.93, "end": 698.4, "text": "Gracias.", "avg_logprob": -0.14777193809377737, "no_speech_prob": 0.0034919357858598232}
+{"start": 698.4, "end": 703.4, "text": "Bueno, un poco hablar, complementar los detalles de qué es esta fase 2", "avg_logprob": -0.14777193809377737, "no_speech_prob": 0.0034919357858598232}
+{"start": 703.4, "end": 705.4, "text": "y qué implica cerrar esta canilla", "avg_logprob": -0.14777193809377737, "no_speech_prob": 0.0034919357858598232}
+{"start": 705.4, "end": 710.4, "text": "y por qué es tan importante cerrar esta canilla, esta segunda canilla de emisión monetaria.", "avg_logprob": -0.14777193809377737, "no_speech_prob": 0.0034919357858598232}
+{"start": 710.4, "end": 716.4, "text": "Todo esto es un esfuerzo de seguir profundizando el esfuerzo de saneamiento del balance del Banco Central.", "avg_logprob": -0.06701737012320418, "no_speech_prob": 0.0038286279886960983}
+{"start": 716.4, "end": 718.4, "text": "¿Qué quiere decir sanear el balance del Banco Central?", "avg_logprob": -0.06701737012320418, "no_speech_prob": 0.0038286279886960983}
+{"start": 718.4, "end": 722.4, "text": "Al final, el Banco Central es el que emite los pesos que todos tenemos en la sociedad", "avg_logprob": -0.06701737012320418, "no_speech_prob": 0.0038286279886960983}
+{"start": 722.4, "end": 725.4, "text": "y cuanto más sólido sea el balance del Banco Central,", "avg_logprob": -0.06701737012320418, "no_speech_prob": 0.0038286279886960983}
+{"start": 725.4, "end": 728.4, "text": "más sólido es el respaldo que tiene esos pesos.", "avg_logprob": -0.06701737012320418, "no_speech_prob": 0.0038286279886960983}
+{"start": 728.4, "end": 730.4, "text": "¿Qué es un balance más sólido?", "avg_logprob": -0.06701737012320418, "no_speech_prob": 0.0038286279886960983}
+{"start": 730.4, "end": 734.4, "text": "Es un balance que tiene mejores activos y menos pasivos.", "avg_logprob": -0.06701737012320418, "no_speech_prob": 0.0038286279886960983}
+{"start": 734.4, "end": 740.4, "text": "Los mejores activos lo venimos logrando con la acumulación de reserva hasta ahora.", "avg_logprob": -0.09624252038992058, "no_speech_prob": 0.005218517500907183}
+{"start": 740.4, "end": 746.4, "text": "La recuperación por el lado del pasivo es reducir el monto de los pasivos,", "avg_logprob": -0.09624252038992058, "no_speech_prob": 0.005218517500907183}
+{"start": 746.4, "end": 749.4, "text": "reducir en términos reales que se vienen haciendo de esos pasivos", "avg_logprob": -0.09624252038992058, "no_speech_prob": 0.005218517500907183}
+{"start": 749.4, "end": 754.4, "text": "y reducir los intereses que generan esos pasivos sobre el balance del Banco Central.", "avg_logprob": -0.09624252038992058, "no_speech_prob": 0.005218517500907183}
+{"start": 754.4, "end": 760.4, "text": "Como comentó recién, los pasivos son principalmente los pasivos remunerados", "avg_logprob": -0.09624252038992058, "no_speech_prob": 0.005218517500907183}
+{"start": 760.4, "end": 763.4, "text": "del Banco Central los que generan un problema,", "avg_logprob": -0.09624252038992058, "no_speech_prob": 0.005218517500907183}
+{"start": 763.4, "end": 768.4, "text": "lo que eran las LEVAX, que después pasaron a hacer las LELIX, que hoy son los PASES.", "avg_logprob": -0.13854044793467774, "no_speech_prob": 0.0020044518169015646}
+{"start": 768.4, "end": 776.4, "text": "Esos pasivos remunerados pagan intereses y esos intereses se pagan con la emisión monetaria.", "avg_logprob": -0.13854044793467774, "no_speech_prob": 0.0020044518169015646}
+{"start": 776.4, "end": 780.4, "text": "Es una idea de tamaño y de magnitud.", "avg_logprob": -0.13854044793467774, "no_speech_prob": 0.0020044518169015646}
+{"start": 780.4, "end": 785.4, "text": "Cuando comenzamos la gestión, los pasivos remunerados que estaban en el balance del Banco Central", "avg_logprob": -0.13854044793467774, "no_speech_prob": 0.0020044518169015646}
+{"start": 785.4, "end": 792.4, "text": "emitían el equivalente al 40% de la base monetaria todos los meses.", "avg_logprob": -0.13854044793467774, "no_speech_prob": 0.0020044518169015646}
+{"start": 792.4, "end": 794.4, "text": "¿Qué es la base monetaria? Usémosla como un próxide.", "avg_logprob": -0.09740932762622834, "no_speech_prob": 0.00898923072963953}
+{"start": 794.4, "end": 798.4, "text": "¿Cuántos pesos demanda la sociedad? ¿Cuántos pesos quiere tener la sociedad,", "avg_logprob": -0.09740932762622834, "no_speech_prob": 0.00898923072963953}
+{"start": 798.4, "end": 801.4, "text": "la gente en su bolsillo en el agregado?", "avg_logprob": -0.09740932762622834, "no_speech_prob": 0.00898923072963953}
+{"start": 801.4, "end": 806.4, "text": "Todos los meses se emitían 40% de ese monto adicionales,", "avg_logprob": -0.09740932762622834, "no_speech_prob": 0.00898923072963953}
+{"start": 806.4, "end": 811.4, "text": "solamente como componente de intereses sobre los pasivos del Banco Central.", "avg_logprob": -0.09740932762622834, "no_speech_prob": 0.00898923072963953}
+{"start": 811.4, "end": 814.4, "text": "Esto era dos veces lo que se emitía por el déficit.", "avg_logprob": -0.09740932762622834, "no_speech_prob": 0.00898923072963953}
+{"start": 814.4, "end": 817.4, "text": "O sea, los intereses sobre los pasivos del Banco Central", "avg_logprob": -0.09740932762622834, "no_speech_prob": 0.00898923072963953}
+{"start": 817.4, "end": 821.4, "text": "pasaron a ser mucho más relevantes que lo que se estaba emitiendo por déficit.", "avg_logprob": -0.09740932762622834, "no_speech_prob": 0.00898923072963953}
+{"start": 822.4, "end": 826.4, "text": "Y ahí también se comprometía mucho, algo que voy a comentar un ratito,", "avg_logprob": -0.10641544557257787, "no_speech_prob": 0.0035660862922668457}
+{"start": 826.4, "end": 830.4, "text": "que es la herramienta de la tasa de interés como herramienta política monetaria.", "avg_logprob": -0.10641544557257787, "no_speech_prob": 0.0035660862922668457}
+{"start": 830.4, "end": 833.4, "text": "Todas las discusiones de si sube la tasa, se baja la tasa.", "avg_logprob": -0.10641544557257787, "no_speech_prob": 0.0035660862922668457}
+{"start": 833.4, "end": 836.4, "text": "Para el Banco Central empezaba a generar un conflicto,", "avg_logprob": -0.10641544557257787, "no_speech_prob": 0.0035660862922668457}
+{"start": 836.4, "end": 839.4, "text": "porque si subía la tasa para que el peso se haga más atractivo,", "avg_logprob": -0.10641544557257787, "no_speech_prob": 0.0035660862922668457}
+{"start": 839.4, "end": 844.4, "text": "tenía que pagar emitir más pesos como resultado de los intereses sobre sus pasivos", "avg_logprob": -0.10641544557257787, "no_speech_prob": 0.0035660862922668457}
+{"start": 844.4, "end": 846.4, "text": "que lo hacía menos atractivo.", "avg_logprob": -0.10641544557257787, "no_speech_prob": 0.0035660862922668457}
+{"start": 846.4, "end": 849.4, "text": "Entonces, era un equilibrio muy fino y muy difícil de lograr.", "avg_logprob": -0.10641544557257787, "no_speech_prob": 0.0035660862922668457}
+{"start": 849.4, "end": 853.4, "text": "Por eso el foco inicial fue reducir fuertes esos pasivos y aumentar los activos.", "avg_logprob": -0.1000707619190216, "no_speech_prob": 0.0017994301160797477}
+{"start": 854.4, "end": 860.4, "text": "¿Cómo vamos a hacer para recuperar o para terminar de emitir pesos", "avg_logprob": -0.1000707619190216, "no_speech_prob": 0.0017994301160797477}
+{"start": 860.4, "end": 863.4, "text": "como consecuencia de los pasivos del Banco Central?", "avg_logprob": -0.1000707619190216, "no_speech_prob": 0.0017994301160797477}
+{"start": 863.4, "end": 866.4, "text": "Sincerando a quién le corresponden estos pasivos.", "avg_logprob": -0.1000707619190216, "no_speech_prob": 0.0017994301160797477}
+{"start": 866.4, "end": 869.4, "text": "Estos pasivos tienen un origen en déficit fiscal.", "avg_logprob": -0.1000707619190216, "no_speech_prob": 0.0017994301160797477}
+{"start": 869.4, "end": 874.4, "text": "En los años anteriores, en los momentos donde no había acceso al financiamiento,", "avg_logprob": -0.1000707619190216, "no_speech_prob": 0.0017994301160797477}
+{"start": 874.4, "end": 877.4, "text": "cuando se ocurría en déficit, como no había acceso a endeudarse", "avg_logprob": -0.1000707619190216, "no_speech_prob": 0.0017994301160797477}
+{"start": 877.4, "end": 880.4, "text": "para pagar el déficit, el déficit siempre se paga de alguna manera.", "avg_logprob": -0.10251946588780017, "no_speech_prob": 0.005306975916028023}
+{"start": 880.4, "end": 884.4, "text": "O se financia con deuda o se paga con la emisión monetaria.", "avg_logprob": -0.10251946588780017, "no_speech_prob": 0.005306975916028023}
+{"start": 884.4, "end": 889.4, "text": "Si no había acceso al financiamiento, se eligió por ir por la emisión monetaria.", "avg_logprob": -0.10251946588780017, "no_speech_prob": 0.005306975916028023}
+{"start": 889.4, "end": 892.4, "text": "Esa emisión monetaria era más de lo que la sociedad quería,", "avg_logprob": -0.10251946588780017, "no_speech_prob": 0.005306975916028023}
+{"start": 892.4, "end": 894.4, "text": "de lo que la sociedad demandaba.", "avg_logprob": -0.10251946588780017, "no_speech_prob": 0.005306975916028023}
+{"start": 894.4, "end": 897.4, "text": "Era una cantidad de pesos que se emitía como consecuencia del déficit", "avg_logprob": -0.10251946588780017, "no_speech_prob": 0.005306975916028023}
+{"start": 897.4, "end": 900.4, "text": "que superaban la base de dinero,", "avg_logprob": -0.10251946588780017, "no_speech_prob": 0.005306975916028023}
+{"start": 900.4, "end": 904.4, "text": "que es lo que decía recién, que es un proxy para la demanda de dinero.", "avg_logprob": -0.10251946588780017, "no_speech_prob": 0.005306975916028023}
+{"start": 904.4, "end": 906.4, "text": "Perdón, la base monetaria.", "avg_logprob": -0.11219258555050554, "no_speech_prob": 0.006381257437169552}
+{"start": 906.4, "end": 910.4, "text": "Entonces, cada vez que ese déficit era mayor a la demanda", "avg_logprob": -0.11219258555050554, "no_speech_prob": 0.006381257437169552}
+{"start": 910.4, "end": 914.4, "text": "que tenía la sociedad por esos pesos, el Banco Central tenía que reabsorber esos pesos,", "avg_logprob": -0.11219258555050554, "no_speech_prob": 0.006381257437169552}
+{"start": 914.4, "end": 918.4, "text": "como colocando pasivos que pagaban un interés para hacer los atractivos.", "avg_logprob": -0.11219258555050554, "no_speech_prob": 0.006381257437169552}
+{"start": 918.4, "end": 921.4, "text": "De esa manera se llegó a ese desbalance.", "avg_logprob": -0.11219258555050554, "no_speech_prob": 0.006381257437169552}
+{"start": 921.4, "end": 923.4, "text": "Entonces lo que estamos haciendo ahora es,", "avg_logprob": -0.11219258555050554, "no_speech_prob": 0.006381257437169552}
+{"start": 923.4, "end": 925.4, "text": "sincerando esta situación, como decía,", "avg_logprob": -0.11219258555050554, "no_speech_prob": 0.006381257437169552}
+{"start": 925.4, "end": 929.4, "text": "donde el responsable de esos déficits fue el tesoro en el pasado.", "avg_logprob": -0.11219258555050554, "no_speech_prob": 0.006381257437169552}
+{"start": 929.4, "end": 933.4, "text": "Pero la deuda de estos pasivos se alojaron el balance del Banco Central.", "avg_logprob": -0.11219258555050554, "no_speech_prob": 0.006381257437169552}
+{"start": 933.4, "end": 936.4, "text": "Hoy lo vamos a devolver al balance del tesoro.", "avg_logprob": -0.04399111428835862, "no_speech_prob": 0.0014071790501475334}
+{"start": 936.4, "end": 939.4, "text": "Vamos a reemplazar los pasivos remunerados del Banco Central", "avg_logprob": -0.04399111428835862, "no_speech_prob": 0.0014071790501475334}
+{"start": 939.4, "end": 943.4, "text": "por pasivos del tesoro que remunerará el tesoro.", "avg_logprob": -0.04399111428835862, "no_speech_prob": 0.0014071790501475334}
+{"start": 943.4, "end": 946.4, "text": "El Banco Central va a seguir administrando la política monetaria,", "avg_logprob": -0.04399111428835862, "no_speech_prob": 0.0014071790501475334}
+{"start": 946.4, "end": 950.4, "text": "va a seguir operando de una manera muy similar a la que opera hoy,", "avg_logprob": -0.04399111428835862, "no_speech_prob": 0.0014071790501475334}
+{"start": 950.4, "end": 956.4, "text": "pero ya no sufre la consecuencia de que los movimientos en la tasa de interés", "avg_logprob": -0.04399111428835862, "no_speech_prob": 0.0014071790501475334}
+{"start": 956.4, "end": 958.4, "text": "resulten en mayor emisión monetaria.", "avg_logprob": -0.04399111428835862, "no_speech_prob": 0.0014071790501475334}
+{"start": 958.4, "end": 962.4, "text": "Esos movimientos en la tasa de interés o esa remuneración de esos pasivos", "avg_logprob": -0.04399111428835862, "no_speech_prob": 0.0014071790501475334}
+{"start": 962.4, "end": 965.4, "text": "al final van a terminar en mayor endeudamiento del tesoro.", "avg_logprob": -0.08857525914670929, "no_speech_prob": 0.0034860894083976746}
+{"start": 965.4, "end": 967.4, "text": "¿Qué quiere decir esto?", "avg_logprob": -0.08857525914670929, "no_speech_prob": 0.0034860894083976746}
+{"start": 967.4, "end": 972.4, "text": "Que el tesoro se compromete doble a su performado fiscal.", "avg_logprob": -0.08857525914670929, "no_speech_prob": 0.0034860894083976746}
+{"start": 972.4, "end": 974.4, "text": "Esto que hasta ahora fue, si se quiere,", "avg_logprob": -0.08857525914670929, "no_speech_prob": 0.0034860894083976746}
+{"start": 974.4, "end": 979.4, "text": "una promesa política o tener un objetivo de un fiscal cero,", "avg_logprob": -0.08857525914670929, "no_speech_prob": 0.0034860894083976746}
+{"start": 979.4, "end": 983.4, "text": "ahora pasa a ser una medida en la que es importante que sea muy responsable,", "avg_logprob": -0.08857525914670929, "no_speech_prob": 0.0034860894083976746}
+{"start": 983.4, "end": 987.4, "text": "porque se tiene que hacer cargo en forma directa de este equilibrio monetario.", "avg_logprob": -0.08857525914670929, "no_speech_prob": 0.0034860894083976746}
+{"start": 987.4, "end": 991.4, "text": "Los agentes económicos, el mercado, van a estar mirando", "avg_logprob": -0.08857525914670929, "no_speech_prob": 0.0034860894083976746}
+{"start": 991.4, "end": 995.4, "text": "la solidez del peso en base al compromiso del tesoro", "avg_logprob": -0.07786851776532891, "no_speech_prob": 0.0025376651901751757}
+{"start": 995.4, "end": 998.4, "text": "en cumplir con el fiscal en forma muy directa.", "avg_logprob": -0.07786851776532891, "no_speech_prob": 0.0025376651901751757}
+{"start": 998.4, "end": 1005.54, "text": "¿Qué es lo que hace esto en términos de la política monetaria?", "avg_logprob": -0.07786851776532891, "no_speech_prob": 0.0025376651901751757}
+{"start": 1005.54, "end": 1010.54, "text": "Esto le devuelve o le reintegra una autonomía muy importante al Banco Central.", "avg_logprob": -0.07786851776532891, "no_speech_prob": 0.0025376651901751757}
+{"start": 1010.54, "end": 1013.54, "text": "Principalmente por esto que comentaba su ratito,", "avg_logprob": -0.07786851776532891, "no_speech_prob": 0.0025376651901751757}
+{"start": 1013.54, "end": 1016.54, "text": "que es que el Banco Central puede fijar la tasa de interés", "avg_logprob": -0.07786851776532891, "no_speech_prob": 0.0025376651901751757}
+{"start": 1016.54, "end": 1021.54, "text": "sin preocuparse sobre el daño que puede causar sobre su propio balance.", "avg_logprob": -0.07786851776532891, "no_speech_prob": 0.0025376651901751757}
+{"start": 1021.54, "end": 1025.54, "text": "Ya desaparece este conflicto de interés en términos de si subo la tasa,", "avg_logprob": -0.08392771824877313, "no_speech_prob": 0.014415092766284943}
+{"start": 1025.54, "end": 1027.54, "text": "qué problema me causa.", "avg_logprob": -0.08392771824877313, "no_speech_prob": 0.014415092766284943}
+{"start": 1027.54, "end": 1031.54, "text": "Entonces puede moverse cómodamente a un terreno donde la tasa interés", "avg_logprob": -0.08392771824877313, "no_speech_prob": 0.014415092766284943}
+{"start": 1031.54, "end": 1033.54, "text": "puede ser positiva en términos reales", "avg_logprob": -0.08392771824877313, "no_speech_prob": 0.014415092766284943}
+{"start": 1033.54, "end": 1037.54, "text": "y lo único que está haciendo es jugando un equilibrio macroeconómico", "avg_logprob": -0.08392771824877313, "no_speech_prob": 0.014415092766284943}
+{"start": 1037.54, "end": 1039.54, "text": "o apostando un equilibrio macroeconómico", "avg_logprob": -0.08392771824877313, "no_speech_prob": 0.014415092766284943}
+{"start": 1039.54, "end": 1042.54, "text": "que al final va a estar solventado por la performada fiscal.", "avg_logprob": -0.08392771824877313, "no_speech_prob": 0.014415092766284943}
+{"start": 1042.54, "end": 1046.54, "text": "Esta autonomía que suena como algo como si fuese técnico,", "avg_logprob": -0.08392771824877313, "no_speech_prob": 0.014415092766284943}
+{"start": 1046.54, "end": 1049.54, "text": "al final es la herramienta que el Banco Central tiene", "avg_logprob": -0.08392771824877313, "no_speech_prob": 0.014415092766284943}
+{"start": 1049.54, "end": 1054.54, "text": "para enfocarse en su principal función, que es erradicar la inflación.", "avg_logprob": -0.06575721948210037, "no_speech_prob": 0.013318945653736591}
+{"start": 1054.54, "end": 1056.54, "text": "Ese es el objetivo principal de todo esto.", "avg_logprob": -0.06575721948210037, "no_speech_prob": 0.013318945653736591}
+{"start": 1056.54, "end": 1059.54, "text": "Eliminar una fuente emisión monetaria", "avg_logprob": -0.06575721948210037, "no_speech_prob": 0.013318945653736591}
+{"start": 1059.54, "end": 1061.54, "text": "que le da autonomía al Banco Central", "avg_logprob": -0.06575721948210037, "no_speech_prob": 0.013318945653736591}
+{"start": 1061.54, "end": 1065.54, "text": "para seguir ejecutando una política monetaria que erradica la inflación.", "avg_logprob": -0.06575721948210037, "no_speech_prob": 0.013318945653736591}
+{"start": 1065.54, "end": 1069.54, "text": "Esto hasta ahora es a un nivel muy conceptual", "avg_logprob": -0.06575721948210037, "no_speech_prob": 0.013318945653736591}
+{"start": 1069.54, "end": 1071.54, "text": "en el sentido de cómo está hecho este anuncio", "avg_logprob": -0.06575721948210037, "no_speech_prob": 0.013318945653736591}
+{"start": 1071.54, "end": 1074.54, "text": "porque lo que estamos haciendo es, a partir del lunes", "avg_logprob": -0.06575721948210037, "no_speech_prob": 0.013318945653736591}
+{"start": 1074.54, "end": 1078.54, "text": "ya convocamos a los bancos a una reunión del Banco Central", "avg_logprob": -0.06575721948210037, "no_speech_prob": 0.013318945653736591}
+{"start": 1078.54, "end": 1082.54, "text": "donde vamos a empezar a entrar en los aspectos técnicos de esta medida,", "avg_logprob": -0.08246740197713397, "no_speech_prob": 0.005153076257556677}
+{"start": 1082.54, "end": 1085.54, "text": "donde vamos a ir trabajando con ellos en la implementación,", "avg_logprob": -0.08246740197713397, "no_speech_prob": 0.005153076257556677}
+{"start": 1085.54, "end": 1088.54, "text": "donde las próximas dos semanas van a ir saliendo,", "avg_logprob": -0.08246740197713397, "no_speech_prob": 0.005153076257556677}
+{"start": 1088.54, "end": 1091.54, "text": "ustedes van a ir viendo distintas normativas del Banco Central", "avg_logprob": -0.08246740197713397, "no_speech_prob": 0.005153076257556677}
+{"start": 1091.54, "end": 1094.54, "text": "y del Ministerio de Economía", "avg_logprob": -0.08246740197713397, "no_speech_prob": 0.005153076257556677}
+{"start": 1094.54, "end": 1097.54, "text": "que van a ir normando y estableciendo los parámetros", "avg_logprob": -0.08246740197713397, "no_speech_prob": 0.005153076257556677}
+{"start": 1097.54, "end": 1101.54, "text": "para este nuevo esquema de política monetaria.", "avg_logprob": -0.08246740197713397, "no_speech_prob": 0.005153076257556677}
+{"start": 1101.54, "end": 1106.54, "text": "Entonces es mejor anticiparlo para no sorprender a nadie", "avg_logprob": -0.08246740197713397, "no_speech_prob": 0.005153076257556677}
+{"start": 1106.54, "end": 1108.54, "text": "cuando vayan saliendo esas medidas", "avg_logprob": -0.14062594511994608, "no_speech_prob": 0.013054301962256432}
+{"start": 1108.54, "end": 1112.54, "text": "y que se entienda en qué marco se están tomando estas medidas.", "avg_logprob": -0.14062594511994608, "no_speech_prob": 0.013054301962256432}
+{"start": 1112.54, "end": 1115.54, "text": "Todo este proceso es un proceso que es muy técnico,", "avg_logprob": -0.14062594511994608, "no_speech_prob": 0.013054301962256432}
+{"start": 1115.54, "end": 1117.54, "text": "pero para los bancos es totalmente normal.", "avg_logprob": -0.14062594511994608, "no_speech_prob": 0.013054301962256432}
+{"start": 1117.54, "end": 1122.54, "text": "Esto no tiene que implicar ningún tipo de sorpresa sobre salto", "avg_logprob": -0.14062594511994608, "no_speech_prob": 0.013054301962256432}
+{"start": 1122.54, "end": 1129.13, "text": "o cambio en lo que es la operatéria normal del sistema bancario.", "avg_logprob": -0.14062594511994608, "no_speech_prob": 0.013054301962256432}
+{"start": 1129.13, "end": 1135.13, "text": "Digo decir, para sintetizar qué implica esto para la gente.", "avg_logprob": -0.14062594511994608, "no_speech_prob": 0.013054301962256432}
+{"start": 1135.13, "end": 1140.13, "text": "Primero es un programa, digamos, económico,", "avg_logprob": -0.10865634783755901, "no_speech_prob": 0.020451704040169716}
+{"start": 1140.13, "end": 1143.13, "text": "es la profundización de lo que hemos venido haciendo.", "avg_logprob": -0.10865634783755901, "no_speech_prob": 0.020451704040169716}
+{"start": 1143.13, "end": 1148.13, "text": "Deriva entonces en un programa económico realmente robusto.", "avg_logprob": -0.10865634783755901, "no_speech_prob": 0.020451704040169716}
+{"start": 1148.13, "end": 1154.13, "text": "Estamos en un programa en el que estamos en déficit cero y emisión cero.", "avg_logprob": -0.10865634783755901, "no_speech_prob": 0.020451704040169716}
+{"start": 1154.13, "end": 1160.13, "text": "¿Qué implica este tema del que sea emisión cero de vuelta para la gente?", "avg_logprob": -0.10865634783755901, "no_speech_prob": 0.020451704040169716}
+{"start": 1160.13, "end": 1165.13, "text": "Este implica menor problema cambiario.", "avg_logprob": -0.10361496585138728, "no_speech_prob": 0.24347002804279327}
+{"start": 1165.13, "end": 1173.13, "text": "Al estar fija la cantidad de pesos disminuye enormemente la volatilidad cambiaria,", "avg_logprob": -0.10361496585138728, "no_speech_prob": 0.24347002804279327}
+{"start": 1173.13, "end": 1179.13, "text": "porque al estar fija la cantidad de pesos en la medida que ingresan dólares a la economía,", "avg_logprob": -0.10361496585138728, "no_speech_prob": 0.24347002804279327}
+{"start": 1179.13, "end": 1184.13, "text": "cada vez esa relación se hace mucho más estable.", "avg_logprob": -0.10361496585138728, "no_speech_prob": 0.24347002804279327}
+{"start": 1184.13, "end": 1189.13, "text": "Y segundo, contribuye fuertemente al proceso que ya estamos viendo", "avg_logprob": -0.10361496585138728, "no_speech_prob": 0.24347002804279327}
+{"start": 1189.13, "end": 1192.13, "text": "y que está sorprendiendo a muchos de desinflación.", "avg_logprob": -0.09110765755176545, "no_speech_prob": 0.007552699185907841}
+{"start": 1192.13, "end": 1199.13, "text": "Entonces, ¿qué se debiera ver de esta profundización,", "avg_logprob": -0.09110765755176545, "no_speech_prob": 0.007552699185907841}
+{"start": 1199.13, "end": 1206.13, "text": "de esta segunda etapa del programa menor inflación, menor volatilidad cambiaria,", "avg_logprob": -0.09110765755176545, "no_speech_prob": 0.007552699185907841}
+{"start": 1206.13, "end": 1213.13, "text": "lo que como digo va a derivar el menor riesgo para la gente", "avg_logprob": -0.09110765755176545, "no_speech_prob": 0.007552699185907841}
+{"start": 1213.13, "end": 1219.13, "text": "en lo que va a ser la tercera etapa, que es esta etapa de crecimiento y salida del CEP.", "avg_logprob": -0.12185979542666919, "no_speech_prob": 0.44756510853767395}
+{"start": 1219.13, "end": 1229.13, "text": "Estamos garantizando que vamos a entrar en un camino en el que no se va a estar corriendo riesgos", "avg_logprob": -0.12185979542666919, "no_speech_prob": 0.44756510853767395}
+{"start": 1229.13, "end": 1236.13, "text": "en sentido cambiario, que se sabemos que le preocupa a muchos.", "avg_logprob": -0.12185979542666919, "no_speech_prob": 0.44756510853767395}
+{"start": 1236.13, "end": 1244.13, "text": "Y vamos a estar profundizando la desinflación.", "avg_logprob": -0.11649624983985703, "no_speech_prob": 0.33518704771995544}
+{"start": 1244.13, "end": 1253.13, "text": "Y al mismo tiempo, haciendo esto, sin la necesidad de querer hacer una salida de CEP,", "avg_logprob": -0.11649624983985703, "no_speech_prob": 0.33518704771995544}
+{"start": 1253.13, "end": 1259.13, "text": "como hemos visto, como han opinado muchos, que no hay problema en que se piensa así,", "avg_logprob": -0.11649624983985703, "no_speech_prob": 0.33518704771995544}
+{"start": 1259.13, "end": 1264.13, "text": "pero sin hacerle correr ningún riesgo a la gente.", "avg_logprob": -0.11649624983985703, "no_speech_prob": 0.33518704771995544}
+{"start": 1264.13, "end": 1272.13, "text": "O sea, cuando se cumplan las condiciones macroeconómicas necesarias haremos esa movida.", "avg_logprob": -0.17749080952556653, "no_speech_prob": 0.0035878100898116827}
+{"start": 1272.13, "end": 1276.5, "text": "Escuchamos preguntas.", "avg_logprob": -0.17749080952556653, "no_speech_prob": 0.0035878100898116827}
+{"start": 1276.5, "end": 1282.5, "text": "Buenas tardes, Liliana Franco, Aca Liliana Franco de ámbito financiero.", "avg_logprob": -0.17749080952556653, "no_speech_prob": 0.0035878100898116827}
+{"start": 1282.5, "end": 1290.5, "text": "Usted, el ministro Caputo, planteó que van a establecer parámetros para lograr la salida del CEP.", "avg_logprob": -0.17749080952556653, "no_speech_prob": 0.0035878100898116827}
+{"start": 1290.5, "end": 1296.5, "text": "Infiero que algunos parámetros son metas inflacionarias y también metas de acumulación de reservas.", "avg_logprob": -0.18339310303330422, "no_speech_prob": 0.43761223554611206}
+{"start": 1296.5, "end": 1300.5, "text": "Si pudiera precisar un poco las características de esos parámetros.", "avg_logprob": -0.18339310303330422, "no_speech_prob": 0.43761223554611206}
+{"start": 1300.5, "end": 1306.5, "text": "Y para el titular del Banco Central, Bauzilli, preguntarle lo que usted definió", "avg_logprob": -0.18339310303330422, "no_speech_prob": 0.43761223554611206}
+{"start": 1306.5, "end": 1312.5, "text": "para el tema de sinceramiento, ¿va a ser a través de bonus ya conversado con los bancos?", "avg_logprob": -0.18339310303330422, "no_speech_prob": 0.43761223554611206}
+{"start": 1312.5, "end": 1314.5, "text": "Muchas gracias.", "avg_logprob": -0.18339310303330422, "no_speech_prob": 0.43761223554611206}
+{"start": 1314.5, "end": 1316.5, "text": "Bueno, primero.", "avg_logprob": -0.1950557483567132, "no_speech_prob": 0.09437752515077591}
+{"start": 1316.5, "end": 1326.5, "text": "Gracias, Lili. Con los bancos tenemos la primera reunión el lunes a la mañana, están convocados.", "avg_logprob": -0.1950557483567132, "no_speech_prob": 0.09437752515077591}
+{"start": 1326.5, "end": 1336.91, "text": "Básicamente, lo que va a ver es un mecanismo de esterilización similar al que hay hoy", "avg_logprob": -0.1950557483567132, "no_speech_prob": 0.09437752515077591}
+{"start": 1336.91, "end": 1344.91, "text": "con los pases del Banco Central, pero que van a estar centrados en una letra de regulación monetaria.", "avg_logprob": -0.1950557483567132, "no_speech_prob": 0.09437752515077591}
+{"start": 1345.91, "end": 1353.91, "text": "Que es la que en definitiva van a acceder los bancos y usar los bancos para colocar sus excesos de liquidez", "avg_logprob": -0.11007665195280597, "no_speech_prob": 0.0038335167337208986}
+{"start": 1353.91, "end": 1361.7, "text": "que van a administrar el Banco Central, pero que va a estar constituida en el balance del tesoro.", "avg_logprob": -0.11007665195280597, "no_speech_prob": 0.0038335167337208986}
+{"start": 1361.7, "end": 1372.7, "text": "Con respecto al CEP, Lili, lo primero que diría es ratificar lo que ya hemos dicho,", "avg_logprob": -0.11007665195280597, "no_speech_prob": 0.0038335167337208986}
+{"start": 1372.7, "end": 1387.7, "text": "pero que nunca está de más a aclarar lo que es, digamos, se mantiene el crón del 2%, se mantiene el 80-20,", "avg_logprob": -0.2448326051235199, "no_speech_prob": 0.23919439315795898}
+{"start": 1387.7, "end": 1397.7, "text": "y no hay ningún proyecto de evaluación, ni tampoco es cierto que el fondo haya pedido eso.", "avg_logprob": -0.2448326051235199, "no_speech_prob": 0.23919439315795898}
+{"start": 1398.7, "end": 1406.7, "text": "Entonces, ahora cuando vamos a salir del CEP, como dije siempre, cuando estén dadas las condiciones,", "avg_logprob": -0.18172566049239214, "no_speech_prob": 0.0754082128405571}
+{"start": 1406.7, "end": 1414.7, "text": "no nos ponemos una fecha, nos ponemos parámetros, y nosotros queríamos entonces, como digo, llegar a esa fecha", "avg_logprob": -0.18172566049239214, "no_speech_prob": 0.0754082128405571}
+{"start": 1414.7, "end": 1421.7, "text": "dándole al mercado la mayor certeza posible. Bueno, qué mayor certeza hay que decir que al déficit cero", "avg_logprob": -0.18172566049239214, "no_speech_prob": 0.0754082128405571}
+{"start": 1421.7, "end": 1433.91, "text": "vamos a agregarle emisión cero. Eso diría que es lo más prolijo que se puede hacer.", "avg_logprob": -0.13441061555293568, "no_speech_prob": 0.40183597803115845}
+{"start": 1433.91, "end": 1437.91, "text": "Qué tal, buenas tardes, Javier Blanco de la Nación. A quién corresponda.", "avg_logprob": -0.13441061555293568, "no_speech_prob": 0.40183597803115845}
+{"start": 1437.91, "end": 1444.91, "text": "A ver, si no va a haber pasivo remunerado del Banco Central, cambia entonces la tasa de política monetaria.", "avg_logprob": -0.13441061555293568, "no_speech_prob": 0.40183597803115845}
+{"start": 1444.91, "end": 1450.91, "text": "¿Cómo se va a fijar la tasa de política monetaria? Porque hoy está fijada en función de los pases pasivos.", "avg_logprob": -0.13441061555293568, "no_speech_prob": 0.40183597803115845}
+{"start": 1451.91, "end": 1459.91, "text": "Son tres preguntas, pero cortas. La segunda tiene que ver con, ustedes hablan de emisión, de los motores de emisión,", "avg_logprob": -0.13163919153466688, "no_speech_prob": 0.04782166704535484}
+{"start": 1459.91, "end": 1464.91, "text": "y no nombraron uno que menciona, y mencionó reiteradamente el presidente Milais,", "avg_logprob": -0.13163919153466688, "no_speech_prob": 0.04782166704535484}
+{"start": 1464.91, "end": 1471.91, "text": "que es esta garantía de recompra que le dieron a los bancos por títulos de la deuda pública.", "avg_logprob": -0.13163919153466688, "no_speech_prob": 0.04782166704535484}
+{"start": 1471.91, "end": 1479.91, "text": "Entonces, ahí no se terminaría la posibilidad de que se emitan pesos, porque ellos pueden ejercer esa opción.", "avg_logprob": -0.13163919153466688, "no_speech_prob": 0.04782166704535484}
+{"start": 1479.91, "end": 1484.91, "text": "¿Cómo están pensando la solución para eso? Y si esta segunda etapa tiene plazos.", "avg_logprob": -0.13540612522838186, "no_speech_prob": 0.019310666248202324}
+{"start": 1487.91, "end": 1492.91, "text": "Perfecto. No, esta segunda etapa no tiene plazos.", "avg_logprob": -0.13540612522838186, "no_speech_prob": 0.019310666248202324}
+{"start": 1492.91, "end": 1497.91, "text": "La tasa de política monetaria va a seguir siendo fijada por el Banco Central, y la letra de regulación,", "avg_logprob": -0.13540612522838186, "no_speech_prob": 0.019310666248202324}
+{"start": 1497.91, "end": 1503.91, "text": "estamos entrando en aspectos técnicos, la letra de regulación monetaria va a ser una letra que emite el tesoro,", "avg_logprob": -0.13540612522838186, "no_speech_prob": 0.019310666248202324}
+{"start": 1503.91, "end": 1509.91, "text": "y que tiene un cupón flotante, y ese cupón flotante es efectivamente la tasa de política monetaria.", "avg_logprob": -0.09466423022381046, "no_speech_prob": 0.10080257803201675}
+{"start": 1509.91, "end": 1517.91, "text": "Han habido en el pasado instrumentos similares letras, bonos, que son flotantes con tasas fijadas por la política monetaria.", "avg_logprob": -0.09466423022381046, "no_speech_prob": 0.10080257803201675}
+{"start": 1517.91, "end": 1522.91, "text": "Y con respecto al tema de los puts, los puts como comentamos un par de veces,", "avg_logprob": -0.09466423022381046, "no_speech_prob": 0.10080257803201675}
+{"start": 1522.91, "end": 1528.91, "text": "son contratos que existen, que se van a cumplir, o sea, se van a respetar,", "avg_logprob": -0.09466423022381046, "no_speech_prob": 0.10080257803201675}
+{"start": 1528.91, "end": 1539.91, "text": "y que estamos trabajando con los bancos en soluciones que le devuelvan al Banco Central el manejo de la política monetaria.", "avg_logprob": -0.05531495349165404, "no_speech_prob": 0.0768313929438591}
+{"start": 1539.91, "end": 1546.91, "text": "O sea, que la política monetaria no dependa de la decisión de un tercero en cuanto a la emisión de dinero.", "avg_logprob": -0.05531495349165404, "no_speech_prob": 0.0768313929438591}
+{"start": 1546.91, "end": 1552.91, "text": "Es un proceso muy técnico, muy complejo, en el que estamos trabajando muy bien con los bancos,", "avg_logprob": -0.05531495349165404, "no_speech_prob": 0.0768313929438591}
+{"start": 1552.91, "end": 1556.91, "text": "y estamos muy confiados que vamos a ir encontrando soluciones.", "avg_logprob": -0.05531495349165404, "no_speech_prob": 0.0768313929438591}
+{"start": 1556.91, "end": 1562.91, "text": "También es importante por ahí aclarar que esta es una modalidad, que no es nueva,", "avg_logprob": -0.2189632537690076, "no_speech_prob": 0.04305526986718178}
+{"start": 1562.91, "end": 1567.91, "text": "no es que estamos inventando nada, sino que por el contrario, con esto,", "avg_logprob": -0.2189632537690076, "no_speech_prob": 0.04305526986718178}
+{"start": 1567.91, "end": 1572.91, "text": "nos estamos asimilando, pareciendo mucho más a un Banco Central normal.", "avg_logprob": -0.2189632537690076, "no_speech_prob": 0.04305526986718178}
+{"start": 1572.91, "end": 1576.91, "text": "Buenas tardes, Austin Mazadín, Foei.", "avg_logprob": -0.2189632537690076, "no_speech_prob": 0.04305526986718178}
+{"start": 1576.91, "end": 1584.91, "text": "Les consulto, por un lado, si ustedes van a pedir que ahora los bancos suscriban a letras a más largo plazo,", "avg_logprob": -0.2189632537690076, "no_speech_prob": 0.04305526986718178}
+{"start": 1584.91, "end": 1590.91, "text": "si ahí no va a haber un descalce entre lo que se está pagando a los ahorristas", "avg_logprob": -0.11643352064975472, "no_speech_prob": 0.008733611553907394}
+{"start": 1590.91, "end": 1594.91, "text": "y lo que paga el Banco Central, que es a un día,", "avg_logprob": -0.11643352064975472, "no_speech_prob": 0.008733611553907394}
+{"start": 1594.91, "end": 1601.91, "text": "si se va a ir a tasa positiva para los plazos fijos, si hay algún plazo en esto,", "avg_logprob": -0.11643352064975472, "no_speech_prob": 0.008733611553907394}
+{"start": 1601.91, "end": 1607.91, "text": "y un poco la preocupación del mercado por estos días, que es las ventas de reservas del Banco Central,", "avg_logprob": -0.11643352064975472, "no_speech_prob": 0.008733611553907394}
+{"start": 1607.91, "end": 1613.91, "text": "que junio fue el primer mes que terminaba negativo, y bueno, empezó a ver una cobertura de liquidez,", "avg_logprob": -0.11643352064975472, "no_speech_prob": 0.008733611553907394}
+{"start": 1613.91, "end": 1617.91, "text": "si nada, qué es lo que tienen previsto para el segundo semestre. Gracias.", "avg_logprob": -0.10337056909446363, "no_speech_prob": 0.0017723231576383114}
+{"start": 1617.91, "end": 1621.91, "text": "Bueno, primera pregunta, no vamos a pedir ningún plazo.", "avg_logprob": -0.10337056909446363, "no_speech_prob": 0.0017723231576383114}
+{"start": 1621.91, "end": 1626.91, "text": "O sea, acá las transacciones que se hacen al mercado financiero se hacen al término de mercado,", "avg_logprob": -0.10337056909446363, "no_speech_prob": 0.0017723231576383114}
+{"start": 1626.91, "end": 1636.91, "text": "y el Banco Central continúa administrando el plazo de un día a través de la tasa de política monetaria", "avg_logprob": -0.10337056909446363, "no_speech_prob": 0.0017723231576383114}
+{"start": 1636.91, "end": 1640.91, "text": "y el resto de la conformación de la curva de instrumentos financieros,", "avg_logprob": -0.10337056909446363, "no_speech_prob": 0.0017723231576383114}
+{"start": 1640.91, "end": 1646.91, "text": "que dan bajo responsabilidad el tesoro, que los usa principalmente como financiamiento de subvencimiento de deuda,", "avg_logprob": -0.09885714502416106, "no_speech_prob": 0.011296707205474377}
+{"start": 1646.91, "end": 1649.91, "text": "porque ya no tiene déficit.", "avg_logprob": -0.09885714502416106, "no_speech_prob": 0.011296707205474377}
+{"start": 1649.91, "end": 1655.91, "text": "Las tasas de interés tienen mucho más espacio y es mucho más razonable pensar", "avg_logprob": -0.09885714502416106, "no_speech_prob": 0.011296707205474377}
+{"start": 1655.91, "end": 1659.91, "text": "que van a ir a terreno positivo en términos reales.", "avg_logprob": -0.09885714502416106, "no_speech_prob": 0.011296707205474377}
+{"start": 1659.91, "end": 1663.91, "text": "Pero yo solo puedo hablar de la tasa de interés de la política monetaria.", "avg_logprob": -0.09885714502416106, "no_speech_prob": 0.011296707205474377}
+{"start": 1663.91, "end": 1666.91, "text": "El resto de las tasas de interés se fijan por los mecanismos normales", "avg_logprob": -0.09885714502416106, "no_speech_prob": 0.011296707205474377}
+{"start": 1666.91, "end": 1669.91, "text": "de infuncionamiento del mercado y de la economía.", "avg_logprob": -0.08850474690282067, "no_speech_prob": 0.04099876061081886}
+{"start": 1669.91, "end": 1675.91, "text": "Entonces, cuando la tasa de interés de los plazos fijos va a ir a terreno positivo o no en términos reales,", "avg_logprob": -0.08850474690282067, "no_speech_prob": 0.04099876061081886}
+{"start": 1675.91, "end": 1679.91, "text": "es algo que se va a ir determinando según la dinámica del mercado.", "avg_logprob": -0.08850474690282067, "no_speech_prob": 0.04099876061081886}
+{"start": 1679.91, "end": 1685.91, "text": "Es razonable creer que eso va a ir hacia ese sendero a medida que siga creciendo el crédito privado,", "avg_logprob": -0.08850474690282067, "no_speech_prob": 0.04099876061081886}
+{"start": 1685.91, "end": 1692.91, "text": "a medida que siga creciendo la economía y que los bancos vuelvan a su negocio tradicional de intermediación financiera.", "avg_logprob": -0.08850474690282067, "no_speech_prob": 0.04099876061081886}
+{"start": 1693.91, "end": 1701.91, "text": "Y por último, que buena la pregunta de las reservas, porque es algo que da vueltas bastante, genera algo de ansiedad.", "avg_logprob": -0.15285785381610578, "no_speech_prob": 0.014719846658408642}
+{"start": 1705.91, "end": 1711.91, "text": "El movimiento de las reservas en Argentina, todavía con alta dependencia que hay el sector aeropecuario,", "avg_logprob": -0.15285785381610578, "no_speech_prob": 0.014719846658408642}
+{"start": 1711.91, "end": 1713.91, "text": "es muy estacional.", "avg_logprob": -0.15285785381610578, "no_speech_prob": 0.014719846658408642}
+{"start": 1713.91, "end": 1718.91, "text": "Es tan estacional que en la época de cosecha es muy típico que se acumulan reservas", "avg_logprob": -0.15285785381610578, "no_speech_prob": 0.014719846658408642}
+{"start": 1718.91, "end": 1722.91, "text": "y en el invierno es muy típico que se pierdan reservas.", "avg_logprob": -0.11459124265330853, "no_speech_prob": 0.03430074080824852}
+{"start": 1722.91, "end": 1730.91, "text": "Eso para aquellos que leyeron las revisiones de la Guardia del Fondo,", "avg_logprob": -0.11459124265330853, "no_speech_prob": 0.03430074080824852}
+{"start": 1730.91, "end": 1737.91, "text": "ahí se incluyen metas de reservas trimestrales y se ve perfectamente que en nuestro programa ya en diciembre", "avg_logprob": -0.11459124265330853, "no_speech_prob": 0.03430074080824852}
+{"start": 1737.91, "end": 1745.91, "text": "y asentado en la revisión de marzo, se contemplaba que a partir de junio hasta septiembre se pierdan reservas.", "avg_logprob": -0.11459124265330853, "no_speech_prob": 0.03430074080824852}
+{"start": 1745.91, "end": 1748.91, "text": "Es lo que pasa prácticamente todos los años en Argentina.", "avg_logprob": -0.11228120286356319, "no_speech_prob": 0.03163254261016846}
+{"start": 1748.91, "end": 1750.91, "text": "Y en el último trimestre se recuperan.", "avg_logprob": -0.11228120286356319, "no_speech_prob": 0.03163254261016846}
+{"start": 1750.91, "end": 1758.91, "text": "De hecho, de acá a septiembre se deberán perder dentro de lo que es el programa estipulado 3.000 millones de dólares.", "avg_logprob": -0.11228120286356319, "no_speech_prob": 0.03163254261016846}
+{"start": 1758.91, "end": 1760.91, "text": "A veces 4.000, a veces 2.000.", "avg_logprob": -0.11228120286356319, "no_speech_prob": 0.03163254261016846}
+{"start": 1760.91, "end": 1762.91, "text": "Pero eso es lo totalmente normal.", "avg_logprob": -0.11228120286356319, "no_speech_prob": 0.03163254261016846}
+{"start": 1762.91, "end": 1768.91, "text": "Que junio haya terminado donde terminó, creo que terminó, menos 54 millones, o sea prácticamente cero", "avg_logprob": -0.11228120286356319, "no_speech_prob": 0.03163254261016846}
+{"start": 1769.91, "end": 1771.91, "text": "y no un poco más positivo.", "avg_logprob": -0.11737432365662584, "no_speech_prob": 0.5412080883979797}
+{"start": 1771.91, "end": 1774.91, "text": "Es solamente consecuencia de que este invierno se adelantó.", "avg_logprob": -0.11737432365662584, "no_speech_prob": 0.5412080883979797}
+{"start": 1774.91, "end": 1778.91, "text": "El mayo fue el mayo más frío que hay en registro.", "avg_logprob": -0.11737432365662584, "no_speech_prob": 0.5412080883979797}
+{"start": 1778.91, "end": 1784.91, "text": "Y eso hace que importemos más gas para calificionar en estos meses del año.", "avg_logprob": -0.11737432365662584, "no_speech_prob": 0.5412080883979797}
+{"start": 1784.91, "end": 1789.91, "text": "Si junio viene más leve o julio viene más leve, puede ser que eso amengue un poco.", "avg_logprob": -0.11737432365662584, "no_speech_prob": 0.5412080883979797}
+{"start": 1789.91, "end": 1795.91, "text": "Pero no es sorpresa, es lo que se espera, es lo que anticipamos", "avg_logprob": -0.11737432365662584, "no_speech_prob": 0.5412080883979797}
+{"start": 1795.91, "end": 1799.91, "text": "y es lo que anticipamos en el diseño original de diciembre del año pasado.", "avg_logprob": -0.08474197628145869, "no_speech_prob": 0.2417440116405487}
+{"start": 1799.91, "end": 1812.2, "text": "Esta buena la pregunta.", "avg_logprob": -0.08474197628145869, "no_speech_prob": 0.2417440116405487}
+{"start": 1812.2, "end": 1814.2, "text": "No le pedimos nada a nadie.", "avg_logprob": -0.08474197628145869, "no_speech_prob": 0.2417440116405487}
+{"start": 1814.2, "end": 1817.2, "text": "Los bancos naturalmente tienen un negocio de descalce.", "avg_logprob": -0.08474197628145869, "no_speech_prob": 0.2417440116405487}
+{"start": 1817.2, "end": 1820.2, "text": "Es la forma en que los bancos en el mundo generan un retorno.", "avg_logprob": -0.08474197628145869, "no_speech_prob": 0.2417440116405487}
+{"start": 1820.2, "end": 1823.2, "text": "Se fondean a corto plazo con los depósitos de la gente", "avg_logprob": -0.08474197628145869, "no_speech_prob": 0.2417440116405487}
+{"start": 1823.2, "end": 1829.2, "text": "y prestan a veces a hipotecas, a veces a créditos prendarios, a veces a créditos personales.", "avg_logprob": -0.08474197628145869, "no_speech_prob": 0.2417440116405487}
+{"start": 1829.2, "end": 1832.2, "text": "Por lo general hay un descalce.", "avg_logprob": -0.08474197628145869, "no_speech_prob": 0.2417440116405487}
+{"start": 1832.2, "end": 1837.2, "text": "Es raro que la gente haya haga depósitos en los bancos a 25 años", "avg_logprob": -0.08291888296870249, "no_speech_prob": 0.009093152359127998}
+{"start": 1837.2, "end": 1839.2, "text": "y existen hipotecas a 25 años.", "avg_logprob": -0.08291888296870249, "no_speech_prob": 0.009093152359127998}
+{"start": 1839.2, "end": 1842.2, "text": "Acá los bancos tienen opciones para elegir.", "avg_logprob": -0.08291888296870249, "no_speech_prob": 0.009093152359127998}
+{"start": 1842.2, "end": 1850.2, "text": "Típicamente lo natural no es que se coloquen a tasa del Banco Central a un día.", "avg_logprob": -0.08291888296870249, "no_speech_prob": 0.009093152359127998}
+{"start": 1850.2, "end": 1857.2, "text": "Típicamente los sistemas financieros en el mundo están calzados en liquidez", "avg_logprob": -0.08291888296870249, "no_speech_prob": 0.009093152359127998}
+{"start": 1857.2, "end": 1861.2, "text": "o están cortos de liquidez. Van al Banco Central para pedir liquidez.", "avg_logprob": -0.08291888296870249, "no_speech_prob": 0.009093152359127998}
+{"start": 1861.2, "end": 1866.2, "text": "Nosotros sufrimos todavía una anomalía como consecuencia de los déficits fiscales del pasado", "avg_logprob": -0.14385981451381336, "no_speech_prob": 0.006398044992238283}
+{"start": 1866.2, "end": 1872.2, "text": "que se financiaron con la misión monetaria, que nuestro sistema está sobrecargado en liquidez.", "avg_logprob": -0.14385981451381336, "no_speech_prob": 0.006398044992238283}
+{"start": 1872.2, "end": 1880.2, "text": "A medida que reúscamos las fuentes de misión de monetaria, eso se debería ir normalizando.", "avg_logprob": -0.14385981451381336, "no_speech_prob": 0.006398044992238283}
+{"start": 1880.2, "end": 1884.2, "text": "Voy a hacer un número de comparación.", "avg_logprob": -0.14385981451381336, "no_speech_prob": 0.006398044992238283}
+{"start": 1884.2, "end": 1888.2, "text": "Hoy la base amplia, quiere decir, los pasivos del Banco Central en pesos", "avg_logprob": -0.14385981451381336, "no_speech_prob": 0.006398044992238283}
+{"start": 1888.2, "end": 1890.2, "text": "constituidos por el circulante.", "avg_logprob": -0.19330723431645608, "no_speech_prob": 0.6439330577850342}
+{"start": 1890.2, "end": 1896.2, "text": "Más los pases, los pasivos remunerados, son aproximadamente 8 puntos del TBI.", "avg_logprob": -0.19330723431645608, "no_speech_prob": 0.6439330577850342}
+{"start": 1896.2, "end": 1898.2, "text": "Bueno, estábamos escuchando esta conferencia de pre-", "avg_logprob": -0.19330723431645608, "no_speech_prob": 0.6439330577850342}
