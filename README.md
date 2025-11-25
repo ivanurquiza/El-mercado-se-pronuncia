@@ -1,2 +1,10 @@
-# El-mercado-se-pronuncia
-Tesis de Lic. en Economía. Universidad de Buenos Aires.
+## El mercado se pronuncia: efectos de la comunicación oficial en un estudio causal de alta frecuencia y procesamiento de lenguaje
+*Tesis de Lic. en Economía. Universidad de Buenos Aires.*
+
+## Abstract
+
+Este trabajo estudia cómo las apariciones públicas del Ministro de Economía de Argentina afectan al mercado cambiario en frecuencia intradiaria, aun cuando descartando anuncios formales de política. Para ello se construye una base de discursos entre diciembre de 2023 y abril de 2025, sincronizados en alta frecuencia con cotizaciones del mercado USDT/ARS. Mediante un *narrative approach* moderno, inspirado en Romer & Romer, cada intervención se clasifica como exógena o endógena a cambios de política utilizando técnicas de NLP y reglas derivadas de un árbol de decisión entrenado sobre indicadores lingüísticos normativos.
+
+Sobre el conjunto de discursos exógenos se implementa un estudio de eventos en series de cinco minutos, complementado con un esquema de *Synthetic Difference-in-Differences* construido a partir de pares cripto no expuestos al evento. Los resultados muestran que estas intervenciones generan aumentos en la volatilidad realizada del tipo de cambio —entre 30% y 90% según la ventana— y contracciones transitorias en la profundidad de mercado, evidenciando que incluso discursos sin anuncios pueden funcionar como shocks informativos de corto plazo.
+
+Finalmente, el proyecto explora mecanismos potenciales mediante análisis textual: diferencias temáticas según el formato del evento —entrevistas, conferencias, intervenciones conjuntas con el BCRA— y variación en el tono detectado por modelos clásicos de *sentiment analysis*. Ambos canales muestran patrones consistentes con la heterogeneidad observada en las respuestas de mercado. El repositorio incluye los scripts de extracción de los transcripts, procesamiento de texto, el modelo clasificación narrativa, las estimaciones econométricas —incluyendo auquellas por robutez—, los modelos de la parte exploratoria con NLP y los gráficos presentados.
