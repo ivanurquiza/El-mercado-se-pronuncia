@@ -1,4 +1,4 @@
-## El mercado se pronuncia: efectos de la comunicación oficial en un estudio causal de alta frecuencia y procesamiento de lenguaje
+## El mercado se pronuncia: efectos de la comunicación económica en un estudio causal de alta frecuencia y procesamiento de lenguaje
 *Tesis de Lic. en Economía. Universidad de Buenos Aires.*
 
 ## Abstract
